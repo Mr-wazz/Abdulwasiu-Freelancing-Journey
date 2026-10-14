@@ -42,3 +42,9 @@ Not tracked in the chat. Start logging from now. Estimated so far: well over 20 
 - Local commit with both fixes in the ftlr-ios-wrapper clone (not pushed). Patch saved at 02-work/build13-fix.patch.
 - Still to ask Abdulwasiu: push to the wrapper repo, then re-run Codemagic. If Sync Capacitor still fails, send the log.
 - Mock prices in www/index.html ($9.99, $79.99) are preview only, real prices come from RevenueCat.
+
+## 14 Oct 2026: wrapper fix pushed, Leah screenshot
+- Pushed commit 4e618e8 to Mr-wazz/ftlr-ios-wrapper main (SPM forced, www/config.js added).
+- Leah sent a screenshot of the error "setup: promise.then is not a function" in "withTimeout". The quoted code is the OLD helper (`promise.then(...)`). Repo www/index.html already uses `Promise.resolve(promise).then(...)`, so that screenshot came from an older TestFlight build, not from the current code.
+- Still true for the next build: before it works, www/config.js must exist (now fixed) or the screen says "config missing".
+- Rule from Abdulwasiu: always give the exact message to send to Leah.

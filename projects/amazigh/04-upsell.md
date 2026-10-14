@@ -54,3 +54,6 @@ Ask after delivery is confirmed on the platform: referral for another app owner.
 
 ## First sale to aim for
 Packages 1 and 3 together, fixed price with milestones and funded escrow. Prices stay hidden until she has seen the value and asks.
+
+## 14 Oct night update
+Client asked for ONE big update (subscription plus solid base). Sell as bundle: Standard (packages 1 and 3), Premium (add Dashboard). Care plan after delivery. Scope freeze date required.

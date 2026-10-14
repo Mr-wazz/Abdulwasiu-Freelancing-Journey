@@ -49,3 +49,10 @@ Not recorded. Start logging.
 ## 14 Oct 2026 late: client refuses calls
 - Client does not want a call. Everything is by text (WhatsApp). Upsell is a 3 message text sequence, no prices first.
 - Plan: M1 reply and 3 findings (value), M2 two phase plan, M3 price only when asked, 2 milestones, protected payment.
+
+## 14 Oct 2026 night: client wants ONE big complete update
+- Client (text): they will analyze the app and send their list of improvements. They asked Abdulwasiu to note everything too, to bundle it all in one big complete update with subscriptions and solid foundations from the start, to avoid a new update for every small problem. After that, progress step by step on details.
+- Meaning: buying signal for a bundled project. Plan to sell it as ONE fixed price "RiseTrack 2.0" with milestones, funded escrow on the platform, and a frozen scope date.
+- Risk: open ended list (scope creep). Rule: scope freezes on a date, anything later goes to 2.1 as a paid add on. One big update also means one bigger Apple review, so test in TestFlight first and keep the Apple rules (see plan.md)
+- Internal price recommendation: Standard 2.0 = packages 1 + 3 (2,100) with milestones 30/40/30. Premium = add dashboard (3,000) plus care plan. Start by text with no prices. Give prices only when they ask, with the frozen scope
+- Client facing findings list saved at 02-work/audit-for-client-fr.md (no prices)

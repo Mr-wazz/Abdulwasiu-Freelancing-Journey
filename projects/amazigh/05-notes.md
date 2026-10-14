@@ -45,3 +45,7 @@ Not recorded. Start logging.
 - Client screenshot (iPhone, dark mode) shows: "Edit with Base44" badge bottom right, a Base44 side handle on the right edge, the date text "MARDI 13 OCTOBRE" overlapping the iPhone clock at the top (safe area problem), empty state "Aucune habitude pour aujourd'hui"
 - All of these are web side. Fix in Base44 and click Publish. No new iPhone build needed. Do not touch Apple settings
 - Open: written confirmation of what the Sendwave payment covered. Draft line included in the reply message
+
+## 14 Oct 2026 late: client refuses calls
+- Client does not want a call. Everything is by text (WhatsApp). Upsell is a 3 message text sequence, no prices first.
+- Plan: M1 reply and 3 findings (value), M2 two phase plan, M3 price only when asked, 2 milestones, protected payment.

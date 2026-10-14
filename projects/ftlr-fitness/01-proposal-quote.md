@@ -24,3 +24,7 @@ Price: $300, one payment on Fiverr, accepted 9 Oct 2026.
 
 ## Rule going forward
 Any new request goes to a paid add on quote. See 04-upsell.md.
+
+## Dates
+- Fiverr delivery due: 14 Oct 2026, about 5 hours from the session start
+- Leah's public launch: 1 Nov 2026

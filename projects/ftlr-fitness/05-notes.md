@@ -48,3 +48,7 @@ Not tracked in the chat. Start logging from now. Estimated so far: well over 20 
 - Leah sent a screenshot of the error "setup: promise.then is not a function" in "withTimeout". The quoted code is the OLD helper (`promise.then(...)`). Repo www/index.html already uses `Promise.resolve(promise).then(...)`, so that screenshot came from an older TestFlight build, not from the current code.
 - Still true for the next build: before it works, www/config.js must exist (now fixed) or the screen says "config missing".
 - Rule from Abdulwasiu: always give the exact message to send to Leah.
+
+## Correction 14 Oct 2026
+Abdulwasiu corrected me: Nov 1 is Leah's APP LAUNCH date. The Fiverr DELIVERY deadline is about 5 hours from the session start. Plan: deliver a working TestFlight build plus submission steps inside the Fiverr window. Apple review time is outside our control, so the delivery message must say "submitted and in review", not "approved". If 5 hours is not enough, ask Fiverr for a short extension before the timer ends.
+Upsell is now mentioned softly in every Leah message so she is aware.

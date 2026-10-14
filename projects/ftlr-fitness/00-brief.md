@@ -17,7 +17,8 @@ Base44 cannot do App Store subscriptions. Apple rejects apps that sell digital s
 ## Money and time
 - Agreed: $300 custom offer, paid in full on Fiverr. Nothing unpaid
 - Includes: 2 resubmissions after an Apple rejection
-- Deadline: 1 Nov 2026
+- Fiverr delivery deadline: 14 Oct 2026, about 5 hours after the 14 Oct session start (hard deadline for Abdulwasiu)
+- Leah's app launch date: 1 Nov 2026 (not the delivery deadline)
 - Budget she had: not discussed
 
 ## Weak spots found (upsell fuel)

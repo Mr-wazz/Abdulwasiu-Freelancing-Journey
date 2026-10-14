@@ -36,3 +36,12 @@ Not recorded. Start logging.
 - Risk reminder: off platform payment means no escrow and possible platform rule issues (Fiverr account was blocked once). Mitigation: written confirmation of amount and scope in the chat, keep a screenshot of the Sendwave receipt, do not mention platform rules to the client.
 - Amazigh also sent a message with "some things". Content NOT pasted yet. Ask Abdulwasiu to paste it exactly before replying.
 - Upsell message (no prices) drafted, to send right after the payment confirmation, while the client is happy.
+
+## 14 Oct 2026 evening (WhatsApp)
+- Amazigh PAID via Sendwave (off platform). Amount and what it covers NOT recorded. Client wrote: "bien reçu normalement"
+- Client said: app is online but not complete, many details to improve, example: "Edit with Base44" badge at the bottom
+- Client said: even if tight financially, kept their word, so "we can trust each other and move forward together". Wants a call: "Texte-moi quand t'es libre, on se parle"
+- Abdulwasiu asked for a talk within the hour
+- Client screenshot (iPhone, dark mode) shows: "Edit with Base44" badge bottom right, a Base44 side handle on the right edge, the date text "MARDI 13 OCTOBRE" overlapping the iPhone clock at the top (safe area problem), empty state "Aucune habitude pour aujourd'hui"
+- All of these are web side. Fix in Base44 and click Publish. No new iPhone build needed. Do not touch Apple settings
+- Open: written confirmation of what the Sendwave payment covered. Draft line included in the reply message

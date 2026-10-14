@@ -7,6 +7,7 @@ Order: money features, store publishing, promotion.
 ## Money features first
 
 ### 1. Payments: Apple In App Purchase subscription (internal 1,400)
+- Client wants subscription back. Offer as Phase 2 after Stabilize and Polish
 - Problem: the app is free, so it earns nothing. She wants subscription back
 - Money: monthly or yearly plans turn users into income
 - Must use real Apple IAP with Restore Purchases, and review notes must explain it
@@ -17,7 +18,7 @@ Order: money features, store publishing, promotion.
 - Problem: reminders probably do not work on iPhone, habits vanish next week, delete account is not a real deletion (Apple can reject a future update)
 - Money: users who stay, and an app that passes the next Apple review
 - Message (French): "Pendant mes tests, j'ai trouvé 3 petites choses qui peuvent faire partir des utilisateurs : les rappels, les habitudes qui disparaissent la semaine suivante, et la suppression du compte. Je peux tout corriger pour que l'application reste solide et que les utilisateurs restent. Voulez-vous le détail ?"
-- Status: not offered. Verify on a real iPhone first, then send
+- Status: HOT. Client raised it first: badge, layout, details to improve. Offer on the call. Verify on a real iPhone first
 
 ## Growth next
 

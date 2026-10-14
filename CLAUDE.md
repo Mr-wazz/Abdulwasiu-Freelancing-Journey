@@ -76,3 +76,9 @@ When asked "money review", give:
 
 ## Quality standard
 Before saying done, check the work. Test links, forms, automations. State clearly what is finished and what is not.
+
+## Client tag rule
+Every client message from Abdulwasiu should start with `CLIENT: <client-name>` (or `NEW CLIENT: <name>` for a new one).
+If the tag is missing, ASK "Which client is this?" BEFORE taking any action. Do not guess, do not write files, do not draft replies until he answers.
+Always give Abdulwasiu the exact message to send to the client.
+Open every reply with the client name so projects never mix.

@@ -58,3 +58,10 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Leah replied "Thank you", then: she can manually adjust access for people who do not pay through Stripe, so the webhook gap is ok for her. "It all works for the web version."
 - Effect on upsell: the Stripe webhook offer is now LOW priority. She accepts the manual work. Do not push it again. Pitch it later only if her member count grows and manual checks cost her time.
 - Delivery message drafted. Not yet confirmed by Abdulwasiu: sandbox purchase test, restore test, web member login test on a real iPhone.
+
+## 14 Oct 2026: build 117 result
+- Leah tested build 117 (100 + Codemagic counter 17). Same screen, new error at step "plans": RevenueCat "There is an issue with your configuration. Check the underlying error... https://rev.cat/sdk-troubleshooting You have configure..." (text cut at 160 chars)
+- Progress: promise bug and missing config.js are fixed. App now passes setup and account steps and fails only at getOfferings. This is a RevenueCat or App Store Connect setup problem, not a code bug
+- Pushed small change: error screen now shows up to 600 chars, so the next build shows the full message. No behavior change
+- Dashboard checks to do first (no rebuild needed): see reply. Rebuild only if still failing, or to get the full error text
+- Upsell left out of this message on purpose. Revisit after the paywall works

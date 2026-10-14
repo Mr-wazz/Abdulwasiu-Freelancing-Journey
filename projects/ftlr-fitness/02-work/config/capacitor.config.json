@@ -1,0 +1,13 @@
+{
+  "appId": "com.base690a2fc0b35286e721bd236c.app",
+  "appName": "FTLR Fitness",
+  "webDir": "www",
+  "ios": {
+    "appendUserAgent": "FTLRiOSApp",
+    "contentInset": "never",
+    "backgroundColor": "#ffffff"
+  },
+  "server": {
+    "allowNavigation": ["ftlr-fitness.base44.app", "*.base44.app", "*.base44.com"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ftlr-fitness-ios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Native iOS shell with Apple subscription paywall for FTLR Fitness",
+  "scripts": {
+    "sync": "cap sync ios"
+  },
+  "dependencies": {
+    "@capacitor/browser": "^8.0.5",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/haptics": "^8.0.0",
+    "@capacitor/ios": "^8.5.3",
+    "@revenuecat/purchases-capacitor": "^13.7.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3"
+  }
+}

@@ -10,7 +10,7 @@ Fiverr rule: keep paid add ons inside Fiverr orders. Do not move payment off pla
 - Money saved: stops revenue leak on every cancelled member, and closes an approval and abuse risk
 - Price: $450
 - Message: "Leah, your app is live. One thing I noticed: when a member cancels on the website, they still keep access. That is lost income every month. I can fix it so renewals and cancellations update automatically. Want me to send a quick quote?"
-- Status: not offered
+- Status: LOW priority. Leah said on 14 Oct that she adjusts access by hand and it is ok. Do not push. Revisit when her member count grows
 
 ### 2. Monthly retainer: app care plan
 - Problem: Apple rejections, iOS updates, RevenueCat and Base44 changes can break her app

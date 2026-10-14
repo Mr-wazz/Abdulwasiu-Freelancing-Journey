@@ -20,7 +20,8 @@ Status: NOT delivered. Blocked on build 13.
 - No passwords stored here. Logins stay in a password manager
 
 ## Handover checklist
-- [ ] Build installs from TestFlight
+- [x] Build in TestFlight (14 Oct)
+- [ ] Build installs and opens on a real iPhone
 - [ ] Icon, launch screen, plans and prices correct
 - [ ] Sandbox purchase works
 - [ ] Restore works

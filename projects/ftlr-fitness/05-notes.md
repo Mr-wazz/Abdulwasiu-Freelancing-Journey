@@ -52,3 +52,9 @@ Not tracked in the chat. Start logging from now. Estimated so far: well over 20 
 ## Correction 14 Oct 2026
 Abdulwasiu corrected me: Nov 1 is Leah's APP LAUNCH date. The Fiverr DELIVERY deadline is about 5 hours from the session start. Plan: deliver a working TestFlight build plus submission steps inside the Fiverr window. Apple review time is outside our control, so the delivery message must say "submitted and in review", not "approved". If 5 hours is not enough, ask Fiverr for a short extension before the timer ends.
 Upsell is now mentioned softly in every Leah message so she is aware.
+
+## 14 Oct 2026 10:06 AM: build in TestFlight, Leah reply
+- New build is in TestFlight (build number not recorded, add it).
+- Leah replied "Thank you", then: she can manually adjust access for people who do not pay through Stripe, so the webhook gap is ok for her. "It all works for the web version."
+- Effect on upsell: the Stripe webhook offer is now LOW priority. She accepts the manual work. Do not push it again. Pitch it later only if her member count grows and manual checks cost her time.
+- Delivery message drafted. Not yet confirmed by Abdulwasiu: sandbox purchase test, restore test, web member login test on a real iPhone.

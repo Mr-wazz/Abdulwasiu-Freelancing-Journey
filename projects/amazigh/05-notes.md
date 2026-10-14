@@ -30,3 +30,9 @@ French, WhatsApp, friendly, replies a day late sometimes, very careful with mone
 
 ## Time log
 Not recorded. Start logging.
+
+## 14 Oct 2026: payment received
+- Amazigh paid Abdulwasiu via Sendwave (off platform). Amount and what it covers: NOT yet confirmed in writing. Ask Abdulwasiu.
+- Risk reminder: off platform payment means no escrow and possible platform rule issues (Fiverr account was blocked once). Mitigation: written confirmation of amount and scope in the chat, keep a screenshot of the Sendwave receipt, do not mention platform rules to the client.
+- Amazigh also sent a message with "some things". Content NOT pasted yet. Ask Abdulwasiu to paste it exactly before replying.
+- Upsell message (no prices) drafted, to send right after the payment confirmation, while the client is happy.

@@ -8,7 +8,7 @@
 ## Not confirmed
 - [ ] Order formally delivered and accepted on Fiverr or Upwork
 - [ ] Review left by Amazigh
-- [ ] Payment received, amount and method
+- [x] Payment received via Sendwave (14 Oct 2026). Amount and scope: confirm in writing
 - [ ] Which build Apple approved
 
 ## Handover checklist

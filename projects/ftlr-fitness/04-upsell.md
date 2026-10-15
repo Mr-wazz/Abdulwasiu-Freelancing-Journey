@@ -73,3 +73,9 @@ Internal pricing (do not lead with it):
 - Bundle "FTLR Growth Plan": Android + design quick pack + ASO and launch plan = 1,850, plus care plan 199 per month. Offer as one fixed price with 2 milestones.
 Rules: Fiverr custom offer only (escrow). Reddit shoutout: accept after delivery is complete. Fiverr review only appears after she marks the order complete.
 Status: Android, care plan offered softly by message. Bundle not offered yet.
+
+## Tiers used in the Growth Playbook PDF
+- Launch Ready 600 (listing, screenshots storyline, 30 day launch plan)
+- Launch + Android 1,850 (adds Android and quick design pack)
+- Growth Partner 3,750 (adds full design refresh and retention automation)
+- Care plan 199 per month. Status: document ready, not yet sent.

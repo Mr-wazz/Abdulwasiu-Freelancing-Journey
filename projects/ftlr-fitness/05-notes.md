@@ -142,3 +142,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 ## 15 Oct 2026: Leah review and call offer
 - Leah will write a glowing review, offered a Reddit shoutout, and offered a call tomorrow. Accept the call (best upsell moment). Plan saved in 04-upsell.md. Rule: ask her to accept delivery on Fiverr so the review option appears.
 - Unknown: whether the app was already submitted to Apple. Ask Abdulwasiu.
+
+## 15 Oct 2026: upsell strategy document built
+- Status: app already submitted to Apple, waiting for approval.
+- Built 5 page branded PDF "FTLR Fitness Growth Playbook" (02-work/FTLR-Fitness-Growth-Playbook.pdf, script build_growth_playbook.py). Value first: strengths, 90 day roadmap, App Store listing copy (subtitle 26 chars, keywords exactly 100 chars), first 7 days sequence, Android demand test, quick wins. Last page: 3 tiers (Launch Ready 600, Launch + Android 1,850, Growth Partner 3,750) plus care plan 199 per month, Fiverr escrow, milestones.
+- Send timing: after or at the call with Leah, before Apple approval is fine. Send the full PDF, or ask for a version without the last page.

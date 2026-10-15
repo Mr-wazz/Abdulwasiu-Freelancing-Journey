@@ -61,3 +61,8 @@ Not recorded. Start logging.
 - Client (French): "Parfait on fait ca ! J'attends ta liste et de mon cote aussi je t'enverrai".
 - Value first message ready in 02-work/audit-for-client-fr.md (two messages, no prices, impact per point, priority, list freeze date Sunday 18 Oct). Must confirm the "a confirmer" points on a real iPhone before sending.
 - Next: client sends their list, freeze on 18 Oct, then write the fixed price offer (Standard: packages 1 and 3) with milestones and platform escrow.
+
+## 15 Oct 2026: audit PDF for the client
+- Built a 2 page colored PDF: 02-work/RiseTrack-Audit-et-Plan-d-amelioration.pdf (source script build_audit_pdf.py). French, no prices. Each point has a status (Constate, A valider, Proposition) and a priority. Replaces the two text messages.
+- Prepared by "Up Agency" (name the client sees on WhatsApp). Change in the script if needed.
+- Before sending: test the A VALIDER items on an iPhone. The PDF is honest about them, but the fewer unconfirmed points the stronger the document.

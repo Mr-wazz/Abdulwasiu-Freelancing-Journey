@@ -83,3 +83,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Bundle ID in RevenueCat matches Apple: com.base690a2fc0b35286e721bd236c.app
 - Optional later: Apple Server Notification URL shows "No notifications received". Set it up in App Store Connect after approval.
 - Security: .p8 keys stay out of chat and out of the repo. Rotate or revoke keys at handover.
+
+## 15 Oct 2026: products fixed
+- RevenueCat Products page now shows both Apple products as "Ready to Submit" (was "Could not check"). App Store Connect API key fixed it.
+- Not yet verified: Current offering contains the Apple products, and the paywall loads in the TestFlight build. Leah will test (Abdulwasiu has not tested). Note: TestFlight purchases are sandbox, no real charge.
+- Still needed for submission: demo login (subscription_status active) for reviewer, screenshots, review notes.

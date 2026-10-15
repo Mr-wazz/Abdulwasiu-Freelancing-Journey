@@ -70,3 +70,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Abdulwasiu says he cannot submit because Leah has not sent "a picture". Unclear which picture (plans screen screenshot, or App Store listing screenshots).
 - Real blocker is still the RevenueCat "plans" error on build 117, not the picture. Submitting with a paywall that cannot load plans would likely get rejected (Apple tests the purchase).
 - Advice given: do the 5 dashboard checks in App Store Connect and RevenueCat yourself (you are Admin), take screenshots from your own iPhone via TestFlight, do not wait on Leah. Check Fiverr timer, ask for extension if needed.
+
+## 15 Oct 2026: RevenueCat Products screenshot
+- RevenueCat Products page: both Apple products (YearlySubscription, MonthlySubscription) show status "Could not check". Test Store also has yearly and monthly products (lowercase), ignore them.
+- Meaning: RevenueCat cannot read the products from Apple. Most likely the App Store Connect API key or the In-App Purchase key is missing or invalid in RevenueCat app settings. Also check Ready to Submit status, Paid Apps Agreement, and that the Current offering uses the Apple products and not Test Store ones.
+- Fix path: add keys in RevenueCat (Apps, FTLR Fitness, Apple app), then re-check. Never paste the .p8 in chat.
+- If key creation is blocked, Leah (Account Holder) must request API access in App Store Connect. Message drafted.

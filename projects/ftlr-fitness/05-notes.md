@@ -108,3 +108,10 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Offering "default" now has Apple products attached: Monthly to MonthlySubscription, Yearly to YearlySubscription. Test Store products left in place. Lifetime empty.
 - RevenueCat "Paywall" field: leave blank. The app uses its own native paywall in www/index.html, so RevenueCat Paywalls (their paywall builder) is not used.
 - Next: swipe app away, reopen, Try again, check plans load, test purchase.
+
+## 15 Oct 2026: Leah says "It worked", wording tweaks
+- Leah sent a screenshot and a 68 second video. Plans screen shows Annual $99.99 and Monthly $12.99. Video shows: Apple In App Purchase sheet ("Beta testers aren't charged"), confirm, "Please wait" for about 12 seconds, then the Base44 login screen, then after a few tries (first "Invalid email or password") she reaches the FTLR home screen. IAP flow works.
+- Wording requested by Leah: title "Start building your best self for the long run"; perk "Nutritious recipes to fit your dietary preferences" (she does personal plans as a paid extra, so "personal plan" was misleading). Done in www/index.html, pushed to ftlr-ios-wrapper main as commit ae3be46. Needs a NEW Codemagic build before submission.
+- RISK found in video: Base44 login screen still shows "Continue with Google" and "Continue with Apple". Earlier we thought they were removed. Google blocks sign in inside an embedded webview (disallowed_useragent) and Apple asks users for name again (Guideline 4.0, as with RiseTrack). A reviewer who taps them could reject. Decide: turn both off in Base44 Authentication and Publish (check with Leah that web members do not use Google or Apple login), or add a note for the reviewer.
+- Price note: Apple prices are $12.99 and $99.99, web prices are $10 and $100. Ask Leah to confirm Apple prices are intended.
+- Still needed for submission: demo account (email login, subscription_status active), App Store screenshots, review notes, new build.

@@ -88,3 +88,7 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - RevenueCat Products page now shows both Apple products as "Ready to Submit" (was "Could not check"). App Store Connect API key fixed it.
 - Not yet verified: Current offering contains the Apple products, and the paywall loads in the TestFlight build. Leah will test (Abdulwasiu has not tested). Note: TestFlight purchases are sandbox, no real charge.
 - Still needed for submission: demo login (subscription_status active) for reviewer, screenshots, review notes.
+
+## 15 Oct 2026: Leah screenshot after products fix
+- Leah sent a screenshot showing the OLD error "setup: promise.then is not a function". That bug was fixed before build 117 (build 117 got past setup and failed at plans). So she is running an old TestFlight build, not the latest.
+- Action: ask her to update in TestFlight to build 117 or higher (check build number in TestFlight), delete and reinstall if Update is not offered. Do not change code.

@@ -76,3 +76,10 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Meaning: RevenueCat cannot read the products from Apple. Most likely the App Store Connect API key or the In-App Purchase key is missing or invalid in RevenueCat app settings. Also check Ready to Submit status, Paid Apps Agreement, and that the Current offering uses the Apple products and not Test Store ones.
 - Fix path: add keys in RevenueCat (Apps, FTLR Fitness, Apple app), then re-check. Never paste the .p8 in chat.
 - If key creation is blocked, Leah (Account Holder) must request API access in App Store Connect. Message drafted.
+
+## 15 Oct 2026: RevenueCat app settings screenshot
+- In-app purchase key section already has a .p8 and shows "Valid credentials", with Key ID and Issuer ID. Do NOT remove it.
+- The "App Store Connect API" section is EMPTY. That is the missing piece (products show "Could not check"). Needs AuthKey_XXXXXXXXXX.p8 (not the SubscriptionKey one), role App Manager or Admin.
+- Bundle ID in RevenueCat matches Apple: com.base690a2fc0b35286e721bd236c.app
+- Optional later: Apple Server Notification URL shows "No notifications received". Set it up in App Store Connect after approval.
+- Security: .p8 keys stay out of chat and out of the repo. Rotate or revoke keys at handover.

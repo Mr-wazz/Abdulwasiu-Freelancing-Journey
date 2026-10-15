@@ -56,3 +56,8 @@ Not recorded. Start logging.
 - Risk: open ended list (scope creep). Rule: scope freezes on a date, anything later goes to 2.1 as a paid add on. One big update also means one bigger Apple review, so test in TestFlight first and keep the Apple rules (see plan.md)
 - Internal price recommendation: Standard 2.0 = packages 1 + 3 (2,100) with milestones 30/40/30. Premium = add dashboard (3,000) plus care plan. Start by text with no prices. Give prices only when they ask, with the frozen scope
 - Client facing findings list saved at 02-work/audit-for-client-fr.md (no prices)
+
+## 15 Oct 2026: client accepted the list plan
+- Client (French): "Parfait on fait ca ! J'attends ta liste et de mon cote aussi je t'enverrai".
+- Value first message ready in 02-work/audit-for-client-fr.md (two messages, no prices, impact per point, priority, list freeze date Sunday 18 Oct). Must confirm the "a confirmer" points on a real iPhone before sending.
+- Next: client sends their list, freeze on 18 Oct, then write the fixed price offer (Standard: packages 1 and 3) with milestones and platform escrow.

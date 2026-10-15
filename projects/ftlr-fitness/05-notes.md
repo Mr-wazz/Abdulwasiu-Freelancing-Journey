@@ -134,3 +134,7 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Report contact: leahstukov@gmail.com (or kahnrtist@aol.com, her Apple ID email).
 - Decision: YES, add report and block today (Apple Guideline 1.2 for user generated content: terms against objectionable content, report mechanism with timely response, block users, published contact). Web change only: publish in Base44, no new iOS build needed.
 - Order: Leah adds and publishes, Abdulwasiu verifies on phone, then records video (show report and block), then updates the notes (User Content paragraph already drafted), then replies to Apple.
+
+## 15 Oct 2026: report and block reported done
+- Abdulwasiu says Leah's report and block feature is done (not yet verified by us on a phone).
+- Next: verify report, block, Terms "Community Rules" on iPhone, record video, finalize notes (remove the bracket warning in User Content), reply to Apple in Resolution Center, submit.

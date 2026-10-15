@@ -138,3 +138,7 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 ## 15 Oct 2026: report and block reported done
 - Abdulwasiu says Leah's report and block feature is done (not yet verified by us on a phone).
 - Next: verify report, block, Terms "Community Rules" on iPhone, record video, finalize notes (remove the bracket warning in User Content), reply to Apple in Resolution Center, submit.
+
+## 15 Oct 2026: Leah review and call offer
+- Leah will write a glowing review, offered a Reddit shoutout, and offered a call tomorrow. Accept the call (best upsell moment). Plan saved in 04-upsell.md. Rule: ask her to accept delivery on Fiverr so the review option appears.
+- Unknown: whether the app was already submitted to Apple. Ask Abdulwasiu.

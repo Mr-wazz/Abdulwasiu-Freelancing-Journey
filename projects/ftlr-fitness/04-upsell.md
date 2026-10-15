@@ -55,3 +55,21 @@ Fiverr rule: keep paid add ons inside Fiverr orders. Do not move payment off pla
 
 ## Pricing lesson
 This job was $300. Next similar job: price from $1,500 to $3,000 for "App Store subscription rescue", plus retainer.
+
+## 15 Oct 2026: Leah offered a call (hot moment)
+Leah replied to the review request: "I will write a glowing review and can even give you a shout out on Reddit... very busy night but I could hop on a call tomorrow." Android and care plan were already mentioned softly in an earlier message.
+
+Call plan (20 minutes, she is busy, be brief):
+1. Thank her. Confirm status of the Apple review.
+2. Ask, do not pitch: how many members today? How many ask for Android? Goal for the app in the first 90 days? Launch plan for Nov 1?
+3. Share 3 specific ideas from her own app (from the video): (a) the 12 second wait after purchase, make it feel faster; (b) a welcome and onboarding flow that turns installs into active members; (c) a cleaner Base44 login and home design.
+4. Offer ONE next step by Fiverr custom offer, not a long list.
+
+Internal pricing (do not lead with it):
+- Android and Google Play (Capacitor, Google billing via RevenueCat): 900
+- Design refresh, quick pack (3 improvements): 350
+- App Store Optimisation (ASO) and launch plan (pre launch, launch day, first 30 days): 600
+- Care plan: 199 per month (updates, fixes, rejection handling, 1 hour of changes)
+- Bundle "FTLR Growth Plan": Android + design quick pack + ASO and launch plan = 1,850, plus care plan 199 per month. Offer as one fixed price with 2 milestones.
+Rules: Fiverr custom offer only (escrow). Reddit shoutout: accept after delivery is complete. Fiverr review only appears after she marks the order complete.
+Status: Android, care plan offered softly by message. Bundle not offered yet.

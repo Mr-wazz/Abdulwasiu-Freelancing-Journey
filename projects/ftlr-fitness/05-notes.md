@@ -153,3 +153,7 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Presenter notes (private) in 02-work/FTLR-Presenter-Notes.pdf: say, ask, timing per slide.
 - The earlier 5 page version with prices is kept as ...WITH-PRICES-send-later.pdf. Use only after she asks or after the call.
 - Prepared by "Up Agency". Change in build_presentation.py if needed.
+
+## 15 Oct 2026: drip billing plan built
+- Built the roadmap tracker (xlsx) and logged the plan in 04-upsell.md. Formulas checked (total 4,930, months and phases add up).
+- Next: after the call with Leah, send offer 1 (listing pack, 150) only. Update statuses in the tracker as she answers.

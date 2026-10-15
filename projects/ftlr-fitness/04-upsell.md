@@ -79,3 +79,13 @@ Status: Android, care plan offered softly by message. Bundle not offered yet.
 - Launch + Android 1,850 (adds Android and quick design pack)
 - Growth Partner 3,750 (adds full design refresh and retention automation)
 - Care plan 199 per month. Status: document ready, not yet sent.
+
+## 15 Oct 2026: DRIP BILLING ROADMAP (target about $5,000)
+Idea from Abdulwasiu: bill little by little, small separate offers ($100 to $450 each), one at a time.
+Tracker: projects/ftlr-fitness/FTLR-Revenue-Roadmap.xlsx (Summary, Roadmap, Messages sheets).
+16 offers, total $4,930 gross (about $3,944 net at 20 percent Fiverr fee), plus care plan $199 per month (about $597 in 90 days). Total with care plan about $5,527 gross.
+By phase: Launch ready 700, Launch week 380, Build the habit 1,750, Grow 2,100.
+By month: Oct 520, Nov 1,360, Dec 1,600, Jan 1,450.
+Rules: one open offer at a time, Fiverr custom offers only, start only when funded, written scope, lead with value, never push.
+First offers: listing pack 150, screenshots 250, launch announcement pack 120, welcome sequence 180.
+Open question for Abdulwasiu: target is gross or net? $5,000 net needs about $6,250 gross at 20 percent Fiverr fee.

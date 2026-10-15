@@ -147,3 +147,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Status: app already submitted to Apple, waiting for approval.
 - Built 5 page branded PDF "FTLR Fitness Growth Playbook" (02-work/FTLR-Fitness-Growth-Playbook.pdf, script build_growth_playbook.py). Value first: strengths, 90 day roadmap, App Store listing copy (subtitle 26 chars, keywords exactly 100 chars), first 7 days sequence, Android demand test, quick wins. Last page: 3 tiers (Launch Ready 600, Launch + Android 1,850, Growth Partner 3,750) plus care plan 199 per month, Fiverr escrow, milestones.
 - Send timing: after or at the call with Leah, before Apple approval is fine. Send the full PDF, or ask for a version without the last page.
+
+## 15 Oct 2026: presentation deck (no prices)
+- Reworked the playbook into a 16 slide landscape presentation (02-work/FTLR-Fitness-Growth-Playbook-Presentation.pdf) to present on a call. No prices. Includes design direction (colors, type, principles from Leah's own words) and 3 high fidelity concept screens (home, sign in, goal, welcome note) in her brand colors, using her real logo. Concepts use placeholder names and content.
+- Presenter notes (private) in 02-work/FTLR-Presenter-Notes.pdf: say, ask, timing per slide.
+- The earlier 5 page version with prices is kept as ...WITH-PRICES-send-later.pdf. Use only after she asks or after the call.
+- Prepared by "Up Agency". Change in build_presentation.py if needed.

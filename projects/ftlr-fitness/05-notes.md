@@ -65,3 +65,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Pushed small change: error screen now shows up to 600 chars, so the next build shows the full message. No behavior change
 - Dashboard checks to do first (no rebuild needed): see reply. Rebuild only if still failing, or to get the full error text
 - Upsell left out of this message on purpose. Revisit after the paywall works
+
+## 15 Oct 2026: stuck on submission, waiting for a picture from Leah
+- Abdulwasiu says he cannot submit because Leah has not sent "a picture". Unclear which picture (plans screen screenshot, or App Store listing screenshots).
+- Real blocker is still the RevenueCat "plans" error on build 117, not the picture. Submitting with a paywall that cannot load plans would likely get rejected (Apple tests the purchase).
+- Advice given: do the 5 dashboard checks in App Store Connect and RevenueCat yourself (you are Admin), take screenshots from your own iPhone via TestFlight, do not wait on Leah. Check Fiverr timer, ask for extension if needed.

@@ -35,8 +35,8 @@ Monthly and Yearly auto-renewable subscriptions show title, length, price, renew
 ACCOUNT DELETION
 Users can delete their account inside the app: [EXACT PATH, e.g. Settings, Delete Account].
 
-USER CONTENT
-[IF GROUP CHAT HAS POSTS BY MEMBERS: Members can report and block other users from the chat: EXACT STEPS. Reports go to the coach at EMAIL. IF CHAT IS COACH ONLY: Only the coach can post; members cannot post public content.]
+USER CONTENT (chat)
+The Chat page is a community chat where members can post. Safeguards: (a) members must accept the Terms of Use, which prohibit objectionable or abusive content and set zero tolerance; (b) every message has a Report button; reports go to the coach at leahstukov@gmail.com and are reviewed within 24 hours; (c) members can block a user, which hides that user's messages; (d) the admin can delete any message and remove users who break the rules. Contact for reports is also in the Terms. [ONLY KEEP THIS TEXT AFTER THE REPORT AND BLOCK FEATURE IS LIVE AND YOU HAVE SEEN IT WORK ON A PHONE]
 
 CONTACT
 [NAME], [EMAIL], [PHONE]

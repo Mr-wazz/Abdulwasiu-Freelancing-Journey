@@ -128,3 +128,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - RISK: the app has a GroupChat page. That is user generated content. Apple (Guideline 1.2) expects ways to report and block users and a contact for reports. Need to check the app and ask Leah. If members can post, add report and block, or make chat coach only.
 - Also: set subscription availability for all countries in App Store Connect so the "same in every region" statement is true.
 - Open: device models and iOS versions, delete account path, contact details, group chat answer.
+
+## 15 Oct 2026: Leah answers on group chat
+- Group chat: anyone can post, only admin can delete others' messages. Leah offered to add report and block through Base44 chat today.
+- Report contact: leahstukov@gmail.com (or kahnrtist@aol.com, her Apple ID email).
+- Decision: YES, add report and block today (Apple Guideline 1.2 for user generated content: terms against objectionable content, report mechanism with timely response, block users, published contact). Web change only: publish in Base44, no new iOS build needed.
+- Order: Leah adds and publishes, Abdulwasiu verifies on phone, then records video (show report and block), then updates the notes (User Content paragraph already drafted), then replies to Apple.

@@ -103,3 +103,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Offerings list: one offering "default" with a blue check icon (this is the Current marker). OK.
 - Offering "default" packages: Monthly ($rc_monthly) has Test Store product "monthly"; Yearly ($rc_annual) has Test Store product "yearly"; Lifetime has none. NO Apple products attached. This is the cause of "no App Store products registered for your offerings".
 - Fix: Edit offering, attach Apple MonthlySubscription to Monthly and YearlySubscription to Yearly. Do not delete the Test Store products. No rebuild needed.
+
+## 15 Oct 2026: offering saved
+- Offering "default" now has Apple products attached: Monthly to MonthlySubscription, Yearly to YearlySubscription. Test Store products left in place. Lifetime empty.
+- RevenueCat "Paywall" field: leave blank. The app uses its own native paywall in www/index.html, so RevenueCat Paywalls (their paywall builder) is not used.
+- Next: swipe app away, reopen, Try again, check plans load, test purchase.

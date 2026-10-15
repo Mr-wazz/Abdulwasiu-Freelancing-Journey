@@ -98,3 +98,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Meaning: Apple products exist in RevenueCat (Ready to Submit) but the Current offering has no packages with Apple products (empty, or it points to Test Store products, or the offering is not Current). Fix is in RevenueCat only, no rebuild.
 - Check also: public key appl_BYaiay... belongs to the same RevenueCat app that holds the products.
 - Waiting for: screenshot of RevenueCat Offerings page.
+
+## 15 Oct 2026: RevenueCat offering found
+- Offerings list: one offering "default" with a blue check icon (this is the Current marker). OK.
+- Offering "default" packages: Monthly ($rc_monthly) has Test Store product "monthly"; Yearly ($rc_annual) has Test Store product "yearly"; Lifetime has none. NO Apple products attached. This is the cause of "no App Store products registered for your offerings".
+- Fix: Edit offering, attach Apple MonthlySubscription to Monthly and YearlySubscription to Yearly. Do not delete the Test Store products. No rebuild needed.

@@ -121,3 +121,10 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 2. Demo account exists (email tchrstukov@gmail.com), active, added in App Store Connect sign-in info. Password was sent in chat. Do NOT store it in the repo. The "Already a member" path (ftlr_verify=1) with this account is not yet tested on a phone.
 3. Web prices match Stripe ($10 and $100). Apple prices are $12.99 and $99.99, she accepted. She will hide the web app version after publishing and share it privately. Rule: no web payment links or prices anywhere inside the iPhone app.
 - Next: Codemagic new build (wording change), then test plans, restore, "Already a member" login with demo account, back link. Then screenshots, review notes (draft at 02-work/review-notes.md), attach new build to version 1.0, submit.
+
+## 15 Oct 2026: Apple Guideline 2.1 message (info needed)
+- Apple asked for 7 items: screen recording on a physical device, devices tested, app description and audience, access instructions, external services, regional differences, regulated industry documentation. Notes field in App Review Information is used for future submissions.
+- Wrote full notes at 02-work/review-notes.md (must stay under 4000 characters) and a recording script at 02-work/screen-recording-script.md.
+- RISK: the app has a GroupChat page. That is user generated content. Apple (Guideline 1.2) expects ways to report and block users and a contact for reports. Need to check the app and ask Leah. If members can post, add report and block, or make chat coach only.
+- Also: set subscription availability for all countries in App Store Connect so the "same in every region" statement is true.
+- Open: device models and iOS versions, delete account path, contact details, group chat answer.

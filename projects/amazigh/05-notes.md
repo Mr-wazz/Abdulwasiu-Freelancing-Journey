@@ -66,3 +66,8 @@ Not recorded. Start logging.
 - Built a 2 page colored PDF: 02-work/RiseTrack-Audit-et-Plan-d-amelioration.pdf (source script build_audit_pdf.py). French, no prices. Each point has a status (Constate, A valider, Proposition) and a priority. Replaces the two text messages.
 - Prepared by "Up Agency" (name the client sees on WhatsApp). Change in the script if needed.
 - Before sending: test the A VALIDER items on an iPhone. The PDF is honest about them, but the fewer unconfirmed points the stronger the document.
+
+## 16 Oct 2026: client read the PDF
+- Client (French): doing well, at work, saw the RiseTrack PDF, "bien organisé", will read later and add what is missing. Otherwise "on avancera comme prévu".
+- Meaning: soft yes to the plan. List freeze date stays Sunday 18 Oct. Offer draft prepared in 01-proposal-quote.md (INTERNAL draft, not sent).
+- Rule: do not chase. One short warm reply, then send the offer on 18 Oct.

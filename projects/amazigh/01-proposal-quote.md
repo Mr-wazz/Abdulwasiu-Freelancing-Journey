@@ -26,3 +26,28 @@ Suggested first sale: packages 1 and 3 (2,100), then the rest after the app earn
 2. Shrink scope to fit her budget, do not discount price per feature
 3. "I will reinvest" is a promise, not a payment. Get paid up front or by milestone
 4. Show value first (what the app can earn), prices later
+
+---
+## DRAFT OFFER for Job 2 (INTERNAL, send only after the list freeze on 18 Oct and after the client sends his list)
+Name: "RiseTrack 2.0, one complete update"
+
+### Tiers (value based, 3 tiers, fixed price)
+| Tier | Includes | Price |
+|---|---|---|
+| Basic: Solid Base | Package 1: Stabilize and Polish (remove Base44 badge, fix top of screen on iPhone, real reminders, habits that carry over, real account deletion, duplicate protection) | 700 |
+| Standard: Solid Base plus Revenue (RECOMMENDED) | Package 1 plus Package 3: Apple In App Purchase subscription (price page, free trial, Restore Purchases, review notes and approval handling) | 2,100 |
+| Premium: Full Update | Package 1, 3 and 2: new home dashboard, responsive layout for iPad and desktop | 3,000 |
+Optional: care plan 150 per month after delivery (updates, fixes, Apple rejection handling).
+
+### Payment and protection
+- Fiverr or Upwork custom offer with funded escrow. Milestones 30 percent start, 40 percent at TestFlight build, 30 percent at Apple submission.
+- No work starts before the first milestone is funded.
+- Anything the client adds after the freeze date goes to RiseTrack 2.1 as a separate paid offer.
+
+### Scope notes
+- Apple approval is protected: test in TestFlight first, keep Camera and Photo Library as the only permissions, email and password login only, subscription must use real Apple In App Purchase with Restore Purchases and clear review notes.
+- Not included: AI coach, multilingual rebuild, Android (these stay as later upsells, packages 4 to 6).
+- Estimated effort (my guess, confirm before quoting dates): Basic about 12 hours, Standard about 30 hours, Premium about 42 hours.
+
+### What I need from the client
+Their improvement list, their Apple subscription prices and product names, confirmation of the demo account, and approval of the plan in writing.

@@ -71,3 +71,9 @@ Not recorded. Start logging.
 - Client (French): doing well, at work, saw the RiseTrack PDF, "bien organisé", will read later and add what is missing. Otherwise "on avancera comme prévu".
 - Meaning: soft yes to the plan. List freeze date stays Sunday 18 Oct. Offer draft prepared in 01-proposal-quote.md (INTERNAL draft, not sent).
 - Rule: do not chase. One short warm reply, then send the offer on 18 Oct.
+
+## 17 Oct 2026: client sent his list (8 items) and budget rule
+- Items: (1) welcome page before login, (2) modern design, (3) tracker check and redesign, (4) simplify Mon parcours, (5) shareable progress cards for Instagram, (6) redo App Store screenshots, (7) logo reframing (looks too zoomed), (8) check whole app for bugs.
+- He will first choose priorities, then wants a "bilan" with the total price. Budget is his main worry. He will decide based on the amount whether to go now or wait.
+- Plan: no prices yet. Reply with merged list grouped in lots, ask him to rank by numbers, extend freeze to Tue 20 Oct, ask 2 short questions (which screen with Google, where the logo looks zoomed). Internal priced catalog saved in 02-work/priorities-catalog-INTERNAL.md.
+- Note: subscription is not in his new list. Keep as a later offer, do not drop it.

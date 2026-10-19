@@ -106,3 +106,7 @@ Not recorded. Start logging.
 - Abdulwasiu wants to learn his budget and get started, with a long term view.
 - Response: warm message with 3 paths (little by little from about 50 CAD per week, hybrid partnership with written terms, pause) and 3 questions (budget per week or month, user count, subscription price). Guardrails saved in 02-work/partnership-guardrails-INTERNAL.md.
 - Rule: no unpaid work on a pure promise. Cash for the first small win, partial deferral only, written agreement, cap, read only revenue access.
+
+## 20 Oct 2026: Abdulwasiu wants one single payment of about 400
+- Designed "Pack Solide" single payment 400 CAD (see 01-proposal-quote.md). Honest limit: 400 cannot cover subscription, notifications, deletion or the Apple build (about 34 hours). Those go to the partnership step.
+- Collection steps: written yes, Sendwave transfer, receipt screenshot, confirm money arrived, then start. Delivery in 7 days.

@@ -51,3 +51,16 @@ Optional: care plan 150 per month after delivery (updates, fixes, Apple rejectio
 
 ### What I need from the client
 Their improvement list, their Apple subscription prices and product names, confirmation of the demo account, and approval of the plan in writing.
+
+---
+## 20 Oct 2026: PACK SOLIDE, single payment (replaces the weekly idea for the first step)
+Price: 400 CAD, ONE payment before work starts (confirm with Abdulwasiu if his 400 means CAD or USD; at an assumed 0.72 USD per CAD, 400 CAD is about 288 USD, and 400 USD is about 555 CAD).
+Includes (web side, live on publish, no Apple wait):
+1. Base44 badge removed and top of screen fixed on iPhone (A1, normal 100)
+2. Habits carry over week to week and duplicate protection (A2, normal 130)
+3. Full app check and important bug fixes, up to 3 hours (A3, normal 200 for 4 hours)
+Bonus 1: enlarged logo, icon files ready for the next Apple update (about 1 hour).
+Bonus 2: Premium subscription launch plan, one page (prices to choose, Apple steps to prepare).
+Delivery: within 7 days after payment. Promise: if not delivered in 7 days, refund.
+Effort estimate: about 9.5 hours (about 30 USD per hour). It is the cash first step of the hybrid partnership. Subscription, notifications, account deletion and the logo build come later under partnership terms after his numbers.
+Why one payment: fewer Sendwave transfers (fees and rate each time), one decision for the client, less chasing for Abdulwasiu.

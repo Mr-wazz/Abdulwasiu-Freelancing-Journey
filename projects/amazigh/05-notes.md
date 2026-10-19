@@ -100,3 +100,9 @@ Not recorded. Start logging.
 - Core message: no subscription means no revenue, no notifications means users forget and leave, small details look unfinished right after approval, Apple needs account deletion. Budget friendly: pay weekly, small amounts, result every week, stop anytime. Plans: 1 Depart 430 CAD (3 weeks), 2 Revenus 1,600 CAD (7 weeks), 3 Essentiel complet 2,180 CAD (10 weeks). CTA: answer 1, 2 or 3. Start after first payment of 100 CAD.
 - Illustrative payback: 6 CAD per month, about 5.10 net after Apple 15 percent, 1,600 CAD repaid with about 26 subscribers for a year. Marked as example, not a promise.
 - Weekly schedule: Depart 100/130/200. Revenus adds wk4 170, wk5 350, wk6 350, wk7 300. Complet adds wk8 200, wk9 190, wk10 190.
+
+## 20 Oct 2026: client says sums are astronomical
+- Client (translated): sums too big, first project, does not want to invest without knowing the app will earn. Either he goes little by little and finds solutions himself, or if Abdulwasiu accepts to move forward with him he will be paid significant sums once the app earns.
+- Abdulwasiu wants to learn his budget and get started, with a long term view.
+- Response: warm message with 3 paths (little by little from about 50 CAD per week, hybrid partnership with written terms, pause) and 3 questions (budget per week or month, user count, subscription price). Guardrails saved in 02-work/partnership-guardrails-INTERNAL.md.
+- Rule: no unpaid work on a pure promise. Cash for the first small win, partial deferral only, written agreement, cap, read only revenue access.

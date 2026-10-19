@@ -77,3 +77,12 @@ Not recorded. Start logging.
 - He will first choose priorities, then wants a "bilan" with the total price. Budget is his main worry. He will decide based on the amount whether to go now or wait.
 - Plan: no prices yet. Reply with merged list grouped in lots, ask him to rank by numbers, extend freeze to Tue 20 Oct, ask 2 short questions (which screen with Google, where the logo looks zoomed). Internal priced catalog saved in 02-work/priorities-catalog-INTERNAL.md.
 - Note: subscription is not in his new list. Keep as a later offer, do not drop it.
+
+## 19 Oct 2026: client chose essentials and gave budget hint
+- Screenshot 1: first open is the Base44 sign in page (email and password, "Welcome to RiseTrack"). NO Google button. His earlier line about Google was wrong. Still wants a real welcome page first (option 250).
+- Screenshot 2: logo clarification. He now says the icon logo is NOT zoomed enough and wants it bigger, like other apps. (Earlier he said "trop zoome", he meant the opposite.) Preview made at 02-work/icon-apercu-avant-apres.png (from his screenshot, low resolution).
+- Priorities: small touches first, then notifications and the Premium subscription, plus important bugs. Wants essentials only.
+- Budget: "presque le meme budget que la derniere fois". The amount of the first job was never recorded. ASK Abdulwasiu the number.
+- Bilan built (French PDF): projects/amazigh/RiseTrack-Bilan-et-Prix.pdf. Step A (web, live on publish): A1 badge and top of screen 100, A2 habits and duplicates 150, A3 full check and important bugs 250, total 500. Step B (one Apple update): B1 account deletion 100, B2 Apple subscription 1,400, B3 notifications 450, B4 logo 90, total 2,040. Options: Depart 500, Revenus 2,090, Essentiel complet 2,540. Optional welcome page 250. Pay item by item or 30/40/30 on the platform.
+- Dependencies for subscription: client's Paid Apps Agreement, bank and tax must be active in his App Store Connect. Ask.
+- Do not take payment by Sendwave again. Use platform with escrow.

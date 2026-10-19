@@ -82,3 +82,6 @@ Every client message from Abdulwasiu should start with `CLIENT: <client-name>` (
 If the tag is missing, ASK "Which client is this?" BEFORE taking any action. Do not guess, do not write files, do not draft replies until he answers.
 Always give Abdulwasiu the exact message to send to the client.
 Open every reply with the client name so projects never mix.
+
+## Language rule
+Abdulwasiu does not read French. For French speaking clients: write the client message in French AND give an English translation right below it. Also translate every French client message he pastes. Prices for French clients may be in the client's currency, say which currency in every document.

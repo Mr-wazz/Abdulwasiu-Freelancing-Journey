@@ -94,3 +94,9 @@ Not recorded. Start logging.
 - Payment rule without escrow: pay each item BEFORE work starts. Items under 200 CAD paid in full first. Big items split: B2 350 + 350 + 300, B4 190 + 190. Written agreement in chat and a payment receipt screenshot each time. Confirm the money has arrived before starting.
 - Platform risk: client came from Fiverr. Taking payment outside the platform can break platform rules, and Abdulwasiu's Fiverr was blocked once. His decision. Better: restore payout on Fiverr or Upwork (for example a payout method the account supports) and move back to platform offers when possible.
 - Files: FR client PDF projects/amazigh/RiseTrack-Bilan-et-Prix-v2-FR-CLIENT.pdf and EN copy for Abdulwasiu RiseTrack-Bilan-et-Prix-v2-EN-copie-pour-Abdulwasiu.pdf. The old USD version was renamed v1-OLD-USD-do-not-send.
+
+## 19 Oct 2026: bilan v2 sent, persuasion content prepared
+- Abdulwasiu sent the bilan v2 (CAD). Prepared a one page "Pourquoi maintenant" (FR for client, EN copy for Abdulwasiu) and 2 messages (main and 2 day follow up).
+- Core message: no subscription means no revenue, no notifications means users forget and leave, small details look unfinished right after approval, Apple needs account deletion. Budget friendly: pay weekly, small amounts, result every week, stop anytime. Plans: 1 Depart 430 CAD (3 weeks), 2 Revenus 1,600 CAD (7 weeks), 3 Essentiel complet 2,180 CAD (10 weeks). CTA: answer 1, 2 or 3. Start after first payment of 100 CAD.
+- Illustrative payback: 6 CAD per month, about 5.10 net after Apple 15 percent, 1,600 CAD repaid with about 26 subscribers for a year. Marked as example, not a promise.
+- Weekly schedule: Depart 100/130/200. Revenus adds wk4 170, wk5 350, wk6 350, wk7 300. Complet adds wk8 200, wk9 190, wk10 190.

@@ -152,3 +152,10 @@ Not recorded. Start logging.
 - Backup: Abdulwasiu exported the 3 tables (Challenge, Habit, HabitLog) as CSV on his laptop. Not in the repo (user data).
 - Prompt 2 run in Preview: Base44 removed the week filter in Today Page, Tracker Page and use Report Stats. Habits now show every week until deleted or archived. No data edited. NOT tested with a real habit (preview account has 0 habits). NOT published.
 - Next: test with one test habit, Prompt 3 (duplicate logs), Prompt 4 (bug check, 2h cap). Time today: about 1.7 hours.
+
+## 20 Oct 2026 (session 2, part 5)
+- Prompt 3 run in Preview (duplicate logs): Base44 now checks the server before creating a log, so a tap updates the existing log. Added backend function cleanupDuplicateHabitLogs and ran it once: found 0 duplicates. IMPORTANT: the Data tab I can see holds only my test rows, so it looks like a separate test database. The cleanup has NOT yet run on live users' data. After Publish, check once.
+- Test in Preview: created habit "TEST Abdul", ticked 20 Oct, went to next week (25 to 31 Oct): habit still shown (carry over works). Double tap on 27 Oct made one log only (no duplicate).
+- Small existing quirk: after changing week without picking a day, the old day's tick still shows until a day is selected. Not fixed, can go in the bug check.
+- Test data still there: habit "TEST Abdul" and 2 HabitLog rows (20 and 27 Oct). Deleting with Move to Trash did not work from my clicks (count stayed 2). To delete by hand in Dashboard, Data.
+- NOT published. Time today: about 2.5 hours.

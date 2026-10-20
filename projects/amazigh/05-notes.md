@@ -116,3 +116,9 @@ Not recorded. Start logging.
 - Abdulwasiu wants to start today and finish today.
 - Reality: subscription and notifications are native Apple features. Need his Paid Apps Agreement, RevenueCat, a new Codemagic build, TestFlight test and Apple review (1 to 2 days at best). Cannot finish in a day.
 - Decision proposed: CAD 300 buys Pack Stabilite only (A1, A2, bounded A3). Start when money has arrived. Premium and notifications go to a written revenue share. Prompts ready: 02-work/base44-fix-prompts.md
+
+## 20 Oct 2026: client agrees, scope list for CAD 300
+- Client (translated): "OK, you do what you need to on your side, then tell me what to download etc. Good luck my brother, let's move forward together."
+- Abdulwasiu has access to his Base44 and App Store Connect. Wants a written scope list and a clause: paid when everything except the payment integration is done. Wants RevenueCat to speed up the payment part.
+- Plan: stability first (preview, publish on payment), then RevenueCat subscription, then notifications. Needs from Amazigh: Paid Apps Agreement, bank and tax active (only he can do it), subscription products, APNs key. Time to live: 3 to 5 days because of Apple steps.
+- Rough effort inside CAD 300: about 30+ hours. Below value. Tie future work to a written revenue share.

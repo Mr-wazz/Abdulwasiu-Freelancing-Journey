@@ -178,3 +178,9 @@ Not recorded. Start logging.
 - Abdulwasiu logged in to his RevenueCat (account also has a project "FTLR Fitness", not touched). I created a new project "RiseTrack" (category Health, platform Capacitor). RevenueCat suggested entitlement "RiseTrack Pro" and offering Monthly, Yearly, Lifetime. I skipped them (Lifetime was not agreed). Nothing else configured.
 - Next in RevenueCat, blocked until Apple is ready: add the App Store app (bundle ID com.base6996fa161c7db2beb6067c48.app), upload keys (by Amazigh or Abdulwasiu, never me), products monthly CAD 3.99 and yearly CAD 27.99 with 7 day trial, entitlement, offering. Invite Amazigh as collaborator later.
 - Time today: about 4.2 hours.
+
+## 20 Oct 2026 (session 2, part 8): OneSignal
+- Decision: OneSignal for push notifications (free plan). Abdulwasiu created the account (login email is his own, not Amazigh's).
+- I finished its onboarding: Healthcare and Wellness, 1 to 10 employees, Push channel, skipped brand and SDK steps, chose Free plan. OneSignal auto created an app named "Abdulwasiu App". TO DO: rename it to RiseTrack, add iOS platform with the APNs key (from Amazigh), then the SDK in the iPhone wrapper.
+- App Store Connect: not logged in yet in the browser. Waiting for Abdulwasiu.
+- Time today: about 4.5 hours.

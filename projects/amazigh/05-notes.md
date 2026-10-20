@@ -207,3 +207,8 @@ Not recorded. Start logging.
 - Apple now has an "Availability" block with two options (1 Year Upfront, or Monthly with 12-Month Commitment, needs iOS 26.4+). We use "1 Year Upfront". Availability not set yet.
 - STILL TO DO in App Store Connect: monthly price CAD 3.99 (check that 3.99 exists, use See Additional Prices), 7 day free intro offer on both, availability on both, display name and description (French and English) on both, review screenshot of the paywall (needs the Base44 price page first).
 - Time today: about 6.4 hours.
+
+## 20 Oct 2026 (session 2, part 12)
+- Wrote progress message to Amazigh (FR with EN below): 02-work/message-amazigh-progress-update.md. Not sent yet. Notes: the monthly price and trial are not yet in App Store Connect.
+- Apple's page hung again when I tried the monthly price. Retry next session (reload tab first).
+- Time today: about 6.6 hours.

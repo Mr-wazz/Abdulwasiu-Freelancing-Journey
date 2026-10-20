@@ -172,3 +172,9 @@ Not recorded. Start logging.
 - WATCH: the new owner only rules go live untested with real accounts. If a real user reports empty habits, check Habit, Data, Permissions (records created by another user would be hidden). CSV backup is on Abdulwasiu's laptop. Also run cleanupDuplicateHabitLogs result check on live data.
 - Test data "TEST Abdul" (1 habit, 2 logs) still in the database: delete by hand.
 - Time today: about 3.5 hours (bug check about 0.5 hour, under the 2 hour cap).
+
+## 20 Oct 2026 (session 2, part 7): Apple setup message and RevenueCat project
+- Wrote the message to Amazigh (French with English below): 02-work/message-amazigh-apple-setup.md. Asks for Paid Apps Agreement, bank and tax, then 2 App Store Connect keys and 1 APNs key (.p8 files never in chat). NOT sent yet, Abdulwasiu sends it.
+- Abdulwasiu logged in to his RevenueCat (account also has a project "FTLR Fitness", not touched). I created a new project "RiseTrack" (category Health, platform Capacitor). RevenueCat suggested entitlement "RiseTrack Pro" and offering Monthly, Yearly, Lifetime. I skipped them (Lifetime was not agreed). Nothing else configured.
+- Next in RevenueCat, blocked until Apple is ready: add the App Store app (bundle ID com.base6996fa161c7db2beb6067c48.app), upload keys (by Amazigh or Abdulwasiu, never me), products monthly CAD 3.99 and yearly CAD 27.99 with 7 day trial, entitlement, offering. Invite Amazigh as collaborator later.
+- Time today: about 4.2 hours.

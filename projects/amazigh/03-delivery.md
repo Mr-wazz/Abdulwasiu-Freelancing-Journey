@@ -35,6 +35,6 @@
 ## CAD 300 deal checklist (20 Oct 2026)
 - [x] 1 Base44 badge hidden and published by Abdulwasiu (20 Oct), live check pending
 - [~] 2 Safe area: published 20 Oct on 5 screens, real iPhone test pending
-- [~] 3 Habits carry over: tested in Preview OK, not published  [~] 4 Duplicate logs: done in Preview, tested OK, not published  [ ] 5 Bug check (cap 2h)
+- [x] 3 Habits carry over: published 20 Oct  [x] 4 Duplicate logs: published 20 Oct  [x] 5 Bug check: done, 4 fixes published, see 05-notes
 - [ ] 6 RevenueCat Premium (CAD 3.99 per month, CAD 27.99 per year, 7 day trial)  [ ] 7 Notifications  [ ] 8 New build and Apple review
 - Payment: CAD 300 paid by the client after the project is done (agreed by Abdulwasiu)

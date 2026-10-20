@@ -159,3 +159,16 @@ Not recorded. Start logging.
 - Small existing quirk: after changing week without picking a day, the old day's tick still shows until a day is selected. Not fixed, can go in the bug check.
 - Test data still there: habit "TEST Abdul" and 2 HabitLog rows (20 and 27 Oct). Deleting with Move to Trash did not work from my clicks (count stayed 2). To delete by hand in Dashboard, Data.
 - NOT published. Time today: about 2.5 hours.
+
+## 20 Oct 2026 (session 2, part 6): bug check done and PUBLISHED
+- Prompt 4 (bug check) run in Base44. Found and fixed:
+  1. SERIOUS: Habit, HabitLog, Challenge had no access rules. Any signed in user could read, edit, delete others' data. Added owner only rules (read, update, delete).
+  2. SERIOUS: "Reset habits" and "Delete account" listed ALL users' data with no user filter, so one user could wipe everyone's habits, logs and challenges. Now scoped to the user's own records.
+  3. Tick bug after switching week: fixed (switching week keeps the same weekday).
+  4. Duplicate log through the notes feature: fixed.
+  Rechecked OK: carry over every week, no duplicate logs.
+- Left for later (price in phase 2): Reset habits says "permanently deleted" but archives and clears only the 2,000 most recent logs; support@risetrack.app mailbox unconfirmed; week-start setting ignored (weeks start Sunday); unused week_start field; leftover subscription fields on user records; Apple 5.1.1(v) real account deletion still not done (login stays).
+- PUBLISHED by me at Abdulwasiu's request: dialog showed "Your app is live" at risetracker.base44.app (badge hidden earlier by Abdulwasiu). Includes safe area, carry over, duplicates, access rules.
+- WATCH: the new owner only rules go live untested with real accounts. If a real user reports empty habits, check Habit, Data, Permissions (records created by another user would be hidden). CSV backup is on Abdulwasiu's laptop. Also run cleanupDuplicateHabitLogs result check on live data.
+- Test data "TEST Abdul" (1 habit, 2 logs) still in the database: delete by hand.
+- Time today: about 3.5 hours (bug check about 0.5 hour, under the 2 hour cap).

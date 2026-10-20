@@ -57,3 +57,9 @@ Packages 1 and 3 together, fixed price with milestones and funded escrow. Prices
 
 ## 14 Oct night update
 Client asked for ONE big update (subscription plus solid base). Sell as bundle: Standard (packages 1 and 3), Premium (add Dashboard). Care plan after delivery. Scope freeze date required.
+
+## 20 Oct 2026 update: found during the CAD 300 bug check (phase 2 offers, paid add on)
+- Real account deletion (Apple 5.1.1(v)): today the user login stays. Needed before the next Apple update passes safely.
+- Reset habits true deletion, week start setting, support mailbox, clean unused subscription fields: small cleanup add on.
+- Message idea (FR): "Pendant le contrôle, j'ai corrigé 2 failles importantes : un utilisateur pouvait effacer les données des autres. C'est protégé maintenant. Il reste la vraie suppression de compte exigée par Apple, je te la propose pour la prochaine mise à jour."
+- Status: not offered. Premium (CAD 3.99 per month, 27.99 per year, 7 day trial) and notifications still in the CAD 300 scope, waiting on his Apple setup.

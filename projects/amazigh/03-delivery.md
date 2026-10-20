@@ -9,7 +9,7 @@
 - [ ] Order formally delivered and accepted on Fiverr or Upwork
 - [ ] Review left by Amazigh
 - [x] Payment received via Sendwave (14 Oct 2026). Amount and scope: confirm in writing
-- [ ] Which build Apple approved
+- [x] Which build Apple approved: build 14 (checked 20 Oct)
 
 ## Handover checklist
 - [ ] Amazigh has her Apple account and App Store Connect access

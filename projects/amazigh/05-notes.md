@@ -135,3 +135,8 @@ Not recorded. Start logging.
 - Badge: Builder plan allows hiding it. It is a switch in Dashboard, Overview, Platform Badge, "Hide Badge". NOT clicked yet: it probably changes the live app at once, so it waits for Abdulwasiu's OK and payment decision.
 - Other screens (Tracker, Defis, Parcours, Reglages) not yet checked for safe area.
 - Not published. Time today: about 0.3 hours.
+
+## 20 Oct 2026 (session 2, part 2)
+- PAYMENT DECISION: Abdulwasiu told Amazigh he pays the CAD 300 when the project is done (client terms accepted). No escrow, no money before delivery. Risk: Apple review is outside our control. Keep Publish and "Hide Badge" as separate asks to Abdulwasiu.
+- Safe area padding added in Preview to Tracker, Defis, Parcours, Reglages (Today done before). Base44 says build passes. Cannot be seen in a desktop preview (safe area is 0 there): test on a real iPhone.
+- Prompts 2 to 4 not started. Time today: about 0.6 hours.

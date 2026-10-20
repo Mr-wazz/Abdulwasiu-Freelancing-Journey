@@ -31,3 +31,10 @@
 10. No uniqueness per habit and date in logs, duplicates possible
 11. Empty catch blocks, no crash reporting, analytics or tests, lint errors in 3 files, about 157 leftover Premium and locked references
 12. User table still holds Apple receipt and trial fields
+
+## CAD 300 deal checklist (20 Oct 2026)
+- [~] 1 Base44 badge: allowed on his plan, switch NOT clicked yet (waits for Abdulwasiu)
+- [~] 2 Safe area top of screen: done in Preview on 5 screens, not published, real iPhone test pending
+- [ ] 3 Habits carry over  [ ] 4 Duplicate logs  [ ] 5 Bug check (cap 2h)
+- [ ] 6 RevenueCat Premium (CAD 3.99 per month, CAD 27.99 per year, 7 day trial)  [ ] 7 Notifications  [ ] 8 New build and Apple review
+- Payment: CAD 300 paid by the client after the project is done (agreed by Abdulwasiu)

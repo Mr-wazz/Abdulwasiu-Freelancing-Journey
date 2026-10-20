@@ -184,3 +184,12 @@ Not recorded. Start logging.
 - I finished its onboarding: Healthcare and Wellness, 1 to 10 employees, Push channel, skipped brand and SDK steps, chose Free plan. OneSignal auto created an app named "Abdulwasiu App". TO DO: rename it to RiseTrack, add iOS platform with the APNs key (from Amazigh), then the SDK in the iPhone wrapper.
 - App Store Connect: not logged in yet in the browser. Waiting for Abdulwasiu.
 - Time today: about 4.5 hours.
+
+## 20 Oct 2026 (session 2, part 9): App Store Connect read only check
+- Abdulwasiu logged in. Read only checks, nothing changed:
+  - v1.0 is "Ready for Distribution", approved build is 14. (Closes open item: which build Apple approved.)
+  - Users and Access: belharetamazigh7@gmail.com = Amazigh Belharet, Account Holder and Admin. marvel19.04.2004@gmail.com = "Samuel Marvelous" = the login Abdulwasiu uses, role App Manager. (Closes open item: who is Samuel Marvelous.)
+  - Consequence: App Manager cannot create API keys or open Business (Paid Apps Agreement, bank, tax). Only Amazigh can. The idea that Abdulwasiu creates the keys is not possible unless Amazigh makes him Admin (his decision, not recommended to ask).
+  - The Business page stayed blank or loading for me, consistent with no access.
+- Still to do in App Store Connect (App Manager can do it): create subscription group and 2 products as drafts. Waiting for Abdulwasiu's OK.
+- Time today: about 5 hours.

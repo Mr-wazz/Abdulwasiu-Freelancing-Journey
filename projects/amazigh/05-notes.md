@@ -146,3 +146,9 @@ Not recorded. Start logging.
 - Backup: clicked "Make a copy" in Dashboard menu. No copy appeared in the Base44 app list after about 1 minute. Not confirmed. Base44 Data has "Backup & Restore" tab marked as a paid feature (not used). Tables: Challenge, Habit, HabitLog.
 - "Hide Badge" click was BLOCKED by the app's permission system (counted as a production change). Not done. Nothing published. Prompt 2 not started (no confirmed backup of real user data).
 - Time today: about 1 hour.
+
+## 20 Oct 2026 (session 2, part 4)
+- Abdulwasiu hid the Base44 badge and published himself (safe area on 5 screens went live with it). Not checked on the live app yet.
+- Backup: Abdulwasiu exported the 3 tables (Challenge, Habit, HabitLog) as CSV on his laptop. Not in the repo (user data).
+- Prompt 2 run in Preview: Base44 removed the week filter in Today Page, Tracker Page and use Report Stats. Habits now show every week until deleted or archived. No data edited. NOT tested with a real habit (preview account has 0 habits). NOT published.
+- Next: test with one test habit, Prompt 3 (duplicate logs), Prompt 4 (bug check, 2h cap). Time today: about 1.7 hours.

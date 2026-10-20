@@ -33,8 +33,8 @@
 12. User table still holds Apple receipt and trial fields
 
 ## CAD 300 deal checklist (20 Oct 2026)
-- [~] 1 Base44 badge: allowed on his plan, switch NOT clicked yet (waits for Abdulwasiu)
-- [~] 2 Safe area top of screen: done in Preview on 5 screens, not published, real iPhone test pending
-- [ ] 3 Habits carry over  [ ] 4 Duplicate logs  [ ] 5 Bug check (cap 2h)
+- [x] 1 Base44 badge hidden and published by Abdulwasiu (20 Oct), live check pending
+- [~] 2 Safe area: published 20 Oct on 5 screens, real iPhone test pending
+- [~] 3 Habits carry over: done in Preview, not tested, not published  [ ] 4 Duplicate logs  [ ] 5 Bug check (cap 2h)
 - [ ] 6 RevenueCat Premium (CAD 3.99 per month, CAD 27.99 per year, 7 day trial)  [ ] 7 Notifications  [ ] 8 New build and Apple review
 - Payment: CAD 300 paid by the client after the project is done (agreed by Abdulwasiu)

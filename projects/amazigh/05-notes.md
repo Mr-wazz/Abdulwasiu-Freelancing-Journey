@@ -122,3 +122,10 @@ Not recorded. Start logging.
 - Abdulwasiu has access to his Base44 and App Store Connect. Wants a written scope list and a clause: paid when everything except the payment integration is done. Wants RevenueCat to speed up the payment part.
 - Plan: stability first (preview, publish on payment), then RevenueCat subscription, then notifications. Needs from Amazigh: Paid Apps Agreement, bank and tax active (only he can do it), subscription products, APNs key. Time to live: 3 to 5 days because of Apple steps.
 - Rough effort inside CAD 300: about 30+ hours. Below value. Tie future work to a written revenue share.
+
+## 20 Oct 2026 (later): prices set, client wants to pay at the end
+- Client (French): subscription prices are CAD 3.99 per month and CAD 27.99 per year, with a 7 day free trial.
+- Client wants to pay the CAD 300 only after all features work AND Apple accepted the new version. Future work: "we will talk when the time comes".
+- CONFLICT with the agreed rule (pay before Publish). Not accepted yet. Proposed counter, waiting for Abdulwasiu: CAD 150 before Publish of the web fixes, CAD 150 when Apple approves the new build. Abdulwasiu decides.
+- To check in App Store Connect: that CAD 3.99 and 27.99 price points can be set.
+- Base44 login not done yet. Time log: 0 hours so far.

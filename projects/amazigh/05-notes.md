@@ -129,3 +129,9 @@ Not recorded. Start logging.
 - CONFLICT with the agreed rule (pay before Publish). Not accepted yet. Proposed counter, waiting for Abdulwasiu: CAD 150 before Publish of the web fixes, CAD 150 when Apple approves the new build. Abdulwasiu decides.
 - To check in App Store Connect: that CAD 3.99 and 27.99 price points can be set.
 - Base44 login not done yet. Time log: 0 hours so far.
+
+## 20 Oct 2026 (session 2): Prompt 1 run in Base44 Preview
+- Abdulwasiu logged in to Base44. Ran Prompt 1 in the editor chat. Base44 added safe-area top padding on the Today page only. viewport-fit=cover was already set.
+- Badge: Builder plan allows hiding it. It is a switch in Dashboard, Overview, Platform Badge, "Hide Badge". NOT clicked yet: it probably changes the live app at once, so it waits for Abdulwasiu's OK and payment decision.
+- Other screens (Tracker, Defis, Parcours, Reglages) not yet checked for safe area.
+- Not published. Time today: about 0.3 hours.

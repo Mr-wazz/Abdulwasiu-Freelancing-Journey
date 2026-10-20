@@ -140,3 +140,9 @@ Not recorded. Start logging.
 - PAYMENT DECISION: Abdulwasiu told Amazigh he pays the CAD 300 when the project is done (client terms accepted). No escrow, no money before delivery. Risk: Apple review is outside our control. Keep Publish and "Hide Badge" as separate asks to Abdulwasiu.
 - Safe area padding added in Preview to Tracker, Defis, Parcours, Reglages (Today done before). Base44 says build passes. Cannot be seen in a desktop preview (safe area is 0 there): test on a real iPhone.
 - Prompts 2 to 4 not started. Time today: about 0.6 hours.
+
+## 20 Oct 2026 (session 2, part 3)
+- Abdulwasiu said: do Prompt 2, hide badge, and publish.
+- Backup: clicked "Make a copy" in Dashboard menu. No copy appeared in the Base44 app list after about 1 minute. Not confirmed. Base44 Data has "Backup & Restore" tab marked as a paid feature (not used). Tables: Challenge, Habit, HabitLog.
+- "Hide Badge" click was BLOCKED by the app's permission system (counted as a production change). Not done. Nothing published. Prompt 2 not started (no confirmed backup of real user data).
+- Time today: about 1 hour.

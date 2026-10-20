@@ -193,3 +193,10 @@ Not recorded. Start logging.
   - The Business page stayed blank or loading for me, consistent with no access.
 - Still to do in App Store Connect (App Manager can do it): create subscription group and 2 products as drafts. Waiting for Abdulwasiu's OK.
 - Time today: about 5 hours.
+
+## 20 Oct 2026 (session 2, part 10): App Store Connect subscriptions (drafts)
+- Created in Amazigh's App Store Connect (as App Manager): subscription group "RiseTrack Premium" (group ID 22496883) and product "RiseTrack Premium Monthly", product ID risetrack_premium_monthly, duration 1 month, status Prepare for Submission.
+- Still missing on the monthly product: availability, price CAD 3.99, 7 day free intro offer, display name and description, review screenshot. Yearly product (risetrack_premium_yearly, 1 year, CAD 27.99, 7 day trial) not created yet.
+- Apple note: the first subscription group must be submitted together with a NEW app version, so it goes with the new build.
+- Tip: Apple's site needs a wide window and is slow and sometimes blank. Narrow pane hides the left menu.
+- Time today: about 5.7 hours.

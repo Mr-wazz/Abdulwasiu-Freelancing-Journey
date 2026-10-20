@@ -200,3 +200,10 @@ Not recorded. Start logging.
 - Apple note: the first subscription group must be submitted together with a NEW app version, so it goes with the new build.
 - Tip: Apple's site needs a wide window and is slow and sometimes blank. Narrow pane hides the left menu.
 - Time today: about 5.7 hours.
+
+## 20 Oct 2026 (session 2, part 11): yearly product and price
+- Created product "RiseTrack Premium Yearly", ID risetrack_premium_yearly, 1 year, Apple ID 6824962485, in group RiseTrack Premium.
+- Set yearly price with base country Canada: CAD 27.99 (confirmed in the pricing dialog, Apple auto converts other countries, e.g. US 19.99 USD, EU 22.99 EUR). The page shows a pricing summary, saved status to be verified once at next visit.
+- Apple now has an "Availability" block with two options (1 Year Upfront, or Monthly with 12-Month Commitment, needs iOS 26.4+). We use "1 Year Upfront". Availability not set yet.
+- STILL TO DO in App Store Connect: monthly price CAD 3.99 (check that 3.99 exists, use See Additional Prices), 7 day free intro offer on both, availability on both, display name and description (French and English) on both, review screenshot of the paywall (needs the Base44 price page first).
+- Time today: about 6.4 hours.

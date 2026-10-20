@@ -110,3 +110,9 @@ Not recorded. Start logging.
 ## 20 Oct 2026: Abdulwasiu wants one single payment of about 400
 - Designed "Pack Solide" single payment 400 CAD (see 01-proposal-quote.md). Honest limit: 400 cannot cover subscription, notifications, deletion or the Apple build (about 34 hours). Those go to the partnership step.
 - Collection steps: written yes, Sendwave transfer, receipt screenshot, confirm money arrived, then start. Delivery in 7 days.
+
+## 20 Oct 2026: client says Base44 makes it easy, CAD 300 for everything
+- Client (translated): the app is on Base44, changes are done on the platform, not in code. He thought CAD 300 was enough for bugs, subscriptions and notifications. When the app earns money he will offer another amount.
+- Abdulwasiu wants to start today and finish today.
+- Reality: subscription and notifications are native Apple features. Need his Paid Apps Agreement, RevenueCat, a new Codemagic build, TestFlight test and Apple review (1 to 2 days at best). Cannot finish in a day.
+- Decision proposed: CAD 300 buys Pack Stabilite only (A1, A2, bounded A3). Start when money has arrived. Premium and notifications go to a written revenue share. Prompts ready: 02-work/base44-fix-prompts.md

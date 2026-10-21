@@ -63,3 +63,7 @@ Client asked for ONE big update (subscription plus solid base). Sell as bundle: 
 - Reset habits true deletion, week start setting, support mailbox, clean unused subscription fields: small cleanup add on.
 - Message idea (FR): "Pendant le contrôle, j'ai corrigé 2 failles importantes : un utilisateur pouvait effacer les données des autres. C'est protégé maintenant. Il reste la vraie suppression de compte exigée par Apple, je te la propose pour la prochaine mise à jour."
 - Status: not offered. Premium (CAD 3.99 per month, 27.99 per year, 7 day trial) and notifications still in the CAD 300 scope, waiting on his Apple setup.
+
+## 21 Oct 2026 update
+- Remote push notifications (OneSignal): inactivity nudges, news, win-back. Not needed for the CAD 300 reminders (local notifications). Offer later as paid add-on once Premium earns.
+- Real account deletion (Apple 5.1.1(v)): still open, offer as paid add-on or include before submission if Abdulwasiu agrees. Message idea (FR): "Apple demande une vraie suppression de compte. Je te propose de l'ajouter avant l'envoi pour éviter un refus."

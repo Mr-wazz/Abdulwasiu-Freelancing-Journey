@@ -259,3 +259,8 @@ Not recorded. Start logging.
 - Note: 17 Habit records remain, 0 logs overall, so this database looks like test or early data, not many real users yet. The Data page header may still show (18) until refreshed.
 - Apple's site hung several times again (clicks time out). Still to do in App Store Connect: yearly display name and description, availability on both, 7 day trial on both, review screenshot and notes. Retry when the pane responds.
 - Time today (21 Oct): about 2.8 hours. Total about 9.4 hours.
+
+## 21 Oct 2026 (part 6): Apple availability attempt
+- Reached the yearly product page and opened "Upfront Billing Availability". The "Select All" link did not respond to my clicks, so availability is NOT set on either product. Nothing was saved. Dialog closed with Escape.
+- Manual steps for Abdulwasiu (a few clicks): open each product, Availability, Set Up Availability, tick all regions (or click "All" top right), Save. Then Subscription Prices, + , add the 7 day free introductory offer. Then yearly display name "RiseTrack Premium annuel".
+- Time today (21 Oct): about 3.4 hours. Total about 10 hours.

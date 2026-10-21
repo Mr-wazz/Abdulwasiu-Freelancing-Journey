@@ -223,3 +223,10 @@ Not recorded. Start logging.
 - Client (French): he added his bank information, Apple is processing it. Missing: TPS and TVQ numbers (Canadian GST and Quebec QST) for the tax part. He will confirm the number tomorrow by calling Revenu Quebec.
 - Meaning: Paid Apps Agreement not Active yet. The 3 to 5 day clock still has not started. Tax details are his business, we do not give tax advice. We can only say to check the Apple form for a "not registered" option and ask Revenu Quebec or an accountant.
 - Next: wait for his news tomorrow. Meanwhile finish App Store Connect products, Base44 price page, wrapper work.
+
+## 21 Oct 2026: monthly price saved in App Store Connect
+- Monthly product risetrack_premium_monthly: price set CAD 3.99 (base Canada). Other countries auto: US 2.99 USD, EU 2.99 EUR, AUD 4.99. Saved (confirmed after the Confirm dialog).
+- Yearly product: price CAD 27.99 set earlier.
+- STILL TO DO on both: Availability (choose all countries, and for yearly use "1 Year Upfront"), 7 day free intro offer, display name and description (French and English), review screenshot.
+- Browser tips for Apple's site: in a narrow pane the screenshots lag and pop-up lists do not show. The normal "desktop" size works better, but wait 5 seconds after each click. Reach the product by clicking from the sidebar (Subscriptions, group, product). Direct links often hang.
+- Time today (21 Oct): about 0.7 hours. Total about 7.3 hours.

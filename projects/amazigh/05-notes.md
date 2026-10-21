@@ -237,3 +237,11 @@ Not recorded. Start logging.
 - Nothing is locked, all features stay free. NOT published. Preview only.
 - OPEN DECISION for Abdulwasiu: what does Premium really unlock? Apple (3.1.2 and 2.3) can reject a subscription that sells things that are already free (the placeholder benefits "unlimited habits, advanced stats, smart reminders" are all free today). Options: lock advanced stats and smart reminders behind Premium, or sell "support the app" style tip, or Premium extras (themes, export, challenges). Locked features must be clearly described and must not break approved free use. Decide before the review screenshot and Apple build.
 - Time today (21 Oct): about 1.1 hours. Total about 7.7 hours.
+
+## 21 Oct 2026 (part 3): Option A chosen, Premium locks prepared (OFF)
+- Decision (Abdulwasiu): Option A. Free: habits, tasks, weekly tracker, basic stats, 1 active challenge. Premium (CAD 3.99 per month, 27.99 per year, 7 day trial): iPhone reminders, advanced stats and trends, unlimited challenges.
+- Built in Base44 Preview: lib/purchases has PREMIUM_LOCKS_ENABLED = false, usePremium(), canUse(feature) (always true while flag is false). Gates wired in Reminder Section, Tracker Page (trends chart), Challenges Page (2nd challenge). New component Premium Lock (small lock plus Unlock button to the Premium page). Premium Page benefits updated to the 3 lines (FR and EN), "nothing is locked" line removed.
+- With the flag false the app behaves exactly as before. NOT published (Preview only).
+- ORDER RULE: flip PREMIUM_LOCKS_ENABLED to true only AFTER Apple approves the new iPhone build with RevenueCat, then Publish (ask Abdulwasiu first). Otherwise free users would see locks with no way to buy.
+- NOT yet tested with the flag on. Test next in Preview by flipping the flag, then flip back.
+- Time today (21 Oct): about 1.6 hours. Total about 8.2 hours.

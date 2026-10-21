@@ -212,3 +212,9 @@ Not recorded. Start logging.
 - Wrote progress message to Amazigh (FR with EN below): 02-work/message-amazigh-progress-update.md. Not sent yet. Notes: the monthly price and trial are not yet in App Store Connect.
 - Apple's page hung again when I tried the monthly price. Retry next session (reload tab first).
 - Time today: about 6.6 hours.
+
+## 21 Oct 2026: client reply
+- Abdulwasiu sent the progress message with the Paid Apps Agreement steps. Client (French): "Parfait mon ami, des que je rentre je fais ca". So he will do it when he gets home. NOT done yet.
+- Clock for the 3 to 5 days has not started. Blocker: Paid Apps Agreement, bank and tax (only Amazigh).
+- Do not chase today. One short check next morning if no news. Keys message (2 App Store Connect keys, 1 APNs key) goes AFTER step 1 is done.
+- Meanwhile (no client needed): finish monthly price CAD 3.99, trial, names in App Store Connect, price page in Base44, wrapper work.

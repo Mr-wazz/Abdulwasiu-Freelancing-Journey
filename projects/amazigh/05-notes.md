@@ -230,3 +230,10 @@ Not recorded. Start logging.
 - STILL TO DO on both: Availability (choose all countries, and for yearly use "1 Year Upfront"), 7 day free intro offer, display name and description (French and English), review screenshot.
 - Browser tips for Apple's site: in a narrow pane the screenshots lag and pop-up lists do not show. The normal "desktop" size works better, but wait 5 seconds after each click. Reach the product by clicking from the sidebar (Subscriptions, group, product). Direct links often hang.
 - Time today (21 Oct): about 0.7 hours. Total about 7.3 hours.
+
+## 21 Oct 2026 (part 2): Premium price page built in Base44 Preview
+- Abdulwasiu OK'd. Prompt run in Base44: new Premium page (FR and EN), reached from Settings ("Passer a Premium"). Files created: Premium Page, components/premium/premium Copy, components/premium/Plan Card, lib/purchases. Edited App and Settings Page.
+- Shows: 3 placeholder benefits, Monthly CAD 3.99, Yearly CAD 27.99 marked best value (saves CAD 19.89, 42 percent), 7 day trial line, trial button, Restore Purchases, Terms and Privacy links. Buttons call lib/purchases which looks for window.Capacitor.Plugins.Purchases (RevenueCat). In a browser it shows "Purchases are available in the iPhone app".
+- Nothing is locked, all features stay free. NOT published. Preview only.
+- OPEN DECISION for Abdulwasiu: what does Premium really unlock? Apple (3.1.2 and 2.3) can reject a subscription that sells things that are already free (the placeholder benefits "unlimited habits, advanced stats, smart reminders" are all free today). Options: lock advanced stats and smart reminders behind Premium, or sell "support the app" style tip, or Premium extras (themes, export, challenges). Locked features must be clearly described and must not break approved free use. Decide before the review screenshot and Apple build.
+- Time today (21 Oct): about 1.1 hours. Total about 7.7 hours.

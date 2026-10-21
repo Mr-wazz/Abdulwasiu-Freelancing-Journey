@@ -253,3 +253,9 @@ Not recorded. Start logging.
 - STILL TO DO: yearly display name and description (suggest "RiseTrack Premium annuel", same description), English localization on group and both products (optional), Availability on both ("1 Year Upfront" for yearly), 7 day free trial introductory offer on both (look under the + next to Subscription Prices, price must exist first), review screenshot of the Premium page, review notes.
 - Tips: use 1280 by 1500 viewport, take a screenshot and click by coordinates, wait 5 to 8 seconds after each click.
 - Time today (21 Oct): about 2.4 hours. Total about 9 hours.
+
+## 21 Oct 2026 (part 5): test data deleted
+- Asked Base44 to delete only my test data. It listed before deleting: Habit "TEST Abdul" (one exact match) and its 2 HabitLogs (20 and 27 Oct). Totals before: 18 Habit, 2 HabitLog. Deleted those 3 records only. Totals after: 17 Habit, 0 HabitLog. No other record touched. (Open item closed.)
+- Note: 17 Habit records remain, 0 logs overall, so this database looks like test or early data, not many real users yet. The Data page header may still show (18) until refreshed.
+- Apple's site hung several times again (clicks time out). Still to do in App Store Connect: yearly display name and description, availability on both, 7 day trial on both, review screenshot and notes. Retry when the pane responds.
+- Time today (21 Oct): about 2.8 hours. Total about 9.4 hours.

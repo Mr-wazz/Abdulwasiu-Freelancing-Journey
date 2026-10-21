@@ -218,3 +218,8 @@ Not recorded. Start logging.
 - Clock for the 3 to 5 days has not started. Blocker: Paid Apps Agreement, bank and tax (only Amazigh).
 - Do not chase today. One short check next morning if no news. Keys message (2 App Store Connect keys, 1 APNs key) goes AFTER step 1 is done.
 - Meanwhile (no client needed): finish monthly price CAD 3.99, trial, names in App Store Connect, price page in Base44, wrapper work.
+
+## 21 Oct 2026 (later): client added bank info
+- Client (French): he added his bank information, Apple is processing it. Missing: TPS and TVQ numbers (Canadian GST and Quebec QST) for the tax part. He will confirm the number tomorrow by calling Revenu Quebec.
+- Meaning: Paid Apps Agreement not Active yet. The 3 to 5 day clock still has not started. Tax details are his business, we do not give tax advice. We can only say to check the Apple form for a "not registered" option and ask Revenu Quebec or an accountant.
+- Next: wait for his news tomorrow. Meanwhile finish App Store Connect products, Base44 price page, wrapper work.

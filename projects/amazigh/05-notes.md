@@ -245,3 +245,11 @@ Not recorded. Start logging.
 - ORDER RULE: flip PREMIUM_LOCKS_ENABLED to true only AFTER Apple approves the new iPhone build with RevenueCat, then Publish (ask Abdulwasiu first). Otherwise free users would see locks with no way to buy.
 - NOT yet tested with the flag on. Test next in Preview by flipping the flag, then flip back.
 - Time today (21 Oct): about 1.6 hours. Total about 8.2 hours.
+
+## 21 Oct 2026 (part 4): App Store Connect names
+- Client has still not sent the tax numbers (TPS and TVQ), he said "until tomorrow" (22 Oct). Main blocker, nothing to do on our side.
+- Subscription group "RiseTrack Premium": localization saved, French (Canada), display name "RiseTrack Premium", app name RiseTrack.
+- Monthly product: French (Canada) display name "RiseTrack Premium mensuel", description "Rappels, stats avancées et défis illimités" (limits: 35 and 55 characters). Saved and shown on the page.
+- STILL TO DO: yearly display name and description (suggest "RiseTrack Premium annuel", same description), English localization on group and both products (optional), Availability on both ("1 Year Upfront" for yearly), 7 day free trial introductory offer on both (look under the + next to Subscription Prices, price must exist first), review screenshot of the Premium page, review notes.
+- Tips: use 1280 by 1500 viewport, take a screenshot and click by coordinates, wait 5 to 8 seconds after each click.
+- Time today (21 Oct): about 2.4 hours. Total about 9 hours.

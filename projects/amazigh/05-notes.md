@@ -272,3 +272,10 @@ Not recorded. Start logging.
 - Draft review notes for Apple: 02-work/apple-review-notes-DRAFT.md.
 - Still open: Apple availability and 7 day trial clicks (manual), yearly name, Amazigh tax numbers (due 22 Oct), RevenueCat app and keys, real account deletion (Apple 5.1.1(v)).
 - Time today (21 Oct): about 4.6 hours. Total about 11.2 hours.
+
+## 21 Oct 2026 (part 8): decisions and real account deletion
+- DECISIONS (Abdulwasiu): (1) reminders use local notifications, yes. (2) Real account deletion is INCLUDED in the CAD 300, free.
+- Built in Base44 Preview: backend function deleteMyAccount. Identity only from the session token (base44.auth.me()), no user id from the browser, 401 without a valid session. It deletes the caller's Habit, HabitLog and Challenge records (deleteMany filtered by created_by_id) and then the caller's own login with the service role. Settings flow: confirmation (now says account and login permanently deleted), cancel local reminders, call function, sign out with FR and EN confirmation notice (new component Account Deleted Notice). On error a bilingual message shows and the user stays signed in. Apple 5.1.1(v) item now covered in code.
+- NOT tested. I may not create accounts, so Abdulwasiu must test with a throwaway account: sign up on the app, add a habit, Settings, Delete account, confirm, then check he is signed out, cannot log in again, and the Data tab has no records for that user. NEVER test on a real or admin account.
+- NOT published. Publish after the test passes and with the other web changes, with Abdulwasiu's OK.
+- Time today (21 Oct): about 5 hours. Total about 11.6 hours.

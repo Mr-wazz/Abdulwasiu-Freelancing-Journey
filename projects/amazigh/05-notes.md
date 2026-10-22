@@ -304,3 +304,10 @@ Not recorded. Start logging.
 - Answer to (3): the iPhone app is a shell that opens the live Base44 site. Web changes appear at once on Publish, no App Store update. Only native features (Premium purchases, reminders) need a new iPhone build and Apple review. Draft reply given to Abdulwasiu.
 - (2) is a bug in scope (safe area and bug check). Fixed in Preview: Habit Form Dialog uses dynamic viewport height minus insets, header with title, Delete and close stays fixed, only the form body scrolls (also edited the mobile stylesheet). Not tested on a real phone. NOT published.
 - (1) sticky add button: small tweak, outside the original list. Decision pending from Abdulwasiu (include as goodwill or later paid polish). Not started.
+
+## 23 Oct 2026 (later): two client fixes PUBLISHED
+- Abdulwasiu included the sticky Add button for free and gave full access to publish.
+- Done in Base44: (1) Today page "Nouveau" button is fixed above the tab bar (offset tab bar + safe area bottom + 12px), content has bottom padding so the last habit is not hidden. Seen in Preview. (2) Habit Form Dialog fixed earlier (header with title, Delete and close fixed, only the form body scrolls, dynamic viewport height minus insets).
+- Published: Base44 dialog "Your app is live", risetracker.base44.app. Both fixes are live for the client's iPhone without an App Store update.
+- Not tested on a real phone by me. Ask Amazigh (or Abdulwasiu) to confirm: first page button stays visible, habit form shows the top and Delete.
+- Time (23 Oct): about 0.7 hours. Total about 12.8 hours.

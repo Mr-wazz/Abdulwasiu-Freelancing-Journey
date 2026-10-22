@@ -311,3 +311,6 @@ Not recorded. Start logging.
 - Published: Base44 dialog "Your app is live", risetracker.base44.app. Both fixes are live for the client's iPhone without an App Store update.
 - Not tested on a real phone by me. Ask Amazigh (or Abdulwasiu) to confirm: first page button stays visible, habit form shows the top and Delete.
 - Time (23 Oct): about 0.7 hours. Total about 12.8 hours.
+
+## 23 Oct 2026 (night): blocked by Apple login
+- Abdulwasiu asked me to finish alone and never ask questions. The browser pane showed App Store Connect and RevenueCat logged out again for me (login page, authResult FAILED), so I could not click. I may not enter passwords or codes. Wrote 02-work/GO-LIVE-CHECKLIST.md with every remaining step and who does it.

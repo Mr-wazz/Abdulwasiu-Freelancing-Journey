@@ -285,3 +285,10 @@ Not recorded. Start logging.
 - Safety change in Preview: Premium is visible only when window.Capacitor.Plugins.Purchases exists (helper isPremiumAvailable() gates the Settings row, every Unlock button, and the /Premium route). In a browser and in the current iPhone app (v1.0, build 14) no Premium shows. Locks stay off. This lets us Publish the web update BEFORE the new iPhone build without showing a Premium page that cannot work.
 - Web update ready to publish: real account deletion, hidden Premium code, reminders and purchase code (inert without the plugin). Waiting for Abdulwasiu's OK to Publish.
 - Still open: Amazigh tax numbers and Paid Apps Agreement, Apple availability and 7 day trial clicks, RevenueCat app and keys, build and TestFlight.
+
+## 22 Oct 2026 (later): PUBLISHED web update
+- Abdulwasiu said "go ahead and publish, I give you access". I clicked Publish in Base44. Dialog: "Your app is live", risetracker.base44.app. The live login page loads. Previous publish was 20 Oct.
+- Now live: real account deletion (deleteMyAccount), Premium and Unlock hidden unless the iPhone plugin exists, purchase and reminder code inert without plugin, locks off.
+- NOT checked: logged-in live screens (I cannot sign in or create accounts). Abdulwasiu to confirm on his phone that the app opens, habits show, and Settings has no Premium row.
+- Base44 shows "Security status: Out of date" in the Publish box (a scan can be re-run later). Not done.
+- Time today (22 Oct): about 0.5 hours. Total about 12.1 hours.

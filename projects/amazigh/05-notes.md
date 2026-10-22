@@ -324,3 +324,11 @@ Not recorded. Start logging.
 - STILL MISSING for submission: review screenshot on both products (needs the Premium page in the iPhone build), RevenueCat app and keys (after Amazigh), Paid Apps Agreement.
 - Apple's pages were slow and sometimes returned "something went wrong", a reload fixes it.
 - Time (23 Oct night): about 1 hour. Total about 13.8 hours.
+
+## 23 Oct 2026 (video from the client): two bugs fixed and PUBLISHED
+- Client sent a screen recording from his iPhone (WhatsApp video, 31 s) and said in French: the Add button stays on ALL pages though it should be only on the first page, and the habit window still has bugs. Rest is good, he will tell us when the tax side is settled.
+- I extracted frames from the video. Findings: (1) the floating "Nouveau" button showed on Parcours, Tracker and on top of the habit form, because every tab stays mounted and my fixed button belonged to the Today page. (2) The habit form top was under the status bar and clock, the first fields cut, and the tab bar plus the button were drawn over the form and the Save area.
+- Fixes in Base44: button is now rendered only when the Today tab is active (same active tab condition as the tab bar, my first version used the wrong route and hid it on Today too, caught in Preview and fixed) and hidden while the form is open. The habit form is now a full screen portal sheet (z-index 9999, safe area top and bottom padding, pinned header with title, Delete and X, scrolling body, pinned Save button).
+- Verified in Preview: button visible on Today, gone on Parcours, hidden when the form opens. NOT verified visually: the form layout itself (Preview screenshots do not show the portal sheet and the safe area is 0 in a desktop preview). Real iPhone check needed.
+- PUBLISHED (Base44 "Your app is live"). If the client reports the form is worse, rollback: Base44 chat history, Revert to the message before "Two bugs seen on a real iPhone", then Publish.
+- Time (23 Oct): about 1.5 hours. Total about 15.3 hours.

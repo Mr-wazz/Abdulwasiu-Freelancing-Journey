@@ -314,3 +314,13 @@ Not recorded. Start logging.
 
 ## 23 Oct 2026 (night): blocked by Apple login
 - Abdulwasiu asked me to finish alone and never ask questions. The browser pane showed App Store Connect and RevenueCat logged out again for me (login page, authResult FAILED), so I could not click. I may not enter passwords or codes. Wrote 02-work/GO-LIVE-CHECKLIST.md with every remaining step and who does it.
+
+## 23 Oct 2026 (night, part 2): App Store Connect items done
+- Abdulwasiu logged in again (pane works). Done in Amazigh's App Store Connect:
+  - Yearly: availability already shows "All countries or regions selected" (1 Year Upfront). Display name "RiseTrack Premium annuel" and description saved (French Canada).
+  - Yearly: introductory offer created, Free for the first week, 175 countries, from 22 Oct 2026, no end date.
+  - Monthly: same introductory offer created (Free for the first week, 175 countries, 22 Oct 2026, no end date), confirmed on the page.
+- STILL TO CHECK: monthly availability (the monthly product page timed out when I tried to read it). Monthly price CAD 3.99 and name were saved earlier.
+- STILL MISSING for submission: review screenshot on both products (needs the Premium page in the iPhone build), RevenueCat app and keys (after Amazigh), Paid Apps Agreement.
+- Apple's pages were slow and sometimes returned "something went wrong", a reload fixes it.
+- Time (23 Oct night): about 1 hour. Total about 13.8 hours.

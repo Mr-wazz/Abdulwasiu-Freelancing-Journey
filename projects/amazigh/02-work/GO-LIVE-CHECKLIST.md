@@ -14,9 +14,9 @@ Status as of 23 Oct 2026. Tick when done. Who does it is in brackets.
 - [ ] Create App Store Connect API key (.p8) and In App Purchase key (.p8), upload both himself in RevenueCat (never in chat or repo)
 
 ## C. Needs an open Apple login (Abdulwasiu logs in, I click)
-- [ ] Both products: Availability (all countries, yearly "1 Year Upfront")
-- [ ] Both products: 7 day free introductory offer
-- [ ] Yearly: display name "RiseTrack Premium annuel" plus description "Rappels, stats avancées et défis illimités"
+- [x] Yearly availability (all countries), monthly availability to re-check
+- [x] Both products: 7 day free introductory offer (done 23 Oct)
+- [x] Yearly: display name and description (done 23 Oct)
 - [ ] Both products: review screenshot of the Premium page (take it from the TestFlight build)
 - [ ] RevenueCat: add iOS app (bundle ID com.base6996fa161c7db2beb6067c48.app), entitlement "premium", offering "default" with monthly and yearly packages
 - [ ] Copy the RevenueCat iOS public key (appl_...) into Base44 lib/purchases (REVENUECAT_IOS_API_KEY)

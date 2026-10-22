@@ -279,3 +279,9 @@ Not recorded. Start logging.
 - NOT tested. I may not create accounts, so Abdulwasiu must test with a throwaway account: sign up on the app, add a habit, Settings, Delete account, confirm, then check he is signed out, cannot log in again, and the Data tab has no records for that user. NEVER test on a real or admin account.
 - NOT published. Publish after the test passes and with the other web changes, with Abdulwasiu's OK.
 - Time today (21 Oct): about 5 hours. Total about 11.6 hours.
+
+## 22 Oct 2026: deletion test passed, Premium hidden until native build
+- Abdulwasiu tested real account deletion with a throwaway account in the Preview: it worked.
+- Safety change in Preview: Premium is visible only when window.Capacitor.Plugins.Purchases exists (helper isPremiumAvailable() gates the Settings row, every Unlock button, and the /Premium route). In a browser and in the current iPhone app (v1.0, build 14) no Premium shows. Locks stay off. This lets us Publish the web update BEFORE the new iPhone build without showing a Premium page that cannot work.
+- Web update ready to publish: real account deletion, hidden Premium code, reminders and purchase code (inert without the plugin). Waiting for Abdulwasiu's OK to Publish.
+- Still open: Amazigh tax numbers and Paid Apps Agreement, Apple availability and 7 day trial clicks, RevenueCat app and keys, build and TestFlight.

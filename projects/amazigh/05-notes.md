@@ -292,3 +292,8 @@ Not recorded. Start logging.
 - NOT checked: logged-in live screens (I cannot sign in or create accounts). Abdulwasiu to confirm on his phone that the app opens, habits show, and Settings has no Premium row.
 - Base44 shows "Security status: Out of date" in the Publish box (a scan can be re-run later). Not done.
 - Time today (22 Oct): about 0.5 hours. Total about 12.1 hours.
+
+## 22 Oct 2026 (evening): client silent
+- No reply from Amazigh since "I do it when I get home" (21 Oct) and the bank info update. Abdulwasiu followed up on 21 Oct, still no reply. Tax numbers (TPS, TVQ) pending, Paid Apps Agreement not Active.
+- Risk noted: items 1 to 5 of the CAD 300 are live and unpaid (agreed: pay at the end). Items 6 to 8 depend on him. Suggested: one short warm check after 48 hours of silence, offer help with the tax form step, and a fair option of a CAD 150 milestone for the web part already live. Abdulwasiu decides, nothing sent by me.
+- Meanwhile, work that needs no client: Apple availability and trial clicks, RevenueCat prep.

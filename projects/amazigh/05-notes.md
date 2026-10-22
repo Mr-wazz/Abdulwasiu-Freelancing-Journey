@@ -297,3 +297,10 @@ Not recorded. Start logging.
 - No reply from Amazigh since "I do it when I get home" (21 Oct) and the bank info update. Abdulwasiu followed up on 21 Oct, still no reply. Tax numbers (TPS, TVQ) pending, Paid Apps Agreement not Active.
 - Risk noted: items 1 to 5 of the CAD 300 are live and unpaid (agreed: pay at the end). Items 6 to 8 depend on him. Suggested: one short warm check after 48 hours of silence, offer help with the tax form step, and a fair option of a CAD 150 milestone for the web part already live. Abdulwasiu decides, nothing sent by me.
 - Meanwhile, work that needs no client: Apple availability and trial clicks, RevenueCat prep.
+
+## 23 Oct 2026: client reply and two requests
+- Client (French): individual bank account is being processed. Tax info being settled, waiting for an answer, expects news tomorrow.
+- Client also asked: (1) "Ajouter une habitude" button always visible at the bottom of the first page, even when scrolling. (2) Habit create or edit page: top cut off, options like "Supprimer" not visible. (3) Question: changes appear on his iPhone without an App Store update, did Abdulwasiu publish a new version?
+- Answer to (3): the iPhone app is a shell that opens the live Base44 site. Web changes appear at once on Publish, no App Store update. Only native features (Premium purchases, reminders) need a new iPhone build and Apple review. Draft reply given to Abdulwasiu.
+- (2) is a bug in scope (safe area and bug check). Fixed in Preview: Habit Form Dialog uses dynamic viewport height minus insets, header with title, Delete and close stays fixed, only the form body scrolls (also edited the mobile stylesheet). Not tested on a real phone. NOT published.
+- (1) sticky add button: small tweak, outside the original list. Decision pending from Abdulwasiu (include as goodwill or later paid polish). Not started.

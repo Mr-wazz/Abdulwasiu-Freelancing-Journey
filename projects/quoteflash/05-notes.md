@@ -15,3 +15,5 @@
 - Abdulwasiu told me QuoteFlash is live on the App Store. Folder created from that. I know nothing else about this project yet (price, scope, source, deadline, what the app does).
 - Only other mention: in FTLR Fitness notes (12 Oct), Kujtim's QuoteFlash certificate was left alone on purpose in Apple, so both apps share the same Apple developer account setup.
 - Open: ask Abdulwasiu the missing facts so quotes and upsells can be priced properly.
+- Abdulwasiu added: QuoteFlash is an invoicing app. Kujtim paid on another platform ("Gray"), not Fiverr. He is still working with Abdulwasiu.
+- Risk: off Fiverr means no escrow. For every new paid add on: written scope, 50 percent upfront, rest on delivery.

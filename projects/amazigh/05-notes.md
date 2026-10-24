@@ -338,3 +338,7 @@ Not recorded. Start logging.
 - RevenueCat (visible in the browser pane): opened Apps, New app configuration, App Store, typed name "RiseTrack (App Store)" and bundle ID com.base6996fa161c7db2beb6067c48.app, clicked Save. RevenueCat refuses: In-App Purchase Key ID and In-App Purchase Issuer ID are required. The form was NOT saved. This confirms the blocker: Amazigh's In App Purchase key (.p8) must come first.
 - Apple login expired again in the pane (login page), could not re-check monthly availability.
 - Everything else that does not need Amazigh is done. Remaining chain: Amazigh tax and Paid Apps Agreement, his In App Purchase key and App Store Connect API key into RevenueCat, then offering and entitlement, key into Base44, Codemagic build, TestFlight test, review screenshot, submit.
+
+## 24 Oct 2026 (later): monthly availability set
+- Logged in again (pane). Monthly product: availability set to all 175 countries and confirmed ("All countries or regions selected"). Both subscription products now have: price, 7 day free introductory offer, French (Canada) name and description, availability. Only the review screenshot, and the Paid Apps Agreement (Amazigh), are missing on the Apple side. App Store Connect side is complete from my end.
+- Time (24 Oct): about 0.8 hours. Total about 16.1 hours.

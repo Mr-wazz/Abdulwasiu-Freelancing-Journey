@@ -12,7 +12,9 @@ Installed at project scope (see .claude/settings.json). They load automatically 
 ## NOT installed: OmniRoute
 It sends your prompts through a local gateway to hundreds of third party providers, including free ones that may log data. Client briefs, logins and contracts live in this repo. Do not use it with client work. If you want it for personal experiments, install it on your own laptop only: `npm install -g omniroute`.
 
-## Recommended next automations (from claude-code-setup logic)
-1. Hook: warn before saving any file in /projects that contains words like "password" or "token" (logins belong in 03-delivery.md only, never in chat logs or public repos).
-2. DONE: `/new-client <name>` creates the 6 file folder from Rule 1 in one step.
-3. MCP: Playwright, to test client sites (links, forms, mobile view) before delivery.
+## Automations (built, run on their own)
+1. New client folder: start your message with `NEW CLIENT: <name>` and the folder is created for you. No command to remember. (`/new-client <name>` also works.)
+2. Secret warning: if Claude is about to save a password, token or key into a file, it stops and asks you first. Write where a login is kept, never the login itself.
+
+## Still to build
+- Playwright MCP, to test client sites (links, forms, mobile view) before delivery.

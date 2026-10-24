@@ -27,3 +27,8 @@ No research yet. First task on the first proposal: research current pricing for 
 - Hide prices at first, lead with value.
 - Offer via a short value message in the client's language (French).
 - Risk: client offers off platform payment (Sendwave). Keep contracts on platform where possible.
+
+## Learnings from QuoteFlash, 24 Oct 2026
+- Client came from outside Fiverr, paid 600 USD on Grey for a full invoicing app. No escrow, so use written scope and 50 percent upfront on add ons.
+- Rule: small first upsell step with 3 tiers. Do not jump from 600 to 1,500 in one quote. Result: pending.
+- App Store live is the best moment to offer money features (Pro plan with Apple payment). Result: pending.

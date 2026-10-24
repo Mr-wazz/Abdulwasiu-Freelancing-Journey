@@ -2,7 +2,15 @@
 
 Timing: NOW, the app just went live and Kujtim is happy and still working with us. Frame: "Here is what will help you earn more".
 Payment: Kujtim pays on another platform (not Fiverr). No escrow, so every add on needs written scope and 50 percent upfront.
-Prices are suggestions. Adjust once the brief is complete.
+Prices are suggestions. He paid 600 USD for the whole app, so lead with the income the feature brings and offer tiers so he can start small.
+
+## Pricing tiers for offer 1 (show only after he shows interest)
+| Tier | What he gets | Price |
+|---|---|---|
+| Basic | Apple subscription, one Pro plan, paywall, Restore Purchases | 700 USD |
+| Standard | Basic plus free plan limits, upgrade prompts, pay-now links on invoices | 1,100 USD |
+| Premium | Standard plus overdue reminders, recurring invoices, analytics | 1,600 USD |
+Payment: 50 percent upfront, 50 percent on delivery, scope in writing.
 
 ## Money features first
 

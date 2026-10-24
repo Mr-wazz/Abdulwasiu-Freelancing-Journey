@@ -17,3 +17,5 @@
 - Open: ask Abdulwasiu the missing facts so quotes and upsells can be priced properly.
 - Abdulwasiu added: QuoteFlash is an invoicing app. Kujtim paid on another platform ("Gray"), not Fiverr. He is still working with Abdulwasiu.
 - Risk: off Fiverr means no escrow. For every new paid add on: written scope, 50 percent upfront, rest on delivery.
+- Confirmed: platform is Grey. Original price 600 USD for the app.
+- Pricing plan: first upsell should be a small first step (Pro plan Starter), then bigger ones after he sees income. Do not jump from 600 to 1,500 in one quote.

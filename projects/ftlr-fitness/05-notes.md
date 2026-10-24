@@ -163,3 +163,6 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - CLIENT (no prices): projects/ftlr-fitness/FTLR-Growth-Roadmap-for-Leah.pdf (3 pages, 13 steps, value and timing, how we work, protected launch).
 - Key rule found: store listing subtitle, keywords and screenshots can only change with a NEW app version. Promotional text can change anytime. So listing steps 1 and 2 are written now and applied in app version 1.1, bundled with ratings prompt and purchase polish.
 - Hours per step are estimates. Tracker xlsx remains the live status sheet.
+
+## 24 Oct 2026 note
+Abdulwasiu said Leah (FTLR) is still pending in Apple review. Do not send upsells until approved.

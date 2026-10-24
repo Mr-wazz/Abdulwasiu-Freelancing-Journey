@@ -342,3 +342,12 @@ Not recorded. Start logging.
 ## 24 Oct 2026 (later): monthly availability set
 - Logged in again (pane). Monthly product: availability set to all 175 countries and confirmed ("All countries or regions selected"). Both subscription products now have: price, 7 day free introductory offer, French (Canada) name and description, availability. Only the review screenshot, and the Paid Apps Agreement (Amazigh), are missing on the Apple side. App Store Connect side is complete from my end.
 - Time (24 Oct): about 0.8 hours. Total about 16.1 hours.
+
+## 25 Oct 2026: CRITICAL regression found by client, root cause fixed and republished
+- Client (French): thanks, will check Paid Apps status and handle the RevenueCat key. BUT on his iPhone: the Add button disappears, the create page does not show, and he cannot open an existing habit to edit (it worked before). He also wants a more fluid, modern, professional app and asks if Base44 can do it or if there are technical limits.
+- Cause: my own 23 Oct publish (full screen portal sheet z-index 9999 for the habit form, route-gated button) combined with an older issue: the Pull To Refresh wrapper kept a permanent CSS transform on the scrolling container, which makes every position fixed element (button, dialogs) anchor to the scrolled content instead of the screen. In the iOS WebView this hid the button and the forms.
+- Fix in Base44 (chat prompt): reverted the hand made portal and the route gating. Habit form is the normal bottom sheet again with safe area header padding, 88vh scrolling body and pinned Save. Nouveau button always mounted on Today and hidden by CSS only (body data attribute for the active tab, hidden when a dialog is open). Pull To Refresh now only applies a transform during an actual pull (root cause).
+- Verified in Preview (visible in the browser pane): create form opens from Nouveau with Creer button pinned, a test habit TEST Fix was created, tapping it opened the edit form with its data, Supprimer visible at the top, Sauvegarder pinned, delete confirmed and removed ONLY that test habit, button hidden on Parcours.
+- PUBLISHED ("Your app is live", risetracker.base44.app). Real iPhone confirmation by the client still needed.
+- LESSON: do not publish UI layout changes that cannot be seen on a device without a rollback plan, and test create, edit and delete flows after every UI change. Add to playbook.
+- Time (25 Oct): about 1.3 hours. Total about 17.4 hours.

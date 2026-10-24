@@ -361,3 +361,9 @@ Not recorded. Start logging.
 - Client (French): he knows RevenueCat manages subscriptions, but asks if it should be in HIS name. Correct and fair: yes. The project RiseTrack currently sits in Abdulwasiu's own RevenueCat account (empty: no app, no products, no keys), with Amazigh invited as Developer.
 - Decision: the subscription account belongs to the app owner. Plan: Amazigh creates his own RevenueCat account and a project RiseTrack, invites Abdulwasiu (waxzyemail@gmail.com, role Administrator) and uploads his keys himself in HIS project. Abdulwasiu then configures entitlement, offering, products inside Amazigh's project. Nothing is lost because the current project is empty. Later delete the empty project in Abdulwasiu's account and the pending invite.
 - Why it matters: trust for the revenue share deal, and Apple income tracking is his. Also keeps Abdulwasiu out of any dispute.
+
+## 26 Oct 2026 (later): working inside the client's own RevenueCat project
+- Amazigh created his own RevenueCat project RiseTrack (project id 053f89bb) and invited Abdulwasiu as Administrator. Abdulwasiu accepted. I can now work in it (visible in the browser pane).
+- Done in HIS project: entitlement "premium" (display name Premium) created. Empty so far: no app, no products, no offering.
+- Next in his project (needs his key first): Apps, New app, App Store, bundle ID com.base6996fa161c7db2beb6067c48.app, In-App Purchase Key ID, Issuer ID and .p8 uploaded by HIM. Then I import the 2 products (risetrack_premium_monthly, risetrack_premium_yearly), attach them to entitlement premium, create offering "default" with Monthly and Annual packages, copy the public iOS SDK key (appl_...) from API keys into Base44 lib/purchases, merge the wrapper branch, run Codemagic.
+- My own earlier project (0567c552) in Abdulwasiu's account is empty and unused: delete it later, and cancel the pending Developer invite sent to the client (harmless).

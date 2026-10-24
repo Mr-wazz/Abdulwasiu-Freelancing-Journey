@@ -351,3 +351,8 @@ Not recorded. Start logging.
 - PUBLISHED ("Your app is live", risetracker.base44.app). Real iPhone confirmation by the client still needed.
 - LESSON: do not publish UI layout changes that cannot be seen on a device without a rollback plan, and test create, edit and delete flows after every UI change. Add to playbook.
 - Time (25 Oct): about 1.3 hours. Total about 17.4 hours.
+
+## 26 Oct 2026: client says Paid Apps is Active, RevenueCat invite sent
+- Client (reported by Abdulwasiu): the Paid Apps agreement is Active. NOT confirmed by me: my login (App Manager) cannot open Business, and Apple's login expired again in the pane, so I could not look. Plan to confirm from the app: once logged in again, the subscription pages should stop showing missing agreement warnings.
+- RevenueCat: sent a collaborator invitation to belharetamazigh7@gmail.com (his App Store Connect Account Holder email) with role Developer (can manage project configuration and integrations, cannot see financial data). Status Invited. He must accept, then in RevenueCat add the App Store app, upload his In-App Purchase key (.p8, Key ID, Issuer ID) and App Store Connect API key himself. Keys never go through chat or the repo.
+- Then I: finish the app config check, create entitlement "premium", offering default with monthly and yearly packages, copy the public iOS key (appl_...) into Base44 lib/purchases, merge the wrapper branch, run Codemagic.

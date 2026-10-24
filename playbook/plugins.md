@@ -16,5 +16,4 @@ It sends your prompts through a local gateway to hundreds of third party provide
 1. New client folder: start your message with `NEW CLIENT: <name>` and the folder is created for you. No command to remember. (`/new-client <name>` also works.)
 2. Secret warning: if Claude is about to save a password, token or key into a file, it stops and asks you first. Write where a login is kept, never the login itself.
 
-## Still to build
-- Playwright MCP, to test client sites (links, forms, mobile view) before delivery.
+3. Site tester: `/test-site <url> <client-slug>` checks speed, broken links, forms, mobile view, console errors and SEO basics. It saves a report and desktop and mobile screenshots in the client's `02-work/test-report/`. Run it before every delivery. It cannot test payments, logins, automations or email: test those by hand. On your own laptop it needs `npm install playwright` once. In Claude cloud sessions it already works.

@@ -14,5 +14,5 @@ It sends your prompts through a local gateway to hundreds of third party provide
 
 ## Recommended next automations (from claude-code-setup logic)
 1. Hook: warn before saving any file in /projects that contains words like "password" or "token" (logins belong in 03-delivery.md only, never in chat logs or public repos).
-2. Skill: a `/new-client` command that creates the 6 file folder from Rule 1 in one step.
+2. DONE: `/new-client <name>` creates the 6 file folder from Rule 1 in one step.
 3. MCP: Playwright, to test client sites (links, forms, mobile view) before delivery.

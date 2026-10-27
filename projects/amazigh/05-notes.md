@@ -388,3 +388,12 @@ Not recorded. Start logging.
 - TestFlight tab of RiseTrack (team AMAZIGH BELHARET) lists only old builds (Version 2.131675.4 build 4 from Victor, 2.121943.x, 1.1, 1.0). Our new 1.1 build from Codemagic (publishing step green, 1m45) is NOT listed yet. Apple processing usually takes 10 to 30 minutes, sometimes longer. Re-check later: TestFlight, iOS builds, and Distribution page version 1.1.
 - If it never appears: open the Codemagic Publishing step log for the exact error (could be a build number lower than an existing one, or missing export compliance).
 - Time (27 Oct): about 2.7 hours. Total about 20.1 hours.
+
+## 27 Oct 2026 (night, part 2): build 15 ready, TestFlight invite sent
+- New build found in App Store Connect TestFlight: Version 1.1, build 15, status "Ready to Submit", expires in 90 days. (Older rows are Victor's builds.)
+- Client reply: "Bon courage, je te laisse continuer, tu me diras quand ce sera pret".
+- Created TestFlight INTERNAL group "Internal" (automatic distribution) and added Amazigh Belharet (belharetamazigh7@gmail.com, Account Holder) as tester. Status Invited, he gets an email from TestFlight. Only Amazigh was added, not the App Manager login.
+- NEXT: Amazigh installs TestFlight app, accepts, installs RiseTrack 1.1 (15), opens Settings, Passer a Premium, tests free trial with a sandbox purchase (free in TestFlight), Restore Purchases, and a daily reminder. He sends a screenshot of the Premium page (needed as review screenshot for both subscriptions, 1242x2688 or similar) and a short screen video.
+- Risk to watch: the subscriptions may show status Missing Metadata until the review screenshot is added, and StoreKit may then return no products in TestFlight. If the price page shows no real prices, add the screenshot first (take it from his TestFlight screenshot), then retest.
+- Then: create version 1.1 in Distribution, attach build 15, attach both subscriptions, paste review notes, add demo account, submit only after the TestFlight test passes. After approval: PREMIUM_LOCKS_ENABLED true in Base44 and Publish.
+- Time (27 Oct): about 3.3 hours. Total about 20.7 hours.

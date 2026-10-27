@@ -382,3 +382,9 @@ Not recorded. Start logging.
 - Codemagic workflow "RiseTrack iOS (TestFlight)" run on main: all steps green (install 17s, create iOS project 24s, signing 6s, version step 2s, build IPA 1m50, publishing 1m13). submit_to_testflight stays false. The IPA was uploaded to App Store Connect, Apple needs about 10 to 30 minutes to process it.
 - NOT done: Apple login expired again (login page), so I could not yet check the build in App Store Connect. Remaining: (1) in App Store Connect create version 1.1, attach the new build, attach both subscriptions (first subscription must go with this version), paste review notes (02-work/apple-review-notes-DRAFT.md), add demo account in Sign-In Information, (2) TestFlight sandbox test of Premium and reminders with a real iPhone (Amazigh as internal tester, he is Account Holder), review screenshot of the Premium page, (3) submit for review only after the TestFlight test passes, (4) after Apple approves: PREMIUM_LOCKS_ENABLED = true in Base44 and Publish.
 - Time (27 Oct): about 2.3 hours. Total about 19.7 hours.
+
+## 27 Oct 2026 (night): Apple login, build not visible yet
+- Abdulwasiu logged in again. Note: the default Apple team in the login was another client's team (Kujtim Kallushi, QuoteFlash). The AMAZIGH BELHARET team must be selected in the account menu (top right) before touching anything. Never touch the other teams.
+- TestFlight tab of RiseTrack (team AMAZIGH BELHARET) lists only old builds (Version 2.131675.4 build 4 from Victor, 2.121943.x, 1.1, 1.0). Our new 1.1 build from Codemagic (publishing step green, 1m45) is NOT listed yet. Apple processing usually takes 10 to 30 minutes, sometimes longer. Re-check later: TestFlight, iOS builds, and Distribution page version 1.1.
+- If it never appears: open the Codemagic Publishing step log for the exact error (could be a build number lower than an existing one, or missing export compliance).
+- Time (27 Oct): about 2.7 hours. Total about 20.1 hours.

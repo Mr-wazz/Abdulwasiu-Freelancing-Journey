@@ -367,3 +367,11 @@ Not recorded. Start logging.
 - Done in HIS project: entitlement "premium" (display name Premium) created. Empty so far: no app, no products, no offering.
 - Next in his project (needs his key first): Apps, New app, App Store, bundle ID com.base6996fa161c7db2beb6067c48.app, In-App Purchase Key ID, Issuer ID and .p8 uploaded by HIM. Then I import the 2 products (risetrack_premium_monthly, risetrack_premium_yearly), attach them to entitlement premium, create offering "default" with Monthly and Annual packages, copy the public iOS SDK key (appl_...) from API keys into Base44 lib/purchases, merge the wrapper branch, run Codemagic.
 - My own earlier project (0567c552) in Abdulwasiu's account is empty and unused: delete it later, and cancel the pending Developer invite sent to the client (harmless).
+
+## 27 Oct 2026: RevenueCat fully configured in the client's own project
+- Client said "c'est fait". In his project (id 053f89bb) the app "RiseTrack (App Store)" exists (he added his IAP key). I verified it exists with a public SDK key.
+- Done by me in his project (in the browser pane): products risetrack_premium_monthly and risetrack_premium_yearly (App Store), both attached to entitlement "premium"; offering "default" with packages $rc_annual (yearly) and $rc_monthly (monthly).
+- Public iOS SDK key (appl_..., public by design, ok in the app): appl_aXjNxOnBiZxbMTqbCGKzaREJwMm. Set in Base44 lib/purchases (Preview, build ok). Offering pinned to "default", entitlement "premium", only runs when the native plugin exists, locks still OFF.
+- Publish of this Base44 change was blocked by the permission system (production deploy), so the key is NOT live yet. The Publish dialog is open in the pane. Abdulwasiu must click Publish (harmless: Premium stays hidden in the current iPhone app).
+- Next: (1) Abdulwasiu clicks Publish, (2) merge risetrack-ios feature/premium-and-reminders into main, (3) run Codemagic workflow risetrack-ios (new build, submit_to_testflight false), (4) TestFlight sandbox test, (5) review screenshot, (6) new version 1.1 in App Store Connect with both subscriptions, review notes, submit.
+- Time (27 Oct): about 1.3 hours. Total about 18.7 hours.

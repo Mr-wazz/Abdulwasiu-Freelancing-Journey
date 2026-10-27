@@ -5,6 +5,9 @@ Usage:
   export GOOGLE_PLACES_API_KEY=...        (never commit the key)
   python3 scout.py "dental clinic" "Dubai" --limit 20
   python3 scout.py "aesthetic clinic" "Dubai" --limit 20
+Free, no key (OpenStreetMap):
+  python3 scout.py dental Dubai --source osm --limit 40
+  python3 scout.py aesthetic Dubai --source osm --limit 40
 
 Appends scored leads to leads/leads.csv. Standard library only.
 Scoring follows audit-checklist.md. Items that need a human eye
@@ -17,6 +20,7 @@ import os
 import re
 import sys
 import time
+import subprocess
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -26,13 +30,29 @@ CSV_PATH = os.path.join(HERE, "leads", "leads.csv")
 FIELDS = ["business", "niche", "city", "website", "owner_email", "score", "main_problem",
           "offer", "status", "date_contacted", "follow_up_1", "follow_up_2", "reply",
           "call_booked", "notes"]
-UA = "Mozilla/5.0 (compatible; LeadAudit/1.0)"
+UA = "lead-scout/1.0 (website audit; contact waiiscreativedigital@gmail.com)"
 BOOKING_WORDS = ("book now", "book an appointment", "book appointment", "book online",
                  "schedule", "calendly", "setmore", "zocdoc", "appointment form", "request appointment")
 CHAT_WORDS = ("wa.me", "api.whatsapp.com", "tawk.to", "livechat", "intercom", "tidio",
               "crisp.chat", "drift.com", "leadconnector", "highlevel")
+BLOCK_MARKERS = ("is parked free", "sgcaptcha", "just a moment", "checking the site connection",
+                 "domain is for sale", "attention required", "enable javascript and cookies to continue")
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 JUNK_EMAIL = ("sentry", "example.", "wixpress", "your@", "name@", ".png", ".jpg", "@2x")
+
+
+def curl(url, data=None, timeout=15):
+    """HTTP via curl: macOS system Python often fails TLS handshakes that curl handles."""
+    cmd = ["curl", "-sSL", "-m", str(timeout), "-A", UA, "-H", "Accept: application/json, text/html;q=0.9, */*;q=0.8",
+           "-w", "\n%{url_effective}", "--max-filesize", "3000000"]
+    if data is not None:
+        cmd += ["--data", data]
+    t0 = time.time()
+    res = subprocess.run(cmd + [url], capture_output=True, timeout=timeout + 5)
+    if res.returncode != 0:
+        raise RuntimeError(res.stderr.decode("utf-8", "ignore").strip()[:120] or "curl failed")
+    body, _, final = res.stdout.decode("utf-8", "ignore").rpartition("\n")
+    return body, time.time() - t0, final
 
 
 def places_search(key, query, limit):
@@ -58,12 +78,44 @@ def places_search(key, query, limit):
     return out[:limit]
 
 
+CITY_BBOX = {"Dubai": "24.75,54.85,25.40,55.60", "Abu Dhabi": "24.20,54.25,24.60,54.80"}
+OSM_FILTERS = {
+    "dental": ['["amenity"="dentist"]', '["healthcare"="dentist"]'],
+    "aesthetic": ['["healthcare"="clinic"]["name"~"aesthetic|derma|cosmetic|laser|skin|beauty",i]',
+                  '["shop"="beauty"]["name"~"clinic|aesthetic|derma|laser|medical",i]'],
+}
+
+
+def osm_search(kind, city, limit):
+    """Free source, no key. Returns dicts shaped like Places results (no review counts)."""
+    parts = "".join("nwr%s;" % f for f in OSM_FILTERS[kind])
+    q = "[out:json][timeout:60][bbox:%s];(%s);out tags center 400;" % (CITY_BBOX[city], parts)
+    els = None
+    for attempt in range(4):  # Overpass is a shared free server: it sometimes answers busy
+        body, _, _ = curl("https://overpass-api.de/api/interpreter", data=urllib.parse.urlencode({"data": q}), timeout=90)
+        try:
+            els = json.loads(body).get("elements", [])
+            break
+        except ValueError:
+            time.sleep(15 * (attempt + 1))
+    if els is None:
+        sys.exit("OpenStreetMap server busy, try again in a few minutes.")
+    out = []
+    for e in els:
+        t = e.get("tags", {})
+        site = t.get("website") or t.get("contact:website") or t.get("url")
+        if not t.get("name") or not site:
+            continue
+        if not site.startswith("http"):
+            site = "http://" + site
+        out.append({"displayName": {"text": t["name"]}, "websiteUri": site,
+                    "email_hint": t.get("email") or t.get("contact:email") or "",
+                    "userRatingCount": None})
+    return out[:limit]
+
+
 def fetch(url, timeout=15):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    t0 = time.time()
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        html = r.read(1_500_000).decode("utf-8", "ignore")
-        return html, time.time() - t0, r.geturl()
+    return curl(url, timeout=timeout)
 
 
 def find_email(html, base):
@@ -89,8 +141,10 @@ def audit(place):
     try:
         html, secs, final = fetch(site)
     except Exception as e:
-        return 40, ["Website did not load when checked (%s)" % type(e).__name__], ""
+        return None, ["Website did not load when checked (%s)" % e], ""
     low = html.lower()
+    if any(m in low for m in BLOCK_MARKERS) or "/lander" in final or len(low) < 1500:
+        return None, ["Parked, bot-check or near-empty page: cannot audit honestly"], ""
     if secs > 3:
         score += 15
         problems.append("Homepage took %.1f seconds to respond" % secs)
@@ -111,11 +165,11 @@ def audit(place):
     if final.startswith("http://"):
         score += 5
         problems.append("Site is not served over HTTPS")
-    reviews = place.get("userRatingCount", 0)
-    if reviews < 30:
+    reviews = place.get("userRatingCount")
+    if reviews is not None and reviews < 30:
         score += 10
         problems.append("Only %d Google reviews" % reviews)
-    return score, problems, find_email(html, final)
+    return score, problems, place.get("email_hint") or find_email(html, final)
 
 
 def main():
@@ -123,11 +177,16 @@ def main():
     ap.add_argument("niche")
     ap.add_argument("city")
     ap.add_argument("--limit", type=int, default=20)
+    ap.add_argument("--source", choices=["places", "osm"], default="places",
+                    help="osm is free and needs no key; use niche 'dental' or 'aesthetic'")
     a = ap.parse_args()
-    key = os.environ.get("GOOGLE_PLACES_API_KEY")
-    if not key:
-        sys.exit("Set GOOGLE_PLACES_API_KEY first (see SETUP.md).")
-    places = places_search(key, "%s in %s" % (a.niche, a.city), a.limit)
+    if a.source == "osm":
+        places = osm_search(a.niche, a.city, a.limit)
+    else:
+        key = os.environ.get("GOOGLE_PLACES_API_KEY")
+        if not key:
+            sys.exit("Set GOOGLE_PLACES_API_KEY first, or use --source osm (see SETUP.md).")
+        places = places_search(key, "%s in %s" % (a.niche, a.city), a.limit)
     existing = set()
     if os.path.exists(CSV_PATH):
         with open(CSV_PATH, newline="") as f:
@@ -142,10 +201,13 @@ def main():
             if not name or name.lower() in existing or p.get("businessStatus") not in (None, "OPERATIONAL"):
                 continue
             score, problems, email = audit(p)
+            if score is None:  # could not load the site: not evidence of a problem, so do not record a lead
+                print("skip  %-40s %s" % (name[:40], problems[0]))
+                continue
             w.writerow({"business": name, "niche": a.niche, "city": a.city,
                         "website": p.get("websiteUri", ""), "owner_email": email,
                         "score": score, "main_problem": problems[0] if problems else "",
-                        "offer": "", "status": "new" if score >= 50 and email else "review",
+                        "offer": "", "status": "review",  # a human must open the site and confirm every finding first
                         "date_contacted": "", "follow_up_1": "", "follow_up_2": "", "reply": "",
                         "call_booked": "",
                         "notes": "; ".join(problems) + " | audited %s | verify by hand before emailing" % date.today()})

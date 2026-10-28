@@ -163,3 +163,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - CLIENT (no prices): projects/ftlr-fitness/FTLR-Growth-Roadmap-for-Leah.pdf (3 pages, 13 steps, value and timing, how we work, protected launch).
 - Key rule found: store listing subtitle, keywords and screenshots can only change with a NEW app version. Promotional text can change anytime. So listing steps 1 and 2 are written now and applied in app version 1.1, bundled with ratings prompt and purchase polish.
 - Hours per step are estimates. Tracker xlsx remains the live status sheet.
+
+## 28 Oct 2026: Apple rejection, version 1.0 (121)
+- Status was Waiting for Review for 10 days, then Apple replied (review date 28 Oct, iPhone 17 Pro Max and iPad Air 11 M3).
+- Issue 1, Guideline 2.1(b): subscriptions (Monthly, Yearly) were not submitted for review with the app. Fix: complete each subscription's metadata incl. App Review screenshot (paywall), add both to version 1.0 under In-App Purchases and Subscriptions, upload a new build, submit together.
+- Issue 2, Guideline 3.1.2(c): no functional Terms of Use (EULA) link in App Store metadata. Fix: add the Apple standard EULA link (and Privacy Policy) at the end of the App Description for EVERY localization, check Privacy Policy URL field, and reply with a screen recording of the paywall showing title, length, price, Terms and Privacy links. Also add the same lines to the Notes field of App Review Information.
+- Links: Privacy https://ftlr-fitness.base44.app/PrivacyPolicy, Terms https://ftlr-fitness.base44.app/Terms, Apple EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

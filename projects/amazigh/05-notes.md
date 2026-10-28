@@ -397,3 +397,10 @@ Not recorded. Start logging.
 - Risk to watch: the subscriptions may show status Missing Metadata until the review screenshot is added, and StoreKit may then return no products in TestFlight. If the price page shows no real prices, add the screenshot first (take it from his TestFlight screenshot), then retest.
 - Then: create version 1.1 in Distribution, attach build 15, attach both subscriptions, paste review notes, add demo account, submit only after the TestFlight test passes. After approval: PREMIUM_LOCKS_ENABLED true in Base44 and Publish.
 - Time (27 Oct): about 3.3 hours. Total about 20.7 hours.
+
+## 28 Oct 2026: TestFlight test failed, fix prepared (not published yet)
+- Amazigh tested build 15 (v1.1) on iPhone. Result: no Premium row in Settings, notification permission prompt appeared and he allowed it, reminder not confirmed. His video also showed "Supprimer le compte" failing ("La suppression a échoué", data intact).
+- Checked: Codemagic log shows both plugins in the build (purchases-capacitor 11.3.3, local-notifications 7.0.7). Live site has the RevenueCat key and Premium code. Plugin jsName is "Purchases". The web code hid Premium because window.Capacitor.Plugins.Purchases was undefined on a remote loaded page.
+- Fix done in Base44 Preview (NOT published, classifier blocks Publish, Abdulwasiu must click): getNativePlugin helper (Plugins first, then Capacitor.nativePromise proxy), used in lib/purchases and lib/reminders; Settings re-checks after 1500 ms; account deletion rewritten to survive per entity failures and show the real error. Not tested on a phone, only build passed. PREMIUM_LOCKS_ENABLED still false.
+- NEXT: Abdulwasiu clicks Publish. Amazigh force closes and reopens RiseTrack (no new build needed if the nativePromise path works), checks Settings for "Passer à Premium". If still missing, a debug build is needed.
+- Problem: Mac disk was full (ENOSPC), cost time. Time this session about 1.5 hours. Total about 22.2 hours.

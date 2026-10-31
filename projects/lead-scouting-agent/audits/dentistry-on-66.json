@@ -1,0 +1,33 @@
+{
+ "business": "Dentistry on 66",
+ "owner": "Dr. Al-Azawi and team",
+ "city": "Avenue Road, Yorkville, Toronto",
+ "website": "dentistryon66.com",
+ "summary": "Dentistry on 66 has a clean layout, a working request form and 30 years of experience. Thin proof and a few leftover details hold back a clinic that promotes veneers and smile makeovers.",
+ "findings": [
+  {
+   "problem": "No before and after gallery appears, even though the page promotes veneers, whitening and smile makeovers. Only three short reviews show, with no dates or ratings.",
+   "cost": "Cosmetic patients decide on visible results. Without them, price becomes the deciding factor and you lose to the cheapest clinic.",
+   "fix": "A captioned before and after gallery and dated reviews linked to your Google profile."
+  },
+  {
+   "problem": "The heading Why patients choose ourDentistry on 66 has a missing space, and a stray 66 fragment shows in the hero.",
+   "cost": "Visible errors in headings make a long established practice look careless to a new patient.",
+   "fix": "A proofread build with clean, consistent headings."
+  },
+  {
+   "problem": "The page says same day emergency appointments are available, but the clinic is closed Friday to Sunday, and there is no after hours option.",
+   "cost": "A patient in pain on a closed day finds no clear path and calls another clinic.",
+   "fix": "A clear after hours path, real booking and a WhatsApp or chat option."
+  },
+  {
+   "problem": "The services grid and Comprehensive Dental Care sections repeat, the clinic exterior photo appears three times, and the same resource card text repeats under every card.",
+   "cost": "Repeated sections and images push real content down and weaken your search ranking.",
+   "fix": "One clean version of every section and treatment pages that answer what patients search for."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with real before and after cases, dated reviews and your credentials beside every booking button.",
+  "A booking form, a clear after hours option and WhatsApp."
+ ]
+}

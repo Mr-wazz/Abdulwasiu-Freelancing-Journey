@@ -1,0 +1,34 @@
+{
+ "business": "Davidson & Co",
+ "owner": "the Davidson & Co team",
+ "city": "Sheikh Zayed Road, Dubai",
+ "website": "davidsoncolaw.com",
+ "summary": "Davidson & Co has an established name and strong client testimonials. The site does not convert the visitors it already attracts, because its main enquiry buttons do not work.",
+ "findings": [
+  {
+   "problem": "The Enquire Now buttons in the header and hero, and the Subscribe Now button, link to # so they go nowhere. There is no enquiry form.",
+   "cost": "Every visitor who clicks Enquire Now and sees nothing happen is a lost client, and you never learn they tried.",
+   "fix": "A working enquiry form and consultation booking on every page."
+  },
+  {
+   "problem": "The Our Awards and International Membership sections show logos with no names. Four testimonials are shown without case types, results or dates.",
+   "cost": "Unnamed awards and unspecific praise do not persuade a client choosing between firms.",
+   "fix": "Named awards, case type labelled testimonials and your LSRA licence number displayed."
+  },
+  {
+   "problem": "Typos: Clink to call, relaible, enable instead of enables. The email link is webmaster@example.com and the header phone link has no country code.",
+   "cost": "A placeholder email loses messages and typos undercut a firm that sells accuracy.",
+   "fix": "A proofread build with correct, tested contact links."
+  },
+  {
+   "problem": "The practices menu has 27 items and the hero text is long, pushing the call to action below the fold on a phone.",
+   "cost": "Most visitors decide in seconds on mobile. A long menu and a buried button send them away.",
+   "fix": "Grouped practice areas and a call to action visible without scrolling."
+  }
+ ],
+ "redesign": [
+  "A conversion first homepage with a working enquiry form and booking above the fold.",
+  "Practice areas grouped into clear categories, with a page per service written to rank in search.",
+  "Proof where it counts: named partners, awards, labelled client results and licence details."
+ ]
+}

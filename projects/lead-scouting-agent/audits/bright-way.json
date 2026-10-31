@@ -1,0 +1,19 @@
+{
+ "business": "Bright Way Dental Clinic",
+ "owner": "Dr. Hasan A. Mahdy",
+ "city": "Al Garhoud, Dubai",
+ "website": "www.brightway.clinic",
+ "summary": "Bright Way has strong doctors, real offers and a good location. The website does not turn that into booked appointments yet. These are the gaps I saw on your public site, and how I would close them.",
+ "findings": [
+  {"problem": "Every Book an Appointment button opens a popup with a message form only: name, email, message. No date, no phone field.", "cost": "A patient ready to book has to wait for a reply, and many will message the next clinic on Google Maps instead.", "fix": "Booking form with preferred date and time, service and phone, sent to you instantly."},
+  {"problem": "No WhatsApp button anywhere. Only two phone numbers are listed.", "cost": "In Dubai most patients prefer WhatsApp. They will not call a number from a website.", "fix": "One tap WhatsApp button on every page, with a pre-filled message per treatment."},
+  {"problem": "Mission, Vision and Approach sections appear twice. Typos such as MakesBright Way and DentistrySmarter. LinkedIn and Our Services links go nowhere.", "cost": "A clinic is judged by how careful it looks. Errors make new patients doubt the care they will get.", "fix": "Clean, proofread pages and working links, with the structure rebuilt around treatments."},
+  {"problem": "Only two testimonials, both for one doctor, and the smile gallery shows no before and after images.", "cost": "Implant and cosmetic patients decide on proof. Thin proof means more price shopping.", "fix": "Review wall pulled from your real Google reviews and a before and after gallery."}
+ ],
+ "redesign": [
+  "A fast, modern homepage that leads with your top treatments (implants, cosmetic dentistry, orthodontics) and the offer you want to push.",
+  "Online booking and WhatsApp on every page, so a patient can book in under 30 seconds on a phone.",
+  "A page per treatment and per doctor, written to rank for searches like dental implants Dubai.",
+  "Proof first layout: Google reviews, before and after cases and insurance logos near every booking button."
+ ]
+}

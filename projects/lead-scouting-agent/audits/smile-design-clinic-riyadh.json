@@ -1,0 +1,34 @@
+{
+ "business": "Smile Design Clinic",
+ "owner": "the Smile Design team",
+ "city": "Al-Sulaimania, Riyadh",
+ "website": "smiledesign.sa",
+ "summary": "Smile Design has a strong team, a booking form and WhatsApp. Visible errors and missing proof on the page weaken trust right where patients decide.",
+ "findings": [
+  {
+   "problem": "The stats (Happy Client 0+, Years of Expertise 0+, Dental Services 0+) show zeros, and the section is repeated twice.",
+   "cost": "Zeros tell a patient the clinic has no track record, even though you have been operating for years.",
+   "fix": "Real numbers or no counters."
+  },
+  {
+   "problem": "The booking form says Enter Your Phone Nummber, has no email field and no confirmation message. The service dropdown lists 9 categories, but the cards show only a few.",
+   "cost": "A visible typo and an unclear confirmation make patients unsure their request was received.",
+   "fix": "A clean form with a clear confirmation and services that match."
+  },
+  {
+   "problem": "The reviews have no names, dates or ratings, and one mentions Dr. Meral, who is not on your doctor list. Before and after photos have only file names for captions.",
+   "cost": "Unattributed reviews and uncaptioned results do not persuade patients who compare clinics.",
+   "fix": "Named, dated reviews and captioned before and after cases with consent."
+  },
+  {
+   "problem": "The Digital X-Ray heading sits above text about Digital Smile Design. Several links go to #, and Dr. Ihsan's bio appears in Arabic only on the English page.",
+   "cost": "Mismatched headings and dead links make the page look unfinished to an international or bilingual patient.",
+   "fix": "Correct headings, working links and consistent bilingual content."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with real numbers, named reviews and captioned smile design cases beside every booking button.",
+  "One clear booking path with confirmation, plus WhatsApp on every page.",
+  "Treatment pages in Arabic and English written to rank for searches like smile makeover Riyadh."
+ ]
+}

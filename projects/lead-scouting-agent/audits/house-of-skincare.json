@@ -1,0 +1,34 @@
+{
+ "business": "House of Skincare",
+ "owner": "Dr. Khadija Al Zaabi and team",
+ "city": "Yas Island, Abu Dhabi",
+ "website": "houseofskincare.ae",
+ "summary": "House of Skincare has a respected lead dermatologist and a 4.9 Google rating from 492 patients. The page does not show that proof, and a few outdated details weaken the trust a medical clinic depends on.",
+ "findings": [
+  {
+   "problem": "The MOH badge reads Validity: 26-12-2022 up to 26-12-2023, which has expired. No DOH licence number is shown.",
+   "cost": "An expired licence badge on a medical clinic makes patients question whether you are licensed today.",
+   "fix": "A current licence badge and your DOH licence number displayed clearly."
+  },
+  {
+   "problem": "BOOK TODAY leads to a contact page, with no booking form or scheduler. WhatsApp is mentioned only in the FAQ and not as a button.",
+   "cost": "A patient ready to book has to search for how, and many will message a clinic with a one tap WhatsApp button.",
+   "fix": "A booking form and a visible WhatsApp button on every page."
+  },
+  {
+   "problem": "The 4.9 rating from 492 patients appears several times, but no reviews or before and after results are shown. The hero appears to use a placeholder image and the service cards appear to have empty images.",
+   "cost": "Claims without visible proof do not persuade, and placeholder images make a premium clinic look unfinished.",
+   "fix": "A review wall from your Google reviews, captioned results and real clinic photos."
+  },
+  {
+   "problem": "The footer Home and Our Story links go to Arabic pages on the English site, the header and footer blog links go to different URLs, and the Dr. Al Zaabi card appears twice.",
+   "cost": "Wrong language pages and duplicates confuse visitors and weaken search ranking.",
+   "fix": "Correct links and one clean version of every section."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with your 4.9 rating, named reviews, captioned results and licence details beside every booking button.",
+  "Online booking plus a visible WhatsApp button on every page.",
+  "Treatment pages written to rank for searches like Botox Yas Island and laser skin treatment Abu Dhabi."
+ ]
+}

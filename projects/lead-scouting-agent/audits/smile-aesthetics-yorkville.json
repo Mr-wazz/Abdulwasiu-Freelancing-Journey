@@ -1,0 +1,34 @@
+{
+ "business": "Smile Aesthetics Yorkville",
+ "owner": "Dr. Goth Siu and team",
+ "city": "Avenue Road, Toronto",
+ "website": "smileaestheticsyorkville.com",
+ "summary": "Smile Aesthetics has board certified prosthodontists and strong copy on credentials. The site has almost no way to book, and leftover text and mismatched pages make it look unfinished.",
+ "findings": [
+  {
+   "problem": "There is no booking form or button. The only call to action is the sentence Schedule your consultation today with no link, and contact is a phone number and email only.",
+   "cost": "A patient ready to book veneers has no obvious next step and will book a clinic that gives them one.",
+   "fix": "A Book a consultation button and a short booking form on every page."
+  },
+  {
+   "problem": "The visible text Use tab to navigate through the menu items shows on the page. The brand reads Smile Aesthetics Yorkville in the header and Smile Aesthetics Yorkville Prosthodontics in the footer.",
+   "cost": "Leftover instructions and inconsistent names make a specialist practice look unfinished.",
+   "fix": "A clean page with one consistent brand name."
+  },
+  {
+   "problem": "Before and After, Media and Services link back to the homepage or to pages with copy-of in the address. The Before and After section shows no examples, and there are no patient reviews.",
+   "cost": "Veneer patients decide on visible results. A results section that leads nowhere sends them to a competitor.",
+   "fix": "A real before and after gallery and verified patient reviews."
+  },
+  {
+   "problem": "Typos such as vonlays, esthetic and aesthetic used together, and empty image descriptions across the site. The doctors' Instagram icons all use the same image.",
+   "cost": "Small errors weaken the precision a prosthodontic practice sells, and empty image text hurts search ranking.",
+   "fix": "A proofread build with clean images and consistent spelling."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with a clear consultation button, a short form and your credentials beside it.",
+  "A results gallery and patient reviews near every booking button.",
+  "Treatment pages written to rank for searches like porcelain veneers Yorkville and prosthodontist Toronto."
+ ]
+}

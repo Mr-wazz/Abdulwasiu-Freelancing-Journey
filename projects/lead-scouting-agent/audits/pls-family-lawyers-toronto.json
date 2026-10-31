@@ -1,0 +1,33 @@
+{
+ "business": "PLS Divorce and Family Lawyers",
+ "owner": "Mr. Osipov and team",
+ "city": "Toronto",
+ "website": "plslawyers.ca",
+ "summary": "PLS has a team of family lawyers, a free 15 minute call and a large review base. Conflicting offers and ratings, stray text and location errors weaken a firm that clients must trust.",
+ "findings": [
+  {
+   "problem": "The intro promises complimentary initial consultations, but the pricing section lists paid consultations at $349, $449 and $999. Two rating widgets show 5.0 and 4.7 based on 36 reviews.",
+   "cost": "A client who sees a free offer and then a fee, or two different ratings, stops trusting the page.",
+   "fix": "One clear consultation offer and one verified rating."
+  },
+  {
+   "problem": "At least two review cards are empty, testimonials name a lawyer who has left the firm, and two negative reviews have no visible response.",
+   "cost": "Empty cards and unanswered complaints are the first thing a careful client notices.",
+   "fix": "A clean review wall with responses to every review."
+  },
+  {
+   "problem": "The Toronto page has a heading about Richmond Hill, the Barrie and Toronto addresses use the same map link, and the Sheppard office is called both Toronto and North York.",
+   "cost": "A client who cannot tell which office is theirs may go to the wrong place.",
+   "fix": "One verified address and map for each office."
+  },
+  {
+   "problem": "Stray text shows: Slogan, Generic selectors, Post Type Selectors, imunify-bot-check, and underscore markup in headings. Two phone numbers (416 and 705) appear without explanation.",
+   "cost": "Leftover system text on a law firm page makes it look unmaintained.",
+   "fix": "A clean page with one phone number per location."
+  }
+ ],
+ "redesign": [
+  "A consultation first page with one offer, one phone number per office and one verified rating.",
+  "A clean review wall and a short booking form linked to your calendar."
+ ]
+}

@@ -29,7 +29,7 @@ LIGHT = colors.HexColor("#EEF3F7")
 
 H1 = ParagraphStyle("h1", fontName="Helvetica-Bold", fontSize=22, leading=26, textColor=NAVY)
 H2 = ParagraphStyle("h2", fontName="Helvetica-Bold", fontSize=13, leading=16, textColor=NAVY, spaceBefore=10, spaceAfter=4)
-BODY = ParagraphStyle("b", fontName="Helvetica", fontSize=10, leading=14, textColor=colors.HexColor("#1F2933"))
+BODY = ParagraphStyle("b", fontName="Helvetica", fontSize=9.6, leading=13, textColor=colors.HexColor("#1F2933"))
 SMALL = ParagraphStyle("s", fontName="Helvetica", fontSize=8.5, leading=11, textColor=GREY)
 CELL = ParagraphStyle("c", parent=BODY, fontSize=9.2, leading=12.5)
 CELLB = ParagraphStyle("cb", parent=CELL, fontName="Helvetica-Bold", textColor=NAVY)
@@ -42,7 +42,7 @@ def esc(t):
 
 def build(lead, out):
     doc = SimpleDocTemplate(out, pagesize=A4, leftMargin=18 * mm, rightMargin=18 * mm,
-                            topMargin=16 * mm, bottomMargin=16 * mm,
+                            topMargin=11 * mm, bottomMargin=10 * mm,
                             title=f"Website growth audit for {lead['business']}", author="Abdulwasiu")
     s = []
     s.append(Paragraph("WEBSITE GROWTH AUDIT", ParagraphStyle("k", parent=SMALL, textColor=TEAL, fontName="Helvetica-Bold", fontSize=9)))

@@ -1,0 +1,34 @@
+{
+ "business": "The Art of Dentistry",
+ "owner": "the Art of Dentistry team",
+ "city": "Bellair Street, Yorkville, Toronto",
+ "website": "artofdentistry.com",
+ "summary": "The Art of Dentistry has 250 Google reviews at a 4.9 average and a clear phone number. The main appointment buttons do not work, and leftover interface text makes a Yorkville clinic look unfinished.",
+ "findings": [
+  {
+   "problem": "Several Request Appointment buttons link to #, so they do not go anywhere. No booking form is visible on the page, and there is no chat or WhatsApp.",
+   "cost": "A patient who clicks Request Appointment and sees nothing happen is a lost booking, and you never learn they tried.",
+   "fix": "Every appointment button linked to one working form with a confirmation message."
+  },
+  {
+   "problem": "Leftover interface text shows on the page: Accessible Version Standard Version, Open Menu Close Menu, Search Search and a stray The Art of Dentistry line.",
+   "cost": "System text on a Yorkville clinic's homepage makes the clinic look unfinished before a patient reads anything.",
+   "fix": "A clean page with accessibility tools built in properly and hidden from the main text."
+  },
+  {
+   "problem": "No before and after images appear on the page, even though cosmetic services are the main draw. The 250 Google reviews line is not linked to your Google listing.",
+   "cost": "Cosmetic patients want to see results and check reviews. Without a link they cannot verify your 4.9.",
+   "fix": "Captioned before and after cases and a link from your rating to the full reviews."
+  },
+  {
+   "problem": "The hero headline starts with a lowercase toronto's, and the hours say closed Saturdays but open 1 Saturday per month with no dates. Dr. Weiss is named in a review but not on your team page.",
+   "cost": "Unclear hours cost visits and bad reviews, and typos in the headline weaken first impressions.",
+   "fix": "A proofread build, clear Saturday dates and a team page that matches your reviews."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with working buttons, a short form and your 4.9 rating linked to Google.",
+  "Captioned results and named reviews beside every booking button.",
+  "Treatment pages written to rank for searches like Invisalign Yorkville and cosmetic dentist Toronto."
+ ]
+}

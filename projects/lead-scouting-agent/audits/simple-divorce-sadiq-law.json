@@ -1,0 +1,34 @@
+{
+ "business": "Simple Divorce (Sadiq Law)",
+ "owner": "Mr. Sadiq and team",
+ "city": "Toronto",
+ "website": "simpledivorce.ca",
+ "summary": "Simple Divorce has a large team, a clear service structure and several ways to book. Dead menu links, conflicting numbers and cut off text weaken trust for clients who are choosing a lawyer under stress.",
+ "findings": [
+  {
+   "problem": "Many menu items link to #, including About, Practice Areas, Help Center, Litigation, Arbitration, Common Law and several Help Center sections.",
+   "cost": "A client who clicks Practice Areas and sees nothing happen leaves, and your best content goes unseen.",
+   "fix": "Working menus and a simple structure of the five services clients look for most."
+  },
+  {
+   "problem": "The page says 5,700+ divorces and also 3,000+ satisfied clients, and Since 2013 does not match 16 years in business.",
+   "cost": "Conflicting numbers make clients doubt every claim, which is the opposite of what a proof section should do.",
+   "fix": "One verified set of numbers shown the same way everywhere."
+  },
+  {
+   "problem": "Testimonials are cut off mid thought with ellipses, with no dates. Typos include proccess, Divison of Property, reccomend and Salmon for Salman.",
+   "cost": "Cut off reviews and typos in a law firm's own copy weaken the trust the testimonials are meant to build.",
+   "fix": "Full, dated reviews and a proofread build."
+  },
+  {
+   "problem": "The consultation form appears two or three times, and booking goes to a separate domain (sadiqlaw.as.me). There is no chat or WhatsApp.",
+   "cost": "A client sent to an unfamiliar domain may question whether it is legitimate, and repeated forms split your enquiries.",
+   "fix": "One form on your own domain, one booking button and a chat or WhatsApp option."
+  }
+ ],
+ "redesign": [
+  "A consultation first homepage with one clear button, one short form and a visible price summary.",
+  "Practice area pages that work, written to rank for searches like uncontested divorce Toronto and separation agreement Toronto.",
+  "Proof beside every button: full dated reviews, one set of verified numbers and your team."
+ ]
+}

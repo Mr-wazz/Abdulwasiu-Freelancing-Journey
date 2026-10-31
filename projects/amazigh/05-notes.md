@@ -450,3 +450,12 @@ Not recorded. Start logging.
 - Abdulwasiu clicked Publish. He reports the auto-renew paragraph (Premium page) and the privacypolicies.com link (Privacy page) are both visible. I could not verify from outside (pages are behind login).
 - App visibility left as is (not Public). /Terms and /Privacy may still ask for login for reviewers. Open decision.
 - Next: Amazigh items (Premium screenshot, App Privacy labels, copyright check), monthly trial check, subscription review screenshots, add subscriptions to version 1.1, deletion test with throwaway account, demo account check. No submission without OK.
+
+## 2026-10-31 ASC progress
+- Copyright fixed to "2026 Amazigh" (Amazigh confirmed Amazighhh was a mistake). Saved.
+- Premium review screenshot (from Amazigh, resized 1242x2688) uploaded to both subscriptions by Abdulwasiu. File: 02-work/premium-review-screenshot-1242x2688.png.
+- Both subscriptions added to the draft submission (2 items, Ready for Review). Apple rule: first subscription must go with the new app version, so version 1.1 must be in the same draft.
+- Found: Premium savings text "Economisez 19,89 $ US" is hardcoded USD. Base44 prompt given to Abdulwasiu (built-in browser is on the wrong Base44 account, so he pastes it). Not published yet.
+- Waiting on Amazigh: App Privacy labels (email, user content, user ID, purchase history; linked, no tracking).
+- Not yet: add version 1.1 to draft, Submit for Review (needs Abdulwasiu OK), account deletion test, demo login check, monthly trial check.
+- Tip: ASC pages take 1 to 3 minutes to load in the in-app browser; use a fresh tab and wait.

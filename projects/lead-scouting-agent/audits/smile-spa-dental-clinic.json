@@ -1,0 +1,34 @@
+{
+ "business": "Smile Spa Dental Clinic",
+ "owner": "Dr. Luai Mahaini and team",
+ "city": "Festival City, Dubai",
+ "website": "smilespadubai.ae",
+ "summary": "Smile Spa has strong proof: a 4.8 Google rating from 184 reviews and real veneer cases. The page does not turn that proof into booked appointments yet.",
+ "findings": [
+  {
+   "problem": "The only form asks for name, phone and message, with no date, time or treatment. Booking buttons go to anchors on the same page.",
+   "cost": "A patient ready to book still has to wait for a callback, and many will choose a clinic with instant booking.",
+   "fix": "A booking form with treatment, date and time, plus a confirmation message."
+  },
+  {
+   "problem": "The service headings (Dental Implants, Cosmetic Dentistry, Orthodontic Braces) have no descriptions, prices or links, and everything sits on one long page.",
+   "cost": "Patients searching for a specific treatment land on a page that does not answer them, and you rank for none of them.",
+   "fix": "One page per treatment, written to rank for searches like veneers Dubai."
+  },
+  {
+   "problem": "Typos and garbled copy: dental toursim, crowns,bridges, Polyclinic dubai, and a doctor bio that reads Dr Mahaini conferences speaker as Certified Speaker for Absoanchor.",
+   "cost": "Errors in a clinical page make patients doubt the care that goes into the treatment.",
+   "fix": "A proofread build with clear doctor profiles."
+  },
+  {
+   "problem": "Several links go to # (the Services menu, doctor cards and the footer), and no email address is shown anywhere.",
+   "cost": "Dead links lose visitors, and patients who prefer email have no way to reach you.",
+   "fix": "Working links everywhere and a visible contact email."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage that puts your 4.8 rating and veneer cases beside every booking button.",
+  "Real online booking with date and time, plus WhatsApp, so a patient books in under 30 seconds.",
+  "A page per treatment and per doctor, written to rank in search and answer what patients ask."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Home Estate Agents",
+ "owner": "the Home Estate team",
+ "city": "Maroubra, Sydney",
+ "website": "homeea.com.au",
+ "summary": "Home Estate has five client reviews, useful tools such as a stamp duty calculator and repair request, and a modern look. Missing lead capture and small errors cost enquiries.",
+ "findings": [
+  {
+   "problem": "No lead capture form or chat appears on the page. The calls to action are generic (Contact Us, Start Here, Read more), and hours show Monday to Friday 9 to 5 only.",
+   "cost": "A seller or buyer browsing on a weekend has no quick way to ask, and generic buttons do not tell them what happens next.",
+   "fix": "A short Request an appraisal form and chat on every page, with weekend options."
+  },
+  {
+   "problem": "The contact email shows as [email protected] in the page text, the About menu's Instagram link ends in #, and the Repair Request Submit button links to the team page.",
+   "cost": "A contact email that cannot be read, a dead social link and a submit button that goes to the wrong page lose enquiries.",
+   "fix": "A tappable email, correct social links and a form that sends to the right place."
+  },
+  {
+   "problem": "The Sales and Rentals headings appear with no content under them, the team page is linked at two different addresses, and an empty link sits in the page.",
+   "cost": "Empty sections and duplicate links make an agency look unfinished to a seller choosing between agents.",
+   "fix": "Content in every section and one address for each page."
+  },
+  {
+   "problem": "The five reviews have no star ratings or dates, and a review has a capitalisation error: and Making the entire process stress-free. Listing cards show 2Beds and 1Baths without spaces.",
+   "cost": "Undated reviews are easy to doubt, and small errors weaken a premium look.",
+   "fix": "Dated reviews with ratings, linked to your Google profile, and clean listing cards."
+  }
+ ],
+ "redesign": [
+  "A seller first homepage with a short appraisal form, chat and weekend contact options.",
+  "Proof beside every button: dated reviews with ratings, your named agents and recent results.",
+  "Suburb pages written to rank for searches like real estate agent Maroubra and property appraisal Eastern Beaches."
+ ]
+}

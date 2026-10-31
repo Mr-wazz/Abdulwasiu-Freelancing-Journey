@@ -1,0 +1,33 @@
+{
+ "business": "Harley Street Medical Centre",
+ "owner": "the clinic team",
+ "city": "Marina Village, Abu Dhabi",
+ "website": "aestheticclinic.ae",
+ "summary": "The clinic has consultants in plastic surgery, dermatology and gynaecology, with a WhatsApp widget and booking buttons in the header and footer.",
+ "findings": [
+  {
+   "problem": "The Book an Appointment section shows a doctor dropdown but no visible form fields, so it looks empty or broken. Booking depends on a link to another page.",
+   "cost": "A patient who reaches the booking section and sees an empty form leaves without booking.",
+   "fix": "A short working booking form on the page with a confirmation message."
+  },
+  {
+   "problem": "The page title says Aesthetic Clinic Abu Dhabi, while the footer says Harley Street Medical Centre, and doctor profiles link to two domains (aestheticclinic.ae and hsmc.ae).",
+   "cost": "A patient who is not sure which clinic they are looking at, or who lands on a second website, loses trust.",
+   "fix": "One consistent brand name and all profiles on one domain."
+  },
+  {
+   "problem": "Typos such as a aesthetic clinic, inconsistent doctor names (Dr Amira and Dr. Amira) and an unclear line, Breast Harmonization 1 to 2 cups in 15 min.",
+   "cost": "Typos and unclear claims in a medical clinic's copy raise doubts about the care and the claims.",
+   "fix": "A proofread build with clear, consistent doctor profiles."
+  },
+  {
+   "problem": "Only three testimonials show, with no ratings or dates, and no before and after images appear on the homepage. The WhatsApp Us widget shows no number.",
+   "cost": "Aesthetic patients decide on visible results, and a phone link that fails loses calls.",
+   "fix": "A captioned results gallery, dated reviews and a tested phone and WhatsApp link."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with a working form, WhatsApp and a clear call to action for each specialty.",
+  "Real proof beside every button: dated reviews and captioned results for each doctor."
+ ]
+}

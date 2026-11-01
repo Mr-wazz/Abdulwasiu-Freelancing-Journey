@@ -1,0 +1,33 @@
+{
+ "business": "Perfect Doctors Clinic",
+ "owner": "Dr Dirk Kremer",
+ "city": "Jumeirah, Dubai",
+ "website": "perfectdrs.com",
+ "summary": "You publish prices, a booking form and WhatsApp, but conflicting prices and numbers, typos and unfinished sections work against that openness.",
+ "findings": [
+  {
+   "problem": "The phone is +971 4 611 2000 on the page and +971 46 112 000 in the footer.",
+   "cost": "Patients may dial a number that does not connect.",
+   "fix": "One checked number everywhere."
+  },
+  {
+   "problem": "Rhinoplasty shows two price ranges (23,299 to 30,000 AED and 19,999 to 25,000 AED), and liposuction shows 16,500 to 50,000 AED in one place and 18000 to 35000 AED in another.",
+   "cost": "Two prices for the same procedure damage trust.",
+   "fix": "One price per procedure."
+  },
+  {
+   "problem": "Typos include Strats at 500 AED, We uses cookies and Aesthetic Genital Pastic Surgery, form residue shows (Language Description Name), and Doctors and other menu items link to #.",
+   "cost": "Errors and dead menus look careless on a surgical site.",
+   "fix": "Proofread copy and working menus."
+  },
+  {
+   "problem": "The FAQ mentions before and after photos but none show, the 4.8 from 994 reviews is text only, Dr. Faissal Abdullah has no bio, and several image labels do not match their sections.",
+   "cost": "Patients want proof and to know who treats them.",
+   "fix": "A results gallery, review wall and doctor bios."
+  }
+ ],
+ "redesign": [
+  "One phone, one price list and a booking form on every page.",
+  "A results gallery, review wall and a bio for each doctor."
+ ]
+}

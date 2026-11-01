@@ -1,0 +1,34 @@
+{
+ "business": "\u00d4ra Face Clinic",
+ "owner": "the \u00d4ra team",
+ "city": "Palm Jumeirah, Dubai",
+ "website": "orafaceclinic.ae",
+ "summary": "A Palm Jumeirah location and a clear 360 approach are strengths, but repeated sections, a misspelled booking address and social links to another clinic appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The menu reads BOTOX TREATEMENTS, Book a Consultation links to /treament-form/, and the footer says Palm Jumeriah.",
+   "cost": "Spelling slips in menus and addresses weaken trust and search ranking.",
+   "fix": "Proofread menus and clean page addresses."
+  },
+  {
+   "problem": "OUR TREATMENTS, WHY \u00d4RA FACE CLINIC, BEFORE | AFTER and the 360 paragraph each appear twice, and the three feature cards link to #.",
+   "cost": "Repeated blocks and dead cards make the page feel unfinished.",
+   "fix": "One clean structure with working cards."
+  },
+  {
+   "problem": "The Facebook icon points to Instagram, and the footer Facebook link goes to ora.facecliniclondon, a different clinic.",
+   "cost": "Visitors land on another brand's page.",
+   "fix": "Correct social links."
+  },
+  {
+   "problem": "No reviews, doctor names or credentials appear, before and after images have no captions, and image text shows file names.",
+   "cost": "Cosmetic patients choose on proof and see none.",
+   "fix": "Reviews, named doctors and captioned results."
+  }
+ ],
+ "redesign": [
+  "Proofread menus and a clean booking path with WhatsApp.",
+  "One clean page structure and correct social links.",
+  "Reviews, named doctors and captioned results."
+ ]
+}

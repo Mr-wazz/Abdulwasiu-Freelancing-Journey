@@ -1,0 +1,34 @@
+{
+ "business": "Clinica Errami",
+ "owner": "Dr Shirin and the team",
+ "city": "Jumeirah 1, Dubai",
+ "website": "clinicaerrami.com",
+ "summary": "A Jumeirah location, a named doctor and WhatsApp booking are strengths, but blank images, repeated cards and unclear booking buttons appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "Several images have empty sources, including Body treatments, Clinica Errami and Google Reviews, and the Price List link has no target.",
+   "cost": "Blank images and a dead price link hide proof and prices that patients look for.",
+   "fix": "Real images and a working price list."
+  },
+  {
+   "problem": "The Body, Skin, Wellness and Face cards and the Popular Treatments block each appear twice, and several headings such as Latest Technology have no text under them.",
+   "cost": "Repeated and empty sections make the page feel unfinished.",
+   "fix": "One clean structure with finished sections."
+  },
+  {
+   "problem": "A blog heading says Clinica Erami, Speak to a Expert is misspelled, and the page claims 1500+ Satisfied Customers while Instagram says 1000+ Happy Clients.",
+   "cost": "Typos and conflicting numbers weaken trust.",
+   "fix": "Proofread copy and one verified set of figures."
+  },
+  {
+   "problem": "The Book Your Appointment buttons lead to no visible form, only four undated reviews show, only one doctor has a profile, and WhatsApp links show tracking tags.",
+   "cost": "Patients ready to book face extra steps and thin proof.",
+   "fix": "A booking form, a full review wall and complete doctor profiles."
+  }
+ ],
+ "redesign": [
+  "Real images, a working price list and a clean page structure.",
+  "A booking form with WhatsApp that sends a clean message.",
+  "A full review wall and complete doctor profiles."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Alpha Advocates and Legal Consultants",
+ "owner": "the Alpha team",
+ "city": "Capital Tower, Abu Dhabi",
+ "website": "alphalegal.ae",
+ "summary": "Strong reviews and a central Abu Dhabi office are strengths, but unrelated betting content, a test link and a booking section with no form appear to put your reputation and enquiries at risk.",
+ "findings": [
+  {
+   "problem": "Promotional lines for online casino and betting sites in several languages appear on the page, with links named test2, which suggests the site may have been compromised.",
+   "cost": "Clients and search engines may treat the site as unsafe, which hurts trust and ranking.",
+   "fix": "A security clean up, hardened hosting and monitoring."
+  },
+  {
+   "problem": "The Book a Call section shows only the link text test2, with no form or booking tool, and a WhatsApp us heading has no number under it.",
+   "cost": "Clients who want to call or message first cannot, and enquiries are lost.",
+   "fix": "A working booking form and a WhatsApp button."
+  },
+  {
+   "problem": "The footer number +971 505809025 links to a different number, tel:+971 26777763, and the firm appears under three different names.",
+   "cost": "A client who taps to call may reach a different line and trust drops.",
+   "fix": "One checked number and one firm name."
+  },
+  {
+   "problem": "The page claims #1 law firm in Abu Dhabi with no source, shows 36 reviews but displays eight, and contains typos such as 'high standers'.",
+   "cost": "Unsourced rankings and typos weaken a law firm.",
+   "fix": "Sourced credentials, a full review wall and proofread copy."
+  }
+ ],
+ "redesign": [
+  "A clean, secured site with monitoring.",
+  "A booking form and WhatsApp with one checked phone number.",
+  "Sourced credentials, named lawyers and proofread copy."
+ ]
+}

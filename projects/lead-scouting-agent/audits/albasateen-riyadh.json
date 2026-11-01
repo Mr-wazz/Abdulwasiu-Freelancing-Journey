@@ -1,0 +1,34 @@
+{
+ "business": "Albasateen Real Estate",
+ "owner": "the Albasateen team",
+ "city": "Riyadh",
+ "website": "albasateen.sa",
+ "summary": "A development track record since 1998 and a WhatsApp line are strengths, but visible template code, typos and conflicting project figures appear to cost you serious buyers.",
+ "findings": [
+  {
+   "problem": "The project grid shows the unfilled tokens {{title}} and {{excerpt}}, and the language toggle links to #.",
+   "cost": "Template code on a development page looks unfinished to investors.",
+   "fix": "Finished project cards and a working language switch."
+  },
+  {
+   "problem": "Typos appear: 'heart of diryah', 'U.G Parking Basaments' and 'Offices Residental', and the company name appears as Albasateen, Al Basateen and The Albasateen.",
+   "cost": "Spelling slips and changing names weaken a premium developer brand.",
+   "fix": "Proofread copy and one consistent brand name."
+  },
+  {
+   "problem": "Palms and Gardens list identical specs, Hills and Albasateen Villas show different villa counts, and Palm View shows Available beside a SAR 650 million acquisition.",
+   "cost": "Conflicting project data makes buyers doubt every figure.",
+   "fix": "One verified fact sheet per project."
+  },
+  {
+   "problem": "The enquiry dropdown omits five projects, no consent text shows near the form, and the site shows no testimonials or delivery dates.",
+   "cost": "Buyers for the missing projects cannot enquire and proof is thin.",
+   "fix": "A complete enquiry form and visible proof."
+  }
+ ],
+ "redesign": [
+  "Finished project pages with verified specs and delivery dates.",
+  "A complete enquiry form with every project and WhatsApp.",
+  "Proofread copy, one brand name and visible buyer proof."
+ ]
+}

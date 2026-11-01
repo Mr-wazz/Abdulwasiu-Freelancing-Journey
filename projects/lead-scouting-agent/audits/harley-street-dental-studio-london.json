@@ -1,0 +1,33 @@
+{
+ "business": "Harley Street Dental Studio",
+ "owner": "the Harley Street Dental Studio team",
+ "city": "London",
+ "website": "harleystreetdentalstudio.com",
+ "summary": "You have booking, WhatsApp and awards, but dead menus and unfinished text on a Harley Street page cost credibility with high value patients.",
+ "findings": [
+  {
+   "problem": "About, Before and After, Prices and Dental Implants in the menu link to #. The Before and After section shows no images on the homepage.",
+   "cost": "Patients looking for results and prices click and get nothing.",
+   "fix": "Working pages with real results and prices."
+  },
+  {
+   "problem": "The cookie banner shows unfilled text {title} and Manage {vendor_count} vendors, and This field is for validation purposes appears three times.",
+   "cost": "Template code on a premium site looks careless.",
+   "fix": "A clean banner and tidy forms."
+  },
+  {
+   "problem": "The page claims 800+ Google reviews but shows six, each cut off. It says annual winner of awards while the list shows one win and several finalist places from 2014 to 2018.",
+   "cost": "Overstated proof can lose trust with careful patients.",
+   "fix": "Accurate, current proof and a full review wall."
+  },
+  {
+   "problem": "Award logos are labelled Thank You Page, the same heading appears twice, and the patient story video shows a placeholder.",
+   "cost": "Small errors dilute a premium image.",
+   "fix": "Correct image text and working video."
+  }
+ ],
+ "redesign": [
+  "Working menus, a real before and after gallery and a clear prices page.",
+  "Accurate awards, a full review wall and clean booking and WhatsApp."
+ ]
+}

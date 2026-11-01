@@ -1,0 +1,33 @@
+{
+ "business": "The Skin Philosophy",
+ "owner": "the Skin Philosophy team",
+ "city": "Sydney CBD",
+ "website": "theskinphilosophy.com.au",
+ "summary": "You offer doctor-led skin treatments in the CBD, but several sections of the homepage appear empty and booking is by phone only.",
+ "findings": [
+  {
+   "problem": "What Our Clients Are Saying and two product sections have headings but appear to show nothing.",
+   "cost": "Empty reviews and shop sections look broken and give no proof.",
+   "fix": "Real reviews and a working product section."
+  },
+  {
+   "problem": "Leftover text shows: Use left/right arrows to navigate the slideshow, View cart (), and an image alt reads Wendy.png with a long ID.",
+   "cost": "Stray system text makes a clinic site look unfinished.",
+   "fix": "Clean content and proper image text."
+  },
+  {
+   "problem": "Booking is by phone only, open Wednesday to Friday 9am to 5pm. No form, no WhatsApp.",
+   "cost": "Evening visitors and mobile users who want to book now leave.",
+   "fix": "Online booking form and WhatsApp button."
+  },
+  {
+   "problem": "The page says Doctor led but names no doctor, shows no before and after, and Brands links to #.",
+   "cost": "Cosmetic patients want to know who treats them and see results.",
+   "fix": "Doctor profile and a results gallery."
+  }
+ ],
+ "redesign": [
+  "Online booking and WhatsApp so patients can book any time.",
+  "A doctor profile, reviews and results gallery that prove quality."
+ ]
+}

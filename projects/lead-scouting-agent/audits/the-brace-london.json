@@ -1,0 +1,33 @@
+{
+ "business": "The Brace Orthodontic Practice",
+ "owner": "the Brace team",
+ "city": "Liverpool Street, London",
+ "website": "thebrace.com",
+ "summary": "Two specialist orthodontists, 784 reviews and a clear free consultation offer are strong, but a wrong phone link and conflicting numbers cost you patients.",
+ "findings": [
+  {
+   "problem": "The emergency line shows 020 7247 5768 but the link dials 02072475678, so tapping it reaches a different number.",
+   "cost": "A patient in pain who taps to call may reach the wrong place.",
+   "fix": "A checked, working click to call link."
+  },
+  {
+   "problem": "The cookie banner shows Manage {vendor_count} vendors and several {title} entries, and menu labels leak into the page (Close Treatments Open Treatments).",
+   "cost": "Unfilled code looks careless on a first screen.",
+   "fix": "A clean banner and tidy menus."
+  },
+  {
+   "problem": "The page says More than 15,000 patients treated and 10,000+ smiles, 30 years and 20 years of experience, and More than 600 reviews next to 4.8 - 784 User Reviews.",
+   "cost": "Conflicting numbers make patients doubt every claim.",
+   "fix": "One verified set of figures."
+  },
+  {
+   "problem": "The header Book a free consultation goes to /special-offer/ while others go to /consultation/, the same page is labelled Kids+ and Teens+, no before and after shows, and the awards are not named.",
+   "cost": "Mixed booking paths and unnamed awards reduce trust.",
+   "fix": "One booking path, captioned results and named awards."
+  }
+ ],
+ "redesign": [
+  "A working call link, one booking path and a clean first screen.",
+  "One verified set of figures with captioned before and after results."
+ ]
+}

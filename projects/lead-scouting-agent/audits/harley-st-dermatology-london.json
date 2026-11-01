@@ -1,0 +1,34 @@
+{
+ "business": "Harley Street Dermatology Clinic",
+ "owner": "the clinic team",
+ "city": "Harley Street, London",
+ "website": "harleystdermatology.com",
+ "summary": "A specialist focus and a CQC report link are strengths, but typos, a dead menu item and no contact form appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Dermatology menu item links to #, and the Our services link points to an anchor that does not appear.",
+   "cost": "Visitors cannot reach your main service pages from the menu.",
+   "fix": "Working menus and service pages."
+  },
+  {
+   "problem": "The page shows 'Basel Cell Carcinoma' and 'skin deseases', and the blog section lists no posts.",
+   "cost": "Spelling errors on medical terms make patients doubt expertise.",
+   "fix": "Proofread medical copy and a real blog section."
+  },
+  {
+   "problem": "The header lists two phone numbers, 0207 299 0392 and 0207 467 8300, while the footer lists only the first.",
+   "cost": "Patients are unsure which number to call.",
+   "fix": "One checked number everywhere."
+  },
+  {
+   "problem": "No contact form appears, booking relies on a third party link, and no reviews or registration details are shown.",
+   "cost": "Patients who want to enquire online have no simple option and proof is thin.",
+   "fix": "A direct enquiry form, WhatsApp and visible reviews."
+  }
+ ],
+ "redesign": [
+  "Working menus and one phone number.",
+  "A direct enquiry form and WhatsApp option.",
+  "Proofread copy, reviews and visible registration details."
+ ]
+}

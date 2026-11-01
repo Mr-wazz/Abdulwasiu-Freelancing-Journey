@@ -1,0 +1,33 @@
+{
+ "business": "HK Advocates",
+ "owner": "Hamdan Alkaabi",
+ "city": "Abu Dhabi and Dubai",
+ "website": "hkadvocates.com",
+ "summary": "Your site shows serious clients and three UAE offices, but unfinished numbers and missing proof weaken the first impression.",
+ "findings": [
+  {
+   "problem": "Every statistic counter appears to read 0 + or 0 K+, including Branches in UAE, while the text says 3 offices.",
+   "cost": "Zero counters look broken and give a client no proof of your track record.",
+   "fix": "Real, working numbers."
+  },
+  {
+   "problem": "The Client Testimonials section lists only client names (Modon, DAMAC, UBL) with no quotes, and the Our Team button links to #.",
+   "cost": "Corporate clients want to see who you act for and who will act for them.",
+   "fix": "Short client quotes and a working team page."
+  },
+  {
+   "problem": "Typos such as recogniztion, Our attorneys always here and We have accomplished to best outcomes. The firm name appears three ways.",
+   "cost": "Errors on a law firm page lower trust.",
+   "fix": "Proofread copy and one brand name."
+  },
+  {
+   "problem": "Stray text Artboard 1 Free Consultation shows as a link label, Free Consultation buttons point to #contact, and there is no WhatsApp. Two phone numbers appear with no explanation.",
+   "cost": "Clients who are ready to call face unclear options.",
+   "fix": "One clear contact path with WhatsApp and the right number per office."
+  }
+ ],
+ "redesign": [
+  "Working counters, client quotes and a team page that builds trust.",
+  "A free consultation form, WhatsApp and a clear number for each office."
+ ]
+}

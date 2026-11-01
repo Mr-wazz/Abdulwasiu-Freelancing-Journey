@@ -1,0 +1,33 @@
+{
+ "business": "LAW TIME Legal Consultants",
+ "owner": "the LAW TIME team",
+ "city": "Abu Dhabi",
+ "website": "lawtimeuae.com",
+ "summary": "You offer dispute and corporate work in several languages with a WhatsApp number, but broken buttons and unfinished text hide your strengths.",
+ "findings": [
+  {
+   "problem": "The Contact us button in the second hero block links to /about/, and View More under the blog cards links to /about/ too.",
+   "cost": "A client who clicks to contact you is sent to the wrong page.",
+   "fix": "Contact buttons that open a form or WhatsApp."
+  },
+  {
+   "problem": "The Our Blogs cards show the placeholder image and the line LAW TIME Legal Consultants is a TIME Legal Consultants is a UAE repeated four times.",
+   "cost": "A garbled blog section makes the firm look unfinished.",
+   "fix": "Real posts or no blog section."
+  },
+  {
+   "problem": "There is no contact form, no client testimonials and no named lawyers.",
+   "cost": "Clients want to know who will act for them and what others say.",
+   "fix": "Enquiry form, testimonials and lawyer profiles."
+  },
+  {
+   "problem": "Typos such as We offers a comprehensive range, including rental and all. and Arabic,Hindi. The claim Best Law firm in Abu Dhabi has no evidence.",
+   "cost": "Errors and unsupported claims lower trust.",
+   "fix": "Proofread copy and evidence for claims."
+  }
+ ],
+ "redesign": [
+  "Contact buttons that work, an enquiry form and a clear WhatsApp option.",
+  "Lawyer profiles, client testimonials and a clean, proofread site."
+ ]
+}

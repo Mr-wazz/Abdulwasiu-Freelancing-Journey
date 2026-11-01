@@ -1,0 +1,34 @@
+{
+ "business": "Gottlieb Family Law",
+ "owner": "the Gottlieb team",
+ "city": "Bloor Street East, Toronto",
+ "website": "gottlieblawfirm.com",
+ "summary": "A long track record and a 24 hour reply promise are strengths, but a contact page with no form and links to the wrong place appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The page says to fill out the form below, but no form appears, and the email, How to find us and Contact links all point to a map page.",
+   "cost": "A person who wants to reach a family lawyer cannot easily do it.",
+   "fix": "A working enquiry form and correct email and map links."
+  },
+  {
+   "problem": "The address shows two postal codes, M4W 1H7 and M4W 3L4, and the firm appears as Gottlieb Family Law Professional Corporation, Gottlieb Law Firm and Gottlieb Family Law.",
+   "cost": "Mixed details confuse clients and hurt local search.",
+   "fix": "One address and one firm name."
+  },
+  {
+   "problem": "A menu item reads Mary Elizabeth Lam but links to a page named mira-pilch, and the FAQ shows empty bullet points and a stray Main Page label.",
+   "cost": "Wrong links and leftover text make a law firm look careless.",
+   "fix": "Correct team links and a clean FAQ."
+  },
+  {
+   "problem": "The page claims 60 years of experience, but the Our Reviews and Cases sections show no content, and the cost FAQ gives no fee information.",
+   "cost": "Clients choose on proof and clear fees, and see neither.",
+   "fix": "Visible reviews, case summaries and fee guidance."
+  }
+ ],
+ "redesign": [
+  "A working enquiry form and correct email and map links.",
+  "One address, one firm name and correct team links.",
+  "Visible reviews, case summaries and clear fee guidance."
+ ]
+}

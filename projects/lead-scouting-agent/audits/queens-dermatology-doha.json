@@ -1,0 +1,33 @@
+{
+ "business": "Queens Dermatology Centre",
+ "owner": "the Queens Dermatology team",
+ "city": "Doha",
+ "website": "queensdermacenter.com",
+ "summary": "You offer a wide range of skin treatments, but the homepage has placeholder content, broken links and nothing that proves quality.",
+ "findings": [
+  {
+   "problem": "The 'WhatsApp us' button is a phone call. Phone links contain spaces (tel: +974 ...). Contact email is a Gmail address under the Pearl Medical Center name.",
+   "cost": "Patients who tap to chat or call may fail, and a different brand in the email confuses them.",
+   "fix": "Tested WhatsApp and call buttons, brand email."
+  },
+  {
+   "problem": "Typos 'well expirenced doctors' and 'Mesotheraphy'. Morpheus Pro 8 and Morpheus 8 Pro both appear.",
+   "cost": "Spelling errors on the main page hurt trust in a medical brand.",
+   "fix": "Clean consistent copy for every treatment."
+  },
+  {
+   "problem": "Three feature cards link to #, Read More goes to a developer domain, and a hero image is a placeholder.",
+   "cost": "Broken pages and demo content look unfinished.",
+   "fix": "Working links and real clinic photos."
+  },
+  {
+   "problem": "No reviews, no named doctors, no before and after. The booking Send box shows no visible fields.",
+   "cost": "Without proof or a clear form, visitors do not book.",
+   "fix": "Doctor profiles, Google reviews and a working form."
+  }
+ ],
+ "redesign": [
+  "Working WhatsApp, call and booking form on every page.",
+  "Doctor profiles, reviews and before and after results for each treatment."
+ ]
+}

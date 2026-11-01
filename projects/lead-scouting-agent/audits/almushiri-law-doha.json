@@ -1,0 +1,34 @@
+{
+ "business": "Almushiri Law Firm",
+ "owner": "the Almushiri team",
+ "city": "Lusail Marina, Doha",
+ "website": "almushirilaw.com",
+ "summary": "A location near the courts and a named lawyer are strengths, but stray code on the page and an email form with no send button appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "Stray text appears on the page, including '}}', '__MORE ABOUT US' and 'Hidden fields' beside the contact form.",
+   "cost": "Leftover code makes a law firm look unfinished.",
+   "fix": "A clean page with no leftover code."
+  },
+  {
+   "problem": "The email us section lists Name, Email and Message but appears to show no submit button, and no WhatsApp number is listed.",
+   "cost": "Clients who want to message you cannot be sure the form works.",
+   "fix": "A tested form with a clear send button and WhatsApp."
+  },
+  {
+   "problem": "The firm appears as Almushiri Law Firm, Al-Mushiri Law and Almushiri Law Office, and the main phone differs from Ahmed Al Mushiri's line.",
+   "cost": "Changing names and numbers weaken trust.",
+   "fix": "One firm name and clear contact lines."
+  },
+  {
+   "problem": "The hero slogan repeats three times, and the page says Our legal team have years of experience but shows only one lawyer profile and no case results.",
+   "cost": "Repeated lines and thin proof weaken the firm's authority.",
+   "fix": "A full team page and case summaries."
+  }
+ ],
+ "redesign": [
+  "A clean page and a tested contact form with WhatsApp.",
+  "One firm name and clear contact lines.",
+  "A full team page, credentials and case summaries."
+ ]
+}

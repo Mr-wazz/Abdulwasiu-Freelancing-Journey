@@ -1,3 +1,44 @@
+# WhatsApp list for 2026-11-02 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. Note: items 2 to 5 also have an email draft, so choose one channel per business.
+
+## 1. Al Bahri Dental and Orthodontic Center (Abu Dhabi), WhatsApp only lead, no email found
+
+Message:
+> Hello, I looked at the Al Bahri cosmetic dentistry page. The Oral Surgery link goes nowhere and the contact form shows the raw word _email_ where the box should be. That can lose new patients. I wrote a short one page note on how to fix both. May I send it here?
+
+Tap to open: https://wa.me/971563431856?text=Hello%2C%20I%20looked%20at%20the%20Al%20Bahri%20cosmetic%20dentistry%20page.%20The%20Oral%20Surgery%20link%20goes%20nowhere%20and%20the%20contact%20form%20shows%20the%20raw%20word%20_email_%20where%20the%20box%20should%20be.%20That%20can%20lose%20new%20patients.%20I%20wrote%20a%20short%20one%20page%20note%20on%20how%20to%20fix%20both.%20May%20I%20send%20it%20here%3F
+
+## 2. Landhouse Properties (Dubai)
+
+Message:
+> Hi, I was on your Palm Jumeirah page. The same header block shows three times and I could not find prices for any project, so a serious buyer may leave. I put together a short one page note with the fixes. Would you like me to send it?
+
+Tap to open: https://wa.me/971501381755?text=Hi%2C%20I%20was%20on%20your%20Palm%20Jumeirah%20page.%20The%20same%20header%20block%20shows%20three%20times%20and%20I%20could%20not%20find%20prices%20for%20any%20project%2C%20so%20a%20serious%20buyer%20may%20leave.%20I%20put%20together%20a%20short%20one%20page%20note%20with%20the%20fixes.%20Would%20you%20like%20me%20to%20send%20it%3F
+
+## 3. Albasateen Real Estate (Riyadh)
+
+Message:
+> Hello, I went through the Albasateen website. The project cards show the code {{title}} instead of names, and two projects list the same specs. A buyer can lose trust quickly. I prepared a short one page note about it. Can I send it to you here?
+
+Tap to open: https://wa.me/966920003749?text=Hello%2C%20I%20went%20through%20the%20Albasateen%20website.%20The%20project%20cards%20show%20the%20code%20%7B%7Btitle%7D%7D%20instead%20of%20names%2C%20and%20two%20projects%20list%20the%20same%20specs.%20A%20buyer%20can%20lose%20trust%20quickly.%20I%20prepared%20a%20short%20one%20page%20note%20about%20it.%20Can%20I%20send%20it%20to%20you%20here%3F
+
+## 4. Reyada Medical Centre (Doha)
+
+Message:
+> Good day, I checked the Reyada dermatology page. It says patients can book online but I could not find a booking form, and the email link looks broken. This can send patients to another clinic. I wrote a one page note on the fix. May I share it here?
+
+Tap to open: https://wa.me/97444457777?text=Good%20day%2C%20I%20checked%20the%20Reyada%20dermatology%20page.%20It%20says%20patients%20can%20book%20online%20but%20I%20could%20not%20find%20a%20booking%20form%2C%20and%20the%20email%20link%20looks%20broken.%20This%20can%20send%20patients%20to%20another%20clinic.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix.%20May%20I%20share%20it%20here%3F
+
+## 5. Dr Haus Dermatology (London)
+
+Message:
+> Hello, I read your website. Five menu headings such as Face And Neck lead nowhere and some reviews show typos. For a Harley Street clinic that can cost new patients. I made a short one page note with the fixes. Shall I send it over?
+
+Tap to open: https://wa.me/442079356358?text=Hello%2C%20I%20read%20your%20website.%20Five%20menu%20headings%20such%20as%20Face%20And%20Neck%20lead%20nowhere%20and%20some%20reviews%20show%20typos.%20For%20a%20Harley%20Street%20clinic%20that%20can%20cost%20new%20patients.%20I%20made%20a%20short%20one%20page%20note%20with%20the%20fixes.%20Shall%20I%20send%20it%20over%3F
+
+---
+
 # WhatsApp list for 2026-11-01 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply.

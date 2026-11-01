@@ -87,8 +87,7 @@ def build(lead, out):
     s.append(st)
 
     cta = Table([[Paragraph(f'<font color="white"><b>Book your 15 minute preview call</b></font><br/>'
-                            f'<font color="white" size="9"><link href="{BOOKING}">{BOOKING}</link></font><br/>'
-                            f'<font color="white" size="9">See my work: <link href="{PORTFOLIO}">{PORTFOLIO}</link></font>',
+                            f'<font color="white" size="9"><link href="{BOOKING}">{BOOKING}</link></font>',
                             ParagraphStyle("cta", parent=BODY, textColor=colors.white, fontSize=12, leading=17))]],
                colWidths=[170 * mm])
     cta.setStyle(TableStyle([("BACKGROUND", (0, 0), (-1, -1), NAVY),
@@ -96,8 +95,7 @@ def build(lead, out):
                              ("LEFTPADDING", (0, 0), (-1, -1), 12)]))
     s.append(Spacer(1, 10))
     s.append(KeepTogether([cta, Spacer(1, 4),
-                           Paragraph("Abdulwasiu, web designer, Lagos. Built with WordPress/Elementor or Base44 depending on what suits you. "
-                                     "Findings are from my own review of your public website.", SMALL)]))
+                           Paragraph("Prepared by Abdulwasiu. Findings are from my own review of your public website.", SMALL)]))
     doc.build(s)
 
 

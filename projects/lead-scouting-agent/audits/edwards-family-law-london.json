@@ -1,0 +1,34 @@
+{
+ "business": "Edwards Family Law",
+ "owner": "the Edwards Family Law team",
+ "city": "London",
+ "website": "edwardsfamilylaw.co.uk",
+ "summary": "A boutique focus on complex divorce is strong, but two different phone numbers and an enquiry form that appears to show no fields put high value enquiries at risk.",
+ "findings": [
+  {
+   "problem": "The Call us button shows +020 8038 1931, which has an invalid prefix, while the footer lists +44 (0)20 3983 1818. The two numbers differ.",
+   "cost": "A high value client who taps to call may reach the wrong line or fail to connect.",
+   "fix": "One checked number everywhere."
+  },
+  {
+   "problem": "The cookie banner shows Manage {vendor_count} vendors and three {title} entries, and the Terms of Use link goes to the privacy policy.",
+   "cost": "Unfilled code and wrong links look careless for a law firm.",
+   "fix": "A clean banner and correct links."
+  },
+  {
+   "problem": "The Initial Consultation Form appears to show labels and Submit without visible fields, with an unexplained field labelled Untitled and run together labels such as Preferred Method of ContactEmailPhone.",
+   "cost": "Complex divorce clients may not be able to enquire at all.",
+   "fix": "A tested form with clear fields and confirmation."
+  },
+  {
+   "problem": "Alice Carter is Associate Solicitor in her title but Trainee in her bio, which ends mid sentence, and the awards line says Chambers & Partners in one place and CHAMBERS HNW 2025 in another.",
+   "cost": "Mixed credentials weaken the proof high net worth clients look for.",
+   "fix": "Consistent credentials and complete profiles."
+  }
+ ],
+ "redesign": [
+  "One correct phone number and a tested consultation form.",
+  "Complete team profiles with consistent credentials.",
+  "A clean first screen and named, dated client proof."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "Bortoft Bell",
+ "owner": "the Bortoft Bell team",
+ "city": "London",
+ "website": "bortoftbell.com",
+ "summary": "A clear boutique family law positioning, but the page has no contact form and its links and copy leave room for confusion.",
+ "findings": [
+  {
+   "problem": "No contact form. The free initial meeting is for qualifying clients, but the page never says who qualifies or how to book.",
+   "cost": "A client in a stressful moment will not guess how to qualify and will call another firm.",
+   "fix": "A short enquiry form and a clear qualifying line."
+  },
+  {
+   "problem": "Family Solicitor Near Me and Divorce Lawyers both link to the homepage, Spousal Maintenance goes to a page titled London Divorce Solicitors, and empty links appear.",
+   "cost": "Mislinked pages confuse clients and search engines.",
+   "fix": "Correct, working links to each page."
+  },
+  {
+   "problem": "Leftover search text (Hit enter to search or ESC to close Search) shows, there is a grammar slip (We drawn upon), and Skype is listed as a meeting option.",
+   "cost": "Small slips on a premium legal page reduce confidence.",
+   "fix": "Proofread, current copy."
+  },
+  {
+   "problem": "The only quotes come from directories, not clients, and the footer promotes the web and SEO agencies.",
+   "cost": "Clients want to hear from other clients, and agency promotion distracts from your brand.",
+   "fix": "Client testimonials and a clean footer."
+  }
+ ],
+ "redesign": [
+  "A simple enquiry form and calendar booking with clear qualifying wording.",
+  "Client testimonials, team profiles and clean, correct page links."
+ ]
+}

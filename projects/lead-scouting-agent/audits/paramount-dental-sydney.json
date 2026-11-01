@@ -1,0 +1,33 @@
+{
+ "business": "Paramount Dental Sydney",
+ "owner": "the Paramount Dental team",
+ "city": "Sydney CBD",
+ "website": "paramountdentalsydney.com.au",
+ "summary": "Your CBD practice offers a full range of treatments, but the page has template leftovers, no proof and no way to book online from the page itself.",
+ "findings": [
+  {
+   "problem": "The heading says Dental clinic near the Eastern Suburbs, but the address is 185 Elizabeth Street in the CBD.",
+   "cost": "Patients from the east may expect a closer clinic and go elsewhere.",
+   "fix": "Clear, honest location copy."
+  },
+  {
+   "problem": "No booking form, only a link to /book. No WhatsApp, reviews, or named dentists, and Meet The Team names none.",
+   "cost": "Patients choose a dentist by face and reviews, and many book from their phone.",
+   "fix": "Booking form, WhatsApp, reviews and dentist profiles."
+  },
+  {
+   "problem": "A placeholder reads This is an example. To display your Instagram posts, double-click here, and Delivery & Returns Policy appears as plain text.",
+   "cost": "Placeholder text on a dental site looks unfinished.",
+   "fix": "Remove placeholders and use a real feed or none."
+  },
+  {
+   "problem": "Typos such as patient care should always comes first and Crows Feet, a repeated menu, and a footer link split into Eas and tern Suburbs.",
+   "cost": "Errors lower trust in clinical care.",
+   "fix": "Proofread, tidy navigation."
+  }
+ ],
+ "redesign": [
+  "Online booking and WhatsApp on every page.",
+  "Reviews, named dentists and a before and after gallery to prove quality."
+ ]
+}

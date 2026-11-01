@@ -1,0 +1,33 @@
+{
+ "business": "Infinity Aesthetic and Dental Center",
+ "owner": "the Infinity team",
+ "city": "Jumeirah Lakes Towers, Dubai",
+ "website": "infinitydentalclinic.com",
+ "summary": "You have 338 reviews, ten named staff and dental plus aesthetics under one roof, but zero counters and a booking button with no form cost you patients.",
+ "findings": [
+  {
+   "problem": "The milestone counters appear to read 0 + for Happy Patients, Online Appointments and Years Of Experience, while the text says Established 2009.",
+   "cost": "Zero counters look broken and hide your best proof.",
+   "fix": "Real numbers on the page."
+  },
+  {
+   "problem": "Make Appointment and Book an Appointment link to #appointment-from or a malformed http://appointment-from. No booking form appears and WhatsApp us is a heading with no link.",
+   "cost": "A patient who tries to book hits a dead end and goes elsewhere.",
+   "fix": "A working booking form and WhatsApp button."
+  },
+  {
+   "problem": "The name appears as Infinity Clinic Jumeirah, Infinity Aesthetic and Dental Center and Infinity Clinic. The address says Jumeirah Lake Towers, and hours say Monday to Sunday followed by Saturday Off.",
+   "cost": "Patients are unsure where you are and when you are open.",
+   "fix": "One name, one address and one set of hours."
+  },
+  {
+   "problem": "Dr. Mohamed Akil is Dr. Mohammed Akeel in reviews. The page cites 4.9 from 338 reviews but shows eight, the footer says 2025, and Gp Aesthetics is a typo.",
+   "cost": "Inconsistent names and a thin review wall weaken trust.",
+   "fix": "Consistent names, a full review wall and current copy."
+  }
+ ],
+ "redesign": [
+  "A booking form and WhatsApp button on every page.",
+  "One brand name, correct hours and a full review wall with before and after results."
+ ]
+}

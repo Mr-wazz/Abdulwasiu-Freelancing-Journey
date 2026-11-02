@@ -459,3 +459,9 @@ Not recorded. Start logging.
 - Waiting on Amazigh: App Privacy labels (email, user content, user ID, purchase history; linked, no tracking).
 - Not yet: add version 1.1 to draft, Submit for Review (needs Abdulwasiu OK), account deletion test, demo login check, monthly trial check.
 - Tip: ASC pages take 1 to 3 minutes to load in the in-app browser; use a fresh tab and wait.
+
+## 2026-11-02 SUBMITTED to App Review
+- App Privacy labels published: Email, Other User Content, User ID, Purchases (App Functionality, linked, no tracking).
+- Version 1.1 (build 17) + monthly + yearly subscriptions + subscription group submitted together (4 items). Apple says up to 48 hours, email on completion.
+- Still open: Base44 savings text shows "$ US" (hardcoded USD, prompt given), account deletion test, demo login check, monthly 7 day trial check, privacypolicies.com text to mention subscriptions, iOS deployment target to 15 before April 2027.
+- Upsell next: see 04-upsell.md (store listing/ASO, promo, retainer).

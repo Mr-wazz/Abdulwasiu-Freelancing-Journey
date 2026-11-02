@@ -1,0 +1,34 @@
+{
+ "business": "Luxury Residences",
+ "owner": "the team",
+ "city": "Barsha Heights, Dubai",
+ "website": "luxuryresidences.com",
+ "summary": "Palm Jumeirah and ultra luxury listings are a strength, but placeholder text, mixed up prices and a broken contact link appear to cost you serious buyers.",
+ "findings": [
+  {
+   "problem": "The public email contactus@luxuryresidences.com appears wrapped in a phone link, and the page appears to show both 'Thank you! Your submission has been received!' and 'Oops! Something went wrong while submitting the form.'",
+   "cost": "A buyer who clicks the email opens the dialer and a form that looks broken sends enquiries nowhere.",
+   "fix": "Working email link and a clean enquiry form."
+  },
+  {
+   "problem": "Listings appear to show 'This is some text inside of a div block.', 'Heading' and a Placeholder Image file name.",
+   "cost": "Template text on a multi million dirham page destroys luxury trust.",
+   "fix": "Finished listing cards."
+  },
+  {
+   "problem": "Prices appear mismatched, such as AED 38,000,000 beside $ 38,000,000 and 6,702 sq.ft beside 63 sq.m, and apartments appear labelled as 'Duplex Bespoke Garden Home' and 'Garden Villa'.",
+   "cost": "Wrong prices and sizes make buyers doubt every listing.",
+   "fix": "Verified prices, sizes and property types."
+  },
+  {
+   "problem": "The Insights section appears to repeat the same Bugatti Residences 2023 card four times with # links, the footer shows 2024 and 2026, and Privacy Policy appears to link to #.",
+   "cost": "Stale repeated content and a dead privacy link signal an unattended site.",
+   "fix": "Fresh insights, current footer, real policy page."
+  }
+ ],
+ "redesign": [
+  "Working email, WhatsApp and enquiry form.",
+  "Clean listings with verified prices and sizes.",
+  "Fresh insights and real policy pages."
+ ]
+}

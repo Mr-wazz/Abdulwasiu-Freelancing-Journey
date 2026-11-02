@@ -1,0 +1,34 @@
+{
+ "business": "Infinity Skin Clinic",
+ "owner": "Dr Charles Cope and the team",
+ "city": "Mosman and Surry Hills, Sydney",
+ "website": "infinityskin.com.au",
+ "summary": "A plastic surgeon led clinic since 2004 with a full laser suite is a strength, but dead menu links and staging leftovers appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The Mosman phone number appears as 02 9129 2244 in one header and 02 9307 2833 in the other, and no opening hours appear.",
+   "cost": "A client who dials the wrong number or cannot see hours may book elsewhere.",
+   "fix": "One verified number and hours per clinic."
+  },
+  {
+   "problem": "Several menu items such as About, Treatments, Skin Boosters and Treatment of wrinkles appear to link to #, and the menu appears to spell 'Surry Hills Cinic'.",
+   "cost": "Visitors who click a treatment reach nothing.",
+   "fix": "Working menu and proofread labels."
+  },
+  {
+   "problem": "Body copy appears to link to staging.infinityskin.com.au, and the Before & After gallery appears to show placeholder images only.",
+   "cost": "Staging links and a blank gallery weaken a cosmetic clinic where results sell.",
+   "fix": "Live links and captioned before and after photos."
+  },
+  {
+   "problem": "Booking appears split across Zenoti and Gettimely depending on the practitioner, and the page appears to show 'visualise you skin' and the Vogue award with no source.",
+   "cost": "Split booking and unsourced awards confuse clients and weaken proof.",
+   "fix": "One booking flow and a linked award."
+  }
+ ],
+ "redesign": [
+  "One booking flow, one number per clinic.",
+  "Working menu and live links.",
+  "Captioned results and sourced awards."
+ ]
+}

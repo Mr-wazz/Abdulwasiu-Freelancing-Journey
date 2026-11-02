@@ -1,0 +1,34 @@
+{
+ "business": "Sharq Law Firm",
+ "owner": "Mr Rashid Al Saad and the team",
+ "city": "West Bay, Doha",
+ "website": "sharqlawfirm.com",
+ "summary": "IFLR1000 recognition and a large legal team are strengths, but an outdated page and typos appear to cost you corporate clients.",
+ "findings": [
+  {
+   "problem": "The footer appears to read Copyright 2021, the newest award listed is 2022, and the slider images appear to use dummy.png placeholders.",
+   "cost": "Corporate clients judging an active firm see stale content.",
+   "fix": "Current awards and real images."
+  },
+  {
+   "problem": "Copy appears to include 'trasactions', 'unparallel services', 'on an international bases' and '(1000IFLR)', and the Our Location heading appears to have no map.",
+   "cost": "Typos in legal copy and a missing map weaken credibility and cost visits.",
+   "fix": "Proofread copy and an embedded map."
+  },
+  {
+   "problem": "The page says a team of 43 lawyers while the stats show 50, uses Sharq Law Office and Sharq Law Firm, and shows the hotline only in the Arabic block.",
+   "cost": "Conflicting numbers and names weaken every other claim.",
+   "fix": "One verified set of facts and contacts."
+  },
+  {
+   "problem": "The LinkedIn link appears to point to an authwall page, the Twitter link to a search query, and Clients 5000 and 1165 have no explanation or case examples.",
+   "cost": "Broken social links and unexplained figures give no real proof.",
+   "fix": "Working profiles, labeled stats and case studies."
+  }
+ ],
+ "redesign": [
+  "Current awards, real images and map.",
+  "One set of facts and contacts.",
+  "Working profiles, labeled stats, case studies."
+ ]
+}

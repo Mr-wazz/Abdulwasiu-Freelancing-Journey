@@ -1,0 +1,34 @@
+{
+ "business": "Prime London Residential",
+ "owner": "the Prime London team",
+ "city": "Belgravia and Lambeth, London",
+ "website": "primelondonresidential.com",
+ "summary": "A large team, two central offices and a 4.9 Google rating are strengths, but a wrong phone link, repeated listings and a rating with no reviews shown appear to cost you vendors.",
+ "findings": [
+  {
+   "problem": "The Central Office number is shown as 0207 052 1075 but its tel link dials 0207 928 6663, the Riverside number.",
+   "cost": "A client who taps to call reaches the wrong office.",
+   "fix": "Checked, correct call links for each office."
+  },
+  {
+   "problem": "The Our Team section repeats the same staff cards about three times, and the Latest Properties carousel repeats the same nine listings several times.",
+   "cost": "Repeated blocks hide what vendors and buyers came to see.",
+   "fix": "One clean team page and a tidy listings carousel."
+  },
+  {
+   "problem": "Lincoln Square, 18 Portugal Street appears twice with the same title but prices of 1,250,000 and 1,450,000 pounds.",
+   "cost": "Conflicting prices on a listing damage trust.",
+   "fix": "One verified listing per property."
+  },
+  {
+   "problem": "The page claims 4.9/5 from 420 Google reviews but shows none, the newsletter has no email box, and the page shows Offers In Excess Of\u00a3415,000 and a raw code in image text.",
+   "cost": "A rating with no visible reviews and small slips weaken your strongest proof.",
+   "fix": "A live review wall and proofread listings."
+  }
+ ],
+ "redesign": [
+  "Correct call links and clear office pages.",
+  "One clean team page and a tidy listings section.",
+  "A live review wall and proofread listings."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Al Dhaheri International Advocates and Legal Consultants",
+ "owner": "the Al Dhaheri team",
+ "city": "Dubai",
+ "website": "aldhaheriinternational.com",
+ "summary": "A long established firm with a WhatsApp link is a strength, but a contact section with no fields, template testimonial text and mismatched numbers appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "The contact section shows only Send Now with no name, email or message fields, and the newsletter shows a button with no email box.",
+   "cost": "Clients who want to enquire cannot, and the form may not work.",
+   "fix": "A tested enquiry form with a clear confirmation."
+  },
+  {
+   "problem": "The sentence 'Build trust by showcasing testimonials and feedback from satisfied clients.' appears under both What our client says and Our Esteemed Clients.",
+   "cost": "Template text where real testimonials should be makes the proof look missing.",
+   "fix": "Real, named testimonials."
+  },
+  {
+   "problem": "The WhatsApp link opens +971 58 544 4775 while the printed mobile reads +971 5 855 54775, and Mohsen Moustafa appears as Managing Director and as Managing Partner.",
+   "cost": "Mismatched numbers and titles confuse clients and weaken trust.",
+   "fix": "One checked number and consistent titles."
+  },
+  {
+   "problem": "Blog excerpts stop mid sentence, the button reads Subcsribe, Insights links to #, and the footer says All rights reserved by with no year.",
+   "cost": "Typos and unfinished text weaken a legal brand.",
+   "fix": "Finished, proofread copy and working links."
+  }
+ ],
+ "redesign": [
+  "A tested enquiry form with WhatsApp.",
+  "Real testimonials and consistent partner profiles.",
+  "Finished, proofread copy and working menus."
+ ]
+}

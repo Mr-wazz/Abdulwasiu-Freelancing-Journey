@@ -1,0 +1,34 @@
+{
+ "business": "Binayah Real Estate",
+ "owner": "the team",
+ "city": "Dubai",
+ "website": "binayah.com",
+ "summary": "Two decades of experience and a large listing base are strengths, but a form with no contact fields and conflicting claims appear to cost you buyers.",
+ "findings": [
+  {
+   "problem": "The inquiry form appears to list only Inquiry Type and Property details before Send Inquiry, with no visible name, email or phone fields.",
+   "cost": "A buyer cannot leave contact details.",
+   "fix": "A complete enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The form appears to say 'Available 24/7' while the footer says Mon to Sat 9am to 7pm GST, and a banner promotes Binayah.ae while the site runs on binayah.com.",
+   "cost": "Conflicting hours and domains confuse clients.",
+   "fix": "One set of hours and one domain message."
+  },
+  {
+   "problem": "Hero tags Palm Jumeirah and Downtown Dubai appear to link to #, a townhouse link appears to point to the penthouses page, and prices appear as 'Starting From 11,232,888' with no currency.",
+   "cost": "Dead links and unclear prices lose serious buyers.",
+   "fix": "Working search tags and clear AED prices."
+  },
+  {
+   "problem": "Award badges, news cards and the Latest Dubai Projects block appear twice, and the page cites 'Based on 152 reviews' but shows only a few.",
+   "cost": "Repeated blocks and thin proof look careless.",
+   "fix": "Clean layout and visible reviews."
+  }
+ ],
+ "redesign": [
+  "Full enquiry form with WhatsApp.",
+  "One set of hours and domain.",
+  "Working links, clear prices, visible reviews."
+ ]
+}

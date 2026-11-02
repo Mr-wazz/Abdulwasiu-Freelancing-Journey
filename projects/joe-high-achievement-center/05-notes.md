@@ -25,3 +25,13 @@
 | Date | Task | Hours | Problems |
 |---|---|---|---|
 | 2026-10-30 | Gmail history review, brief, notes | 0.5 | Name in chat was "Joe and Joel", Gmail confirms Lindell Joe |
+
+## Zoom call, 2 Nov 2026 (from AI meeting recap, check against memory)
+- Business is moving from High Achievement Center to a new company, Human Touch Solutions (attorneys working on the structure). Website launch is on hold.
+- Focus now: TikTok first, then a corporate and LinkedIn style audience (communication, presenting, confidence, conflict). Treated as a 90 day prototype sprint.
+- Joe has other companies (DCA 401k, 360 Fire Flow Restoration, said to operate in 15 states). Possible future clients.
+- Joe uses AI agents and Facebook and Instagram avatars. Wants direct, reliable people with a yes or no mindset.
+- Abdulwasiu to: research what works on TikTok now, build a 90 day strategy, and present it to Joe and the co-founder before more time or money is spent. The existing Blueprint PDF was for the earlier idea and may be partly reused.
+- Joe to: send a recorded, bullet point brief within 48 hours (by 4 Nov).
+- Competition: the work is being shopped to 3 people. No budget or price was discussed.
+- Risk: this looks like unpaid spec work. Agree scope, deadline and a paid first step before doing full research.

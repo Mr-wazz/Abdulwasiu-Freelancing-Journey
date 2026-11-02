@@ -1,0 +1,34 @@
+{
+ "business": "Omulique Lawyers",
+ "owner": "the team",
+ "city": "Toronto",
+ "website": "omulique.ca",
+ "summary": "A free consultation offer, 18 languages and a one hour reply promise are strengths, but unfinished pages and a form that appears missing cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The page says to use the yellow form below, but no form appears in the page text, and the only other options are email and phone with no WhatsApp.",
+   "cost": "Immigration clients decide fast and leave when the form is not there.",
+   "fix": "A working enquiry form with WhatsApp."
+  },
+  {
+   "problem": "Several service pages appear to link to placeholder addresses such as /new-page-1, /new-page-20 and /new-page-83.",
+   "cost": "A client who clicks a service and finds nothing doubts the firm.",
+   "fix": "Real service pages that rank on Google."
+  },
+  {
+   "problem": "The page shows no lawyer names, 'Happy clients can't be wrong' with no reviews, and the sentence 'Feel free to email us in' ends without a language before the list.",
+   "cost": "Clients hire a person, and proof and names are missing.",
+   "fix": "Named lawyers, real reviews and clean copy."
+  },
+  {
+   "problem": "The full menu appears three times, the same team photo appears twice, and an empty cart icon is visible.",
+   "cost": "Template leftovers make a law firm look unfinished.",
+   "fix": "A clean, fast, mobile first layout."
+  }
+ ],
+ "redesign": [
+  "Working form, WhatsApp and booking.",
+  "Real service pages, named lawyers, reviews.",
+  "Clean mobile layout."
+ ]
+}

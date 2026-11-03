@@ -1,0 +1,34 @@
+{
+ "business": "Eva Karpati Skin Clinic",
+ "owner": "Eva Karpati",
+ "city": "Double Bay, Sydney, Australia",
+ "website": "evakarpatiskinclinic.com.au",
+ "summary": "A physician led skin and longevity clinic in Double Bay is a strength, but dead booking buttons and almost no contact details appear to cost you high value patients.",
+ "findings": [
+  {
+   "problem": "The Book a consultation and Book a treatment buttons appear to link to # or #onlinebookings, and no online booking appears.",
+   "cost": "A patient who is ready to book hits a dead button and leaves.",
+   "fix": "A working online booking flow."
+  },
+  {
+   "problem": "The visible page appears to show only an address, with no phone number, email, WhatsApp or opening hours, and the Contact link appears to show nothing.",
+   "cost": "A patient who prefers to call or message has no route.",
+   "fix": "A full contact block with phone, WhatsApp, email and hours."
+  },
+  {
+   "problem": "The address appears as 'Suite 2:04', the menu appears to say Programs while the text says programmes, and each treatment card appears to end with stray underscores ('View_').",
+   "cost": "Small errors weaken a premium clinical brand.",
+   "fix": "Proofread copy and clean cards."
+  },
+  {
+   "problem": "The only proof appears to be a founder quote, with no testimonials, reviews, credentials or before and after examples for the physician led programmes.",
+   "cost": "High value patients need proof and credentials before booking.",
+   "fix": "Named credentials, reviews and case examples."
+  }
+ ],
+ "redesign": [
+  "A working booking flow.",
+  "A full contact block.",
+  "Proofread copy, credentials and visible proof."
+ ]
+}

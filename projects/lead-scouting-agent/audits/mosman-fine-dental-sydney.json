@@ -1,0 +1,34 @@
+{
+ "business": "Mosman Fine Dental",
+ "owner": "Dr Aden Tran and Dr AJ Ambikairajah",
+ "city": "Mosman, Sydney, Australia",
+ "website": "mosmanfinedental.com.au",
+ "summary": "A Mosman practice offering cosmetic and implant work is a strength, but typos in the menu and no patient reviews appear to cost you high value patients.",
+ "findings": [
+  {
+   "problem": "The cosmetic menu appears to read 'Smile Rejunvenation', a case study appears to say 'antiobiotic therapy', and an image caption appears as 'whit his whitened teeth'.",
+   "cost": "Typos in a clinical brand make a patient doubt the care they will receive.",
+   "fix": "Proofread copy across every page."
+  },
+  {
+   "problem": "Book Now and Book an Appointment appear to link to a contact page, and the form asks 'What do you want to do?', so booking depends on a manual reply.",
+   "cost": "High value patients who expect to book online may not wait for a reply.",
+   "fix": "A real online booking flow with clear time choices."
+  },
+  {
+   "problem": "No patient reviews or ratings appear, and only four case studies appear with short text ending in dots, naming patients by first name only.",
+   "cost": "Cosmetic patients choose by proof, and thin proof loses them to a competitor.",
+   "fix": "Real reviews with ratings and full before and after cases."
+  },
+  {
+   "problem": "Several images appear to carry empty descriptions, and the hero copy appears generic ('friendly family practice') with no call now button near the top.",
+   "cost": "A generic first impression does not signal a premium cosmetic practice.",
+   "fix": "A premium hero message and a clear call button."
+  }
+ ],
+ "redesign": [
+  "Proofread copy.",
+  "A real online booking flow.",
+  "Reviews, full cases and a stronger first impression."
+ ]
+}

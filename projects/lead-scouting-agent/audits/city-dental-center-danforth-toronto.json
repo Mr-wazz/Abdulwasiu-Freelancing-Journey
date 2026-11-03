@@ -1,0 +1,34 @@
+{
+ "business": "City Dental Center",
+ "owner": "Dr Berzin",
+ "city": "Danforth, Toronto, Canada",
+ "website": "citydentalcenter.ca",
+ "summary": "A Danforth practice with over 25 years of experience is a strength, but leftover test text in the booking form and no hours appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The booking form appears to include the dropdown text 'Test Optio' and repeats it in the Request Appointment modal.",
+   "cost": "Patients see unfinished test text exactly where they try to book, which looks careless.",
+   "fix": "A clean labeled booking form with real options."
+  },
+  {
+   "problem": "The Book an Appointment button appears to link to a contact form with no visible submit button, and no online booking appears.",
+   "cost": "Patients who are ready to book may give up before the request is sent.",
+   "fix": "A working booking form with a visible submit button and confirmation."
+  },
+  {
+   "problem": "No office hours or emergency hours appear, and the page appears to say both 25 years and more than 30 years of service.",
+   "cost": "Patients cannot tell when you are open, and mixed claims weaken trust.",
+   "fix": "Visible hours and one verified experience claim."
+  },
+  {
+   "problem": "Only three testimonials appear with no star ratings or platform, one reviewer name reads like a gaming handle, and the stray word Image appears above photos.",
+   "cost": "Thin and odd proof gives a new patient little reason to choose you over another dentist.",
+   "fix": "Real Google reviews with ratings and a clean page."
+  }
+ ],
+ "redesign": [
+  "A clean booking form with a visible button.",
+  "Visible hours and one verified claim.",
+  "Real reviews and a polished layout."
+ ]
+}

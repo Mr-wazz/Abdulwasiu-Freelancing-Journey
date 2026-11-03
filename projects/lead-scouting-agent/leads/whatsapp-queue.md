@@ -1,3 +1,42 @@
+# WhatsApp list for 2026-11-04 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These 5 have no public email, so WhatsApp is the only channel.
+
+## 1. Sloane Clinic (London, Harley Street)
+
+Message:
+> Hello, I looked at the Sloane Clinic website. Several menu items such as Injectables and Energy Based Devices go nowhere, and the consultation button only opens a request form. A patient may leave before they book. I wrote a short one page note on the fix. May I send it here?
+
+Tap to open: https://wa.me/447377977776?text=Hello%2C%20I%20looked%20at%20the%20Sloane%20Clinic%20website.%20Several%20menu%20items%20such%20as%20Injectables%20and%20Energy%20Based%20Devices%20go%20nowhere%2C%20and%20the%20consultation%20button%20only%20opens%20a%20request%20form.%20A%20patient%20may%20leave%20before%20they%20book.%20I%20wrote%20a%20short%20one%20page%20note%20on%20the%20fix.%20May%20I%20send%20it%20here%3F
+
+## 2. Skin and Slim Center (Abu Dhabi)
+
+Message:
+> Hi, I visited the Skin and Slim Center website. Some service links open the wrong page and the phone links open a Google search instead of calling you. That can cost you calls. I prepared a short one page note with the fixes. Shall I send it?
+
+Tap to open: https://wa.me/971566698132?text=Hi%2C%20I%20visited%20the%20Skin%20and%20Slim%20Center%20website.%20Some%20service%20links%20open%20the%20wrong%20page%20and%20the%20phone%20links%20open%20a%20Google%20search%20instead%20of%20calling%20you.%20That%20can%20cost%20you%20calls.%20I%20prepared%20a%20short%20one%20page%20note%20with%20the%20fixes.%20Shall%20I%20send%20it%3F
+
+## 3. Tajmeels Clinic (Dubai)
+
+Message:
+> Good day, I went through the Tajmeels website. The Book Now button is not linked and the More menu item goes nowhere, so a ready patient has no way to book. I put the fixes in a one page note. Can I share it with you here?
+
+Tap to open: https://wa.me/971501572709?text=Good%20day%2C%20I%20went%20through%20the%20Tajmeels%20website.%20The%20Book%20Now%20button%20is%20not%20linked%20and%20the%20More%20menu%20item%20goes%20nowhere%2C%20so%20a%20ready%20patient%20has%20no%20way%20to%20book.%20I%20put%20the%20fixes%20in%20a%20one%20page%20note.%20Can%20I%20share%20it%20with%20you%20here%3F
+
+## 4. Cocoona Clinic (Dubai)
+
+Message:
+> Hello, I checked the Cocoona Clinic site. The booking form did not load for me and the phone number shown differs from your WhatsApp number. Patients may not be able to reach you. I have a short one page note on how to fix this. Would you like me to send it?
+
+Tap to open: https://wa.me/971568655598?text=Hello%2C%20I%20checked%20the%20Cocoona%20Clinic%20site.%20The%20booking%20form%20did%20not%20load%20for%20me%20and%20the%20phone%20number%20shown%20differs%20from%20your%20WhatsApp%20number.%20Patients%20may%20not%20be%20able%20to%20reach%20you.%20I%20have%20a%20short%20one%20page%20note%20on%20how%20to%20fix%20this.%20Would%20you%20like%20me%20to%20send%20it%3F
+
+## 5. Rafad Estate (Riyadh)
+
+Message:
+> Hi, I looked at the Rafad Estate website. The main call to action buttons link to nowhere, and the headline still shows a template name, Hoziz. That can make buyers doubt the agency. I wrote a one page note with the fixes. May I send it here?
+
+Tap to open: https://wa.me/966531096494?text=Hi%2C%20I%20looked%20at%20the%20Rafad%20Estate%20website.%20The%20main%20call%20to%20action%20buttons%20link%20to%20nowhere%2C%20and%20the%20headline%20still%20shows%20a%20template%20name%2C%20Hoziz.%20That%20can%20make%20buyers%20doubt%20the%20agency.%20I%20wrote%20a%20one%20page%20note%20with%20the%20fixes.%20May%20I%20send%20it%20here%3F
+
 # WhatsApp list for 2026-11-03 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These 5 have no public email, so WhatsApp is the only channel.

@@ -1,0 +1,34 @@
+{
+ "business": "Station Dental Chatswood",
+ "owner": "the team",
+ "city": "Chatswood, Sydney",
+ "website": "stationdental.com.au",
+ "summary": "Cosmetic, implant and sedation dentistry near the station is a strength, but a missing booking link and clashing hours appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The FAQ appears to say Saturday 9:00am to 1:00pm while the footer says 09:00 AM to 02:00 PM, and weekday hours differ between Monday, Tuesday and Friday and Monday, Tuesday, Thursday and Friday.",
+   "cost": "Patients who read different hours arrive at the wrong time or do not come.",
+   "fix": "One verified set of hours."
+  },
+  {
+   "problem": "The FAQ appears to point to the online booking system but no booking link or form appears, and the closing line appears to read 'Contact station dental on 02 9410 2211' with no button.",
+   "cost": "Patients ready to book have no direct way to do it.",
+   "fix": "A real online booking form and a clear button."
+  },
+  {
+   "problem": "The WHAT MAKES US DIFFERENT? menu item appears to link to #, and Sedation Dentistry appears to have no link although the FAQ promotes it.",
+   "cost": "Dead links hide the service that sets you apart.",
+   "fix": "Working menu and a sedation page."
+  },
+  {
+   "problem": "Children`s Dentistry appears with a stray backslash, the page shows an image with no description, and 'highly trained clinicians' appears with no named dentists or reviews.",
+   "cost": "Typos and missing proof weaken trust in a clinic.",
+   "fix": "Named dentists, credentials and reviews."
+  }
+ ],
+ "redesign": [
+  "One set of hours and a real booking form.",
+  "Working menu and a sedation page.",
+  "Named dentists, credentials and reviews."
+ ]
+}

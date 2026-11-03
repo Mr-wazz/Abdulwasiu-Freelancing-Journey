@@ -1,0 +1,34 @@
+{
+ "business": "Emirates Advocates and Legal Consultants",
+ "owner": "the team",
+ "city": "Dubai and Abu Dhabi",
+ "website": "emiratesadvocates.com",
+ "summary": "Since 1980 with many practice areas is a strength, but dead menus and a Family Law link to a veterans page appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "The Practice Areas menus appear to use # and the hero button View Practice Area appears to go to #practice_area, while Family Law appears to link to a veterans benefits page.",
+   "cost": "A client who clicks their issue reaches nothing or the wrong page.",
+   "fix": "Dedicated practice area pages."
+  },
+  {
+   "problem": "No visible contact form appears, only a Book Appointment button, and the email link appears to contain a stray space.",
+   "cost": "A client cannot easily enquire and the email may not open.",
+   "fix": "A short enquiry form with WhatsApp and a working email link."
+  },
+  {
+   "problem": "The site appears to say 'Mon To Fri 07.30 am to 05.00 pm' and '24*7 Available', and 'Since 1980' beside '44+ Years'.",
+   "cost": "Conflicting hours and figures weaken trust.",
+   "fix": "Accurate hours and one verified claim."
+  },
+  {
+   "problem": "The copy appears to read 'we provides advisory services', Commercial Mediation appears twice in the menu, and a stray Client Testimonial label appears with no content.",
+   "cost": "Typos and duplicates make a law firm look careless.",
+   "fix": "Proofread copy and a clean menu."
+  }
+ ],
+ "redesign": [
+  "Dedicated practice area pages.",
+  "Enquiry form, WhatsApp and a working email link.",
+  "Accurate hours, one verified claim and clean copy."
+ ]
+}

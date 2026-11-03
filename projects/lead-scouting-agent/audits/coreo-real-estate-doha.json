@@ -1,0 +1,34 @@
+{
+ "business": "Coreo Real Estate",
+ "owner": "the team",
+ "city": "The Pearl, Doha",
+ "website": "mycoreo.com",
+ "summary": "A Pearl based agency with a 4.9 rating is a strength, but zero statistics and dead buttons appear to cost you buyers and landlords.",
+ "findings": [
+  {
+   "problem": "Properties Managed, Years In Operations, Properties Sold and Google Reviews each appear to show 0 beside a 4.9 rating.",
+   "cost": "Zeros on a proof section make an established agency look new.",
+   "fix": "Real live numbers."
+  },
+  {
+   "problem": "Apply Now, Mortgage Calculator, Login, Join and FAQ appear to link to #.",
+   "cost": "Visitors who click the key tools reach nothing.",
+   "fix": "Working buttons and pages."
+  },
+  {
+   "problem": "The page appears to show 'Unlock access to a better webflow experience.' and no contact form, only a newsletter email field.",
+   "cost": "Builder leftovers and no enquiry form lose leads.",
+   "fix": "Clean copy and an enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The developer logos appear twice in a row, a 2025 trends article appears dated April 3, 2024, some listings appear to use placeholder photos, and rents appear as '6499' with no period.",
+   "cost": "Repeated blocks, stale posts and unclear rents weaken the listings.",
+   "fix": "Clean layout, fresh posts and clear rent periods."
+  }
+ ],
+ "redesign": [
+  "Real live statistics.",
+  "Working buttons and an enquiry form with WhatsApp.",
+  "Fresh posts, real photos and clear rents."
+ ]
+}

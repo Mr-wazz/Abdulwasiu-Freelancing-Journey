@@ -1,0 +1,34 @@
+{
+ "business": "Emirates Dermatology and Cosmetology Center",
+ "owner": "Dr Mouza Al Suwaidi and team",
+ "city": "Abu Dhabi, UAE",
+ "website": "edcc.ae",
+ "summary": "A well established Abu Dhabi dermatology centre appears to lose treatment bookings to misdirected buttons and no on page booking.",
+ "findings": [
+  {
+   "problem": "The hero and Profhilo Learn More buttons both appear to point to the Sweat Botox page.",
+   "cost": "Patients interested in Profhilo land on the wrong treatment.",
+   "fix": "Each button linked to its own treatment page."
+  },
+  {
+   "problem": "The Book Now buttons appear to lead only to a contact page or WhatsApp, with no on page booking form.",
+   "cost": "Patients who want to book at night or on mobile face extra steps and drop off.",
+   "fix": "A booking form on the page with date and treatment."
+  },
+  {
+   "problem": "The reviews area appears to show a leftover placeholder line, Rated 5 out of 5, with blanks, and only three reviews appear.",
+   "cost": "Placeholder text and thin proof weaken high value treatment sales.",
+   "fix": "Real reviews with names and treatments."
+  },
+  {
+   "problem": "The doctor name appears as Dr. Mouza Al-Suwaidi in the menu and Dr. Mouza Al Suwaidi in the body, and Old Blog appears in the footer.",
+   "cost": "Small inconsistencies make a premium clinic look careless.",
+   "fix": "Consistent names and retired old content."
+  }
+ ],
+ "redesign": [
+  "Correct treatment links.",
+  "On page booking.",
+  "Real reviews and consistent profiles."
+ ]
+}

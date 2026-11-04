@@ -1,3 +1,44 @@
+# WhatsApp list for 2026-11-05 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Phi MEDCARE (Doha, Lusail)
+
+Message:
+> Hello, I went through the Phi MEDCARE website. The Insurance and International links appear to open the same contact page, so a patient with an insurance question gets no direct answer. I wrote a short one page note on the fix. May I send it here?
+
+Tap to open: https://wa.me/97466206688?text=Hello%2C%20I%20went%20through%20the%20Phi%20MEDCARE%20website.%20The%20Insurance%20and%20International%20links%20appear%20to%20open%20the%20same%20contact%20page%2C%20so%20a%20patient%20with%20an%20insurance%20question%20gets%20no%20direct%20answer.%20I%20wrote%20a%20short%20one%20page%20note%20on%20the%20fix.%20May%20I%20send%20it%20here%3F
+
+## 2. Smilerite Dental (Abu Dhabi)
+
+Message:
+> Hi, I looked at the Smilerite website. The experience counters appear to show 0 and the booking form hours seem to end earlier than your branch hours. That could cost late appointments. Shall I send you a one page note with the fixes?
+
+Tap to open: https://wa.me/971529133529?text=Hi%2C%20I%20looked%20at%20the%20Smilerite%20website.%20The%20experience%20counters%20appear%20to%20show%200%20and%20the%20booking%20form%20hours%20seem%20to%20end%20earlier%20than%20your%20branch%20hours.%20That%20could%20cost%20late%20appointments.%20Shall%20I%20send%20you%20a%20one%20page%20note%20with%20the%20fixes%3F
+
+## 3. Mohammad Al Najjar Advocates (Dubai)
+
+Message:
+> Good day, I reviewed the Al Najjar Advocates site. The WhatsApp number in the header looks different from the one in the footer, so a client may message the wrong line. I have a short one page note on this. Can I share it here?
+
+Tap to open: https://wa.me/971558040080?text=Good%20day%2C%20I%20reviewed%20the%20Al%20Najjar%20Advocates%20site.%20The%20WhatsApp%20number%20in%20the%20header%20looks%20different%20from%20the%20one%20in%20the%20footer%2C%20so%20a%20client%20may%20message%20the%20wrong%20line.%20I%20have%20a%20short%20one%20page%20note%20on%20this.%20Can%20I%20share%20it%20here%3F
+
+## 4. Medspa Beauty Clinic (London, Notting Hill)
+
+Message:
+> Hello, I checked the Medspa Beauty Clinic website. Several treatment menu items appear to go nowhere and the consultation form seems to show no fields. A client ready to book may leave. Would you like me to send my one page note on the fix?
+
+Tap to open: https://wa.me/447848040381?text=Hello%2C%20I%20checked%20the%20Medspa%20Beauty%20Clinic%20website.%20Several%20treatment%20menu%20items%20appear%20to%20go%20nowhere%20and%20the%20consultation%20form%20seems%20to%20show%20no%20fields.%20A%20client%20ready%20to%20book%20may%20leave.%20Would%20you%20like%20me%20to%20send%20my%20one%20page%20note%20on%20the%20fix%3F
+
+## 5. Madina Dental Center (Doha)
+
+Message:
+> Hi, I visited the Madina Dental Center website. The English page appears to show patient testimonials in Arabic only, and each branch lists up to three phone numbers. Patients may not know who to call. May I send a short one page note with the fixes?
+
+Tap to open: https://wa.me/97455427555?text=Hi%2C%20I%20visited%20the%20Madina%20Dental%20Center%20website.%20The%20English%20page%20appears%20to%20show%20patient%20testimonials%20in%20Arabic%20only%2C%20and%20each%20branch%20lists%20up%20to%20three%20phone%20numbers.%20Patients%20may%20not%20know%20who%20to%20call.%20May%20I%20send%20a%20short%20one%20page%20note%20with%20the%20fixes%3F
+
+---
+
 # WhatsApp list for 2026-11-04 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These 5 have no public email, so WhatsApp is the only channel.

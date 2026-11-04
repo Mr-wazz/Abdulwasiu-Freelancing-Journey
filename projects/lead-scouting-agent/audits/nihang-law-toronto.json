@@ -1,0 +1,34 @@
+{
+ "business": "Nihang Law",
+ "owner": "the Nihang Law team",
+ "city": "Toronto, Canada",
+ "website": "nihanglaw.ca",
+ "summary": "A Toronto and Scarborough law firm with a 4.7 Google rating appears to lose enquiries to zero counters, copy errors and a pasted form description.",
+ "findings": [
+  {
+   "problem": "The Clients, Counselled, Programs and Territories counters appear to read 0+.",
+   "cost": "Zeros erase the proof that a client needs before calling a lawyer.",
+   "fix": "Fixed numbers or working counters."
+  },
+  {
+   "problem": "Copy such as make sure you legal disputes and attention detailed appears on the homepage.",
+   "cost": "Grammar errors on a law firm site weaken trust in the firm's attention to detail.",
+   "fix": "Proofread English copy."
+  },
+  {
+   "problem": "The Wills and Power of Attorney intake text appears to repeat the immigration assessment wording.",
+   "cost": "A pasted description tells a visitor the form may not be for them.",
+   "fix": "Correct text for each intake form."
+  },
+  {
+   "problem": "No WhatsApp appears, only a phone number and a form.",
+   "cost": "Many clients in Toronto prefer to message in their own language first.",
+   "fix": "WhatsApp with the six languages you offer shown."
+  }
+ ],
+ "redesign": [
+  "Working counters.",
+  "Proofread copy and correct forms.",
+  "WhatsApp and language options."
+ ]
+}

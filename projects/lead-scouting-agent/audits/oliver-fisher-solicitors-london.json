@@ -1,0 +1,34 @@
+{
+ "business": "Oliver Fisher Solicitors",
+ "owner": "the Oliver Fisher team",
+ "city": "London, United Kingdom",
+ "website": "oliverfisher.co.uk",
+ "summary": "A West London conveyancing firm appears to lose quotes because the page has no quote tool and shows signs of age.",
+ "findings": [
+  {
+   "problem": "The page promises Get a quote today but appears to offer no quote form, only a link to another contact page.",
+   "cost": "Visitors who want a quick price must leave the page.",
+   "fix": "An on page quote form or calculator."
+  },
+  {
+   "problem": "The footer appears to show 2016, and a Like on Facebook share button appears to point to a third party demo page.",
+   "cost": "Old dates and wrong links make the firm look inactive.",
+   "fix": "A current date and correct social links."
+  },
+  {
+   "problem": "The page appears to say affordable fixed fee while also saying fees depend on the transaction, and no example fees appear.",
+   "cost": "Mixed messages and no prices push clients to compare elsewhere.",
+   "fix": "A fee table with examples."
+  },
+  {
+   "problem": "The location messaging appears to switch between Central, North and West London, and no testimonials or case studies appear.",
+   "cost": "Unclear coverage and no proof weaken trust.",
+   "fix": "One clear coverage area and real client reviews."
+  }
+ ],
+ "redesign": [
+  "Quote form.",
+  "Current dates and links.",
+  "Fee table and reviews."
+ ]
+}

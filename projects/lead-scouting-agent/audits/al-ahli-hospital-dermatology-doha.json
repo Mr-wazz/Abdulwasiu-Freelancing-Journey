@@ -1,0 +1,34 @@
+{
+ "business": "Al-Ahli Hospital Dermatology",
+ "owner": "the Al-Ahli Hospital team",
+ "city": "Doha, Qatar",
+ "website": "ahlihospital.com",
+ "summary": "A Doha hospital dermatology page appears to lose appointments because its main booking link goes nowhere and no hours appear.",
+ "findings": [
+  {
+   "problem": "The main booking link, Call or WhatsApp, appears to link to #, and the Book Your Appointment Today heading appears to use # as well.",
+   "cost": "Patients ready to book have no working path.",
+   "fix": "A working call and WhatsApp link."
+  },
+  {
+   "problem": "No opening hours appear anywhere on the page, and the phone number appears in three formats.",
+   "cost": "Patients cannot tell when to call or whether the number is correct.",
+   "fix": "Visible hours and one clean number."
+  },
+  {
+   "problem": "Typos such as BACK TO DEPARMENTS, ALL RIGHT RESERVED and Weclome appear, and a doctor name appears spelled two ways.",
+   "cost": "Typos in a hospital page weaken trust.",
+   "fix": "Proofread copy and consistent names."
+  },
+  {
+   "problem": "No reviews, before and after examples or doctor experience details appear, and three booking headings appear to compete.",
+   "cost": "Patients choose a dermatologist they can see and trust.",
+   "fix": "Doctor profiles, reviews and one booking block."
+  }
+ ],
+ "redesign": [
+  "Working booking link.",
+  "Hours and one number.",
+  "Doctor profiles and reviews."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Medspa Beauty Clinic",
+ "owner": "the Medspa team",
+ "city": "London, UK",
+ "website": "medspa.co.uk",
+ "summary": "A Notting Hill laser clinic with 490+ Google reviews appears to lose bookings to dead menu links, blank images and a booking form with no visible fields.",
+ "findings": [
+  {
+   "problem": "Menu dropdowns for Hydrafacial, Laser Hair Removal, Face, Body, Massage, Waxing and Skin Concerns appear to link to #.",
+   "cost": "Visitors cannot reach the pages that sell the treatments.",
+   "fix": "Working links to every treatment page."
+  },
+  {
+   "problem": "Many images appear blank, an Everything You Need in One Place section appears empty, and hello world! text appears.",
+   "cost": "Blank areas and leftover text make a paid clinic look unfinished.",
+   "fix": "Real images and removal of leftover text."
+  },
+  {
+   "problem": "The consultation section appears to say Pop in your details but show no fields, and Book Now appears to go to several different pages.",
+   "cost": "Clients who cannot find the form leave without booking.",
+   "fix": "One clear booking flow with a working form."
+  },
+  {
+   "problem": "Only four reviews appear against a 490+ claim, and typos such as skin need's appear.",
+   "cost": "Thin visible proof and typos weaken the strongest claim.",
+   "fix": "More review quotes and proofread copy."
+  }
+ ],
+ "redesign": [
+  "Working menu links.",
+  "Real images and a clean page.",
+  "One booking flow and more reviews."
+ ]
+}

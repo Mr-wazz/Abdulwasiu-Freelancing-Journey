@@ -1,0 +1,34 @@
+{
+ "business": "Toronto Eyelid Surgery",
+ "owner": "the Toronto Eyelid Surgery team",
+ "city": "Toronto, Canada",
+ "website": "torontoeyelidsurgery.com",
+ "summary": "A specialist Toronto eyelid practice appears to lose consultations to zero counters, conflicting claims and a booking path that sends visitors away.",
+ "findings": [
+  {
+   "problem": "The three stat counters (Eyelid Surgeries, Surgical Procedures, Patients from Countries) appear to read 0+.",
+   "cost": "Zeros erase the proof that justifies a surgical fee.",
+   "fix": "Fixed numbers or working counters."
+  },
+  {
+   "problem": "The hero appears to claim 30,000+ surgeries and 20 years, while the body appears to say over 20,000 procedures and 15 years.",
+   "cost": "Two different numbers make a surgical claim look careless.",
+   "fix": "One verified set of numbers everywhere."
+  },
+  {
+   "problem": "Several links appear to point to myshopify.com addresses instead of your own domain.",
+   "cost": "Visitors see a strange address at the moment they decide to trust you.",
+   "fix": "Every link on your own domain."
+  },
+  {
+   "problem": "The BOOK NOW button appears to leave the page, and many testimonials appear to have no name or procedure.",
+   "cost": "Patients drop off at extra steps and unattributed praise is easy to doubt.",
+   "fix": "A short consultation form on the page and named reviews."
+  }
+ ],
+ "redesign": [
+  "Verified numbers and counters.",
+  "Clean links on your own domain.",
+  "On page consultation form and named reviews."
+ ]
+}

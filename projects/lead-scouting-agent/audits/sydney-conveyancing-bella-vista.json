@@ -1,0 +1,34 @@
+{
+ "business": "Sydney Conveyancing",
+ "owner": "the Sydney Conveyancing team",
+ "city": "Sydney, Australia",
+ "website": "sydneyconveyancing.com.au",
+ "summary": "A fixed fee conveyancing firm appears to lose quotes to dead price links, a call button that may not dial and no quote form.",
+ "findings": [
+  {
+   "problem": "The 1800 dollar price line and the fixed fees and happy clients lines appear to link to #.",
+   "cost": "Visitors cannot see what the fixed fee includes.",
+   "fix": "A clear fee page with what is included."
+  },
+  {
+   "problem": "The call button appears to use javascript instead of a call link, and the GET WRITTEN QUOTE section appears to show no form fields.",
+   "cost": "Mobile visitors may fail to call, and quote requests have no easy path.",
+   "fix": "A tel link and a quote request form."
+  },
+  {
+   "problem": "Typos such as Propety, contrat and recommend to anyone appear, and the footer appears to show 2023.",
+   "cost": "Typos in a legal service reduce trust.",
+   "fix": "Proofread copy and a current date."
+  },
+  {
+   "problem": "Testimonials appear as first names only, one review appears to doubt the other reviews, and no licence numbers appear.",
+   "cost": "Weak proof does not win clients choosing a conveyancer.",
+   "fix": "Verified reviews and licence details."
+  }
+ ],
+ "redesign": [
+  "Fee page.",
+  "Call link and quote form.",
+  "Verified reviews."
+ ]
+}

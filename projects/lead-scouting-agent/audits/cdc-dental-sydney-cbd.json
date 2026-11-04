@@ -1,0 +1,34 @@
+{
+ "business": "CDC Dental",
+ "owner": "Dr Tony Goswell and team",
+ "city": "Sydney, Australia",
+ "website": "cdcdental.com.au",
+ "summary": "A Sydney CBD cosmetic dentist with four decades of experience appears to lose appointment requests to dead links and a broken form.",
+ "findings": [
+  {
+   "problem": "Navigation headers labelled Column 1, Column 2 and Column 3 appear to be placeholders linking to #, and Email Us and the footer Request Appointment appear to link to #.",
+   "cost": "Visitors hit dead ends on the main ways to contact you.",
+   "fix": "Real labels and working contact links."
+  },
+  {
+   "problem": "The appointment form appears to show hour and minute options as raw text, and a Leave this empty label appears to be visible.",
+   "cost": "A broken form loses ready patients.",
+   "fix": "A clean, tested appointment form."
+  },
+  {
+   "problem": "No opening hours appear, and the 199 dollar new patient offer appears to show no terms.",
+   "cost": "Patients cannot tell when you are open or what the offer includes.",
+   "fix": "Visible hours and clear offer terms."
+  },
+  {
+   "problem": "No reviews, ratings or before and after photos appear, and prices appear only as Costs vary.",
+   "cost": "Cosmetic patients compare clinics that show results and prices.",
+   "fix": "Reviews, a results gallery and starting prices."
+  }
+ ],
+ "redesign": [
+  "Working links.",
+  "Clean appointment form.",
+  "Hours, results and prices."
+ ]
+}

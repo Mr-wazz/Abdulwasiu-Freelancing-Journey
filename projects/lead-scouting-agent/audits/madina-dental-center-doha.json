@@ -1,0 +1,34 @@
+{
+ "business": "Madina Dental Center",
+ "owner": "the Madina Dental team",
+ "city": "Doha, Qatar",
+ "website": "madinadental.com",
+ "summary": "A seven branch Doha dental group appears to lose patients to Arabic only proof on the English site, scattered phone numbers and a stale footer.",
+ "findings": [
+  {
+   "problem": "The English Patient Testimonials section appears to show Arabic text only.",
+   "cost": "English speaking patients cannot read the proof meant to win them.",
+   "fix": "Translated testimonials on the English pages."
+  },
+  {
+   "problem": "The contact page appears to list up to three numbers per branch, with one number repeated across branches.",
+   "cost": "Patients do not know which line to call and may give up.",
+   "fix": "One booking line per branch and a single main number."
+  },
+  {
+   "problem": "The page appears to claim 25+ years, 30+ doctors and 1000+ weekly visits, with no ratings or review count shown.",
+   "cost": "Big numbers without a review source are easy to doubt.",
+   "fix": "A visible review rating linked to its source."
+  },
+  {
+   "problem": "The footer appears to read 2025.",
+   "cost": "An old year suggests the site is not kept up to date.",
+   "fix": "A footer that updates automatically."
+  }
+ ],
+ "redesign": [
+  "Translated testimonials.",
+  "One clear booking line per branch.",
+  "Visible ratings and a current footer."
+ ]
+}

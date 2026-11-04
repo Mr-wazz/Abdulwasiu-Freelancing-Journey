@@ -1,0 +1,34 @@
+{
+ "business": "Abdullah AlAthbah and Associates",
+ "owner": "the AlAthbah team",
+ "city": "Doha, Qatar",
+ "website": "alathbah.law",
+ "summary": "A Doha advocacy and arbitration firm appears to lose enquiries to a WhatsApp link that looks wrong, filler text and no contact form.",
+ "findings": [
+  {
+   "problem": "The WhatsApp button appears to link to wa.me/30796666, which does not match the listed number 6666 3079 with the 974 code.",
+   "cost": "A client who taps WhatsApp may reach no one, and you never see the lost enquiry.",
+   "fix": "The correct full number in the WhatsApp link."
+  },
+  {
+   "problem": "Placeholder Lorem ipsum text appears in the page content.",
+   "cost": "Filler text on a law firm site signals an unfinished build to corporate clients.",
+   "fix": "Real practice copy in every panel."
+  },
+  {
+   "problem": "No contact form appears on the page, only a phone, an email and social links.",
+   "cost": "Many clients prefer to leave details at night and do not call.",
+   "fix": "A short enquiry form with matter type and phone."
+  },
+  {
+   "problem": "The same welcome heading appears four times and the footer appears to read Copyright 2025.",
+   "cost": "Repeats and an old year make the site feel unmaintained.",
+   "fix": "One clear headline and a current footer."
+  }
+ ],
+ "redesign": [
+  "Correct WhatsApp and enquiry form.",
+  "Real copy, no filler.",
+  "Clean headline and current footer."
+ ]
+}

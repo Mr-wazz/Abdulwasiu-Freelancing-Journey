@@ -21,9 +21,9 @@
    "fix": "An email address on your own domain."
   },
   {
-   "problem": "Stray markup characters appear at the top of the page text, and no WhatsApp appears.",
-   "cost": "Broken code looks careless and clients cannot message quickly.",
-   "fix": "Clean markup and WhatsApp."
+   "problem": "No WhatsApp appears next to the contact details.",
+   "cost": "Many clients in Saudi Arabia prefer to message first, and a firm that replies on WhatsApp first wins the consultation.",
+   "fix": "A one tap WhatsApp button."
   }
  ],
  "redesign": [

@@ -21,14 +21,14 @@
    "fix": "Your own domain and a current page."
   },
   {
-   "problem": "The page appears to show stray characters near the contact section, and no WhatsApp appears.",
-   "cost": "Stray text looks unfinished, and renters who want a quick answer have no easy way to message.",
-   "fix": "A clean contact section and a one tap WhatsApp button."
+   "problem": "No WhatsApp appears next to the phone number.",
+   "cost": "Renters who want a quick answer have no easy way to message, and the agent who replies first gets the viewing.",
+   "fix": "A one tap WhatsApp button."
   }
  ],
  "redesign": [
   "Working email and correct name.",
   "Own domain.",
-  "Clean contact and WhatsApp."
+  "Current page and WhatsApp."
  ]
 }

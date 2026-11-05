@@ -1,0 +1,34 @@
+{
+ "business": "Alhilal Aljameel Commercial Brokerge",
+ "owner": "the Alhilal Aljameel team",
+ "city": "Dubai, UAE",
+ "website": "brokergealhilalalj.wixsite.com/realtor",
+ "summary": "A Dubai property company appears to lose enquiries to a listed email that seems not to receive mail, a spelling error in its name and a free builder address.",
+ "findings": [
+  {
+   "problem": "The site lists info@alhilalaljameelbrokerge.com, but that web domain appears not to exist, so mail sent there would bounce.",
+   "cost": "Every client who writes to the main email address is lost, and you never see the enquiry.",
+   "fix": "A working email on a real domain."
+  },
+  {
+   "problem": "The business name appears as Brokerge, a misspelling of Brokerage, in the page title and in the web address.",
+   "cost": "A spelling error in the firm's own name weakens trust in a property business.",
+   "fix": "The correct name and a clean domain."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner and a 2021 copyright date.",
+   "cost": "A free builder address and an old date look temporary.",
+   "fix": "Your own domain and a current page."
+  },
+  {
+   "problem": "The page appears to show stray characters near the contact section, and no WhatsApp appears.",
+   "cost": "Stray text looks unfinished, and renters who want a quick answer have no easy way to message.",
+   "fix": "A clean contact section and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Working email and correct name.",
+  "Own domain.",
+  "Clean contact and WhatsApp."
+ ]
+}

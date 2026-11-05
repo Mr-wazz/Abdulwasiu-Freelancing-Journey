@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-06 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. None of these have an email draft, so each is contacted only by WhatsApp.
+
+## 1. London Lip Clinic (London)
+
+Message:
+> Hi, I looked at the London Lip Clinic website. The prices and aftercare details appear to differ between pages, and the before and after area looks empty. Clients may doubt the cost and book elsewhere. I put the fixes on one page, can I send it here?
+
+Tap to open: https://wa.me/447956576666?text=Hi%2C%20I%20looked%20at%20the%20London%20Lip%20Clinic%20website.%20The%20prices%20and%20aftercare%20details%20appear%20to%20differ%20between%20pages%2C%20and%20the%20before%20and%20after%20area%20looks%20empty.%20Clients%20may%20doubt%20the%20cost%20and%20book%20elsewhere.%20I%20put%20the%20fixes%20on%20one%20page%2C%20can%20I%20send%20it%20here%3F
+
+## 2. The Skin Institute (Abu Dhabi), open https://wa.link/8ee1ys and paste the message
+
+Message:
+> Hello, I checked the Skin Institute site. Some treatment tiles appear to open unrelated pages and the laser menu seems to go nowhere, so a patient who cannot find a treatment often leaves. I prepared a short note on how to fix it. Is it okay to send it here?
+
+Tap to open: https://wa.link/8ee1ys then paste the message above.
+
+## 3. Oris Dental Center (Dubai)
+
+Message:
+> Good day, I read through the Oris Dental Center website. Several menu links appear to lead nowhere, and the years of experience differ between sections, 18 in one place and 16 in another. That can cost you trust and bookings. May I share a one page note with the fixes?
+
+Tap to open: https://wa.me/971506595532?text=Good%20day%2C%20I%20read%20through%20the%20Oris%20Dental%20Center%20website.%20Several%20menu%20links%20appear%20to%20lead%20nowhere%2C%20and%20the%20years%20of%20experience%20differ%20between%20sections%2C%2018%20in%20one%20place%20and%2016%20in%20another.%20That%20can%20cost%20you%20trust%20and%20bookings.%20May%20I%20share%20a%20one%20page%20note%20with%20the%20fixes%3F
+
+## 4. DentAkademi London (London, Queen Anne Street)
+
+Message:
+> Hello, I visited the DentAkademi website. The Patient Stories heading appears to show no stories, and some headings show stray underscores. For a premium dental practice that can put off new patients. I wrote a short note on the fix, would you like me to send it here?
+
+Tap to open: https://wa.me/447493200001?text=Hello%2C%20I%20visited%20the%20DentAkademi%20website.%20The%20Patient%20Stories%20heading%20appears%20to%20show%20no%20stories%2C%20and%20some%20headings%20show%20stray%20underscores.%20For%20a%20premium%20dental%20practice%20that%20can%20put%20off%20new%20patients.%20I%20wrote%20a%20short%20note%20on%20the%20fix%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 5. SnB Aesthetic Clinic (Dubai)
+
+Message:
+> Hi there, I went through the SnB Aesthetic Clinic website. Some menu items appear to open the wrong pages and I could not find a booking form. A client who cannot book easily may message another clinic. I made a quick one page note, may I send it to you here?
+
+Tap to open: https://wa.me/971588571847?text=Hi%20there%2C%20I%20went%20through%20the%20SnB%20Aesthetic%20Clinic%20website.%20Some%20menu%20items%20appear%20to%20open%20the%20wrong%20pages%20and%20I%20could%20not%20find%20a%20booking%20form.%20A%20client%20who%20cannot%20book%20easily%20may%20message%20another%20clinic.%20I%20made%20a%20quick%20one%20page%20note%2C%20may%20I%20send%20it%20to%20you%20here%3F
+
+
 # WhatsApp list for 2026-11-05 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

@@ -1,0 +1,34 @@
+{
+ "business": "Dr. Atef H. Rizk Clinic",
+ "owner": "the Dr. Rizk Clinic team",
+ "city": "Doha, Qatar",
+ "website": "iamrizk.wixsite.com/dratefrizkclinic",
+ "summary": "A Doha private clinic serving corporate clients since 1987 appears to lose new patients to a site that says last updated 2013, a repeated welcome and a free builder address.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Last updated: Saturday 14, September 2013 and Best viewed in Google Chrome or Firefox, pages may not appear in some versions of Internet Explorer.",
+   "cost": "A date from 2013 and a note about Internet Explorer tell a visitor the clinic may not be active, so they choose a clinic that looks current.",
+   "fix": "A current page with no outdated notes."
+  },
+  {
+   "problem": "The welcome heading and line appear twice in a row on the homepage.",
+   "cost": "Repeated text looks careless and wastes the visitor's first few seconds.",
+   "fix": "One clear welcome message."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "A free builder address looks temporary for a clinic that advises large companies.",
+   "fix": "Your own domain and a clinic email."
+  },
+  {
+   "problem": "No WhatsApp and no clear online booking appear, only a phone line with an extension.",
+   "cost": "Patients and company HR teams who want a quick answer message first, and the clinic that replies first gets the booking.",
+   "fix": "Online booking on the page and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Current, fresh page.",
+  "Own domain.",
+  "Booking and WhatsApp."
+ ]
+}

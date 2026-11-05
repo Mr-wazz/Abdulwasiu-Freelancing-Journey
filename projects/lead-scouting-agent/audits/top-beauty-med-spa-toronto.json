@@ -1,0 +1,34 @@
+{
+ "business": "Top Beauty Med Spa",
+ "owner": "the Top Beauty Med Spa team",
+ "city": "Toronto, Canada",
+ "website": "topbeautymedspa.wixsite.com/my-site",
+ "summary": "A Midtown Toronto med spa appears to lose bookings to leftover template text, a free builder address and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "One service appears to still carry template text, Describe your service here. What makes it great? Use short catchy text to tell people what you offer.",
+   "cost": "Template text on a booking page makes the business look unfinished and costs trust.",
+   "fix": "Real copy for every service."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "A free builder address looks temporary for a med spa that charges for treatments.",
+   "fix": "Your own domain and a business email."
+  },
+  {
+   "problem": "The contact appears to be a gmail address, with a contact form and a phone number but no WhatsApp.",
+   "cost": "Clients who want to book at night message first, and a free email gives less trust.",
+   "fix": "A business email and a one tap WhatsApp button."
+  },
+  {
+   "problem": "The page appears to list teeth whitening and waxing next to a med spa label, with no prices or before and after proof.",
+   "cost": "Clients comparing med spas look for clear treatments, prices and results.",
+   "fix": "Treatment pages with prices and results."
+  }
+ ],
+ "redesign": [
+  "Real service copy.",
+  "Own domain.",
+  "Prices, booking and WhatsApp."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "business": "Femiclinic",
+ "owner": "the Femiclinic team",
+ "city": "Dubai, UAE",
+ "website": "femiclinic.com",
+ "summary": "A Dubai Healthcare City women's clinic appears to lose new patients to a 2021 copyright line and a repeated contact block in its footer.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Copyright 2021 femiclinic, and a second copyright mark appears above it.",
+   "cost": "An old date and a doubled footer make a visitor wonder if the clinic is still active and careful.",
+   "fix": "One current copyright line."
+  },
+  {
+   "problem": "The telephone number and email appear twice in the contact area, once as Info@ and once as info@.",
+   "cost": "Repeated contact lines look careless and make the footer harder to read.",
+   "fix": "One clean contact block."
+  },
+  {
+   "problem": "The page appears to run to a long list of unrelated services, from Fotona laser and gynecology to allergy testing and detoxification.",
+   "cost": "A patient looking for one service cannot tell what the clinic is best at, and leaves without booking.",
+   "fix": "Grouped service pages with one clear book button."
+  }
+ ],
+ "redesign": [
+  "Current, clean footer.",
+  "Grouped services.",
+  "Clear booking path."
+ ]
+}

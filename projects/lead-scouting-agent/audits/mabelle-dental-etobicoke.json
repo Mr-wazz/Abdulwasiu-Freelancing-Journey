@@ -1,0 +1,29 @@
+{
+ "business": "Mabelle Dental",
+ "owner": "the Mabelle Dental team",
+ "city": "Toronto, Canada",
+ "website": "mabelledental.com",
+ "summary": "An Etobicoke family dental office appears to lose new patients to placeholder testimonial text and a very long service menu.",
+ "findings": [
+  {
+   "problem": "The testimonials section appears to include placeholder Lorem ipsum text instead of real patient reviews.",
+   "cost": "Fake looking reviews cost trust exactly where a new patient is deciding.",
+   "fix": "Real patient reviews with names and ratings."
+  },
+  {
+   "problem": "The menu appears to list more than 25 services and sub services in one long list.",
+   "cost": "Patients cannot find the service they came for and leave without booking.",
+   "fix": "Grouped service pages with a clear next step."
+  },
+  {
+   "problem": "No WhatsApp or text option appears, only a phone number and an email.",
+   "cost": "Patients who want a quick answer message first, and the office that replies first gets the booking.",
+   "fix": "A one tap text button."
+  }
+ ],
+ "redesign": [
+  "Real reviews.",
+  "Grouped services.",
+  "Booking and text."
+ ]
+}

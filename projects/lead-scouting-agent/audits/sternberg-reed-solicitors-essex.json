@@ -1,0 +1,29 @@
+{
+ "business": "Sternberg Reed",
+ "owner": "the Sternberg Reed team",
+ "city": "London and Essex, UK",
+ "website": "sternberg-reed.co.uk",
+ "summary": "An Essex and London solicitor firm appears to lose enquiries to a 2016 copyright date and a very long services menu.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Copyright 2016 Sternberg Reed.",
+   "cost": "An old date makes a client wonder if the firm is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The services menu appears to list a long list of practice areas, with four office phone numbers at the top.",
+   "cost": "A client in a crisis cannot tell which number or service is right for them and may call another firm.",
+   "fix": "Grouped practice pages with one clear enquiry path."
+  },
+  {
+   "problem": "No WhatsApp or online enquiry form appears next to the phone numbers.",
+   "cost": "Clients who cannot call during work message first.",
+   "fix": "A one tap WhatsApp button and an enquiry form."
+  }
+ ],
+ "redesign": [
+  "Current page.",
+  "Grouped practice areas.",
+  "Enquiry form and WhatsApp."
+ ]
+}

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-07 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Motei & Associates (Dubai, Tecom)
+
+Message:
+> Hello, I read through the Motei & Associates website. The proof counters appear to show 0, and there are typos like Sucess Rate and Estate Planing, which can make a client doubt a law firm. I wrote a short one page note on the fix. May I send it here?
+
+Tap to open: https://wa.me/971553536953?text=Hello%2C%20I%20read%20through%20the%20Motei%20%26%20Associates%20website.%20The%20proof%20counters%20appear%20to%20show%200%2C%20and%20there%20are%20typos%20like%20Sucess%20Rate%20and%20Estate%20Planing%2C%20which%20can%20make%20a%20client%20doubt%20a%20law%20firm.%20I%20wrote%20a%20short%20one%20page%20note%20on%20the%20fix.%20May%20I%20send%20it%20here%3F
+
+## 2. Lasting Smile Dental Clinics (Riyadh, Al Olaya)
+
+Message:
+> Hi, I visited the Lasting Smile website. The counters appear to read 0, and the review figures differ between sections, 517 in one place and 527 in another. A patient who spots this may hesitate to book. Can I send you a short note with the fixes?
+
+Tap to open: https://wa.me/966533844432?text=Hi%2C%20I%20visited%20the%20Lasting%20Smile%20website.%20The%20counters%20appear%20to%20read%200%2C%20and%20the%20review%20figures%20differ%20between%20sections%2C%20517%20in%20one%20place%20and%20527%20in%20another.%20A%20patient%20who%20spots%20this%20may%20hesitate%20to%20book.%20Can%20I%20send%20you%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Horizon Dental Clinics (Riyadh, Al Nahda)
+
+Message:
+> Good day, I went through the Horizon Dental Clinics site. Two different patient counts appear, +870 and +23000, and several doctors seem to share the same placeholder photo. That can lower trust before a visit is booked. I made a one page note, would you like me to send it here?
+
+Tap to open: https://wa.me/966534131222?text=Good%20day%2C%20I%20went%20through%20the%20Horizon%20Dental%20Clinics%20site.%20Two%20different%20patient%20counts%20appear%2C%20%2B870%20and%20%2B23000%2C%20and%20several%20doctors%20seem%20to%20share%20the%20same%20placeholder%20photo.%20That%20can%20lower%20trust%20before%20a%20visit%20is%20booked.%20I%20made%20a%20one%20page%20note%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. SDC Legal Consultants (DIFC, Dubai)
+
+Message:
+> Hello, I looked at the SDC Legal Consultants website. The How to Reach Us section appears to be empty, and some footer links seem to point to a staging address instead of your site. A client who cannot reach you easily will call another firm. May I send a short note on how to fix it?
+
+Tap to open: https://wa.me/971565351205?text=Hello%2C%20I%20looked%20at%20the%20SDC%20Legal%20Consultants%20website.%20The%20How%20to%20Reach%20Us%20section%20appears%20to%20be%20empty%2C%20and%20some%20footer%20links%20seem%20to%20point%20to%20a%20staging%20address%20instead%20of%20your%20site.%20A%20client%20who%20cannot%20reach%20you%20easily%20will%20call%20another%20firm.%20May%20I%20send%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. Al Adl Legal Consultants (Business Bay, Dubai)
+
+Message:
+> Hi, I checked the Al Adl Legal Consultants website. It appears to say open 24/7 in one place and Monday to Friday 8 to 18 in another, and a 4.8 star claim shows no reviews. Clients may not know when you are reachable. I prepared a one page note, is it okay to send it here?
+
+Tap to open: https://wa.me/971502251021?text=Hi%2C%20I%20checked%20the%20Al%20Adl%20Legal%20Consultants%20website.%20It%20appears%20to%20say%20open%2024%2F7%20in%20one%20place%20and%20Monday%20to%20Friday%208%20to%2018%20in%20another%2C%20and%20a%204.8%20star%20claim%20shows%20no%20reviews.%20Clients%20may%20not%20know%20when%20you%20are%20reachable.%20I%20prepared%20a%20one%20page%20note%2C%20is%20it%20okay%20to%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-06 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. None of these have an email draft, so each is contacted only by WhatsApp.

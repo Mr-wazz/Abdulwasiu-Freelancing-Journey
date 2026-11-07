@@ -1,0 +1,34 @@
+{
+ "business": "RX Beauty Clinic",
+ "owner": "the RX Beauty Clinic team",
+ "city": "Toronto, Canada",
+ "website": "rxbeautyclinic.com",
+ "summary": "A Toronto med spa founded in 2024 appears to lose bookings to dead menu items and an empty results section.",
+ "findings": [
+  {
+   "problem": "Eight menu items, including Services, Potenza and Laser, appear to link to #.",
+   "cost": "Patients exploring treatments cannot get to them.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The phone link appears to be written tel:\\(647\\) 288-0278 with escaped characters.",
+   "cost": "Mobile visitors tapping to call may get nothing.",
+   "fix": "A clean tel link."
+  },
+  {
+   "problem": "The See Our Clients Transformations section appears to show only Button labels and no results.",
+   "cost": "Med spa patients buy on visible results.",
+   "fix": "Real consented before and after photos."
+  },
+  {
+   "problem": "No practitioner names, credentials or reviews appear, and Skin Tightening appears under three different page addresses.",
+   "cost": "Patients want to know who treats them, and duplicate pages weaken search ranking.",
+   "fix": "Practitioner profiles, reviews and one page per treatment."
+  }
+ ],
+ "redesign": [
+  "Working menu pages.",
+  "Results gallery.",
+  "Practitioner profiles and reviews."
+ ]
+}

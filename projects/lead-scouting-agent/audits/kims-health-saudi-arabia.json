@@ -1,0 +1,34 @@
+{
+ "business": "KIMSHealth Saudi Arabia",
+ "owner": "the KIMSHealth Saudi team",
+ "city": "Saudi Arabia",
+ "website": "kimshealth.co",
+ "summary": "A large Saudi hospital group appears to lose dermatology bookings to conflicting phone numbers and a booking pop up that may not work.",
+ "findings": [
+  {
+   "problem": "The visible number +966 13 3620094 appears to link to a different number, and the booking pop up appears to show a Bahrain country code.",
+   "cost": "Patients may call the wrong number or abroad.",
+   "fix": "One verified number per branch."
+  },
+  {
+   "problem": "The WhatsApp link appears to contain a space after the slash, and the booking form appears to show a Send OTP button with no visible input and a Select Branch menu with no options.",
+   "cost": "Ready patients cannot complete a booking.",
+   "fix": "A tested booking form."
+  },
+  {
+   "problem": "The Available At heading appears to be followed by unrelated text with no branch addresses or hours.",
+   "cost": "Patients cannot find where to go.",
+   "fix": "Branch addresses and hours."
+  },
+  {
+   "problem": "Doctor profiles appear to list only languages and locations, and no testimonials, prices or outcomes appear for cosmetic procedures.",
+   "cost": "Cosmetic patients choose providers who show who treats them and the results.",
+   "fix": "Qualifications, reviews and starting prices."
+  }
+ ],
+ "redesign": [
+  "One number per branch.",
+  "Working booking.",
+  "Addresses, hours and proof."
+ ]
+}

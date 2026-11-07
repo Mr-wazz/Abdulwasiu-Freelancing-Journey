@@ -1,0 +1,34 @@
+{
+ "business": "Dr. Judy Sturm & Associates",
+ "owner": "Dr Sturm and the team",
+ "city": "Yorkville, Toronto",
+ "website": "yorkvillesmiles.com",
+ "summary": "A 1995 Yorkville practice with real patient stories is a strength, but dead buttons and repeated content appear to cost you new patient bookings.",
+ "findings": [
+  {
+   "problem": "The top Schedule Appointment button and the hours in the header appear to link to #, and every Book My Appointment button appears to go to the contact page, so no booking form is visible.",
+   "cost": "A new patient who taps Schedule Appointment lands nowhere and may call the next dentist.",
+   "fix": "One online booking form with a confirmation."
+  },
+  {
+   "problem": "All three testimonials (Noah, Lily, Tim) appear to link to the same video, and the awards cited date from 2012 to 2020.",
+   "cost": "Repeated proof and old awards make the practice look inactive.",
+   "fix": "Fresh, real reviews and current awards."
+  },
+  {
+   "problem": "The practice name appears in four versions (Dr. Judy Sturm & Associates, Dr Judy & Associates, Dr. Sturm and Associates, Judy Sturm & Associates) while the domain says yorkvillesmiles.",
+   "cost": "Mixed names weaken search visibility and trust.",
+   "fix": "One brand name used everywhere."
+  },
+  {
+   "problem": "Hero slides appear to use a dummy.png placeholder, the page says 'open early and close late' beside Friday 8am to 3pm, and the cookie notice reads 'happy with it.Ok'.",
+   "cost": "Small slips make a premium Yorkville practice look unfinished.",
+   "fix": "Clean copy, real images and exact hours."
+  }
+ ],
+ "redesign": [
+  "Online booking with instant confirmation and WhatsApp.",
+  "Real reviews, current awards, one brand name.",
+  "Clean mobile layout with exact hours."
+ ]
+}

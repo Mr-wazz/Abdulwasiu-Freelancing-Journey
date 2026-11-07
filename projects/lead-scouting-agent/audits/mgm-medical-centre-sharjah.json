@@ -1,0 +1,34 @@
+{
+ "business": "MGM Medical Centre",
+ "owner": "the MGM Medical Centre team",
+ "city": "Sharjah, UAE",
+ "website": "cattymedia.wixsite.com/mgmmedical",
+ "summary": "A Sharjah medical and dental centre appears to lose new patients to a free builder address, an empty email label and no online booking or WhatsApp.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was created by CattyMedia.",
+   "cost": "A free builder address and an agency banner look temporary for a centre founded in 2016.",
+   "fix": "Your own domain and a clean header."
+  },
+  {
+   "problem": "The contact section appears to show an empty E-mail label above the real email, and the fax number appears to be the same as the phone number.",
+   "cost": "Small errors in the contact section are where a patient decides to call, and they erode trust.",
+   "fix": "A clean, correct contact section."
+  },
+  {
+   "problem": "The menu appears to be full of BMI and calorie calculators, and a service called Upcoming Services appears.",
+   "cost": "Patients came to book a doctor, and calculators and empty promises hide your dental and doctor services.",
+   "fix": "Doctor and dental pages first, with clear booking."
+  },
+  {
+   "problem": "No online booking and no WhatsApp appear, only a phone number.",
+   "cost": "Patients who want an appointment out of hours cannot book, and they book where they can.",
+   "fix": "Online booking on the page and a WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Clean contact and services.",
+  "Booking and WhatsApp."
+ ]
+}

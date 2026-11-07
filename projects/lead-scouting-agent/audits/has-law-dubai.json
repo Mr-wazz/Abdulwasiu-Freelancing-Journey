@@ -1,0 +1,33 @@
+{
+ "business": "HAS Law Firm",
+ "owner": "Hamdan Al Shamsi",
+ "city": "Dubai",
+ "website": "has.law",
+ "summary": "Your homepage has named reviews and Legal500 quotes, but menus that go nowhere, unfinished text and no clear next step weaken a strong reputation.",
+ "findings": [
+  {
+   "problem": "Team, Expertise, Sectors, Practice Areas and the top Contact Us link all point to #.",
+   "cost": "A client who wants to see your team or reach you from the top bar lands nowhere.",
+   "fix": "Working menus and one clear Contact page."
+  },
+  {
+   "problem": "No contact form on the page, no button in the hero, and WhatsApp is only a small icon by the phone number.",
+   "cost": "Corporate clients decide in seconds, and with no clear next step many leave.",
+   "fix": "Hero button, short enquiry form and a labelled WhatsApp button."
+  },
+  {
+   "problem": "The name appears as HAS Law Firm, Hamdan Al Shamsi Lawyers and Al-Shamsi-Legal. A review still shows the placeholder [specific parties].",
+   "cost": "Awards lose force when the page looks unfinished or the brand is unclear.",
+   "fix": "One brand name and proofread, current copy."
+  },
+  {
+   "problem": "The same practice list appears three times, Read more appears 25 times, a review is repeated, and there are no case results or founder photo.",
+   "cost": "A long repeated page hides your real strengths.",
+   "fix": "A short practice grid, case results and a founder profile."
+  }
+ ],
+ "redesign": [
+  "A clear enquiry path on every page: form, WhatsApp and call.",
+  "Case results, named reviews and a founder profile that build trust."
+ ]
+}

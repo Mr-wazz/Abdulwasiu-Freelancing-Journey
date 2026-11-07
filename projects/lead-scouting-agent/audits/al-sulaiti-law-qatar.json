@@ -1,0 +1,33 @@
+{
+ "business": "Al Sulaiti Law Firm",
+ "owner": "Mubarak bin Abdulla Al-sulaiti",
+ "city": "Doha",
+ "website": "alsulaitilawfirm.com",
+ "summary": "Established in 2002 with partnership offices in 17 countries, your firm has a strong story, but broken menu links and unfinished testimonials hold it back.",
+ "findings": [
+  {
+   "problem": "About and Legal Newsroom in the menu and footer link to #, and there is no contact form on the page.",
+   "cost": "A client who wants to learn about you or reach you hits a dead end.",
+   "fix": "Working About and News pages and an enquiry form."
+  },
+  {
+   "problem": "The ESTHITMAR HOLDING entry has a logo and name but no testimonial text, the first review has no attribution, and Madlife CEO, Tech Corp looks like a placeholder.",
+   "cost": "Unfinished testimonials look unreal and weaken your best proof.",
+   "fix": "Complete, named testimonials."
+  },
+  {
+   "problem": "Typos include partnershop offices across 17 countries, clients' s trust and call on them and her. The firm name appears as Al Sulaiti, Al-Sulaiti Law Firm and Legal Consultations and Al-sulaiti.",
+   "cost": "Errors on a law firm page lower trust.",
+   "fix": "Proofread copy and one firm name."
+  },
+  {
+   "problem": "Read more about [area] repeats 12 times, there is no clear primary action above the fold, and Best Law Firm in Qatar for Business has no evidence.",
+   "cost": "Clients are not told what to do next, and unsupported claims weaken trust.",
+   "fix": "One clear call to action and evidence for claims."
+  }
+ ],
+ "redesign": [
+  "A clear enquiry path with a form, WhatsApp and click to call.",
+  "Complete testimonials, partner profiles and one consistent firm name."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "business": "Tabarek Specialized Clinic",
+ "owner": "the Tabarek Clinic team",
+ "city": "Sharjah, UAE",
+ "website": "tabarek-specialized-clinic.site123.me",
+ "summary": "A Sharjah dental clinic with 15 years of experience appears to lose new patients to a free builder footer, a gmail contact and no online booking or WhatsApp.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free SITE123 address, with a footer that says I BUILT MY SITE FOR FREE USING SITE123.",
+   "cost": "A free builder footer looks temporary for a clinic with over 5000 patients.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "The contact appears to be a gmail address and one landline.",
+   "cost": "A free email gives less trust, and patients who want a quick answer have nothing faster than a call.",
+   "fix": "A clinic email on your own domain."
+  },
+  {
+   "problem": "No online booking and no WhatsApp appear on the page.",
+   "cost": "Patients who want to book after hours cannot, and they book with a clinic that lets them.",
+   "fix": "Online booking on the page and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Own domain and email.",
+  "Treatment pages with proof.",
+  "Booking and WhatsApp."
+ ]
+}

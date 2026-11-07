@@ -1,0 +1,34 @@
+{
+ "business": "Metro Property London",
+ "owner": "the Metro Property team",
+ "city": "London, UK",
+ "website": "metropropertyservices.weebly.com",
+ "summary": "A London letting agency appears to lose landlords to an all capitals page, a stuffed title and bold claims without proof.",
+ "findings": [
+  {
+   "problem": "The page title appears to be a long string of keywords and phone numbers.",
+   "cost": "Search results cut it off and a stuffed title looks like spam to landlords.",
+   "fix": "A short title with the agency name and area."
+  },
+  {
+   "problem": "The homepage appears to shout in capitals with claims such as GUARANTEED RENTS FOR UP TO 5 YEARS and FREE LETTING AND MANAGEMENT.",
+   "cost": "Big claims without terms or proof make careful landlords walk away.",
+   "fix": "Plain wording with clear terms and examples."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address and the contact number appears to be an 0844 line.",
+   "cost": "A free builder address and a premium rate number look temporary.",
+   "fix": "Your own domain and a standard local number."
+  },
+  {
+   "problem": "Text such as Looking for classified ads appears on the page, and no reviews or WhatsApp appear.",
+   "cost": "Stray text and no proof lose both landlords and tenants.",
+   "fix": "Named reviews, current listings and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Clean title.",
+  "Plain claims with terms.",
+  "Own domain, reviews and WhatsApp."
+ ]
+}

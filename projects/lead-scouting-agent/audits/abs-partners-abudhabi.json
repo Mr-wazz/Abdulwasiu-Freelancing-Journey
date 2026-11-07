@@ -1,0 +1,33 @@
+{
+ "business": "ABS Partners",
+ "owner": "Ajmal Khan Nadakkal",
+ "city": "Abu Dhabi",
+ "website": "abspartners.ae",
+ "summary": "Your page has a working contact form and clear practice areas, but a broken phone link, conflicting numbers and no client proof hold it back.",
+ "findings": [
+  {
+   "problem": "The phone number in the contact section uses a mailto link, not a tel link.",
+   "cost": "A client who taps your number on a phone opens an email app, not a call.",
+   "fix": "A working click to call link."
+  },
+  {
+   "problem": "The About section says 2000+ Clients Represented, the statistics say 10K+ Served Clients, and 95% Cases Success Rate has no source.",
+   "cost": "Conflicting and unsupported numbers weaken trust.",
+   "fix": "One verified set of figures."
+  },
+  {
+   "problem": "No testimonials appear, the team photos, About image and banner appear to be grey placeholders, and there is no WhatsApp.",
+   "cost": "Clients cannot see who you are or what others say.",
+   "fix": "Real photos, client quotes and a WhatsApp button."
+  },
+  {
+   "problem": "Typos such as View all Expertises and Still Have Questions ?, Ms. Bini Saroj in one place and Dr. in another, and Learn More repeated on every card.",
+   "cost": "Small errors and vague buttons cost credibility.",
+   "fix": "Proofread copy and specific button labels."
+  }
+ ],
+ "redesign": [
+  "Working click to call and WhatsApp on every page.",
+  "Partner profiles with real photos, client quotes and one verified set of figures."
+ ]
+}

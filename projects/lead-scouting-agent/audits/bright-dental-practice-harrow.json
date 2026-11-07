@@ -1,0 +1,29 @@
+{
+ "business": "Bright Dental Practice",
+ "owner": "the Bright Dental team",
+ "city": "London, UK",
+ "website": "bright-dental.co.uk",
+ "summary": "A Harrow dental practice appears to lose new patients to Covid news from 2020 and a 2017 copyright date.",
+ "findings": [
+  {
+   "problem": "The Latest News section appears to show Covid-19 posts dated 14 November 2020.",
+   "cost": "Old Covid news tells a patient the practice may not be active, so they book another practice.",
+   "fix": "Fresh news or a clean page with no old posts."
+  },
+  {
+   "problem": "The footer appears to say Copyright 2017 Bright Dental Practice.",
+   "cost": "An old date makes the site look abandoned.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "No WhatsApp or text option appears, only a phone number and a contact form.",
+   "cost": "Patients who want a quick answer message first.",
+   "fix": "A one tap text button and online booking."
+  }
+ ],
+ "redesign": [
+  "Current news.",
+  "Current page.",
+  "Booking and text."
+ ]
+}

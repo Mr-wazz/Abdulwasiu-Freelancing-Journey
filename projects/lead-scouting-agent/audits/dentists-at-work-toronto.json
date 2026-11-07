@@ -1,0 +1,34 @@
+{
+ "business": "Dentists at Work",
+ "owner": "the Dentists at Work team",
+ "city": "Toronto, Canada",
+ "website": "dentistsatwork.weebly.com",
+ "summary": "A Bay Street dental office appears to lose patients to a placeholder phone number, a free builder address and a thin homepage.",
+ "findings": [
+  {
+   "problem": "The phone number appears as +1 647 1234567 and the fax as +1 647 2468100, which look like placeholder numbers.",
+   "cost": "Patients who call the number shown may reach no one, and you never see the lost booking.",
+   "fix": "Your real phone number everywhere."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, with a footer that says Powered by Create your own unique website.",
+   "cost": "A builder advert in the footer looks temporary for a downtown dental office.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "The homepage text appears short, with no patient reviews, fees or insurance details shown.",
+   "cost": "Patients compare offices on price, insurance and reviews before they book.",
+   "fix": "Reviews, a fee guide and insurance information."
+  },
+  {
+   "problem": "No WhatsApp appears, and booking appears to depend on a Book Here link.",
+   "cost": "Patients who want a quick answer message other offices first.",
+   "fix": "Online booking on the page and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Real phone number.",
+  "Own domain.",
+  "Reviews, fees and booking."
+ ]
+}

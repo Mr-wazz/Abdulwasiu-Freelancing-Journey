@@ -1,0 +1,34 @@
+{
+ "business": "MIO and Partners",
+ "owner": "Mr Moamen and the team",
+ "city": "Abu Dhabi and Dubai",
+ "website": "miopartners.ae",
+ "summary": "Offices in Dubai and Abu Dhabi and a recognised team are strengths, but conflicting addresses and theme demo links appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "The contact section appears to show only a phone number and a link, with no contact form.",
+   "cost": "A client cannot send details outside office hours.",
+   "fix": "A short enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The Abu Dhabi address appears as Offices No. 301 and 302, Al Fardan Tower and as Office No. 302, Darwish Bin Ahmed and Sons Building, and the Dubai address appears in two formats.",
+   "cost": "Conflicting addresses send clients to the wrong place.",
+   "fix": "One verified address per office."
+  },
+  {
+   "problem": "Client logos appear to link to a theme demo site (zozothemes) instead of your site, and 'Hamadan Street' and 'Alfardan' versus 'Al Fardan' appear.",
+   "cost": "Demo links and spelling variants look unprofessional for a law firm.",
+   "fix": "Correct links and spelling."
+  },
+  {
+   "problem": "'Why Choose Us ?' and the About paragraph appear twice, the testimonial for Sonal Kotecha appears to link to a different name slug, and testimonials appear cut off mid sentence.",
+   "cost": "Repeated blocks and mismatched, truncated proof weaken trust.",
+   "fix": "Clean layout and full, matched testimonials."
+  }
+ ],
+ "redesign": [
+  "Enquiry form with WhatsApp.",
+  "One verified address per office.",
+  "Correct links and full testimonials."
+ ]
+}

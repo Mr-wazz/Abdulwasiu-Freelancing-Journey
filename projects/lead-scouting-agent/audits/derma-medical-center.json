@@ -1,0 +1,34 @@
+{
+ "business": "Derma Medical Center",
+ "owner": "Dr. Dina Sabih and team",
+ "city": "Karama Street, Abu Dhabi",
+ "website": "dermaclinic.ae",
+ "summary": "Derma Medical Center has a clear offer, a booking form and WhatsApp. But visible errors on the page weaken trust right where a patient decides to book.",
+ "findings": [
+  {
+   "problem": "The stat counters (Incredible doctors, Years of combined experience, Happy patients) read 0, next to 1 location and 3 doctors. Two images use the Elementor placeholder file.",
+   "cost": "Zeros and placeholder images make a medical clinic look unfinished at the exact moment a patient is judging it.",
+   "fix": "Real numbers or no counters, and real clinic photos."
+  },
+  {
+   "problem": "The WhatsApp buttons use your landline (+971 2 444 5112), while the chat link uses a different mobile number.",
+   "cost": "A patient who taps WhatsApp on a landline gets no reply, and the booking is lost without you knowing.",
+   "fix": "One WhatsApp number used consistently, with a pre-filled message per treatment."
+  },
+  {
+   "problem": "The 4.8 rating from 1000+ reviews has no source and no review text. There are no before and after cases, and the doctor videos are unlabelled links.",
+   "cost": "Patients choose a clinic on visible proof. Claims without proof do not persuade.",
+   "fix": "A review wall pulled from your real Google reviews and captioned results."
+  },
+  {
+   "problem": "The booking form lists Facial, Body, Laser and Injectables but omits Plastic Surgery and Non-Surgical, and the booking anchors may not exist. Derma Medical Centre and Center are mixed.",
+   "cost": "Patients interested in your higher value services cannot choose them, and inconsistent names look careless.",
+   "fix": "A form that matches every service, tested end to end."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage: real reviews, results and your licence beside every booking button.",
+  "One working booking path plus WhatsApp on the right number, so a patient books in under 30 seconds.",
+  "Treatment pages written to rank for searches like laser hair removal Abu Dhabi and Botox Abu Dhabi."
+ ]
+}

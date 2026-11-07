@@ -1,0 +1,34 @@
+{
+ "business": "Pearl Dental Clinic",
+ "owner": "Dr. Salahudeen and team",
+ "city": "Business Bay, Dubai",
+ "website": "pearldentalclinics.com",
+ "summary": "Pearl Dental has awards, an Invisalign Platinum badge and two lead forms. Leftover text and dead menu links make the page look unfinished right where a patient decides to book.",
+ "findings": [
+  {
+   "problem": "Old menu labels such as Gum disease treatment-old and Tooth Filling-old are visible in the mobile menu, and the text Thank you for contacting Pearl Dental Clinic appears outside any form.",
+   "cost": "Leftover labels and messages on a mobile page look unfinished to a patient who is about to trust you with treatment.",
+   "fix": "A clean menu and hidden confirmation messages that show only after a form is sent."
+  },
+  {
+   "problem": "Our Team, Patient Guide and Media in the main menu link to #. Dental tourism and veneers each link to two different URLs, and the 800 PEARLS phone link has no country code.",
+   "cost": "Dead links lose visitors and a phone link that does not dial from abroad loses your dental tourism patients.",
+   "fix": "Working menu links and a phone link that dials from anywhere."
+  },
+  {
+   "problem": "Dr. Divya Nair is titled Peridontist instead of Periodontist, and reviews name Dr. Mahmood and Dr. Salah, who are not in Our Doctors.",
+   "cost": "A typo in a specialist title and unlisted doctors in reviews raise doubts about who will treat the patient.",
+   "fix": "Proofread titles and a team list that matches your reviews."
+  },
+  {
+   "problem": "Three testimonials are cut off with [...] and carry no stars or dates. No before and after cases or prices appear, though affordable pricing is claimed.",
+   "cost": "Patients choose on visible results and price. Cut off reviews and a missing price make them compare other clinics.",
+   "fix": "Full, dated reviews, captioned before and after cases and starting prices."
+  }
+ ],
+ "redesign": [
+  "A clean, proof first homepage with full reviews, awards and captioned results beside every booking button.",
+  "One simple booking form with WhatsApp, so a patient books in under 30 seconds.",
+  "Treatment pages written to rank for searches like Invisalign Dubai and dental implants Business Bay."
+ ]
+}

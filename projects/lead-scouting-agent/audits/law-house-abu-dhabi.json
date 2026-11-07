@@ -1,0 +1,34 @@
+{
+ "business": "Law House Advocates and Legal Consultants",
+ "owner": "the Law House team",
+ "city": "Abu Dhabi and Dubai",
+ "website": "lawhouse.ae",
+ "summary": "Offices in Abu Dhabi and Dubai and a broad practice list are strengths, but mislabeled team cards, empty links and no contact form appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "Team labels appear shifted by one card, so Ahmed Hosari, Senior Legal Consultant sits above another lawyer's card, and team photos appear to be placeholders.",
+   "cost": "Wrong names on a law firm's team page damage trust.",
+   "fix": "Correct team cards with real photos and credentials."
+  },
+  {
+   "problem": "Every practice area link has no label, the subscribe block shows no email box, and the only contact method is a Contact Us link.",
+   "cost": "Clients cannot easily see services or reach you.",
+   "fix": "Labelled practice pages and a direct enquiry form."
+  },
+  {
+   "problem": "Copy is cut off after 'Business Set-ups, ...' and 'Structured ...', and the text includes 'best friend firms' and 'issues.Law House'.",
+   "cost": "Unfinished sentences and typos weaken a legal brand.",
+   "fix": "Finished, proofread copy."
+  },
+  {
+   "problem": "The image text 'Awesome Image' repeats, the footer reads 2022, phone links contain spaces, and 1000+ Successful Cases has no examples.",
+   "cost": "Leftover text, old dates and unsupported claims reduce credibility.",
+   "fix": "Clean images, a current footer, tested phone links and sourced results."
+  }
+ ],
+ "redesign": [
+  "Correct team cards with credentials.",
+  "A direct enquiry form with WhatsApp and tested phone links.",
+  "Finished, proofread copy with sourced results."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Al Ibtikar PolyClinic",
+ "owner": "the Al Ibtikar team",
+ "city": "Abu Dhabi, UAE",
+ "website": "alibtikarmc.ae",
+ "summary": "An Abu Dhabi polyclinic page for aesthetics appears to lose enquiries to a garbled address, a malformed phone link and no booking path.",
+ "findings": [
+  {
+   "problem": "The address appears to contain leftover Arabic listing text, and the map links appear to point to a Dubai location.",
+   "cost": "Patients may go to the wrong place or doubt the clinic is real.",
+   "fix": "One clean address and a correct map link."
+  },
+  {
+   "problem": "The phone link appears to lack a tel prefix and country code, and the mobile number appears in two different versions.",
+   "cost": "Mobile visitors tapping to call may get nothing or reach the wrong line.",
+   "fix": "One verified number with a proper call link."
+  },
+  {
+   "problem": "The only call to action appears to be Get Started, which goes to a contact page, with no appointment form.",
+   "cost": "Patients ready to book have no easy next step.",
+   "fix": "A booking form on the page."
+  },
+  {
+   "problem": "No practitioners, credentials, reviews, prices or before and after examples appear, and the clinic name appears three ways.",
+   "cost": "Patients choose clinics that show who treats them and the results.",
+   "fix": "Named practitioners, reviews and one brand name."
+  }
+ ],
+ "redesign": [
+  "Clean address and map.",
+  "Working call link and booking.",
+  "Practitioners and reviews."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "Prime Lawyers",
+ "owner": "the Prime Lawyers team",
+ "city": "Sydney",
+ "website": "primelawyers.com.au",
+ "summary": "Your family law page offers a free case evaluation, but the buttons that lead to it do not work and the form appears incomplete.",
+ "findings": [
+  {
+   "problem": "Every Click now to make an enquiry or get a free case evaluation button links to #.",
+   "cost": "The free evaluation is your main offer, and a button that does nothing loses the client.",
+   "fix": "Every button linked to a working enquiry form."
+  },
+  {
+   "problem": "The form shows Preferred Office and Type of Enquiry but no name, email or phone field. The listed email uses primelaw.com.au, a different domain from the site.",
+   "cost": "A client cannot complete the form, and mixed domains look unsure.",
+   "fix": "A complete form and one brand email."
+  },
+  {
+   "problem": "Only one testimonial is shown (from Phil), no lawyers are named, and the Knowledge Centre link uses a ?page_id=891 address.",
+   "cost": "Clients want to know who will act for them and hear from others.",
+   "fix": "Lawyer profiles, more testimonials and clean links."
+  },
+  {
+   "problem": "Copy errors include making it a prime location for clients can easily access and he duration (missing first letter). The payment option is named three ways and the menu repeats.",
+   "cost": "Errors on a legal page lower trust.",
+   "fix": "Proofread copy and a single payment option name."
+  }
+ ],
+ "redesign": [
+  "A complete enquiry form behind every button, with click to call.",
+  "Lawyer profiles, multiple testimonials and proofread, consistent copy."
+ ]
+}

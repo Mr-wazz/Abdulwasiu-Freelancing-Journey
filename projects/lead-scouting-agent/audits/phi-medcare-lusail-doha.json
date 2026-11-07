@@ -1,0 +1,34 @@
+{
+ "business": "Phi MEDCARE",
+ "owner": "the Phi MEDCARE team",
+ "city": "Doha, Qatar",
+ "website": "phimedcare.com",
+ "summary": "A Lusail plastic surgery clinic appears to lose consultations to vague links, leftover text and no visible results or prices.",
+ "findings": [
+  {
+   "problem": "Careers appears to point to the contact page, Insurance and International Patients appear to point to the same page, and Request consult appears to have no clear destination.",
+   "cost": "Patients cannot find the right page and leave.",
+   "fix": "One correct page per link."
+  },
+  {
+   "problem": "A design note such as phi equals 1.618 appears in the hero, and the brand appears as three different spellings.",
+   "cost": "Leftover notes and mixed names look unfinished.",
+   "fix": "Clean hero text and one brand spelling."
+  },
+  {
+   "problem": "The page appears to say consultants review real results but shows none, and no testimonials appear.",
+   "cost": "Cosmetic patients buy on visible results.",
+   "fix": "A consented results gallery and reviews."
+  },
+  {
+   "problem": "JCI standard appears three times with no certificate, the licence appears with no number, and no pricing appears despite promised pricing guidance.",
+   "cost": "Unverified claims and missing prices push patients to compare elsewhere.",
+   "fix": "Certificate and licence details and starting prices."
+  }
+ ],
+ "redesign": [
+  "Correct links.",
+  "Clean text and brand name.",
+  "Results, proof and prices."
+ ]
+}

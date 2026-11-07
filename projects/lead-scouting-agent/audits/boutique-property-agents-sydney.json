@@ -1,0 +1,34 @@
+{
+ "business": "Boutique Property Agents",
+ "owner": "the agency principal",
+ "city": "Sydney, Australia",
+ "website": "boutiquepropertyagents.com",
+ "summary": "A Sydney city agency with strong testimonials appears to lose appraisals to small errors and a missing appraisal form.",
+ "findings": [
+  {
+   "problem": "The appraisal path appears to be only a link to /market-appraisal, with no form on the homepage, and Manage My Property appears to link to /rental-appraisal.",
+   "cost": "Owners who are ready to ask for a price must find another page first.",
+   "fix": "An appraisal form on the homepage with the right link."
+  },
+  {
+   "problem": "The phone link appears to be written with spaces, and the footer phone link appears to be titled Buy.",
+   "cost": "Mobile visitors may fail to dial, and the leftover label looks careless.",
+   "fix": "Clean tel links and correct labels."
+  },
+  {
+   "problem": "A rental listing appears at $70 per week, Trustworth appears in a testimonial, and some listings appear twice.",
+   "cost": "Visible errors cause buyers and landlords to doubt your attention to detail.",
+   "fix": "Proofread copy and clean listing feeds."
+  },
+  {
+   "problem": "Most testimonials appear to be first name only without suburb or date, and no principal is named.",
+   "cost": "Owners want to see who will sell their home and real results.",
+   "fix": "Named agents, suburbs, dates and review badges."
+  }
+ ],
+ "redesign": [
+  "Homepage appraisal form.",
+  "Working links and clean listings.",
+  "Named agents and review badges."
+ ]
+}

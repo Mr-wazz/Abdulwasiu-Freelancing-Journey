@@ -1,0 +1,34 @@
+{
+ "business": "K Estates",
+ "owner": "the team",
+ "city": "Dubai",
+ "website": "kestates.ae",
+ "summary": "A boutique advisory positioning and WhatsApp on the page are strengths, but empty sections and conflicting numbers appear to cost you buyers.",
+ "findings": [
+  {
+   "problem": "The WhatsApp link appears to use 971589633865 while the footer shows +971 55 996 9994, and the Request a Callback section appears to show no fields.",
+   "cost": "A buyer who cannot tell which number is real or leave details may call a competitor.",
+   "fix": "One verified number and a working callback form."
+  },
+  {
+   "problem": "Offplan properties, Featured properties, Properties for rent, International properties and Resources each appear to show only a heading and a See more link.",
+   "cost": "Empty sections make an advisory firm look unfinished.",
+   "fix": "Filled sections or removal of empty ones."
+  },
+  {
+   "problem": "Menu parents such as Buy, Rent and More appear to link to #, every item under Search properties by features appears to go to /buy/, and the page appears to end with 'Patience is the master key to all problems, This may take few moments ...'.",
+   "cost": "Filters that do not filter and leftover loading text frustrate serious buyers.",
+   "fix": "Working filters and clean page ending."
+  },
+  {
+   "problem": "The page appears to show no testimonials, transaction figures or named agents, the Off Plan label appears three ways, and the newsletter appears to have no email field.",
+   "cost": "Luxury buyers want proof and people, and find none.",
+   "fix": "Named advisors, results and a working newsletter form."
+  }
+ ],
+ "redesign": [
+  "One verified number, callback form and WhatsApp.",
+  "Filled sections and working property filters.",
+  "Named advisors, results and consistent labels."
+ ]
+}

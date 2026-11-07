@@ -1,0 +1,34 @@
+{
+ "business": "Christie's International Real Estate Dubai",
+ "owner": "the team",
+ "city": "Dubai",
+ "website": "christiesrealestatedubai.com",
+ "summary": "A global luxury brand and Emirates Hills and Palm Jumeirah listings are strengths, but listing errors and hidden contact details appear to cost you leads.",
+ "findings": [
+  {
+   "problem": "Listings appear to offer only Email or 'Price on application' with no enquiry form visible, and no phone number or office address appears on the page.",
+   "cost": "A buyer who wants to ask a question has no easy channel.",
+   "fix": "Enquiry form, WhatsApp and visible office details."
+  },
+  {
+   "problem": "'Ultra-Luxurious | Custom-Built | Golf Course View' appears twice under Featured villas, and prices appear with a stray 'i' such as 'AED 33,683,187 i'.",
+   "cost": "Duplicate listings and stray characters look careless for a luxury brand.",
+   "fix": "Clean listing feed."
+  },
+  {
+   "problem": "The Rental Period filter appears to read 'Montly', a testimonial appears to say '7 days a a week', and its heading says Hanan Newair while the text says Newan.",
+   "cost": "Typos on a global brand site weaken trust.",
+   "fix": "Proofread copy."
+  },
+  {
+   "problem": "Popular areas appear as '1 properties', two Paris listings share the same title, and only four testimonials appear with no dates.",
+   "cost": "Small content errors and thin proof lose high value buyers.",
+   "fix": "Correct grammar, unique titles and dated reviews."
+  }
+ ],
+ "redesign": [
+  "Enquiry form, WhatsApp and visible office details.",
+  "Clean listing feed and proofread copy.",
+  "Dated reviews and unique titles."
+ ]
+}

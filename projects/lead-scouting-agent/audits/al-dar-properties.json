@@ -1,0 +1,34 @@
+{
+ "business": "Al Dar Properties",
+ "owner": "Mr. Sulaiman Al-Banai and team",
+ "city": "Al Jazira Street, Doha",
+ "website": "aldarproperties.qa",
+ "summary": "Al Dar has been a Doha agency since 2004, with clear services and a prominent phone number. The site looks dated and gives buyers no easy way to enquire, which sends them to agencies that do.",
+ "findings": [
+  {
+   "problem": "There is no enquiry form on the homepage. The only routes are a mailto link whose subject reads Hello again and a link to Contact Us. There is no WhatsApp option.",
+   "cost": "A buyer who wants to ask about a listing at night or on a phone has no quick way to do it, and moves on to the next agency.",
+   "fix": "A short enquiry form and a WhatsApp button on every listing."
+  },
+  {
+   "problem": "The footer reads 2020, news items date from 2021 and the working hours notice is from 2022. The search button and the footer address and hours links go to #.",
+   "cost": "Stale dates signal an agency that has stopped updating, and a search button that does nothing loses buyers immediately.",
+   "fix": "A current, maintained site with a working search and accurate hours."
+  },
+  {
+   "problem": "Two featured listings share the same description and the same 4,500 QR price. The location list has entries such as Muhamad and Lagoona tower, and Villa appears twice in property types.",
+   "cost": "Duplicated and messy listing data makes buyers distrust prices and availability.",
+   "fix": "Clean, unique listings and tidy filters."
+  },
+  {
+   "problem": "No testimonials, no visible licence number and no agent names or photos. The Brokerage License post is only a title and image.",
+   "cost": "Buyers and landlords trust agents they can see. An agency without proof loses the listing to a named competitor.",
+   "fix": "Agent profiles, your licence number and recent client reviews on the homepage."
+  }
+ ],
+ "redesign": [
+  "A lead first homepage: search, a short enquiry form and WhatsApp on every listing.",
+  "Proof beside every enquiry button: licence number, named agents and recent reviews.",
+  "Area pages written to rank for searches like apartments for rent in Doha and offices for rent Qatar."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Cosmetic Dental Sydney",
+ "owner": "the Cosmetic Dental Sydney team",
+ "city": "Sydney, Australia",
+ "website": "cosmeticdentalsydney.com.au",
+ "summary": "A Kogarah practice claiming 20 years of experience appears to lose enquiries to empty sections and missing hours.",
+ "findings": [
+  {
+   "problem": "The denture section appears to show three headings with no text under any of them, and the testimonials area appears to show one image with no quotes.",
+   "cost": "Empty sections make the practice look unfinished and give no proof.",
+   "fix": "Real descriptions and real patient quotes."
+  },
+  {
+   "problem": "No opening hours appear, and two phone numbers appear with no note on which to use.",
+   "cost": "Patients cannot tell when to call or which line to use.",
+   "fix": "Visible hours and one clear number."
+  },
+  {
+   "problem": "Health fund logos appear to be blank grey placeholders, and image labels appear to be raw file names.",
+   "cost": "Placeholders look unfinished and hurt search visibility.",
+   "fix": "Real logos and proper image labels."
+  },
+  {
+   "problem": "The email domain appears to differ from the website domain, and the page says affordable with only whitening prices.",
+   "cost": "Mismatched domains and vague pricing reduce trust.",
+   "fix": "A matching email domain and clearer pricing."
+  }
+ ],
+ "redesign": [
+  "Complete content.",
+  "Hours and one number.",
+  "Real logos and clear pricing."
+ ]
+}

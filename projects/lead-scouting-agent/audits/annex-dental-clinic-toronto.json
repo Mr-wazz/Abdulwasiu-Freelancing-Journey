@@ -1,0 +1,34 @@
+{
+ "business": "Annex Dental Clinic",
+ "owner": "the Annex Dental team",
+ "city": "Toronto, Canada",
+ "website": "annexdentalclinic.com",
+ "summary": "A Bathurst Street dental clinic appears to lose new patients to a builder footer, a hotmail contact and a booking form with no clear next step.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Proudly created with Wix.com, with no clinic name or year.",
+   "cost": "A builder credit and no clinic name make a new patient see a template instead of a trusted practice.",
+   "fix": "A footer with your clinic name and a clean finish."
+  },
+  {
+   "problem": "The contact appears to be a hotmail address, a phone number and a fax number.",
+   "cost": "A free hotmail address gives less trust for implants and veneers, and a fax number looks dated to a younger patient.",
+   "fix": "A professional email on your own domain."
+  },
+  {
+   "problem": "The appointment form appears to offer every hour of the day, from 12:00 AM to 11:00 PM, plus a stray 02:30 PM option.",
+   "cost": "A patient picking a time at midnight gets a confusing form, and a confusing form means fewer booked visits.",
+   "fix": "A booking form that shows only your open hours."
+  },
+  {
+   "problem": "No text or WhatsApp option appears on the page.",
+   "cost": "Patients who want a quick answer have only a phone call, and many will not wait for a call back.",
+   "fix": "A one tap text button next to the form."
+  }
+ ],
+ "redesign": [
+  "Clean footer with your name.",
+  "Professional email on your domain.",
+  "Booking form with real hours and a text button."
+ ]
+}

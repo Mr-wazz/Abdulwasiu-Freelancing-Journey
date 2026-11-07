@@ -1,0 +1,34 @@
+{
+ "business": "Chapeltons",
+ "owner": "the Chapeltons team",
+ "city": "London, UK",
+ "website": "chapeltons.com",
+ "summary": "A Chelsea estate agency appears to lose valuation enquiries to a repeated hero slide, empty links and no listings shown on the page.",
+ "findings": [
+  {
+   "problem": "The hero appears to repeat the same EXQUISITE PROPERTIES IN CHELSEA slide four times, and ARRANGE A VALUATION appears twice in a row.",
+   "cost": "Repeated blocks look like a template and weaken the main call to action.",
+   "fix": "One strong hero and one valuation button."
+  },
+  {
+   "problem": "The menu toggle and footer icons appear to link to #, and three team email links appear to be empty.",
+   "cost": "Dead links stop owners and buyers from reaching you.",
+   "fix": "Working links and team contact details."
+  },
+  {
+   "problem": "A footer appears to read CHALPELTONS and the validation field note appears visible on the forms.",
+   "cost": "Spelling your own name wrong costs trust with luxury sellers.",
+   "fix": "Proofread copy and clean forms."
+  },
+  {
+   "problem": "No properties for sale or let appear, testimonials appear with initials only, and no WhatsApp appears.",
+   "cost": "Owners choose an agent who shows results and is easy to message.",
+   "fix": "Featured sold and let properties, named reviews and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Clean hero and valuation form.",
+  "Working links and team details.",
+  "Results, reviews and WhatsApp."
+ ]
+}

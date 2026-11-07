@@ -1,0 +1,33 @@
+{
+ "business": "Mada Properties",
+ "owner": "the Mada Properties team",
+ "city": "Riyadh",
+ "website": "madaproperties.sa",
+ "summary": "You have four Riyadh offices, project listings and an app, but a broken WhatsApp link, repeated cards and raw code on an article hurt trust.",
+ "findings": [
+  {
+   "problem": "The footer WhatsApp link uses wa.me/+971undefined, and it appears twice.",
+   "cost": "A buyer who taps to message you gets an error and may leave.",
+   "fix": "A tested WhatsApp button on the right number."
+  },
+  {
+   "problem": "The Exclusive projects cards repeat twice in a row, the property prices by location tabs show no chart or figures, and article FAQ headings have no questions under them.",
+   "cost": "Repeated and empty sections look unfinished.",
+   "fix": "Each project shown once and complete content."
+  },
+  {
+   "problem": "Request a Property and List Your Property show no form fields, no reviews appear, and Saudi Arabia's leading real estate broker has no evidence on the page.",
+   "cost": "Buyers and sellers need an easy form and proof.",
+   "fix": "Working forms, reviews and evidence for claims."
+  },
+  {
+   "problem": "A blog article shows raw LaTeX code, and typos include Frequntly, Mawtin against Mawten, and delivery lines like Q21 and Q31.",
+   "cost": "Raw code and typos signal a site no one checks.",
+   "fix": "Clean articles and proofread listings."
+  }
+ ],
+ "redesign": [
+  "Working request and listing forms, plus a tested WhatsApp button.",
+  "Clean project pages, reviews and clear evidence for your claims."
+ ]
+}

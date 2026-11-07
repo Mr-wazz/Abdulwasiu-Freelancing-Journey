@@ -1,0 +1,34 @@
+{
+ "business": "30 Hazelton Med Spa",
+ "owner": "Erica and the team",
+ "city": "Yorkville, Toronto",
+ "website": "30hazeltonmedspa.com",
+ "summary": "A luxury Yorkville townhouse setting and complimentary consultations are strengths, but mixed booking links and thin proof appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The header Book Now appears to go to the reservations homepage while the menu Book Now goes to /webstoreNew/services, and the two Book A Consultation buttons appear to use different destinations.",
+   "cost": "Different booking paths confuse clients and lose ready to book visitors.",
+   "fix": "One clear booking path."
+  },
+  {
+   "problem": "The brand appears as 30 Hazelton Med Spa, 30H Med Spa and 30 Hazelton Spa, a testimonial spells it '30 Hazleton', and the footer shows 'Hazelton Av'.",
+   "cost": "Mixed names and misspellings weaken search visibility and polish.",
+   "fix": "One brand name and proofread copy."
+  },
+  {
+   "problem": "Only four reviews appear, cut off mid sentence with no ratings or dates, and pricing shows only 'start at $380' for facials and lasers.",
+   "cost": "Thin proof and hidden prices lose clients who compare.",
+   "fix": "Full reviews with ratings and clear starting prices."
+  },
+  {
+   "problem": "Two newsletter boxes appear with no visible submit button, the Strategic Partners heading appears to have no content, and the Skin menu item appears to link to the booking page.",
+   "cost": "Empty blocks and mislabeled links make a luxury brand look unfinished.",
+   "fix": "Working sign up form and correct menu links."
+  }
+ ],
+ "redesign": [
+  "One booking path and one brand name.",
+  "Full reviews, ratings and starting prices.",
+  "Working forms and correct menu links."
+ ]
+}

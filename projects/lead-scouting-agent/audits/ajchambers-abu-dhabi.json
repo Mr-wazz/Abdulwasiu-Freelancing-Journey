@@ -1,0 +1,34 @@
+{
+ "business": "Meera Ali Al Jallaf Advocates",
+ "owner": "the Al Jallaf Advocates team",
+ "city": "Abu Dhabi, UAE",
+ "website": "ajchambersuae.wixsite.com/lawyersabudhabi",
+ "summary": "An Abu Dhabi law firm appears to lose clients to a typo in its page title, a free builder address and a 2019 date.",
+ "findings": [
+  {
+   "problem": "The page title appears as Laywers UAE Dubai, a misspelling of Lawyers, and it names Dubai for an Abu Dhabi firm.",
+   "cost": "This is the title Google and browser tabs show, so people searching for a lawyer see a typo and may not find you.",
+   "fix": "A correct title with your firm name and city."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "Clients check a law firm's credibility first, and a free builder address looks temporary.",
+   "fix": "Your own domain and a firm email."
+  },
+  {
+   "problem": "The page appears to carry a 2019 copyright date.",
+   "cost": "An old date tells a visitor the firm may not be active, so they call a competitor.",
+   "fix": "A fresh, current page."
+  },
+  {
+   "problem": "The only contact shown appears to be a gmail address and one landline, with no WhatsApp.",
+   "cost": "Many clients in the UAE message first on WhatsApp, and a free email gives less trust.",
+   "fix": "A firm email and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Correct title and own domain.",
+  "Fresh look with practice pages.",
+  "Enquiry form and WhatsApp."
+ ]
+}

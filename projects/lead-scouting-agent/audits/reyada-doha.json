@@ -1,0 +1,34 @@
+{
+ "business": "Reyada Medical Centre",
+ "owner": "the Reyada team",
+ "city": "C Ring Road, Doha",
+ "website": "reyadamedicalcentre.com",
+ "summary": "Accreditation, an 18 plus specialty centre and a WhatsApp line are strengths, but mismatched page details and a booking promise with no booking form appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The FAQ says you can book online via the website, but no booking form appears, and the feedback section shows only a SUBMIT button with no visible fields.",
+   "cost": "A patient who wants to book online has no way to do it and may call a competitor.",
+   "fix": "A real booking form with doctor and time choice."
+  },
+  {
+   "problem": "The email link is written mailto:mailto:info@reyadamedicalcentre.com and the phone link contains a space, tel:+974 4445 7777.",
+   "cost": "Tapping to email or call can fail on a phone.",
+   "fix": "Tested email and call links."
+  },
+  {
+   "problem": "The dermatologist's photo is described as Dr. Ahmed Al Mansoori, Specialist Cardiologist, a service image is labelled Orthodontics, and a review calls the centre Reyada Hospital.",
+   "cost": "Wrong labels confuse patients and weaken search visibility.",
+   "fix": "Correct descriptions and one consistent name."
+  },
+  {
+   "problem": "Five testimonials show no dates or surnames, the accreditation dates conflict, and the page uses both Medical Center and Medical Centre.",
+   "cost": "Mixed dates and thin proof reduce trust in a medical brand.",
+   "fix": "Verified dates and named, dated reviews."
+  }
+ ],
+ "redesign": [
+  "A booking form with doctor and time choice plus WhatsApp.",
+  "Tested call and email links on every page.",
+  "Consistent names, correct labels and dated reviews."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Union Square House Real Estate Brokers",
+ "owner": "the Union Square House team",
+ "city": "Dubai, UAE",
+ "website": "ushre.weebly.com",
+ "summary": "A Sheikh Zayed Road brokerage appears to lose buyers and landlords to visible template code and a site that shows only a contact page.",
+ "findings": [
+  {
+   "problem": "Template code such as {search} and {{title}} appears in the page text.",
+   "cost": "Code on a broker page makes the firm look unfinished.",
+   "fix": "Clean template with no leftover code."
+  },
+  {
+   "problem": "The site appears to show only a contact form and address, with no listings, services or team on the page.",
+   "cost": "Property buyers and owners cannot see what you sell or who you are.",
+   "fix": "Featured listings, services and team on the homepage."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, with a footer that says Powered by Create your own unique website.",
+   "cost": "A builder advert in the footer looks temporary for a brokerage.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "A fax number appears but no WhatsApp does.",
+   "cost": "Property enquiries in Dubai usually start on WhatsApp.",
+   "fix": "WhatsApp on every page."
+  }
+ ],
+ "redesign": [
+  "Clean template.",
+  "Listings and team.",
+  "Own domain and WhatsApp."
+ ]
+}

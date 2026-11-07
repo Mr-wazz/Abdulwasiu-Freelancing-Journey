@@ -1,0 +1,34 @@
+{
+ "business": "Open Real Estate (Better Buildings Realty)",
+ "owner": "the agency principal",
+ "city": "Parramatta, Australia",
+ "website": "betterbuildingsrealty.com.au",
+ "summary": "A 5 star rated Parramatta agency should convert more owners, but a dead contact button and two brand names appear to cost you appraisal requests.",
+ "findings": [
+  {
+   "problem": "The main Contact button appears to link to #, so the key call to action goes nowhere.",
+   "cost": "Owners ready to ask for an appraisal hit a dead end.",
+   "fix": "A working contact and appraisal button."
+  },
+  {
+   "problem": "The Sell, Rent and About menu items appear to link back to the homepage instead of their own pages.",
+   "cost": "Visitors cannot learn about your selling or rental service.",
+   "fix": "Real pages for each menu item."
+  },
+  {
+   "problem": "The mobile contact link and the desktop contact link appear to go to different agency pages, and a link goes to a different brand domain.",
+   "cost": "Mixed branding makes owners unsure who they are dealing with.",
+   "fix": "One brand, one contact page."
+  },
+  {
+   "problem": "The 5 star rated claim appears to have no review source or numbers, and no appraisal form appears.",
+   "cost": "Claims without proof do not persuade, and phone only contact loses after hours leads.",
+   "fix": "Embedded reviews and an online appraisal form."
+  }
+ ],
+ "redesign": [
+  "Working contact and appraisal buttons.",
+  "One brand and real menu pages.",
+  "Reviews and an appraisal form."
+ ]
+}

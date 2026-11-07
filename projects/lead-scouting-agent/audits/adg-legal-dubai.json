@@ -1,0 +1,34 @@
+{
+ "business": "ADG Legal",
+ "owner": "the ADG Legal team",
+ "city": "Dubai, UAE",
+ "website": "adglegal.com",
+ "summary": "A Dubai headquartered law firm with offices in Abu Dhabi, Egypt and London appears to lose enquiries to mixed language menu labels and stray page code.",
+ "findings": [
+  {
+   "problem": "Russian menu labels appear in the English navigation on the same line as the English ones.",
+   "cost": "A mixed menu confuses visitors and looks like a template error.",
+   "fix": "A clean language switch."
+  },
+  {
+   "problem": "Stray markup characters appear to show in the page text near the menu.",
+   "cost": "Broken code looks careless on a firm that sells precision.",
+   "fix": "Clean template markup."
+  },
+  {
+   "problem": "The leading firm claim appears to repeat in several headings with no rankings or reviews shown.",
+   "cost": "Repeated claims without proof lose to firms that show results.",
+   "fix": "One claim backed by rankings and results."
+  },
+  {
+   "problem": "No WhatsApp or direct consultation booking appears.",
+   "cost": "Busy executives leave when the next step is not obvious.",
+   "fix": "One consultation button and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Clean menu and language switch.",
+  "Clean markup.",
+  "Proof and consultation booking."
+ ]
+}

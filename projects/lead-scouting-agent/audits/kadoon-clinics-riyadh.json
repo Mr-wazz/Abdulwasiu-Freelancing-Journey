@@ -1,0 +1,34 @@
+{
+ "business": "Kadoon Clinics",
+ "owner": "the team",
+ "city": "Riyadh",
+ "website": "kadoonclinics.com",
+ "summary": "A large network of dental and dermatology clinics is a strength, but a proof section showing zeros and dead booking links appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The stats appear to read Clinics 0, Smiles veneers annually 0 and Our clients over 25 years 0, while the text cites 7 clinics in Al-Malaz and 11 in Al Olaya.",
+   "cost": "A proof section showing zeros makes a large group look empty.",
+   "fix": "Real live figures."
+  },
+  {
+   "problem": "The About Us, Services and Appointment menu items appear to link to #, and the hero buttons Who we are and Our Services appear to go to the same page.",
+   "cost": "Patients who tap Appointment or Services reach nothing.",
+   "fix": "Working menu and a booking form."
+  },
+  {
+   "problem": "Copy appears to include 'Kadoon Clincis', 'Kadon Al Malaz Branch' and the unfinished 'as easy as is', and the Malaz branch heading shows an Al Rabwa address.",
+   "cost": "Typos and mismatched branches weaken a medical brand.",
+   "fix": "Proofread copy and correct branch pages."
+  },
+  {
+   "problem": "The page appears to show no doctor names, reviews or WhatsApp, only a phone number, and all three Recent Videos link to blog-post-image.html.",
+   "cost": "No proof, no quick channel and placeholder links lose bookings.",
+   "fix": "Named doctors, reviews, WhatsApp and real videos."
+  }
+ ],
+ "redesign": [
+  "Live figures and named doctors.",
+  "Working menu, booking form and WhatsApp.",
+  "Proofread copy and correct branch pages."
+ ]
+}

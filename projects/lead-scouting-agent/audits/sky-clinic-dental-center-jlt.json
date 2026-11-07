@@ -1,0 +1,34 @@
+{
+ "business": "Sky Clinic Dental Center",
+ "owner": "the Sky Clinic team",
+ "city": "Dubai, UAE",
+ "website": "skyclinicdentalcenter.com",
+ "summary": "A JLT dental centre appears to lose bookings to conflicting hours, dead menu items and no scheduler.",
+ "findings": [
+  {
+   "problem": "The hours appear as Sunday to Friday 8am to 7pm, open 7 days from 8am to 8pm, and Friday 10am to 8pm in different places.",
+   "cost": "Patients may arrive when you are closed.",
+   "fix": "One verified hours table."
+  },
+  {
+   "problem": "Dental Implants, Media and Our Clinic menu items appear to link to #, and icon names such as Phone-alt appear as visible text.",
+   "cost": "Visitors hit dead ends and see leftover code names.",
+   "fix": "Working pages and clean icons."
+  },
+  {
+   "problem": "Book Appointment appears to go to the contact page and the FAQ appears to mention an online booking system with no visible link.",
+   "cost": "Ready patients cannot book online.",
+   "fix": "A real online booking tool."
+  },
+  {
+   "problem": "Typos such as gingivitis affective and apart of the plan appear, and copy appears to end mid sentence in places.",
+   "cost": "Typos and cut off text on a medical site reduce trust.",
+   "fix": "Proofread, complete copy."
+  }
+ ],
+ "redesign": [
+  "One hours table.",
+  "Working menus.",
+  "Online booking and clean copy."
+ ]
+}

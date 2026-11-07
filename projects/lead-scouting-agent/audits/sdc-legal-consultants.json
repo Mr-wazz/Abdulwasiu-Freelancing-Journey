@@ -1,0 +1,34 @@
+{
+ "business": "SDC Legal Consultants",
+ "owner": "Advocate Sanjay Dubbey and team",
+ "city": "DIFC, Dubai",
+ "website": "difccourtlawyers.com",
+ "summary": "SDC Legal focuses on DIFC and ADGM matters with a visible WhatsApp button. The contact section is empty and parts of the site point to a staging address, which loses the clients who are ready to call.",
+ "findings": [
+  {
+   "problem": "The How to Reach Us section is empty, apart from blank lines. There is no booking button, and the only action is a floating WhatsApp button.",
+   "cost": "A client ready to hire a DIFC lawyer who does not use WhatsApp has no clear way to reach you and moves on.",
+   "fix": "A visible contact form and a Book a consultation button on every page."
+  },
+  {
+   "problem": "The footer Main Services and Practice Area links point to a staging address (pink-wasp-856671.hostingersite.com), and DIFC Legal Hub and Guides in the menu link to #.",
+   "cost": "Clients who click a staging link land on an unfamiliar site and may think it is unsafe, and dead menu links lose your guides.",
+   "fix": "Every link on your own domain and a working menu."
+  },
+  {
+   "problem": "The phone number has no country code (045686559), the WhatsApp link goes to a different number than the listed mobile, and the address reads Sheikh Zayad Road.",
+   "cost": "A client calling from abroad cannot dial the number, and a WhatsApp message to the wrong number is never answered.",
+   "fix": "One verified set of contact details, correctly formatted."
+  },
+  {
+   "problem": "The FAQ heading (High Ranking) shows as an SEO label, the DIFC Legal Hub menu lists several items twice, and testimonials are generic with no named clients or results.",
+   "cost": "A visible SEO label and repeated menu items look unprofessional, and generic praise does not convince a corporate client.",
+   "fix": "A clean page, a tidy menu and named reviews or case outcomes."
+  }
+ ],
+ "redesign": [
+  "A consultation first homepage with a visible contact form, a booking button and WhatsApp.",
+  "Practice area pages written to rank for searches like DIFC employment lawyer and DIFC court lawyer.",
+  "Proof beside every button: named reviews, case outcomes and your credentials."
+ ]
+}

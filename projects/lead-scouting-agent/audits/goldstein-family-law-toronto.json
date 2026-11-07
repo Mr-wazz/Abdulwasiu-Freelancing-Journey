@@ -1,0 +1,34 @@
+{
+ "business": "Goldstein Divorce and Family Law Group",
+ "owner": "the Goldstein team",
+ "city": "North York, Toronto",
+ "website": "amglaw.ca",
+ "summary": "A flat fee offer and two Toronto offices are strengths, but a contact form that appears to have no submit button and repeated copy cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The contact form lists fields but appears to show no submit button, and the Yes and No options and consent line show no visible controls.",
+   "cost": "A person ready to call a family lawyer may not be able to send the form.",
+   "fix": "A tested form with a clear send button and confirmation."
+  },
+  {
+   "problem": "The header shows 416-519-5552 while the Toronto office lists 416-646-2090, and the brand appears as GOLDSTEIN and Goldstein.",
+   "cost": "Mixed numbers and names confuse people who want to call.",
+   "fix": "One clear number per office and one brand style."
+  },
+  {
+   "problem": "The social label reads Faccebook Page, the text says 'trust her' when it means plural lawyers, and the logo appears to be a blank placeholder.",
+   "cost": "Typos and a missing logo undermine trust in a law firm.",
+   "fix": "Proofread copy and a working logo."
+  },
+  {
+   "problem": "Please contact us for an honest evaluation of your case repeats at least five times, and the Testimonials page shows no visible reviews.",
+   "cost": "Repeated lines and no visible proof weaken your strongest selling point.",
+   "fix": "Varied, helpful copy and real client reviews."
+  }
+ ],
+ "redesign": [
+  "A tested enquiry form and click to call for both offices.",
+  "Proofread copy with a clean logo and brand.",
+  "Visible client reviews and a clear fee explanation."
+ ]
+}

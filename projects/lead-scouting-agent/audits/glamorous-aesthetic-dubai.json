@@ -1,0 +1,33 @@
+{
+ "business": "Glamorous Aesthetic Clinic",
+ "owner": "the Glamorous Aesthetic team",
+ "city": "Jumeirah, Dubai",
+ "website": "glamclinicdubai.ae",
+ "summary": "You show four consented before and after results and WhatsApp, but two phone numbers, two addresses and mixed review counts create doubt.",
+ "findings": [
+  {
+   "problem": "Two phone numbers appear (+971 50 129 3791 and +971 55 363 7914), the 050 number is labelled LANDLINE, and two addresses are given (Villa 823 Umm Suqeim 3 and 351 Al Wasl Road).",
+   "cost": "Patients are unsure which number and which location is real.",
+   "fix": "One number, one address and a map."
+  },
+  {
+   "problem": "The menu items MEDICAL, AESTHETICS, SURGICAL and More link to #. Book Your Consultation goes to #book and Explore Treatments to #services, and no booking form is visible.",
+   "cost": "Buttons with no clear target lose patients who are ready to book.",
+   "fix": "Working menus and a short booking form."
+  },
+  {
+   "problem": "The page says 243+ Patient Reviews and also based on 55 Google reviews, and many blank review containers show before the testimonials.",
+   "cost": "Conflicting counts and empty boxes weaken your strongest proof.",
+   "fix": "One accurate review count and a clean review wall."
+  },
+  {
+   "problem": "Typos include WhatsAppp and Appoinment, the clinic name appears as Glamorous Aesthetic Clinic, Glamorous Aesthetics and Glam Clinic, and Dr. Elhaam in the menu differs from Dr. Ilham El Arrouchi.",
+   "cost": "Small errors and changing names look careless.",
+   "fix": "Proofread copy and one consistent name."
+  }
+ ],
+ "redesign": [
+  "One phone, one address and a booking form on every page.",
+  "A clean review wall, consistent doctor names and working menus."
+ ]
+}

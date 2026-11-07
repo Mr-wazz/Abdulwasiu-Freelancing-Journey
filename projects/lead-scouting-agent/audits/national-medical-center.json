@@ -1,0 +1,34 @@
+{
+ "business": "National Medical Center (Satwa)",
+ "owner": "the National Medical Center team",
+ "city": "Satwa, Dubai",
+ "website": "nationalmed.ae",
+ "summary": "National Medical Center already has WhatsApp booking and a good set of treatments. Repeated sections, empty pages and visible typos make the site look unfinished, and there is little proof to convince a new patient.",
+ "findings": [
+  {
+   "problem": "Services, Why Us and Complete Dental Care each appear twice with near identical text. The Blog and FAQ show headings but no content.",
+   "cost": "Repeated and empty sections look unfinished and dilute your search ranking.",
+   "fix": "One clean page structure with real FAQ and blog content that answers what patients search for."
+  },
+  {
+   "problem": "Booking is WhatsApp and phone only. The Contact us section has no form, and the footer phone (043453906) does not match your main number.",
+   "cost": "A visitor who prefers a form, or dials the wrong footer number, is lost without you knowing.",
+   "fix": "Booking form beside WhatsApp, one verified phone number everywhere."
+  },
+  {
+   "problem": "Six testimonials with first names only, no stars or dates. No before and after images, no named doctors or credentials.",
+   "cost": "Without visible doctors and results, price decides and you lose to the cheapest clinic.",
+   "fix": "Doctor profiles with credentials, a captioned results gallery and your Google reviews with star ratings."
+  },
+  {
+   "problem": "Typos: Satwa,UAE and confidence,Let have no spaces and the footer reads Copyright behave 2024. The page repeats best dental clinic in Dubai about seven times and uses the word cheap.",
+   "cost": "Typos and keyword stuffing weaken trust. Cheap positions you as low quality when you could sell on care.",
+   "fix": "Proofread, natural copy that sells care and results, written to rank for Satwa and Dubai searches."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage: named doctors, real reviews with stars and before and after cases next to every booking button.",
+  "Booking form plus WhatsApp on every page, with one correct phone number.",
+  "A page per treatment, written to rank for searches like dental veneers Dubai and dentist in Satwa."
+ ]
+}

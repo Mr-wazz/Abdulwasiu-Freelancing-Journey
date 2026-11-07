@@ -1,0 +1,33 @@
+{
+ "business": "Ghanim Law Firm",
+ "owner": "Ghanim Nasser Al-Maadheed",
+ "city": "West Bay, Doha",
+ "website": "ghanimlawfirm.qa",
+ "summary": "Your West Bay firm covers corporate, family and labour work, but repeated blog text, dead app buttons and an exposed login link make the site look unfinished.",
+ "findings": [
+  {
+   "problem": "Five blog posts (QFC, Corporate Taxation, Foreign Ownership, Judicial Enforcement, Labour Law) show the same Mergers and acquisitions excerpt. The Directors' Liability summary is generic filler.",
+   "cost": "Mismatched excerpts make a law firm look careless.",
+   "fix": "Unique, accurate summaries for every post."
+  },
+  {
+   "problem": "The Apple Store and Google Play buttons both link to /consultation/, and the Arabic toggle, the Privacy Policy link and several icons link to #.",
+   "cost": "Buttons that go to the wrong place lose clients and break trust.",
+   "fix": "Remove the app buttons or link them properly, and fix every # link."
+  },
+  {
+   "problem": "The contact form shows Case Type and consent but no name or email field appears. There is no WhatsApp, and the first number is labelled Emergency call.",
+   "cost": "A client who cannot complete the form moves to another firm.",
+   "fix": "A complete enquiry form and a WhatsApp button."
+  },
+  {
+   "problem": "A footer link Contact Law likely means Contract Law, a plugin banner (Optimized by Seraphinite Accelerator) shows, and a /glf-admin-login/ sign in link sits on the public page. No testimonials appear.",
+   "cost": "Leftovers and an exposed login signal an unmaintained site.",
+   "fix": "Clean footer, no public login link, and client testimonials."
+  }
+ ],
+ "redesign": [
+  "A complete enquiry form, WhatsApp and click to call on every page.",
+  "Unique service and blog content, client testimonials and a clean, secure footer."
+ ]
+}

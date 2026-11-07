@@ -1,0 +1,34 @@
+{
+ "business": "Citadel Real Estate",
+ "owner": "the Citadel team",
+ "city": "Doha, Qatar",
+ "website": "citadel.com.qa",
+ "summary": "Citadel has 13 years in the Qatar market, bilingual pages and active listings. The site looks dated and does not capture the leads it attracts, and a visible server error damages trust at the first glance.",
+ "findings": [
+  {
+   "problem": "A PHP warning is visible at the top of the page, exposing a server file path and a Permission denied error from an image plugin.",
+   "cost": "A visible server error tells a buyer or landlord that the site, and maybe the business, is not looked after.",
+   "fix": "A clean rebuild with no exposed errors, tested on every device."
+  },
+  {
+   "problem": "There is no enquiry form, only a property search and a newsletter box. The page says WhatsApp us but shows no number or link.",
+   "cost": "A buyer ready to ask about a listing has no way to do it and moves on to the next agency.",
+   "fix": "An enquiry form and a working WhatsApp button on every listing."
+  },
+  {
+   "problem": "Almost every listing says Price on request, Find Your Home and the main menu links go to #, and the footer still reads Citadel 2019.",
+   "cost": "Hidden prices and dead links remove the reasons to click, and a 2019 footer signals an agency that has stopped updating.",
+   "fix": "Clear prices where possible, working navigation and a current, trustworthy look."
+  },
+  {
+   "problem": "The linkedin icon points to Snapchat, two different phone numbers are shown, and the same listings appear twice. Typos such as suite to the property appear in the copy.",
+   "cost": "Mismatched contact details and typos make buyers unsure which number is real and who to trust with a large purchase.",
+   "fix": "One verified contact set, correct social links and proofread copy."
+  }
+ ],
+ "redesign": [
+  "A lead first homepage: property search, enquiry form and WhatsApp on every listing.",
+  "Proof near every enquiry button: named agents, licence details and client reviews.",
+  "Area pages written to rank for searches like apartments for rent in Doha and villas for sale in Qatar."
+ ]
+}

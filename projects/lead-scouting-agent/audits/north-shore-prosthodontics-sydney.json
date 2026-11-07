@@ -1,0 +1,33 @@
+{
+ "business": "North Shore Prosthodontics",
+ "owner": "Dr Ricky Lim",
+ "city": "Cremorne, Sydney",
+ "website": "northshoreprosthodontics.com.au",
+ "summary": "You already have a consultation form, before and after galleries and a payment plan, but missing reviews and leftover template text hold the page back.",
+ "findings": [
+  {
+   "problem": "No patient reviews or testimonials appear anywhere on the page.",
+   "cost": "High value implant and All on 4 patients check reviews before they call.",
+   "fix": "A review wall pulled from Google."
+  },
+  {
+   "problem": "Our Services, For Patients and the footer address link point to #, and two header phone links have no visible text.",
+   "cost": "Dead links and a blank phone link lose enquiries from mobile users.",
+   "fix": "Working menu and clear click to call."
+  },
+  {
+   "problem": "Leftover template text appears: Flyout Menu, Main Menu, Scroll to Top, and image titles from Home 1 to Home 22. The menu repeats three times.",
+   "cost": "Template leftovers look unfinished on a specialist site.",
+   "fix": "Clean markup and proper image text."
+  },
+  {
+   "problem": "Copy is thin (offers solutions for various dental concerns), the Greek origin of prosthodontics looks incorrect, buttons say Learn More and Book Now, and there is no WhatsApp.",
+   "cost": "Vague copy gives patients no reason to pick you.",
+   "fix": "Specific outcomes, proofread facts and a WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Google reviews beside your results galleries for each treatment.",
+  "Specific, accurate copy and WhatsApp plus a simple booking path."
+ ]
+}

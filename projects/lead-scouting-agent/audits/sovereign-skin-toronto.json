@@ -1,0 +1,33 @@
+{
+ "business": "Sovereign Skin",
+ "owner": "the Sovereign Skin team",
+ "city": "Yorkville, Toronto",
+ "website": "sovereignskin.com",
+ "summary": "You have a 4.8 rating from 386 reviews and a broad treatment menu, but dead menus, a stuck promo and no physician named hold back a premium brand.",
+ "findings": [
+  {
+   "problem": "The menu parents Treatments, Anti-Aging and Body Treatments link to #, and CO2 Laser goes to different pages on desktop and mobile.",
+   "cost": "A client choosing a treatment hits dead menus and mixed pages.",
+   "fix": "Working menus with one page per treatment."
+  },
+  {
+   "problem": "The Gift Card Bonus Event banner reads Aug 25 to Sept 7 with no year, and its countdown shows all zeros.",
+   "cost": "A stuck promotion looks abandoned.",
+   "fix": "A dated, working offer or none."
+  },
+  {
+   "problem": "All booking buttons go to /contact. No booking form appears and there is no WhatsApp, only SMS and WeChat.",
+   "cost": "Clients who want to book now have extra steps.",
+   "fix": "A short booking form and a messaging option."
+  },
+  {
+   "problem": "No before and after images show, no physician is named although the page says to choose a med spa overseen by a medical doctor, and the copy says There's no other clinic like this.",
+   "cost": "Clients want proof, and unsupported claims weaken trust.",
+   "fix": "Captioned results, a named medical director and sourced claims."
+  }
+ ],
+ "redesign": [
+  "A booking form and working menus on every page.",
+  "Captioned results, a named medical director and a dated offers section."
+ ]
+}

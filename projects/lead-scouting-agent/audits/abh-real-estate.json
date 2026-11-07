@@ -1,0 +1,34 @@
+{
+ "business": "ABH Real Estate",
+ "owner": "Mr. Abderrahmane and team",
+ "city": "Dubai, Doha and Riyadh",
+ "website": "abhrealestate.com",
+ "summary": "ABH works across Dubai, Qatar and Saudi Arabia, with a CEO named on the site and several offices. Copied copy, typos and a hidden enquiry form hold back a brokerage that wants to be seen as a leader.",
+ "findings": [
+  {
+   "problem": "The Qatar and Saudi intros reuse Dubai's copy and both say City of Infinite Possibilities. Each country's Tax Environment point appears twice with identical text.",
+   "cost": "Buyers who read a copied page for their own country assume the agency does not know their market.",
+   "fix": "Original, market specific pages for each country."
+  },
+  {
+   "problem": "Typos: Jumeriah Village Circle, ametropolis, Explore whats in Dubai and Scrolling?Lets Connect. Some copy ends mid sentence, and prices mix 2.800.000 SAR with 2,835,888 AED.",
+   "cost": "Misspelled area names and inconsistent prices make an agency look careless to an investor comparing brokers.",
+   "fix": "A proofread build with one price format."
+  },
+  {
+   "problem": "The Book a meeting form is hidden behind a menu with no button on the homepage. Leave an Enquiry and Subscribe show no input fields, and WhatsApp is only an unlabelled icon.",
+   "cost": "An investor ready to talk has to hunt for how, and many will contact an agency that makes it easy.",
+   "fix": "A visible meeting button, one working form and a labelled WhatsApp button."
+  },
+  {
+   "problem": "No testimonials, case studies or licence number appear. The 2023 Qatar award names no issuing body, and Guaranteed Real Estate Investments has no support.",
+   "cost": "Unsupported guarantees and unnamed awards hurt credibility with serious buyers.",
+   "fix": "Named reviews, your licence numbers and sourced awards."
+  }
+ ],
+ "redesign": [
+  "A lead first homepage with a visible meeting button, a working form and labelled WhatsApp on every listing.",
+  "Market pages for Dubai, Qatar and Saudi written to rank for searches like apartments for sale Dubai and property for sale Doha.",
+  "Proof beside every enquiry button: licence numbers, named agents and client reviews."
+ ]
+}

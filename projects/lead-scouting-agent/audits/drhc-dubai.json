@@ -1,0 +1,34 @@
+{
+ "business": "DRHC Dubai",
+ "owner": "Dr. Rami and the DRHC team",
+ "city": "Dubai Healthcare City",
+ "website": "drhc.ae",
+ "summary": "DRHC is led by a consultant spine surgeon, with phone and WhatsApp contact and several specialties. The booking path is unclear and a few visible details weaken the page.",
+ "findings": [
+  {
+   "problem": "The Make an appointment today section says Fill the form below, but no form fields appear. Booking otherwise depends on a button that redirects to an external link.",
+   "cost": "A patient who reaches the form and finds nothing, or is sent off the site, often gives up.",
+   "fix": "A working, short booking form on the page with a confirmation message."
+  },
+  {
+   "problem": "The three hero banners (spine, gastroenterology, radiology) are image only links with no visible call to action.",
+   "cost": "The most prominent space on the page does not tell visitors what to do next.",
+   "fix": "Clear banners with a Book now button for each specialty."
+  },
+  {
+   "problem": "Typos and inconsistency: customer representitve, Daycase Hospital and Day Case Hospital, Majan Clinic and Majan Wadi al safa, and page addresses with comprehencive and orhtopedic.",
+   "cost": "Typos on a medical site weaken trust, and inconsistent clinic names confuse patients about where to go.",
+   "fix": "A proofread build with consistent names and clean page addresses."
+  },
+  {
+   "problem": "Only one testimonial is shown, with no rating, review count or before and after content. The WhatsApp icon appears to load from a staging domain.",
+   "cost": "Patients considering surgery want proof from patients like them, and a staging asset can break at any time.",
+   "fix": "A review wall pulled from your Google reviews and assets hosted on your own domain."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with a short form, WhatsApp and a clear call to action on every specialty banner.",
+  "Proof beside every booking button: named consultants, real reviews and patient stories.",
+  "Specialty pages written to rank for searches like spine surgeon Dubai and orthopedic surgeon Dubai."
+ ]
+}

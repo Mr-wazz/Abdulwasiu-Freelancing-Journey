@@ -1,0 +1,34 @@
+{
+ "business": "Hermosa Ladies Beauty Salon",
+ "owner": "the Hermosa team",
+ "city": "Abu Dhabi, UAE",
+ "website": "hermosaladiessalon.wixsite.com/hermosa",
+ "summary": "A beauty salon in Emirates Tower appears to lose bookings to a free builder address, another business name in the footer and mixed contact numbers.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner at the top of the page.",
+   "cost": "A salon that charges for facials, keratin and lashes looks less established when the first thing a client sees is a builder advert.",
+   "fix": "Your own domain with the Wix banner gone."
+  },
+  {
+   "problem": "The footer appears to say 2023 by Beauty & Co., created with Wix.com.",
+   "cost": "A client who reads another business name at the bottom may wonder if this is the right salon or a copied template.",
+   "fix": "Your salon name and the current year."
+  },
+  {
+   "problem": "The page appears to list two phone numbers in the text, while the WhatsApp button uses a third number.",
+   "cost": "Clients are not sure which number reaches the salon, and a client who is unsure often books somewhere else.",
+   "fix": "One clear contact number and a clear WhatsApp booking button."
+  },
+  {
+   "problem": "A SUMMER SPECIAL section appears to still be in the menu and on the homepage.",
+   "cost": "An out of season offer makes the page look unattended, and visitors may think the salon is not active.",
+   "fix": "A simple offers block you can change yourself."
+  }
+ ],
+ "redesign": [
+  "Own domain, no builder banner.",
+  "One contact number and WhatsApp booking.",
+  "Offers you can update in minutes."
+ ]
+}

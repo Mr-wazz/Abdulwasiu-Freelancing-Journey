@@ -1,0 +1,29 @@
+{
+ "business": "Addison Townsend",
+ "owner": "the Addison Townsend team",
+ "city": "London, UK",
+ "website": "addisontownsend.co.uk",
+ "summary": "A London estate agent appears to lose landlords and sellers to placeholder Lorem ipsum text on its service cards and a 2020 date.",
+ "findings": [
+  {
+   "problem": "The Lettings, Sales, Property Management, Auction and New Homes cards appear to show Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+   "cost": "Landlords and sellers use these cards to choose an agent, and dummy text makes the agency look unfinished.",
+   "fix": "Real copy for every service."
+  },
+  {
+   "problem": "The footer appears to say All content 2020 Addison Townsend.",
+   "cost": "An old date makes visitors wonder if the agency is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "No WhatsApp appears, though an app download is mentioned.",
+   "cost": "Landlords and tenants with a quick question message first.",
+   "fix": "A one tap WhatsApp button and a valuation form."
+  }
+ ],
+ "redesign": [
+  "Real service copy.",
+  "Current page.",
+  "Valuation form and WhatsApp."
+ ]
+}

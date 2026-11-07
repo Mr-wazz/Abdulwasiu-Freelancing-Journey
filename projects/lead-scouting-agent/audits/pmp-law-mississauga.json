@@ -1,0 +1,34 @@
+{
+ "business": "PMP Law",
+ "owner": "Paras Patel",
+ "city": "Mississauga, Canada",
+ "website": "pmplaw.ca",
+ "summary": "A Mississauga firm offering real estate, wills and notary services is a strength, but a 2023 footer and thin lawyer proof appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The footer appears to read 2023, and the text 'Thanks for submitting!' appears as static text beside the form.",
+   "cost": "An old date and a premature success message make visitors doubt the form works.",
+   "fix": "A current footer and a message that shows only after submission."
+  },
+  {
+   "problem": "The Wills and Estates link appears to point to /will-sestates, and the 'Use tab to navigate through the menu items' instruction appears visibly.",
+   "cost": "A mistyped link may send clients to an error page, and developer text looks unfinished.",
+   "fix": "Correct links and hidden helper text."
+  },
+  {
+   "problem": "The services appear different in the intro and the menu (Family Law, Notary Public and Civil Litigation appear in one but not the other).",
+   "cost": "Mixed service lists confuse a client choosing a lawyer.",
+   "fix": "One consistent services list."
+  },
+  {
+   "problem": "The main Book a Free Consultation button appears only near the bottom, and no testimonials, case results or lawyer bios appear.",
+   "cost": "Clients who do not scroll never see the call to action, and they have no proof to trust you.",
+   "fix": "A top of page consultation button and visible lawyer bios."
+  }
+ ],
+ "redesign": [
+  "A current footer and working form message.",
+  "Correct links and one services list.",
+  "A top of page call to action and visible bios."
+ ]
+}

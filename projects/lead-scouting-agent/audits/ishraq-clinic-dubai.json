@@ -1,0 +1,33 @@
+{
+ "business": "Ishraq Clinic",
+ "owner": "the Ishraq Clinic team",
+ "city": "Umm Suqeim, Dubai",
+ "website": "ishraqclinic.ae",
+ "summary": "You offer laser and aesthetic treatments in Umm Suqeim with a clear WhatsApp path, but conflicting hours and dead buttons cost you bookings.",
+ "findings": [
+  {
+   "problem": "The Treatments and Appointments buttons link to #services but no services section appears. The menu parent and partner logos also link to #.",
+   "cost": "Buttons that go nowhere lose patients ready to book.",
+   "fix": "Working treatment pages and booking buttons."
+  },
+  {
+   "problem": "Hours are 10 AM to 10 PM, 7 days in one place and 10 am to 8 pm in the footer. The address is Jumeirah Beach Road in one place and 571 Jumeirah St in another.",
+   "cost": "Patients arrive when you are closed, or doubt the details.",
+   "fix": "One set of hours and one address."
+  },
+  {
+   "problem": "Loading... and To view this video please enable JavaScript show on the page, the logo text says Lucia Clinic Logo, and the Laser card says Strength begins with a radiant, healthy body.",
+   "cost": "Leftover text and mismatched copy look unfinished.",
+   "fix": "Clean content written for each treatment."
+  },
+  {
+   "problem": "The booking form appears to lack name and phone fields. No email, no before and after, the dermatologists are unnamed, and Dubai's top clinic has no support.",
+   "cost": "Patients choose a clinic by proof and who treats them.",
+   "fix": "Complete form, named team and results gallery."
+  }
+ ],
+ "redesign": [
+  "A working booking form and WhatsApp button on every page.",
+  "Named doctors, one set of hours and captioned before and after results."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Bin Eid Advocates and Legal Consultants",
+ "owner": "the Bin Eid Advocates team",
+ "city": "Dubai, UAE",
+ "website": "bineidlawfirmuae.weebly.com",
+ "summary": "A Dubai and Sharjah advocates firm appears to lose enquiries to a menu typo, a free builder address and a contact page with no form.",
+ "findings": [
+  {
+   "problem": "The menu appears to read Legal Sevices.",
+   "cost": "A spelling error in the main menu of a law firm weakens trust.",
+   "fix": "Proofread menu and headings."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address.",
+   "cost": "A free builder address makes an advocates firm look temporary.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "The contact page appears to show only addresses and phone numbers, with no enquiry form.",
+   "cost": "Clients who want to leave details at night cannot do so.",
+   "fix": "A short enquiry form with matter type."
+  },
+  {
+   "problem": "A WhatsApp number appears for the Sharjah office only, with the Dubai office listing a 600 number.",
+   "cost": "Dubai clients cannot message the Dubai office.",
+   "fix": "WhatsApp for the Dubai office too."
+  }
+ ],
+ "redesign": [
+  "Proofread menu.",
+  "Own domain.",
+  "Enquiry form and WhatsApp for both offices."
+ ]
+}

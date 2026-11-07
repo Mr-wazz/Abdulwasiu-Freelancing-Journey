@@ -1,0 +1,33 @@
+{
+ "business": "Lusail Law Firm",
+ "owner": "the Lusail Law Firm team",
+ "city": "Lusail, Doha",
+ "website": "lusaillawfirm.com",
+ "summary": "You have named testimonials, WhatsApp and a clear commercial and private structure, but zero counters and mismatched contact details weaken trust.",
+ "findings": [
+  {
+   "problem": "Cases Won shows + 0 and Client Satisfaction shows % 0 while the text claims 500+ successful cases and a 98% satisfaction rate.",
+   "cost": "Zeros next to big claims make both look false.",
+   "fix": "Working counters with figures you can support."
+  },
+  {
+   "problem": "The main line is +974 4474 2444 but the WhatsApp link goes to a different number, +974 6668 8222. The email uses lusaillawfirm.qa while the site is lusaillawfirm.com.",
+   "cost": "Clients are unsure which number and which email are real.",
+   "fix": "One checked set of contact details."
+  },
+  {
+   "problem": "Sarah Al-Mansoori's testimonial nearly repeats Ahmed Al-Khalifa's. All three news posts show the same date, Feb 3, 2026, and the first excerpt repeats its title.",
+   "cost": "Repeated quotes and identical dates look like template content.",
+   "fix": "Real, varied testimonials and dated posts."
+  },
+  {
+   "problem": "The mobile menu items Commercial and Private link to #. Consult Now repeats three times, there is no contact form, and no lawyers are named.",
+   "cost": "Clients want to know who will act for them and how to reach you.",
+   "fix": "Working menus, an enquiry form and lawyer profiles."
+  }
+ ],
+ "redesign": [
+  "One checked phone, WhatsApp and email, with a short enquiry form.",
+  "Real testimonials, lawyer profiles and working menus."
+ ]
+}

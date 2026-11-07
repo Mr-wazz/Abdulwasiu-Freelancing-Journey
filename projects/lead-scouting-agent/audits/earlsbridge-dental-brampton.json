@@ -1,0 +1,34 @@
+{
+ "business": "Earlsbridge Dental",
+ "owner": "Dr Gurdeep Singerkhanee",
+ "city": "Brampton, Canada",
+ "website": "earlsbridgedental.com",
+ "summary": "A Brampton practice with direct billing and digital dentistry is a strength, but dead menu links and no visible hours appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "Main menu items Dental Services, Patient Info, News, Contact Us and Digital Dentistry appear to link to #.",
+   "cost": "Patients clicking the menu get nowhere, so they leave before finding your services.",
+   "fix": "Working menu pages for every section."
+  },
+  {
+   "problem": "The Request a Consultation form appears to state 'simply a request, and not an actual appointment' and asks for a preferred date and time with no date field.",
+   "cost": "Patients who want to book cannot, and the form gives them no certainty.",
+   "fix": "A real online booking calendar."
+  },
+  {
+   "problem": "The Opening Hours link appears to go to the contact page and no hours appear, and the map link appears to contain the placeholder 'Your+Location'.",
+   "cost": "Patients cannot see when you are open or get directions.",
+   "fix": "Visible hours and a correct map link."
+  },
+  {
+   "problem": "The heading 'Why choose Earlsbridge Dental?' appears with no content under it, 'Our solutions includes' appears, and no patient reviews appear.",
+   "cost": "Empty sections, typos and missing reviews weaken trust.",
+   "fix": "Written benefits, proofread copy and real reviews."
+  }
+ ],
+ "redesign": [
+  "Working menu and pages.",
+  "A real booking calendar.",
+  "Visible hours, reviews and clean copy."
+ ]
+}

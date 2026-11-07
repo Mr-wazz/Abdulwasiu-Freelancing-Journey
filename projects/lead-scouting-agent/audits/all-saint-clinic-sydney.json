@@ -1,0 +1,34 @@
+{
+ "business": "All Saint Clinic",
+ "owner": "Dr Cath Porter and the team",
+ "city": "Mosman and Double Bay, Sydney",
+ "website": "allsaintclinic.com",
+ "summary": "A doctor led, multi clinic offer with advanced devices is a strength, but unclear locations and repetitive buttons appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The H1 appears to say 'A New Chapter Begins in Mosman' while the subheading says 'open at Boronia', and locations appear only as suburb names with no street addresses or opening hours.",
+   "cost": "Clients cannot tell where to go or when.",
+   "fix": "Clear addresses, maps and hours."
+  },
+  {
+   "problem": "The intro lists Double Bay, Mosman, Balmain and North Parramatta, while other copy refers to a Mayfair London clinic and Le Petit Saint London.",
+   "cost": "Mixed scope confuses new clients.",
+   "fix": "One clear list of clinics."
+  },
+  {
+   "problem": "Book Now, Get Started, Book now and Start your journey appear to all link to one external booking page, and Learn more appears about eight times.",
+   "cost": "Repetitive buttons and an outside booking handoff lose ready to book visitors.",
+   "fix": "One clear booking button."
+  },
+  {
+   "problem": "The menu appears to say Thread Treatments on desktop and PDO Thread Lift on mobile, the cart link appears to be empty, 'Loading cart' appears, and the page shows 'Dr Cath porter'.",
+   "cost": "Menu mismatches and typos make a premium clinic look unfinished.",
+   "fix": "Consistent menu and proofread copy."
+  }
+ ],
+ "redesign": [
+  "Clear addresses, maps and hours.",
+  "One clear booking button.",
+  "Consistent menus and proofread copy."
+ ]
+}

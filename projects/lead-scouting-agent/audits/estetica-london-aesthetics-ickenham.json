@@ -1,0 +1,29 @@
+{
+ "business": "Estetica London Aesthetics",
+ "owner": "the Estetica London Aesthetics team",
+ "city": "London, UK",
+ "website": "beccabmcd.wixsite.com/esteticalondonaesthe",
+ "summary": "An Ickenham aesthetics clinic appears to lose bookings to a homepage that still says the clinic is closed for Covid until July 2020.",
+ "findings": [
+  {
+   "problem": "The homepage appears to still say WE ARE CURRENTLY CLOSED due to Covid-19 and that the clinic aims to open on 4th July 2020.",
+   "cost": "A visitor who reads this assumes the clinic is shut and books somewhere else, so you lose enquiries every day the notice stays up.",
+   "fix": "A current page that says you are open and how to book."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner and a footer that says 2020 by Estetica London Aesthetics.",
+   "cost": "A free builder address and an old date look temporary for a clinic that offers anti wrinkle injections.",
+   "fix": "Your own domain and a current page."
+  },
+  {
+   "problem": "The contact appears to be a gmail address and a mobile number, with no WhatsApp and no online booking.",
+   "cost": "Clients book aesthetic treatments by message, and the clinic that replies first wins the booking.",
+   "fix": "A one tap WhatsApp button and online booking."
+  }
+ ],
+ "redesign": [
+  "Current open message.",
+  "Own domain.",
+  "Booking and WhatsApp."
+ ]
+}

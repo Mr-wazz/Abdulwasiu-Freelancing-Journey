@@ -1,0 +1,33 @@
+{
+ "business": "Smile by Design",
+ "owner": "Dr Michael Tam",
+ "city": "Bondi Junction and North Sydney",
+ "website": "smilebydesign.com.au",
+ "summary": "Two clinics, WhatsApp and a named dentist are good foundations, but there is no proof of results and the booking path leaves your site.",
+ "findings": [
+  {
+   "problem": "There is no booking form on the page. Make a booking hands off to an external site or opens a popup.",
+   "cost": "Patients who leave your site to book are less likely to finish.",
+   "fix": "A short booking form on your own site."
+  },
+  {
+   "problem": "The menu items About Us, Cosmetic Dentistry Sydney, General Dentistry and Emergency Dentistry link to #, and several icon links have no text.",
+   "cost": "Dead menus and unlabelled icons lose visitors.",
+   "fix": "Working menus and labelled buttons."
+  },
+  {
+   "problem": "No patient reviews or before and after results appear, and the Meet Dr. Michael Tam section is a video thumbnail with no written bio.",
+   "cost": "Cosmetic patients choose on proof and on who treats them.",
+   "fix": "Reviews, captioned results and a written dentist profile."
+  },
+  {
+   "problem": "The text has a broken sentence (are.From single-tooth), a misspelt logo (Acaemdy) and Phillips Zoom for Philips. Dr Michael Tam appears with and without a full stop.",
+   "cost": "Errors on a cosmetic dentistry page lower trust.",
+   "fix": "Proofread copy."
+  }
+ ],
+ "redesign": [
+  "An on-site booking form and WhatsApp for both clinics.",
+  "Reviews, captioned results and a written profile for Dr Tam."
+ ]
+}

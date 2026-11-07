@@ -1,0 +1,34 @@
+{
+ "business": "The Cosmetic Skin Clinic",
+ "owner": "the Cosmetic Skin Clinic team",
+ "city": "London, UK",
+ "website": "cosmeticskinclinic.com",
+ "summary": "A Harley Street non surgical aesthetics clinic appears to lose bookings to stray page code, unshown proof and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "Stray markup characters appear about six times in the page text near the header and menu.",
+   "cost": "Broken code on the first screen looks careless at premium prices.",
+   "fix": "Clean template markup."
+  },
+  {
+   "problem": "A Trustpilot label appears with no rating or review shown beside it.",
+   "cost": "A rating you do not show cannot persuade a new patient.",
+   "fix": "The live rating and two review quotes on the homepage."
+  },
+  {
+   "problem": "A Multi Award Winning claim appears with no named awards or years visible.",
+   "cost": "Unnamed awards are easy to doubt.",
+   "fix": "Name each award with its year and logo."
+  },
+  {
+   "problem": "No WhatsApp appears, and the footer copyright line appears to have no year.",
+   "cost": "Patients who want a quick answer message other clinics first.",
+   "fix": "WhatsApp on every page and a current footer year."
+  }
+ ],
+ "redesign": [
+  "Clean markup.",
+  "Visible ratings and awards.",
+  "WhatsApp and current footer."
+ ]
+}

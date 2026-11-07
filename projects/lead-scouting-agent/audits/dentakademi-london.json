@@ -1,0 +1,34 @@
+{
+ "business": "DentAkademi London",
+ "owner": "Mr Baha Bagdadi and team",
+ "city": "Queen Anne Street, London",
+ "website": "dentakademi.co.uk",
+ "summary": "DentAkademi has clear prices, CQC and GDC details and an AI Smile Passport tool. A few visible errors and conflicting booking buttons weaken a modern first impression.",
+ "findings": [
+  {
+   "problem": "The Patient Stories heading appears with no stories under it, and the Before and After page is only linked in the footer with nothing on the homepage.",
+   "cost": "Patients choosing an implant or smile makeover clinic look for people like them. An empty stories section looks like there are none.",
+   "fix": "Real patient stories and captioned before and after cases on the homepage."
+  },
+  {
+   "problem": "Headings show literal underscores, such as Where _exceptional_ smiles begin and Your Smile _Passport_. Footnote markers such as vs avg london* have no matching footnote text.",
+   "cost": "Leftover formatting and unexplained claims make price comparisons look unsupported.",
+   "fix": "Clean headings and visible footnotes that back every claim."
+  },
+  {
+   "problem": "The hero Book a Consultation goes to /book-pay/, but the floating Book Online button goes to /contact/. Booking, WhatsApp and the AI chat all compete for attention.",
+   "cost": "Two different booking destinations confuse patients and split your enquiries.",
+   "fix": "One clear booking path with WhatsApp as the second option."
+  },
+  {
+   "problem": "The GCR Top 10 Worldwide counter is unexplained, Bespoke pricing for Smile Makeover gives no anchor, and social icons are empty links with no labels.",
+   "cost": "Unexplained badges raise doubts, and a missing price anchor stops patients asking.",
+   "fix": "Explain the award, show a from price and label every link."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with real patient stories, captioned results and your CQC and GDC details beside every booking button.",
+  "One booking path with WhatsApp, and the Smile Passport placed near the top as your lead tool.",
+  "Treatment pages written to rank for searches like dental implants Marylebone and Invisalign London."
+ ]
+}

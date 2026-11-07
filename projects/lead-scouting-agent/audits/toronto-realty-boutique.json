@@ -1,0 +1,34 @@
+{
+ "business": "Toronto Realty Boutique",
+ "owner": "Romey Halabi",
+ "city": "Toronto, Canada",
+ "website": "torontorealtyboutique.com",
+ "summary": "A Toronto boutique brokerage appears to lose seller leads because key menu items go nowhere and there is no valuation form.",
+ "findings": [
+  {
+   "problem": "The Selling, Buying, About, Featured Listings, Pre-Construction and Education Hub menu items appear to link to #.",
+   "cost": "Visitors cannot reach the pages that bring in sellers and buyers.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The menu links to What Is Your Property Worth, but no valuation form appears, only a phone number and email.",
+   "cost": "Owners ready for a valuation have no easy way to ask.",
+   "fix": "An on page valuation form."
+  },
+  {
+   "problem": "Two different office addresses and phone numbers appear, 15 plus years and 17 plus years appear, and the listing cards appear twice.",
+   "cost": "Inconsistent details and repeats weaken trust.",
+   "fix": "One verified set of details and clean listings."
+  },
+  {
+   "problem": "Instagram posts appear to use a placeholder image, and testimonials appear without last names or sale details.",
+   "cost": "Placeholders and thin proof reduce credibility.",
+   "fix": "A working feed and detailed testimonials."
+  }
+ ],
+ "redesign": [
+  "Working menus.",
+  "Valuation form.",
+  "Consistent details and proof."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Forest Hill Real Estate Yorkville",
+ "owner": "Catherine Himelfarb Borden and Rebecca Himelfarb",
+ "city": "Toronto",
+ "website": "foresthillyorkville.com",
+ "summary": "A Hazelton Avenue base and a luxury area focus are strengths, but form glitches and dated bio copy appear to cost you sellers.",
+ "findings": [
+  {
+   "problem": "The page appears to show 'Thank you for your message' before any form is submitted, a valuation widget with raw steps '1. 1', '2. 2', '3. 3', and 'What's your home really worth?' twice.",
+   "cost": "A broken valuation tool loses the seller leads it exists to capture.",
+   "fix": "A clean valuation form with one confirmation."
+  },
+  {
+   "problem": "Forms appear to show a Middle Name field, the internal label 'Email Trigger Source' and 'OtherInterest' with no space, and the consent text repeats about four times.",
+   "cost": "Internal labels and clutter make a luxury brand look unfinished.",
+   "fix": "Short form with clean labels and one consent."
+  },
+  {
+   "problem": "The bio appears to say 'has adapted and grown in these past months' and 'Things have changed, but not our commitment', and a blog post says Interior Design Trends for 2025.",
+   "cost": "Pandemic era wording and old posts signal an inactive site.",
+   "fix": "Current bio and fresh content."
+  },
+  {
+   "problem": "Testimonials appear with first names or initials only, one mentions selling a farm, and the brand appears as three versions, Forest Hill Real Estate Yorkville, Forest Hill Yorkville and Forest Hill Real Estate.",
+   "cost": "Thin proof and mixed names weaken a luxury pitch.",
+   "fix": "Named results, relevant reviews and one brand name."
+  }
+ ],
+ "redesign": [
+  "Clean valuation form and short enquiry form.",
+  "Current bio and fresh content.",
+  "Luxury sales proof and one brand name."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "La Maison Real Estate",
+ "owner": "the team",
+ "city": "Abu Dhabi",
+ "website": "lamaison-re.com",
+ "summary": "A 4.9 Google rating and WhatsApp on the page are strengths, but duplicated forms and mislabeled content appear to weaken your enquiries.",
+ "findings": [
+  {
+   "problem": "The page appears to have two near identical lead forms, Book your free consultation and Talk to an advisor placed after the footer logo.",
+   "cost": "Duplicate forms confuse a buyer deciding where to enter details.",
+   "fix": "One clear enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The section promises Six neighbourhoods but appears to show five area cards, and the card with a Jubail Island image appears to be headed Al Shamkha.",
+   "cost": "Mislabeled areas make investors doubt the details.",
+   "fix": "Correct area cards and labels."
+  },
+  {
+   "problem": "Several labels appear to run together, such as Ask ourAI Agent, Based on 87 reviewson Google, Mobile numberWith country code and Riviera Residences IISAAS Heights.",
+   "cost": "Text slips on an enquiry page weaken a premium brand.",
+   "fix": "Proofread, clean copy."
+  },
+  {
+   "problem": "The page cites 4.9 from 87 Google reviews but appears to show six, every exclusive shows On request for price, and 2,000+ Completed projects has no source.",
+   "cost": "Thin proof and hidden prices lose buyers who compare.",
+   "fix": "Visible reviews, price ranges and sourced figures."
+  }
+ ],
+ "redesign": [
+  "One clear enquiry form with WhatsApp.",
+  "Correct area cards and clean copy.",
+  "Visible reviews and price ranges."
+ ]
+}

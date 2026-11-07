@@ -1,0 +1,34 @@
+{
+ "business": "Dr Hassan Medical Center",
+ "owner": "the Dr Hassan team",
+ "city": "Old Airport Area, Doha",
+ "website": "drhassanmedical.com",
+ "summary": "A wide dermatology and aesthetic range is a strength, but a New York address in the footer and a booking form that appears to have no fields cost you patients.",
+ "findings": [
+  {
+   "problem": "The footer says We are Here: 27 Division St, New York, NY 10002, USA, while the body lists an address in the Old Airport Area, Doha.",
+   "cost": "A wrong address confuses patients and hurts local search.",
+   "fix": "One correct Doha address everywhere."
+  },
+  {
+   "problem": "The Get in Touch section appears to show labels and a Submit button with no input fields, and Book Online sends people to a different website.",
+   "cost": "Patients who try to book may leave or never reach you.",
+   "fix": "A working booking form on your own domain."
+  },
+  {
+   "problem": "The page says a filler result lasts up to two days while Botox and Profhilo last up to six months, and the clinic appears as Al Abdulla, Al-Abdulla and Al Abdullah.",
+   "cost": "Odd claims and changing names weaken trust in aesthetic care.",
+   "fix": "Checked treatment claims and one consistent name."
+  },
+  {
+   "problem": "About Us links to #, Terms and Privacy both go to a contacts page, and no doctors, prices, results or reviews appear.",
+   "cost": "Missing proof is the main reason patients choose another clinic.",
+   "fix": "Named doctors, results and reviews."
+  }
+ ],
+ "redesign": [
+  "One correct address and a working booking form on your domain.",
+  "Checked treatment claims and one consistent clinic name.",
+  "Named doctors, results and patient reviews."
+ ]
+}

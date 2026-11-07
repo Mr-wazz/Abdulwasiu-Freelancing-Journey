@@ -1,0 +1,34 @@
+{
+ "business": "Neutral Bay Laser & Dermatology Clinic",
+ "owner": "Dr Terence Poon and the team",
+ "city": "Neutral Bay, Sydney",
+ "website": "neutralbaydermatology.com.au",
+ "summary": "Thirty two years of experience and a wide laser menu are strengths, but an unfinished footer and an old closure notice appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The footer appears to read '\u00a9 Neutral Bay Laser & Dermatology Clinic year. All rights reserved.' with a template placeholder instead of the year.",
+   "cost": "A placeholder in the footer makes a medical practice look unattended.",
+   "fix": "Current footer."
+  },
+  {
+   "problem": "A banner appears to say the clinic is closed until January 18th while reception reopens on January 11th, and the text repeats.",
+   "cost": "An old or confusing closure notice may lead patients to think you are shut.",
+   "fix": "Remove or correct notices."
+  },
+  {
+   "problem": "The page appears to say '18 laser, light and energy-based treatment options' and also 'over 16 specialty laser and light-based therapies', and the clinic name appears three ways.",
+   "cost": "Conflicting numbers and names weaken trust and search visibility.",
+   "fix": "One number and one clinic name."
+  },
+  {
+   "problem": "The main booking button is labelled Contact Us and appears to link to an external HotDoc page, Recive appears in the copy, and no testimonials appear.",
+   "cost": "Unclear booking and no proof lose patients.",
+   "fix": "Clear Book button, proofread copy and reviews."
+  }
+ ],
+ "redesign": [
+  "Current footer and no stale notices.",
+  "One treatment count and clinic name.",
+  "Clear booking button and reviews."
+ ]
+}

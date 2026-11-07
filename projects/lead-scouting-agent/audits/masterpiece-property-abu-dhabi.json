@@ -1,0 +1,34 @@
+{
+ "business": "Masterpiece Property",
+ "owner": "the team",
+ "city": "Abu Dhabi",
+ "website": "mpinv.ae",
+ "summary": "A named sales team and authorised agent status are strengths, but conflicting licence labels and an empty section appear to cost you buyer trust.",
+ "findings": [
+  {
+   "problem": "The page appears to show no contact form, only phone, WhatsApp, email and a Book video call link, and many competing calls to action with none emphasised.",
+   "cost": "Buyers face too many choices and no simple form.",
+   "fix": "One clear enquiry form."
+  },
+  {
+   "problem": "The licence number 20250000451516 appears under two regulator names, ADREC and ADM, and the WhatsApp number appears to use a +971 4 code while the offices are in Abu Dhabi.",
+   "cost": "Mismatched licence and phone details make a buyer doubt the agency.",
+   "fix": "One verified licence line and correct numbers."
+  },
+  {
+   "problem": "The Curated Collection section appears to have a heading and a link but no projects, and Find Property in Abu Dhabi appears twice.",
+   "cost": "Empty and repeated sections look unfinished.",
+   "fix": "Filled sections and a clean layout."
+  },
+  {
+   "problem": "The page appears to show Client Reviews in the footer but no testimonials, the stats AED 142B+ and 97 nationalities have no source, and labels such as Off-PlanBuy run together.",
+   "cost": "No proof and typos lose luxury buyers.",
+   "fix": "Real reviews, sourced figures and clean copy."
+  }
+ ],
+ "redesign": [
+  "One clear enquiry form and WhatsApp.",
+  "Verified licence and contact details.",
+  "Reviews, sourced stats and clean copy."
+ ]
+}

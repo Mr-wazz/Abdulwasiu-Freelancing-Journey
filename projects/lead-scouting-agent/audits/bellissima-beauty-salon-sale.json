@@ -1,0 +1,34 @@
+{
+ "business": "Bellissima Health and Beauty Salon",
+ "owner": "Samira Hanif and the Bellissima team",
+ "city": "Sale, Greater Manchester, UK",
+ "website": "bellissimabeautysalon.co.uk",
+ "summary": "A salon trading since 1990 appears to lose bookings because clients can only ring or email, hours are not listed and the homepage has a typo.",
+ "findings": [
+  {
+   "problem": "The page appears to offer no online booking, only a phone number, an email address and a Facebook link, with please ring for an appointment repeated.",
+   "cost": "Many clients decide in the evening or on their phone, and a salon they cannot book online loses them to one that they can.",
+   "fix": "Online booking with a simple calendar."
+  },
+  {
+   "problem": "No opening hours appear on the homepage, only working flexible hours.",
+   "cost": "A new client cannot tell when you are open, and an unclear answer means they try another salon.",
+   "fix": "Clear hours and a Book Now button on every page."
+  },
+  {
+   "problem": "The homepage appears to say flexible hours to suite our clients best, a typo, and We are OPEN and welcome all our old and new clients, which reads like old notice wording.",
+   "cost": "A typo on the first screen lowers trust, and old notice wording makes the page look unattended.",
+   "fix": "Fresh homepage copy."
+  },
+  {
+   "problem": "The price list appears to be only a download link, and the special offers section says offers come from time to time.",
+   "cost": "A client who wants a price must download a file, and a vague offers section gives no reason to book today.",
+   "fix": "A price page and a live offers block."
+  }
+ ],
+ "redesign": [
+  "Online booking and clear hours.",
+  "Fresh homepage copy.",
+  "Price page and live offers."
+ ]
+}

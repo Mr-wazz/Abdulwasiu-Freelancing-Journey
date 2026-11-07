@@ -1,0 +1,33 @@
+{
+ "business": "The Wellness Lab",
+ "owner": "the Wellness Lab team",
+ "city": "Doha",
+ "website": "thewellnesslab.qa",
+ "summary": "The Wellness Lab has strong services and 303 reviews, but the page has dead links, mismatched contact details and little visible proof.",
+ "findings": [
+  {
+   "problem": "Four of five Signature Treatments cards, including Laser Hair Removal, link to #. The Eid offer button goes to the Ramadan offers page.",
+   "cost": "A visitor ready to book a signature treatment hits a dead end.",
+   "fix": "Working treatment pages with a book now button."
+  },
+  {
+   "problem": "The email shows .qa but its link goes to .com.qa. One phone link starts tel:++974. 'WhatsApp us' has no number.",
+   "cost": "Mistyped contact links lose enquiries from phones.",
+   "fix": "One checked set of contacts and a real WhatsApp button."
+  },
+  {
+   "problem": "Header says 303 reviews but about six show. No before and after. Staff names and roles in reviews conflict, and one review says a doctor has left.",
+   "cost": "Thin proof and stale staff mentions weaken trust.",
+   "fix": "Review wall, results gallery and a current team page."
+  },
+  {
+   "problem": "Typos 'Nutritions & Wellness' and 'big Discount'. Menus repeat. The booking form has no phone field.",
+   "cost": "Without a phone number you cannot call back an enquiry.",
+   "fix": "Clean copy and a form with a phone field."
+  }
+ ],
+ "redesign": [
+  "A clean booking flow with phone, WhatsApp and a clear offers page.",
+  "A proper review wall, results gallery and current team page."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "The Dome MedDental Clinic",
+ "owner": "Dr Maria Aleksashina",
+ "city": "Dubai, UAE",
+ "website": "meddental.ae",
+ "summary": "A JLT clinic with seven named doctors across general, cosmetic and surgical care is a strength, but dead buttons and a typo in the booking button appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Discover our team, Discover our services and the Book now button under Orbital Decompression Surgery appear to link to #, and the footer logo appears to link to #.",
+   "cost": "Patients who click to learn or book land nowhere.",
+   "fix": "Working links for every button."
+  },
+  {
+   "problem": "The booking button appears to read 'book appoinment', the footer appears to read 'Adress', and the insurance text appears to say 'accepts all major local and international indirect insurance companies'.",
+   "cost": "Typos on the booking path and in insurance details look careless.",
+   "fix": "Proofread copy and correct insurance wording."
+  },
+  {
+   "problem": "The top menu appears to show About us twice and Our team twice, and the hero appears to say 8+ doctors while seven appear in the team section.",
+   "cost": "Duplicate menu items and mixed counts make the site look unfinished.",
+   "fix": "One clean menu and matching figures."
+  },
+  {
+   "problem": "The booking form appears to show an error message as static text, the time picker appears to stop at 19:00 while the clinic is open until 20:00, and the blog excerpt appears cut off mid sentence.",
+   "cost": "Visible errors and a cut time picker lose bookings.",
+   "fix": "A real booking flow with correct time slots."
+  }
+ ],
+ "redesign": [
+  "Working links.",
+  "Proofread copy.",
+  "A clean menu and a real booking flow."
+ ]
+}

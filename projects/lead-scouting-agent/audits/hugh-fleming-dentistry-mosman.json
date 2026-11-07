@@ -1,0 +1,34 @@
+{
+ "business": "Hugh Fleming Dentistry",
+ "owner": "Dr Hugh Fleming",
+ "city": "Mosman, Sydney, Australia",
+ "website": "hughflemingdentistry.com.au",
+ "summary": "A Mosman family practice with implants, sedation and sleep apnoea care is a strength, but booking buttons that only go to a contact page and visible developer text appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Every BOOK ONLINE button appears to go to the contact page, not a booking tool, and the Holiday Hours banner appears to link to the contact page with no hours shown.",
+   "cost": "Patients who want to book online have to wait for a reply.",
+   "fix": "A real online booking calendar and clear holiday hours."
+  },
+  {
+   "problem": "The Email Us link, Cookies link and read disclaimer link appear to point to #, and the contact form appears to show the text 'Leave this empty:'.",
+   "cost": "Dead links and visible developer text look unfinished.",
+   "fix": "Working links and a hidden anti spam field."
+  },
+  {
+   "problem": "'Advance Treatments' appears instead of Advanced Treatments, the FAQ about emergency dental services appears twice, and a stray number appears at the top of the page.",
+   "cost": "Typos and repeats make a clinic look careless.",
+   "fix": "Proofread copy and unique FAQs."
+  },
+  {
+   "problem": "Only two testimonials appear and the dentists appear only as menu links with no credentials or introductions.",
+   "cost": "New patients want to know who will treat them.",
+   "fix": "Dentist profiles with credentials and more reviews."
+  }
+ ],
+ "redesign": [
+  "A real booking calendar.",
+  "Working links and hidden spam field.",
+  "Proofread copy, dentist profiles and reviews."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Cosmos Clinic",
+ "owner": "Associate Professor Peter Haertsch",
+ "city": "Sydney, Australia",
+ "website": "cosmosclinic.com.au",
+ "summary": "A multi city cosmetic surgery brand with over 15k procedures is a strength, but visible form text and no online booking for surgical consults appear to cost you high value patients.",
+ "findings": [
+  {
+   "problem": "The hidden form field note 'This field is for validation purposes and should be left unchanged' appears visible, and a stray character appears near the enquiry form.",
+   "cost": "Visible test text on the enquiry form makes a premium brand look unfinished.",
+   "fix": "A clean enquiry form with hidden technical fields."
+  },
+  {
+   "problem": "Every surgical 'Book here' link appears to go to a general contact page, and surgical consults appear to have no direct online booking.",
+   "cost": "High value patients who expect to book online may go to a clinic that lets them.",
+   "fix": "A real online booking flow for consults."
+  },
+  {
+   "problem": "Three blog posts appear dated 'September 15, 2026' while the latest posts show 'November 2, 2026', and the Sydney hours appear different from the other clinics.",
+   "cost": "Template dates and mixed hours look careless.",
+   "fix": "Correct dates and one clear hours block."
+  },
+  {
+   "problem": "The claim 'over 15k procedures performed' appears with no source, and no patient reviews or ratings appear, only 'As seen on' logos with no links.",
+   "cost": "Cosmetic patients choose by proof, and unsourced numbers weaken it.",
+   "fix": "Sourced figures, linked media and real reviews."
+  }
+ ],
+ "redesign": [
+  "A clean enquiry form.",
+  "A real consult booking flow.",
+  "Correct dates, sourced results and visible reviews."
+ ]
+}

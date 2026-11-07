@@ -1,0 +1,29 @@
+{
+ "business": "Blue Dental Care",
+ "owner": "the Blue Dental Care team",
+ "city": "London, UK",
+ "website": "bluedentalcare.co.uk",
+ "summary": "A London dental practice appears to lose new patients to unfinished cookie banner text and no copyright year or quick message option.",
+ "findings": [
+  {
+   "problem": "The cookie settings text appears to show unfilled placeholders such as Manage {vendor_count} vendors and {title} repeated.",
+   "cost": "Placeholder code in a consent banner makes the site look broken, and patients trust a broken site less.",
+   "fix": "A properly configured cookie banner."
+  },
+  {
+   "problem": "The footer appears to say Copyright Blue Dental Care with no year.",
+   "cost": "A footer with no year gives no sign the practice is active.",
+   "fix": "A current, dated footer."
+  },
+  {
+   "problem": "No WhatsApp or text option appears next to the phone number.",
+   "cost": "Patients who want a quick answer message first.",
+   "fix": "A one tap text button and online booking."
+  }
+ ],
+ "redesign": [
+  "Clean cookie banner.",
+  "Current footer.",
+  "Booking and text."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Melior Clinics",
+ "owner": "the Melior Clinics team",
+ "city": "London, United Kingdom",
+ "website": "meliorclinics.co.uk",
+ "summary": "A multi clinic group with a Harley Street site appears to lose treatment bookings to dead menu parents and two booking paths.",
+ "findings": [
+  {
+   "problem": "Top level menu items such as Treatments, Locations, About and Laser treatments appear to link to #, and the hero button appears to link to an anchor that does not exist.",
+   "cost": "Patients exploring treatments hit dead ends.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The header Book a Treatment button appears to go to a contact page while Book online goes to a separate booking site.",
+   "cost": "Two booking paths confuse patients and lose bookings.",
+   "fix": "One clear booking path."
+  },
+  {
+   "problem": "Clinic locations appear to differ between the footer, menu and contact form, and no opening hours appear.",
+   "cost": "Patients cannot tell where you are or when you are open.",
+   "fix": "One location list and visible hours."
+  },
+  {
+   "problem": "Typos such as chat though your skin concerns appear, along with a Section Break form label and only one testimonial.",
+   "cost": "Typos and leftover labels weaken a medical brand and proof is thin.",
+   "fix": "Proofread copy and more reviews."
+  }
+ ],
+ "redesign": [
+  "Working menus.",
+  "One booking path.",
+  "Consistent locations and proof."
+ ]
+}

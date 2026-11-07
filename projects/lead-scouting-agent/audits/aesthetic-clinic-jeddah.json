@@ -1,0 +1,34 @@
+{
+ "business": "Aesthetic Clinic Jeddah",
+ "owner": "the team",
+ "city": "Jeddah and Riyadh",
+ "website": "aestheticclinicjeddah.com",
+ "summary": "A wide procedure list and a hair transplant offer are strengths, but placeholder reviews and unfinished sections appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The reviews section appears to show 'Lorem ipsum dolor sit amet' with John Doe as the reviewer.",
+   "cost": "Template text where patient proof should be destroys trust.",
+   "fix": "Real patient reviews."
+  },
+  {
+   "problem": "The Why choose us headings Neck Lift, Face Lift and Breast Augmentation appear to have no body text, and View All under Doctors appears to link to #.",
+   "cost": "Empty sections look unfinished.",
+   "fix": "Filled sections and working links."
+  },
+  {
+   "problem": "The page appears to be branded for Jeddah while the map reads a Riyadh clinic name and the main phone differs from the WhatsApp number.",
+   "cost": "Mixed locations and numbers confuse patients.",
+   "fix": "One location story and one number."
+  },
+  {
+   "problem": "Typos appear such as 'Injectible', 'Commited surgical Team' and 'Bariatic Surgery', and the doctor's name appears two ways.",
+   "cost": "Spelling errors in medical copy weaken credibility.",
+   "fix": "Proofread copy and one doctor name."
+  }
+ ],
+ "redesign": [
+  "Real reviews and doctor profiles.",
+  "Filled sections and working links.",
+  "One location story, one number, proofread copy."
+ ]
+}

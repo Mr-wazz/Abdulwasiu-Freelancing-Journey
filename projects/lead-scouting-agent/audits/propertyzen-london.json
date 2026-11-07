@@ -1,0 +1,34 @@
+{
+ "business": "PropertyZen Estate Agents",
+ "owner": "Marco and Marina",
+ "city": "London, United Kingdom",
+ "website": "propertyzen.co.uk",
+ "summary": "Twenty years of local experience is a strength, but a mailto only valuation request and no visible phone number appear to cost you valuations.",
+ "findings": [
+  {
+   "problem": "The free valuation call to action appears to be Click here linking to an email address, with a stray question mark, not a form.",
+   "cost": "Owners must open their email app to ask, and many will not.",
+   "fix": "An on page valuation form with name, address and phone."
+  },
+  {
+   "problem": "No phone number appears on the homepage, and the only address shown appears to be a central London registered office while you cover South West London and Surrey.",
+   "cost": "Local owners cannot call you quickly or see you are nearby.",
+   "fix": "Visible phone, local office address and a coverage map."
+  },
+  {
+   "problem": "Click here appears three times for three different actions, and the image gallery appears twice.",
+   "cost": "Vague links and repeated blocks make the page feel unpolished.",
+   "fix": "Specific button labels and a clean layout."
+  },
+  {
+   "problem": "The award banner and accreditation logos appear to have no detail, and no reviews or sales figures appear.",
+   "cost": "Without proof, owners compare you to agents who show it.",
+   "fix": "Review scores, sales results and short explanations of memberships."
+  }
+ ],
+ "redesign": [
+  "On page valuation form.",
+  "Visible phone and local address.",
+  "Reviews and sales proof."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "80 Kensington Dental Clinic",
+ "owner": "the team",
+ "city": "Kensington, London",
+ "website": "kensingtondentalclinic.co.uk",
+ "summary": "CQC and GDC accreditation logos and a Google review link are strengths, but a booking button with no direct flow and a stale footer appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Book Now and Book An Appointment appear to link to the contact page, so there is no direct booking flow.",
+   "cost": "Patients ready to book have to hunt for a form.",
+   "fix": "A direct online booking form."
+  },
+  {
+   "problem": "The More menu item appears to have no link, Terms and Conditions appears to point to a page ending 'copy-of-privacy-policy', and the page appears to show 'Use tab to navigate through the menu items.'",
+   "cost": "Dead links and leaked developer text look unfinished.",
+   "fix": "Working menu and correct legal pages."
+  },
+  {
+   "problem": "Hours appear as '9.00AM-18.00PM' with Monday to Friday only, and the footer appears to read 2023.",
+   "cost": "Odd hours formatting and an old footer weaken trust.",
+   "fix": "Clean hours including weekends and a current footer."
+  },
+  {
+   "problem": "One testimonial appears with no rating or review count, it appears to say 'extremely amicable', and the CQC link and logos appear to use http rather than https.",
+   "cost": "Thin proof and insecure links weaken credibility.",
+   "fix": "Review count with ratings and secure links."
+  }
+ ],
+ "redesign": [
+  "Direct booking form.",
+  "Working menu and correct legal pages.",
+  "Clean hours, current footer and more reviews."
+ ]
+}

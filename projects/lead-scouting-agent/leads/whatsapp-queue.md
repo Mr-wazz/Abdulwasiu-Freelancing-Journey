@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-08 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Smile Design Clinic (Riyadh, Al Sulaimania)
+
+Message:
+> Hello, I looked at the Smile Design Clinic website. The stats appear to show 0+, and the booking form seems to spell Number as Nummber. A patient who notices this may doubt the clinic. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/966555202438?text=Hello%2C%20I%20looked%20at%20the%20Smile%20Design%20Clinic%20website.%20The%20stats%20appear%20to%20show%200%2B%2C%20and%20the%20booking%20form%20seems%20to%20spell%20Number%20as%20Nummber.%20A%20patient%20who%20notices%20this%20may%20doubt%20the%20clinic.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. GYA Dental Center (Dubai Media City)
+
+Message:
+> Hi, I went through the GYA Dental Center site. Only about 7 of your 380 reviews appear to be shown, and I could not find prices or an online booking step. Patients who cannot see proof or book quickly often choose another clinic. May I send a short note with the fixes?
+
+Tap to open: https://wa.me/971581570070?text=Hi%2C%20I%20went%20through%20the%20GYA%20Dental%20Center%20site.%20Only%20about%207%20of%20your%20380%20reviews%20appear%20to%20be%20shown%2C%20and%20I%20could%20not%20find%20prices%20or%20an%20online%20booking%20step.%20Patients%20who%20cannot%20see%20proof%20or%20book%20quickly%20often%20choose%20another%20clinic.%20May%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Crossroads Dental Clinic (Dubai)
+
+Message:
+> Good day, I checked the Crossroads Dental Clinic website. The Book Appointment option appears to be hidden inside a dropdown, and the heading seems to say Impantologist. That can cost you bookings and trust. I put the fix on one page, is it okay to send it here?
+
+Tap to open: https://wa.me/971589656295?text=Good%20day%2C%20I%20checked%20the%20Crossroads%20Dental%20Clinic%20website.%20The%20Book%20Appointment%20option%20appears%20to%20be%20hidden%20inside%20a%20dropdown%2C%20and%20the%20heading%20seems%20to%20say%20Impantologist.%20That%20can%20cost%20you%20bookings%20and%20trust.%20I%20put%20the%20fix%20on%20one%20page%2C%20is%20it%20okay%20to%20send%20it%20here%3F
+
+## 4. Kharsa Clinics (Riyadh, Olaya)
+
+Message:
+> Hello, I read the Kharsa Clinics website. There appear to be stray notices such as Dear User on the page, and Testimonials seems to be misspelled in the menu. That can make a visitor doubt a clinic before booking. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/966554833256?text=Hello%2C%20I%20read%20the%20Kharsa%20Clinics%20website.%20There%20appear%20to%20be%20stray%20notices%20such%20as%20Dear%20User%20on%20the%20page%2C%20and%20Testimonials%20seems%20to%20be%20misspelled%20in%20the%20menu.%20That%20can%20make%20a%20visitor%20doubt%20a%20clinic%20before%20booking.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. House of Skincare (Abu Dhabi, Yas Island)
+
+Message:
+> Hi, I looked at the House of Skincare website. The health ministry badge appears to show 2022 to 2023, and the 4.9 rating from 492 reviews seems to show no reviews. Clients may question the proof. I made a one page note, would you like me to send it here?
+
+Tap to open: https://wa.me/971545485000?text=Hi%2C%20I%20looked%20at%20the%20House%20of%20Skincare%20website.%20The%20health%20ministry%20badge%20appears%20to%20show%202022%20to%202023%2C%20and%20the%204.9%20rating%20from%20492%20reviews%20seems%20to%20show%20no%20reviews.%20Clients%20may%20question%20the%20proof.%20I%20made%20a%20one%20page%20note%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-07 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

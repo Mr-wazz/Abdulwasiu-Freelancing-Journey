@@ -1,0 +1,34 @@
+{
+ "business": "First Future Medical Complex",
+ "owner": "the First Future team",
+ "city": "Jeddah, Saudi Arabia",
+ "website": "ghffmc.wixsite.com/ghffmc",
+ "summary": "A Jeddah polyclinic open 24 hours appears to lose patients because its page still shows template placeholder articles, template events and a free builder footer from 2019.",
+ "findings": [
+  {
+   "problem": "The Media Center appears to show three articles that still carry the template text This is your News Article. Whether you have got new treatments available...",
+   "cost": "A patient who reads template instructions on a medical site doubts that anyone looks after the clinic, and a clinic that looks unattended loses the booking.",
+   "fix": "Remove placeholders and publish real news or leave them out."
+  },
+  {
+   "problem": "The Upcoming Events block appears to list three events in San Francisco, and a BandsInTown and an Instagram block appear with no content.",
+   "cost": "Events in another city on a Jeddah clinic page confuse patients and make the clinic look unfinished.",
+   "fix": "Remove the empty blocks."
+  },
+  {
+   "problem": "The page appears to run on a free Wix address with a Wix banner, and the footer appears to say 2019 by First Future Medical Complex.",
+   "cost": "A 2019 date and a builder advert make a 24 hour polyclinic look inactive, and families choose a clinic that looks current.",
+   "fix": "Your own domain and a current footer."
+  },
+  {
+   "problem": "The contact appears to be a gmail address and one phone number, with no WhatsApp button.",
+   "cost": "Patients in Jeddah message first, and a clinic that cannot be messaged in one tap loses them.",
+   "fix": "A one tap WhatsApp button next to Book Online."
+  }
+ ],
+ "redesign": [
+  "No placeholders, real news only.",
+  "Own domain, current footer.",
+  "WhatsApp and online booking."
+ ]
+}

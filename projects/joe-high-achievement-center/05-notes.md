@@ -35,3 +35,13 @@
 - Joe to: send a recorded, bullet point brief within 48 hours (by 4 Nov).
 - Competition: the work is being shopped to 3 people. No budget or price was discussed.
 - Risk: this looks like unpaid spec work. Agree scope, deadline and a paid first step before doing full research.
+
+## Written brief received, 6 Nov 2026
+- Assignment: build a 90 day TikTok strategy for Human Touch Solutions and present it to Joe and the co-founder by Fri 20 Nov 2026. TikTok only, website is not the focus.
+- Deadline for my clarifying questions: Wed 11 Nov 2026. He promises straight answers. He said do not assume, ask before building.
+- 13 questions to answer in the presentation: audience (3), message (3), plan (4, including cost: fee, tools, ad spend, minimum to start), me (3: why me, what makes the co-founder say "hire him", account security).
+- Study their AI avatar content on YouTube, Facebook and Instagram first.
+- Do not spend money or major production time until the plan is approved.
+- Other people are submitting proposals. He calls it a 90 day, performance based prototype.
+- The co-founder built all their technology. Risk: she may prefer to do it herself.
+- He asked how the 3D animation idea earns credibility with senior leaders.

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-09 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Digital Implant (Dubai)
+
+Message:
+> Hello, I read through the Digital Implant website. The testimonial boxes appear to be blank, and the headline seems to say DentaI with a capital I. A patient comparing implant clinics may notice and leave. I wrote a short one page note with the fix, may I send it here?
+
+Tap to open: https://wa.me/971506753166?text=Hello%2C%20I%20read%20through%20the%20Digital%20Implant%20website.%20The%20testimonial%20boxes%20appear%20to%20be%20blank%2C%20and%20the%20headline%20seems%20to%20say%20DentaI%20with%20a%20capital%20I.%20A%20patient%20comparing%20implant%20clinics%20may%20notice%20and%20leave.%20I%20wrote%20a%20short%20one%20page%20note%20with%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. National Medical Center (Dubai, Satwa)
+
+Message:
+> Hi, I looked at the National Medical Center site. Some sections appear repeated, the Blog and FAQ look empty, and the footer phone number seems different from your WhatsApp number. That can confuse new patients. Is it okay if I send a short note on how to fix it?
+
+Tap to open: https://wa.me/971555544606?text=Hi%2C%20I%20looked%20at%20the%20National%20Medical%20Center%20site.%20Some%20sections%20appear%20repeated%2C%20the%20Blog%20and%20FAQ%20look%20empty%2C%20and%20the%20footer%20phone%20number%20seems%20different%20from%20your%20WhatsApp%20number.%20That%20can%20confuse%20new%20patients.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 3. Dentism Dental Polyclinic (Dubai)
+
+Message:
+> Good day, I went through the Dentism Dental Polyclinic website. The before and after gallery appears to show empty placeholders, and the opening hours seem to contradict each other, with 24/7 in one place and Monday to Saturday in another. I made a one page note, can I send it here?
+
+Tap to open: https://wa.me/971503247382?text=Good%20day%2C%20I%20went%20through%20the%20Dentism%20Dental%20Polyclinic%20website.%20The%20before%20and%20after%20gallery%20appears%20to%20show%20empty%20placeholders%2C%20and%20the%20opening%20hours%20seem%20to%20contradict%20each%20other%2C%20with%2024%2F7%20in%20one%20place%20and%20Monday%20to%20Saturday%20in%20another.%20I%20made%20a%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+## 4. Derma Medical Center (Abu Dhabi, Karama St)
+
+Message:
+> Hello, I checked the Derma Medical Center website. The counters appear to show 0 next to your three doctors, and the WhatsApp buttons seem to use the landline instead of this mobile number. Patients may think the page is unfinished. May I send you a short note with the fixes?
+
+Tap to open: https://wa.me/971503844059?text=Hello%2C%20I%20checked%20the%20Derma%20Medical%20Center%20website.%20The%20counters%20appear%20to%20show%200%20next%20to%20your%20three%20doctors%2C%20and%20the%20WhatsApp%20buttons%20seem%20to%20use%20the%20landline%20instead%20of%20this%20mobile%20number.%20Patients%20may%20think%20the%20page%20is%20unfinished.%20May%20I%20send%20you%20a%20short%20note%20with%20the%20fixes%3F
+
+## 5. ABH Real Estate (Dubai, Doha, Riyadh)
+
+Message:
+> Hi, I visited the ABH Real Estate website. The Qatar and Saudi introductions appear to copy the Dubai text, and Jumeirah seems to be spelled Jumeriah. A buyer in Doha who reads Dubai wording may doubt local knowledge. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/97430369879?text=Hi%2C%20I%20visited%20the%20ABH%20Real%20Estate%20website.%20The%20Qatar%20and%20Saudi%20introductions%20appear%20to%20copy%20the%20Dubai%20text%2C%20and%20Jumeirah%20seems%20to%20be%20spelled%20Jumeriah.%20A%20buyer%20in%20Doha%20who%20reads%20Dubai%20wording%20may%20doubt%20local%20knowledge.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-08 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-10 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Royal Clinic Saudia (Riyadh)
+
+Message:
+> Hello, I looked at the Royal Clinic website. The booking buttons appear to link to a blank anchor, and some prices seem to differ between pages. A patient who cannot book or compare prices often tries another clinic. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/966590630187?text=Hello%2C%20I%20looked%20at%20the%20Royal%20Clinic%20website.%20The%20booking%20buttons%20appear%20to%20link%20to%20a%20blank%20anchor%2C%20and%20some%20prices%20seem%20to%20differ%20between%20pages.%20A%20patient%20who%20cannot%20book%20or%20compare%20prices%20often%20tries%20another%20clinic.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Knightsbridge Prime Property (London)
+
+Message:
+> Hi, I went through the Knightsbridge Prime Property website. Some listings appear to be repeated, and the enquiry form seems to show no fields. A buyer who cannot enquire easily may move to another agent. May I send you a short note with the fixes?
+
+Tap to open: https://wa.me/447395196590?text=Hi%2C%20I%20went%20through%20the%20Knightsbridge%20Prime%20Property%20website.%20Some%20listings%20appear%20to%20be%20repeated%2C%20and%20the%20enquiry%20form%20seems%20to%20show%20no%20fields.%20A%20buyer%20who%20cannot%20enquire%20easily%20may%20move%20to%20another%20agent.%20May%20I%20send%20you%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Serene Dental (London)
+
+Message:
+> Good day, I checked the Serene Dental website. The menu links appear to go nowhere, and the booking form seems to show placeholder text. That can cost you new patients before they call. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/447723496745?text=Good%20day%2C%20I%20checked%20the%20Serene%20Dental%20website.%20The%20menu%20links%20appear%20to%20go%20nowhere%2C%20and%20the%20booking%20form%20seems%20to%20show%20placeholder%20text.%20That%20can%20cost%20you%20new%20patients%20before%20they%20call.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. Lusail Law Firm (Doha)
+
+Message:
+> Hello, I read the Lusail Law Firm website. The stats appear to show 0 beside your 500+ claim, and the WhatsApp number seems different from the main line. A client may doubt the numbers before contacting you. Is it okay if I send a short note on how to fix this?
+
+Tap to open: https://wa.me/97466688222?text=Hello%2C%20I%20read%20the%20Lusail%20Law%20Firm%20website.%20The%20stats%20appear%20to%20show%200%20beside%20your%20500%2B%20claim%2C%20and%20the%20WhatsApp%20number%20seems%20different%20from%20the%20main%20line.%20A%20client%20may%20doubt%20the%20numbers%20before%20contacting%20you.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20on%20how%20to%20fix%20this%3F
+
+## 5. Wellkins Medical Centre (Doha)
+
+Message:
+> Hi there, I looked at the Wellkins Medical Centre website. Several menu items appear to lead nowhere, and a price seems to be shown with an error. Patients who notice this may hesitate to book. I made a short one page note, may I send it here?
+
+Tap to open: https://wa.me/97450060261?text=Hi%20there%2C%20I%20looked%20at%20the%20Wellkins%20Medical%20Centre%20website.%20Several%20menu%20items%20appear%20to%20lead%20nowhere%2C%20and%20a%20price%20seems%20to%20be%20shown%20with%20an%20error.%20Patients%20who%20notice%20this%20may%20hesitate%20to%20book.%20I%20made%20a%20short%20one%20page%20note%2C%20may%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-09 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-11 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Al Kindi Clinics (Doha)
+
+Message:
+> Hello, I read through the Al Kindi Clinics website. Appointment appears to be spelled Appoinment, and the Book Now buttons seem to link to a blank anchor. A patient who cannot book easily may choose another clinic. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/97477497717?text=Hello%2C%20I%20read%20through%20the%20Al%20Kindi%20Clinics%20website.%20Appointment%20appears%20to%20be%20spelled%20Appoinment%2C%20and%20the%20Book%20Now%20buttons%20seem%20to%20link%20to%20a%20blank%20anchor.%20A%20patient%20who%20cannot%20book%20easily%20may%20choose%20another%20clinic.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Qatar Prime Dental Center (Doha)
+
+Message:
+> Hi, I looked at the Qatar Prime Dental Center website. Two almost identical phone numbers appear, including the emergency line, and booking seems to be request only. Patients may not know which number to call. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/97433823222?text=Hi%2C%20I%20looked%20at%20the%20Qatar%20Prime%20Dental%20Center%20website.%20Two%20almost%20identical%20phone%20numbers%20appear%2C%20including%20the%20emergency%20line%2C%20and%20booking%20seems%20to%20be%20request%20only.%20Patients%20may%20not%20know%20which%20number%20to%20call.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Al Dhaheri International (Dubai)
+
+Message:
+> Good day, I checked the Al Dhaheri International website. The contact section appears to show no fields, and the phone number seems to differ between pages. A client who cannot reach you easily will contact another firm. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/971585444775?text=Good%20day%2C%20I%20checked%20the%20Al%20Dhaheri%20International%20website.%20The%20contact%20section%20appears%20to%20show%20no%20fields%2C%20and%20the%20phone%20number%20seems%20to%20differ%20between%20pages.%20A%20client%20who%20cannot%20reach%20you%20easily%20will%20contact%20another%20firm.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. Cosmetic Clinic Jeddah (Jeddah)
+
+Message:
+> Hello, I went through the Cosmetic Clinic Jeddah website. The booking button appears to go nowhere, and two different phone numbers seem to be listed with no street address. Patients may hesitate to visit. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/966591087287?text=Hello%2C%20I%20went%20through%20the%20Cosmetic%20Clinic%20Jeddah%20website.%20The%20booking%20button%20appears%20to%20go%20nowhere%2C%20and%20two%20different%20phone%20numbers%20seem%20to%20be%20listed%20with%20no%20street%20address.%20Patients%20may%20hesitate%20to%20visit.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. Dr Omar Fouda Clinic (Riyadh)
+
+Message:
+> Hi there, I visited the Dr Omar Fouda Clinic website. One WhatsApp number appears to be a digit different from the other, and the booking seems hidden behind menu links that go nowhere. That can lose patients before they reach you. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/966578087777?text=Hi%20there%2C%20I%20visited%20the%20Dr%20Omar%20Fouda%20Clinic%20website.%20One%20WhatsApp%20number%20appears%20to%20be%20a%20digit%20different%20from%20the%20other%2C%20and%20the%20booking%20seems%20hidden%20behind%20menu%20links%20that%20go%20nowhere.%20That%20can%20lose%20patients%20before%20they%20reach%20you.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-10 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

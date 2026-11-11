@@ -45,3 +45,12 @@
 - Other people are submitting proposals. He calls it a 90 day, performance based prototype.
 - The co-founder built all their technology. Risk: she may prefer to do it herself.
 - He asked how the 3D animation idea earns credibility with senior leaders.
+
+## YouTube channel review, 11 Nov 2026 (@highachievementcenter)
+- 12.2K subscribers, 57 videos. Bio: "Helping Leaders & Business Teams Navigate Transformation So Change Actually Sticks | Human Tested. Real Results."
+- Videos from 2 to 3 years ago show 1K to 2.2K views each. Videos from the last year show 4 to 118 views.
+- Shorts: 12 listed. Best: "Stuck Isn't A Leadership Problem. Staying Stuck Is." 1.6K views. Others 6 to 191 views.
+- Shorts already cover his 3 problems: "Disagreeing Gracefully with Your Boss" (6 views), "How to Stop Negative Self-Talk in 60 seconds" (191), "Confident Leader" (6), "Why Employees Stop Trusting Their Leader" (20).
+- Could not play videos from this session, so which ones are AI avatar is NOT confirmed. Some thumbnails look AI generated. Asked Joe to name the avatar videos (question 4).
+- Topics are mixed: leadership, credit, dating, relationships, faith. TikTok plan should keep one clear topic.
+- Clarifying questions (8) saved as Gmail draft in his thread. Due Wed 11 Nov.

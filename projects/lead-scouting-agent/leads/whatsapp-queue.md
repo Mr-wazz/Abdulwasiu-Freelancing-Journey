@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-12 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Reem Medical Center (Doha)
+
+Message:
+> Hello, I looked at the Reem Medical Center website. Two WhatsApp numbers and two addresses appear, and I could not find prices. A patient who is unsure which number or address is right may go elsewhere. I wrote a short one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/97433318112?text=Hello%2C%20I%20looked%20at%20the%20Reem%20Medical%20Center%20website.%20Two%20WhatsApp%20numbers%20and%20two%20addresses%20appear%2C%20and%20I%20could%20not%20find%20prices.%20A%20patient%20who%20is%20unsure%20which%20number%20or%20address%20is%20right%20may%20go%20elsewhere.%20I%20wrote%20a%20short%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. M&L Advocates (Abu Dhabi)
+
+Message:
+> Hi, I went through the M&L Advocates website. Several links appear to lead nowhere, and there seems to be no contact form. A client who cannot reach you easily will contact another firm. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/971555570005?text=Hi%2C%20I%20went%20through%20the%20M%26L%20Advocates%20website.%20Several%20links%20appear%20to%20lead%20nowhere%2C%20and%20there%20seems%20to%20be%20no%20contact%20form.%20A%20client%20who%20cannot%20reach%20you%20easily%20will%20contact%20another%20firm.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Raha Medical Clinics (Riyadh)
+
+Message:
+> Good day, I checked the Raha Medical Clinics website. Five different brand names appear across the page, and Arabic text seems to show on the English version. That can make a new patient doubt which clinic this is. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/966595803356?text=Good%20day%2C%20I%20checked%20the%20Raha%20Medical%20Clinics%20website.%20Five%20different%20brand%20names%20appear%20across%20the%20page%2C%20and%20Arabic%20text%20seems%20to%20show%20on%20the%20English%20version.%20That%20can%20make%20a%20new%20patient%20doubt%20which%20clinic%20this%20is.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. La Maison Real Estate (Abu Dhabi)
+
+Message:
+> Hello, I read the La Maison Real Estate website. Two enquiry forms appear on the page, and one card seems to be labelled with the wrong area. A buyer who is confused may leave without enquiring. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/971502553641?text=Hello%2C%20I%20read%20the%20La%20Maison%20Real%20Estate%20website.%20Two%20enquiry%20forms%20appear%20on%20the%20page%2C%20and%20one%20card%20seems%20to%20be%20labelled%20with%20the%20wrong%20area.%20A%20buyer%20who%20is%20confused%20may%20leave%20without%20enquiring.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. Abdulla M. Al-Mulla Law Firm (Doha)
+
+Message:
+> Hi there, I visited the Abdulla M. Al-Mulla Law Firm website. Three different firm names appear to be used, and I could not find an appointment form. Clients may not be sure who they are contacting. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/97430009998?text=Hi%20there%2C%20I%20visited%20the%20Abdulla%20M.%20Al-Mulla%20Law%20Firm%20website.%20Three%20different%20firm%20names%20appear%20to%20be%20used%2C%20and%20I%20could%20not%20find%20an%20appointment%20form.%20Clients%20may%20not%20be%20sure%20who%20they%20are%20contacting.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-11 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

@@ -188,3 +188,8 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Lesson: in "Add for Review" always pick the existing draft, never "Create New Submission", and include the subscription groups.
 - 12 Nov: Abdulwasiu reports Apple approved. Still to do: test plans and a purchase on a fresh install.
 - Next: Instagram launch post for Up Agency portfolio (ask Leah's OK first). Upsell: offer step 1 only (store listing pack).
+
+## 12 Nov 2026: growth pitch
+- Leah asked "Open to ideas" for reaching 1,000 users; she emails members from the Base44 admin area.
+- Pitched GoHighLevel (not MailerLite). Plan for Leah written: 02-work/FTLR-GHL-Plan.md. Phases and internal pricing in 04-upsell.md.
+- Instagram launch post content drafted for Up Agency; Leah's OK to show the app is still needed.

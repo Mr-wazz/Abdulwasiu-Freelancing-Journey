@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-13 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Perfect Doctors Clinic (Dubai)
+
+Message:
+> Hello, I looked at the Perfect Doctors Clinic website. Some prices appear twice with different amounts, and I could not find before and after photos. A patient who sees two prices may lose trust before booking. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/971501903845?text=Hello%2C%20I%20looked%20at%20the%20Perfect%20Doctors%20Clinic%20website.%20Some%20prices%20appear%20twice%20with%20different%20amounts%2C%20and%20I%20could%20not%20find%20before%20and%20after%20photos.%20A%20patient%20who%20sees%20two%20prices%20may%20lose%20trust%20before%20booking.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Glamorous Aesthetic Clinic (Dubai)
+
+Message:
+> Hi, I went through the Glamorous Aesthetic Clinic site. Two phone numbers and two addresses appear, and the review counts seem to differ between pages. That can confuse a new client about where to go. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/971501293791?text=Hi%2C%20I%20went%20through%20the%20Glamorous%20Aesthetic%20Clinic%20site.%20Two%20phone%20numbers%20and%20two%20addresses%20appear%2C%20and%20the%20review%20counts%20seem%20to%20differ%20between%20pages.%20That%20can%20confuse%20a%20new%20client%20about%20where%20to%20go.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Clinica Errami (Dubai)
+
+Message:
+> Good day, I checked the Clinica Errami website. Several images appear blank, and the price link seems not to work. A client who cannot see the treatment or the price may move on. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/971504520919?text=Good%20day%2C%20I%20checked%20the%20Clinica%20Errami%20website.%20Several%20images%20appear%20blank%2C%20and%20the%20price%20link%20seems%20not%20to%20work.%20A%20client%20who%20cannot%20see%20the%20treatment%20or%20the%20price%20may%20move%20on.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. Dora Clinics (Riyadh)
+
+Message:
+> Hello, I read the Dora Clinics website. The booking dropdown appears garbled, and every doctor card seems to open the same profile. Patients may struggle to book with the right doctor. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/966500644478?text=Hello%2C%20I%20read%20the%20Dora%20Clinics%20website.%20The%20booking%20dropdown%20appears%20garbled%2C%20and%20every%20doctor%20card%20seems%20to%20open%20the%20same%20profile.%20Patients%20may%20struggle%20to%20book%20with%20the%20right%20doctor.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. NOA Dental Clinic (Dubai)
+
+Message:
+> Hi there, I visited the NOA Dental Clinic website. Book Now appears to send visitors to another site, and the opening hours seem to conflict. A patient who is sent elsewhere may not return. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/971563211745?text=Hi%20there%2C%20I%20visited%20the%20NOA%20Dental%20Clinic%20website.%20Book%20Now%20appears%20to%20send%20visitors%20to%20another%20site%2C%20and%20the%20opening%20hours%20seem%20to%20conflict.%20A%20patient%20who%20is%20sent%20elsewhere%20may%20not%20return.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-12 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

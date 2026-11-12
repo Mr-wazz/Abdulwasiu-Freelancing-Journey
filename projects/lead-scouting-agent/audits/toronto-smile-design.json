@@ -1,0 +1,34 @@
+{
+ "business": "Toronto Smile Design",
+ "owner": "Dr Johnson and the team",
+ "city": "Cumberland Street, Toronto",
+ "website": "torontosmiledesign.ca",
+ "summary": "A cosmetic focus, a three year warranty and implants are strong, but a booking section with no fields and many image typos appear to cost consultations.",
+ "findings": [
+  {
+   "problem": "The Book your Appointment section appears to show only a Submit label with no fields, and BOOK NOW appears as plain text, not a link.",
+   "cost": "A patient ready to book may have no way to do it online.",
+   "fix": "A working booking form with date and treatment choice."
+  },
+  {
+   "problem": "Quick Links such as Smile Makeover, Teeth Whitening and Digital Smile Design have no destination, and Dental Implants and Guided Dental Implants share one page.",
+   "cost": "Dead service links send patients away from your highest value treatments.",
+   "fix": "One working page per treatment."
+  },
+  {
+   "problem": "Image labels read Porcelaine Veneers, Inlamed Gums, Gum Dipigmentation and Crown Lengthing, and the doctor appears as Dr. Johnson Ozgur, Dr.Johnson and Dr. Johnson Ozgur.",
+   "cost": "Spelling slips and changing names weaken trust in cosmetic work.",
+   "fix": "Proofread labels and one consistent doctor profile."
+  },
+  {
+   "problem": "The page asks patients to check reviews but shows none, and a comparison to celebrity smiles has no source.",
+   "cost": "Patients choosing a veneers provider look for real reviews.",
+   "fix": "A live review wall and captioned cases."
+  }
+ ],
+ "redesign": [
+  "A working booking form and one clear page per treatment.",
+  "Proofread copy and a consistent doctor profile.",
+  "Live reviews and captioned smile transformations."
+ ]
+}

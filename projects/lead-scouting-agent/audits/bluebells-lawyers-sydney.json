@@ -1,0 +1,34 @@
+{
+ "business": "Bluebells Lawyers",
+ "owner": "the team",
+ "city": "Bella Vista, Sydney, Australia",
+ "website": "bluebellslawyers.com.au",
+ "summary": "A Sydney commercial, property and wills practice offering big firm expertise is a strength, but a 2015 footer and developer text in the form appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "Three Read More links appear to point to javascript:; and an empty link appears beside the logo.",
+   "cost": "A client who clicks to learn about commercial, property or wills law lands nowhere.",
+   "fix": "Working service pages for every practice area."
+  },
+  {
+   "problem": "Two form fields appear to show the developer note 'This field is for validation purposes and should be left unchanged', and the email appears only as an obfuscated placeholder.",
+   "cost": "Visible test text makes a form look unsafe, and no readable email reduces trust.",
+   "fix": "A clean form and a readable contact email."
+  },
+  {
+   "problem": "The footer appears to read Copyright 2015, and typos appear such as 'Where you property is being compulsorily acquired' and 'Directors & Officers Liabilities'.",
+   "cost": "An old date and typos signal a firm that is not paying attention.",
+   "fix": "A current footer and proofread copy."
+  },
+  {
+   "problem": "Only three testimonials appear with no full names or matter types, and the claim 'big firm expertise in a small firm environment' appears with no named partners.",
+   "cost": "Thin proof gives a business owner little reason to choose you over a bigger firm.",
+   "fix": "Named partners, credentials and fuller testimonials."
+  }
+ ],
+ "redesign": [
+  "Working service pages.",
+  "A clean form and readable email.",
+  "Current footer, named partners and stronger proof."
+ ]
+}

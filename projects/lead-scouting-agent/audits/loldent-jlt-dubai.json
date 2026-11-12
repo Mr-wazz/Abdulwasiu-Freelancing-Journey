@@ -1,0 +1,34 @@
+{
+ "business": "LOLDENT",
+ "owner": "the LOLDENT team",
+ "city": "Dubai, UAE",
+ "website": "loldent.ae",
+ "summary": "A JLT dental clinic appears to lose bookings because stats read zero and appointments only reach a generic form.",
+ "findings": [
+  {
+   "problem": "The hero counters appear to read 0 for Advanced Dental Treatments, Happy Smiles Transformed and Years of Clinical Excellence, while a 15 plus years badge appears.",
+   "cost": "Zeros contradict your own claims and weaken trust.",
+   "fix": "Working counters or fixed numbers."
+  },
+  {
+   "problem": "Make Appointment and Contact Us appear to go to the same contact page, and the forms appear to have no date, time or treatment fields.",
+   "cost": "Patients cannot pick a slot, so many leave.",
+   "fix": "A real booking form with date and time."
+  },
+  {
+   "problem": "The Services menu appears to link to #, and testimonial names appear run together such as William HallManager.",
+   "cost": "Dead links and garbled quotes look unfinished.",
+   "fix": "Working pages and clean testimonials."
+  },
+  {
+   "problem": "No street address or prices appear, doctor photo file names appear to suggest generated images, and one profile appears twice with different titles.",
+   "cost": "Patients want a real address, real dentists and clear prices.",
+   "fix": "Address, real photos and a price guide."
+  }
+ ],
+ "redesign": [
+  "Real booking form.",
+  "Working menus.",
+  "Address, real dentists and prices."
+ ]
+}

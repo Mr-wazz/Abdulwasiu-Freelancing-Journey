@@ -1,0 +1,34 @@
+{
+ "business": "Galadari Advocates and Legal Consultants",
+ "owner": "the Galadari team",
+ "city": "Dubai, UAE",
+ "website": "galadarilaw.com",
+ "summary": "A long established UAE firm appears to lose a little polish to visible page errors that clients see before they see the work.",
+ "findings": [
+  {
+   "problem": "An error message that reads ivory-search 404, search form does not exist, appears in the page near the menu.",
+   "cost": "Visible code errors on a premium firm site make clients doubt the details.",
+   "fix": "Fix or remove the broken search block."
+  },
+  {
+   "problem": "Stray markup characters appear to show in the page text near the header and the end of the page.",
+   "cost": "Broken markup looks careless on a flagship firm site.",
+   "fix": "Clean template markup."
+  },
+  {
+   "problem": "The newsletter consent appears to read Galadari Advocates & legal Consultants One Person LLC with a lowercase legal.",
+   "cost": "Small naming slips weaken a legal brand that sells on precision.",
+   "fix": "One correct company name everywhere."
+  },
+  {
+   "problem": "The page appears to offer a Contact Us path in the menu but no clear single enquiry button or booking option on the first screen.",
+   "cost": "Busy executives leave when the next step is not obvious.",
+   "fix": "One clear consultation button on the first screen."
+  }
+ ],
+ "redesign": [
+  "Remove visible errors.",
+  "Clean markup and naming.",
+  "One clear consultation button."
+ ]
+}

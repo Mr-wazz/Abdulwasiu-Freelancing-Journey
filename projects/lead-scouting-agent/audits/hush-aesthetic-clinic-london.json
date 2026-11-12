@@ -1,0 +1,34 @@
+{
+ "business": "Hush Aesthetic Clinic",
+ "owner": "the Hush Clinic team",
+ "city": "London, UK",
+ "website": "hushclinic.wixsite.com/hush-clinic",
+ "summary": "A Hammersmith aesthetic clinic established in 2001 appears to lose bookings to a broken email link, a free builder address and a 2015 footer.",
+ "findings": [
+  {
+   "problem": "The email address appears with a space after the at sign, and the email link appears to be cut to info@g.",
+   "cost": "Patients who tap the email link reach no one, and you never see the lost enquiry.",
+   "fix": "A working email link and a booking form."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address looks temporary for a clinic that does injectables.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "The footer appears to read 2015.",
+   "cost": "An old year suggests the clinic may not be active.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "The text Hammersmith Clini appears cut off, and no WhatsApp appears.",
+   "cost": "Cut off text looks careless and patients cannot message quickly.",
+   "fix": "Fixed headings and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Working email and booking form.",
+  "Own domain.",
+  "Current footer and WhatsApp."
+ ]
+}

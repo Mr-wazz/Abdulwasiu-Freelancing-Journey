@@ -1,0 +1,34 @@
+{
+ "business": "Bondi Dental",
+ "owner": "Dr Haddon Suttner",
+ "city": "Bondi Beach, Sydney, Australia",
+ "website": "bondidental.com.au",
+ "summary": "A Bondi Beach practice open 8am to 8pm with on site 3D printing is a strength, but dead menu links and booking that leaves the page appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Clinic Hours link appears to point to #, and General and Preventive Care and Orthodontics under Treatments appear to link to # as well.",
+   "cost": "Patients looking for hours or those treatments land nowhere.",
+   "fix": "Working pages for hours and every treatment."
+  },
+  {
+   "problem": "The headings About Bondi Dental, On-Site 3D Dental Printing and Patient Parking appear with no text under them, and 'Pin It on Pinterest' appears as stray text.",
+   "cost": "Empty sections hide your strongest selling points and look unfinished.",
+   "fix": "Written content for each section."
+  },
+  {
+   "problem": "The hero appears to offer only a free 10 minute consultation linking to a contact page, and online booking appears to exist only through an outside link.",
+   "cost": "Patients ready to book have to leave your site, and some will not return.",
+   "fix": "A booking calendar on your own page."
+  },
+  {
+   "problem": "The email appears to be a free hotmail address, only one dentist appears named, and the claims 'no.1 choice' and 'best yet affordable' appear with no evidence.",
+   "cost": "A free email and unproven claims weaken a premium practice.",
+   "fix": "A business email, named team and real reviews."
+  }
+ ],
+ "redesign": [
+  "Working treatment and hours pages.",
+  "Written sections.",
+  "A booking calendar and visible proof."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Smith Immigration Law",
+ "owner": "Adrienne Smith",
+ "city": "Toronto, Canada",
+ "website": "smithimmigrationgroup.com",
+ "summary": "A Toronto immigration firm with media features appears to lose enquiries to a Chat with us button that is not a chat and no contact form.",
+ "findings": [
+  {
+   "problem": "The Chat with us button appears to link to a contact page, and no contact form appears on the page.",
+   "cost": "Visitors expect chat and find none, so they leave.",
+   "fix": "A real chat or a short enquiry form."
+  },
+  {
+   "problem": "Footer links appear to use a duplicate looking page address ending in -1, and the cart icon appears to link to a cart.",
+   "cost": "Leftover pages and a shop cart look odd for a law firm.",
+   "fix": "Clean links and no cart."
+  },
+  {
+   "problem": "A testimonial appears to say they combines, the section appears to say Lawyers but shows one lawyer, and images appear to be named as screenshots.",
+   "cost": "Typos and leftover image names reduce trust.",
+   "fix": "Proofread copy and clean images."
+  },
+  {
+   "problem": "Testimonials and media logos appear with no dates, case types or article links, and no copyright date appears.",
+   "cost": "Undated proof is hard to trust.",
+   "fix": "Dated reviews and linked press features."
+  }
+ ],
+ "redesign": [
+  "Chat or form.",
+  "Clean links.",
+  "Proofread copy and dated proof."
+ ]
+}

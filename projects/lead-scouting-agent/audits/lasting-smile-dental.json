@@ -1,0 +1,33 @@
+{
+ "business": "Lasting Smile Dental Clinics",
+ "owner": "the Lasting Smile team",
+ "city": "Al Olaya, Riyadh",
+ "website": "lastingsmile.com",
+ "summary": "Lasting Smile has operated since 1998, with WhatsApp in several places. Leftover template details undermine trust right where patients decide.",
+ "findings": [
+  {
+   "problem": "The counters (Years of Experience, Happy Patients, Expert Dentists, review score) show 0 as I saw them. The page also gives 28 years and 25 years, and 517 reviews and 527 reviews.",
+   "cost": "Zeros and conflicting numbers make patients doubt every claim on the page.",
+   "fix": "One verified set of numbers, shown correctly."
+  },
+  {
+   "problem": "All four doctor profile links appear to point to a third party demo domain (demo.awaikenthemes.com), and the slugs do not match the doctors named.",
+   "cost": "A patient who clicks a doctor and lands on a template demo loses trust in the whole clinic.",
+   "fix": "Real profile pages for every doctor."
+  },
+  {
+   "problem": "The footer phone label shows 920010617 but its link points to a different number. Leftover image labels such as Home 3 and Home 13 remain.",
+   "cost": "A phone link that dials the wrong number loses calls, and leftover labels make the page look unfinished.",
+   "fix": "Correct phone links and a clean, finished page."
+  },
+  {
+   "problem": "No testimonials are visible, the before and after images have no captions, the blog has no posts and Friday hours are missing.",
+   "cost": "Patients choose on visible results and clear hours. An empty proof section sends them to a clinic that shows both.",
+   "fix": "Real reviews, captioned results and complete opening hours."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with accurate numbers, real doctor profiles and captioned results beside every booking button.",
+  "A short booking form plus WhatsApp using reliable links, so a patient books in under 30 seconds."
+ ]
+}

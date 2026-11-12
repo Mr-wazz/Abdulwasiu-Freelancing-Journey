@@ -1,0 +1,29 @@
+{
+ "business": "Retaj Real Estate",
+ "owner": "the Retaj Real Estate team",
+ "city": "Doha, Qatar",
+ "website": "retaj-realestate.com",
+ "summary": "A Qatar developer with over 80 projects appears to lose serious buyers because template demo menu items and a default filter option are still on show.",
+ "findings": [
+  {
+   "problem": "The page menu appears to still carry the theme demo list: Default With Caption, Side Search With Map, Splash Slider, Typography and Page 404.",
+   "cost": "A buyer or investor who sees demo names on a developer's site starts to doubt how carefully the company runs a project worth millions.",
+   "fix": "A clean menu with only Buy, Rent, Projects and Contact."
+  },
+  {
+   "problem": "The property search status filter appears to offer an Out of Stock option next to For Rent and For Sale.",
+   "cost": "A visitor who picks it finds nothing, and a search that returns nothing sends the buyer to a competitor.",
+   "fix": "A search filter that shows only options with real listings."
+  },
+  {
+   "problem": "Different Retaj teams appear to use separate WhatsApp numbers for leasing, maintenance and sales, with no single lead form for new buyers on the homepage.",
+   "cost": "A new buyer does not know which number to message, and an unanswered message is a lost sale.",
+   "fix": "One clear enquiry path that sends each lead to the right team."
+  }
+ ],
+ "redesign": [
+  "Clean menu, no demo names.",
+  "Search that shows real stock only.",
+  "One enquiry path to the right team."
+ ]
+}

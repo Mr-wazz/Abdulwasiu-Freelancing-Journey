@@ -1,0 +1,34 @@
+{
+ "business": "Cosmocare Medical Center",
+ "owner": "Dr Murtuza Bandukwala and the team",
+ "city": "Jumeirah 2, Dubai",
+ "website": "cosmocaremedicalcenter.com",
+ "summary": "A Jumeirah location and a clear Botox starting price are strengths, but request forms that appear to have no fields and conflicting details cost you bookings.",
+ "findings": [
+  {
+   "problem": "The Request Form shows a Select Service list and a Request button but no name, phone or date fields, and Ask the Experts shows Ask Now with no input fields.",
+   "cost": "A patient who wants to book or ask a question cannot leave details.",
+   "fix": "Working forms with a clear confirmation and WhatsApp."
+  },
+  {
+   "problem": "The header gives the address as Villa 464, Jumeirah 2 while the branch section says Villa No. 4 Al Wasl Rd, and working hours show Sat-Fri 09:00 to 21:00 beside Sat-Thu 08:00 to 21:00.",
+   "cost": "Conflicting addresses and hours cause missed visits.",
+   "fix": "One verified address and set of hours."
+  },
+  {
+   "problem": "The copy shows 'General Practioner', 'On average it costs starts from 299 AED', and a copyright of 2010-2030, and Nearby Areas lists a cleaning company link.",
+   "cost": "Typos and odd leftovers weaken a medical brand.",
+   "fix": "Proofread copy and a clean footer."
+  },
+  {
+   "problem": "The title promises Botox & Dermal Fillers prices but only Botox shows, no before and after images or reviews appear, and blog posts date from 2020 and 2021.",
+   "cost": "Cosmetic patients decide on proof and prices and find little.",
+   "fix": "Full pricing, captioned results and reviews."
+  }
+ ],
+ "redesign": [
+  "Working forms with WhatsApp and a clear confirmation.",
+  "One verified address and set of hours.",
+  "Full pricing, captioned results and reviews."
+ ]
+}

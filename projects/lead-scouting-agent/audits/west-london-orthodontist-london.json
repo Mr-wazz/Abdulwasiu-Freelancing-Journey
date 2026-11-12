@@ -1,0 +1,34 @@
+{
+ "business": "West London Orthodontist",
+ "owner": "Dr Chaw-Su Kyi",
+ "city": "London, UK",
+ "website": "westlondonorthodontist.co.uk",
+ "summary": "A specialist orthodontic studio with a 5.0 Google rating and Invisalign focus is a strength, but unclear fees and mixed names appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The Invisalign consultation appears labelled free but requires a 30 pound deposit, and a 95 pound children's consultation fee appears next to a From 95 pounds monthly plan.",
+   "cost": "Unclear fees confuse patients and cost bookings.",
+   "fix": "One clear fees section."
+  },
+  {
+   "problem": "The practice appears named West London Orthodontics in the FAQ and West London Orthodontist elsewhere, and the award title appears in two versions.",
+   "cost": "Mixed names and titles weaken a premium brand.",
+   "fix": "One brand name and one verified award title."
+  },
+  {
+   "problem": "The email address appears only as an obfuscated placeholder, and a second address at 23 Harley Street appears in the footer with no explanation.",
+   "cost": "Patients cannot tell where to go or how to write to you.",
+   "fix": "A readable contact email and one clear locations page."
+  },
+  {
+   "problem": "The text 'Swipe to watch' appears with only one written testimonial, the practice tour film appears with no player, and the footer appears to show 'Last updated 30 October 2026'.",
+   "cost": "Missing media and odd dates make the site look unfinished.",
+   "fix": "Working video and review blocks."
+  }
+ ],
+ "redesign": [
+  "One clear fees section.",
+  "One brand name and verified award.",
+  "A readable email, clear locations, working video and reviews."
+ ]
+}

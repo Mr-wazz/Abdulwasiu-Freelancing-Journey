@@ -1,0 +1,34 @@
+{
+ "business": "London Luxury Property",
+ "owner": "the London Luxury Property team",
+ "city": "Montpelier Street, London",
+ "website": "londonluxproperty.com",
+ "summary": "A Knightsbridge office and compliance certificates are strengths, but a valuation form that appears to be missing and a dead registration link cost you vendors.",
+ "findings": [
+  {
+   "problem": "The valuation section says Simply fill out the form but no form appears, and the Get in touch form shows flattened labels with no visible fields or submit button.",
+   "cost": "Vendors who want a valuation cannot request one.",
+   "fix": "A working valuation and enquiry form."
+  },
+  {
+   "problem": "The HMRC AML registration number links to #, and the header email link has an empty mailto target.",
+   "cost": "A dead compliance link and a broken email link weaken trust.",
+   "fix": "Working compliance and email links."
+  },
+  {
+   "problem": "A friendly and professional team at your service appears twice, Read more is the link text on all four listings, and the Nearest branch field lists only one option.",
+   "cost": "Repeated lines and vague links make the page feel generic.",
+   "fix": "Distinct copy and descriptive links."
+  },
+  {
+   "problem": "The page claims over 65 years of combined local knowledge and The Best Price with no named agents, sales figures, reviews or awards.",
+   "cost": "Vendors choose on proof and see none.",
+   "fix": "Named agents, reviews and sales figures."
+  }
+ ],
+ "redesign": [
+  "A working valuation form with WhatsApp.",
+  "Working compliance and email links.",
+  "Named agents, reviews and sales figures."
+ ]
+}

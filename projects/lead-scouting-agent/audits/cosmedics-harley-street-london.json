@@ -1,0 +1,34 @@
+{
+ "business": "Cosmedics Skin Clinic",
+ "owner": "the Cosmedics team",
+ "city": "London, United Kingdom",
+ "website": "cosmedics.co.uk",
+ "summary": "A Harley Street skin clinic appears to lose bookings because the Book Online buttons and contact form do not appear to work.",
+ "findings": [
+  {
+   "problem": "Every Book Online button appears to point to an on page anchor that does not exist, so booking may not work.",
+   "cost": "Ready patients cannot book and leave.",
+   "fix": "Booking buttons that open a working booking page."
+  },
+  {
+   "problem": "The contact form appears to be only an image with no visible fields.",
+   "cost": "Patients who want to write cannot.",
+   "fix": "A working enquiry form."
+  },
+  {
+   "problem": "Sunekos appears to show From TBC as its price, and the slider controls appear to read nexxt slide.",
+   "cost": "Placeholders and typos make the clinic look unfinished.",
+   "fix": "Real prices and proofread copy."
+  },
+  {
+   "problem": "The Patient Reviews heading appears to show no reviews, hours appear as 10am to 5pm and also 9am to 5:30pm, and some claims appear unsourced.",
+   "cost": "Missing proof and conflicting hours reduce trust.",
+   "fix": "Real reviews and one set of hours."
+  }
+ ],
+ "redesign": [
+  "Working booking.",
+  "Working form.",
+  "Real prices, reviews and hours."
+ ]
+}

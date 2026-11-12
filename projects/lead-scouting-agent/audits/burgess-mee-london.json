@@ -1,0 +1,34 @@
+{
+ "business": "Burgess Mee",
+ "owner": "Antonia Mee and Peter Burgess",
+ "city": "London, UK",
+ "website": "burgessmee.com",
+ "summary": "An award winning trauma informed family law firm with several offices is a strength, but a missing contact form and dead award links appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The main call to action appears to be 'find out more' or a bare icon linking to /contact#form, and no contact form or fields appear on the homepage.",
+   "cost": "A client in a stressful moment has no quick way to ask for help from the page.",
+   "fix": "A short confidential enquiry form on the homepage."
+  },
+  {
+   "problem": "The hero appears to describe the firm as 'family law' in one line and 'family and private wealth law' in another, and no private wealth services appear in the list.",
+   "cost": "Mixed descriptions confuse a client choosing the right firm.",
+   "fix": "One clear positioning line and a matching services list."
+  },
+  {
+   "problem": "The Times Best Law Firms badge appears to link to #, a team tile appears to read 'Burgess Mee' with a placeholder image, and two partners appear to share the same placeholder photo.",
+   "cost": "Dead badges and missing photos weaken the proof you rely on.",
+   "fix": "Working award links and real team photos."
+  },
+  {
+   "problem": "Awards appear only as logos with no context, no client testimonials or outcomes appear, and the services section appears to list no specific services.",
+   "cost": "A nervous client needs proof and clear services before calling.",
+   "fix": "Described awards, anonymised outcomes and a detailed services list."
+  }
+ ],
+ "redesign": [
+  "A homepage enquiry form.",
+  "One clear positioning and services list.",
+  "Working award links, real photos and visible proof."
+ ]
+}

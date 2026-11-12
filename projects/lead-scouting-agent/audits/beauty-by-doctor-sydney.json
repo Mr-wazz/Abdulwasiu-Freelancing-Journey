@@ -1,0 +1,34 @@
+{
+ "business": "Beauty By Doctor",
+ "owner": "Dr Phoebe Jones and team",
+ "city": "Bondi Junction, Sydney",
+ "website": "beautybydoctor.com",
+ "summary": "Beauty By Doctor has a doctor led brand, press features and a treatment quiz. Typos and dead links on the main menu, and no patient proof, weaken a clinic that sells medical credibility.",
+ "findings": [
+  {
+   "problem": "Typos on the page include physcian, Cosmentic Injectables Boom, fro women only and Sededation, and a double space in Dr  Phoebe. A title reads Lenisna vs Rejuran... Introduction.",
+   "cost": "A doctor led clinic sells care and accuracy. Typos in headlines make patients question both.",
+   "fix": "A proofread build with consistent, clean headlines."
+  },
+  {
+   "problem": "The Treatments and Concern menu items link to # or javascript:void(0), so they do not go anywhere. Some Book Now buttons have no link.",
+   "cost": "A patient who clicks Treatments and sees nothing leaves, and a Book Now that does nothing loses a booking.",
+   "fix": "Working menus and every Book Now linked to booking."
+  },
+  {
+   "problem": "No patient reviews or before and after galleries appear, and press features are mostly about the doctor, not patient results.",
+   "cost": "Press builds authority, but injectable patients decide on results they can see.",
+   "fix": "Captioned results with consent and verified patient reviews."
+  },
+  {
+   "problem": "Mega menus repeat long treatment and concern lists several times, with some concerns listed twice. Stray markup fragments appear in press blurbs. There is no contact form or chat.",
+   "cost": "A crowded menu slows visitors, and stray markup looks unfinished. Patients with a question have nowhere to ask.",
+   "fix": "A simpler menu, clean blurbs and a short contact form with chat."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with captioned results, reviews and press beside every booking button.",
+  "A simple menu, working links and one clear booking path.",
+  "Treatment pages written to rank for searches like anti wrinkle injections Bondi Junction and Sydney cosmetic doctor."
+ ]
+}

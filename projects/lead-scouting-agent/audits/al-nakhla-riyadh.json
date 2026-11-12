@@ -1,0 +1,34 @@
+{
+ "business": "Al Nakhla Residential Resort",
+ "owner": "the Al Nakhla team",
+ "city": "Riyadh",
+ "website": "alnakhla.sa",
+ "summary": "Villas and apartments close to the city with a named general manager are strengths, but repeated lists, conflicting facts and booking only through an outside system appear to cost you residents.",
+ "findings": [
+  {
+   "problem": "The villa and apartment lists appear three times, and View Available Units, Explore residences and Explore Residences all go to one page.",
+   "cost": "Repeated lists and duplicate buttons bury what a tenant needs.",
+   "fix": "One clean listing with clear filters."
+  },
+  {
+   "problem": "The page claims 23 swimming pools while the general manager mentions a semi olympic swimming pool, and it calls itself both a resort and a compound.",
+   "cost": "Conflicting claims make visitors doubt your facilities.",
+   "fix": "One verified list of facilities and one name."
+  },
+  {
+   "problem": "The only form is a newsletter field, booking goes to an outside system, and the Residents Portal link uses plain http on a dynamic address.",
+   "cost": "Prospects have no easy enquiry form, and an insecure link harms trust.",
+   "fix": "An on site enquiry and viewing form and a secure portal link."
+  },
+  {
+   "problem": "The page shows one testimonial from Robert with no date, award logos with no names, and image text such as Evgen.",
+   "cost": "Thin proof and leftover labels weaken a premium offer.",
+   "fix": "Dated resident reviews and named awards."
+  }
+ ],
+ "redesign": [
+  "One clean listing for villas and apartments.",
+  "An on site enquiry form, WhatsApp and viewing booking.",
+  "Verified facilities, dated reviews and named awards."
+ ]
+}

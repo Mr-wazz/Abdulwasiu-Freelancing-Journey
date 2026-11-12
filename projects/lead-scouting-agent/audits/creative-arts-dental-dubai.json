@@ -1,0 +1,34 @@
+{
+ "business": "Creative Arts Dental and Aesthetics",
+ "owner": "Dr Kazzaz and the team",
+ "city": "Jumeirah, Dubai",
+ "website": "creativeartsaesthetic.com",
+ "summary": "A 4.8 Google rating and specialist orthodontists are strengths, but four overlapping forms and off topic photos on the braces page appear to cost you cases.",
+ "findings": [
+  {
+   "problem": "The orthodontics page appears to show four booking forms (Request a consultation, Book Your Consultation, Get your free treatment plan and a popup), and the popup lists Emergency Dental and Aesthetic / Skin.",
+   "cost": "Too many forms confuse patients and dilute the enquiry.",
+   "fix": "One clear booking form."
+  },
+  {
+   "problem": "The forms appear to include a stray Website field and a loose Company label.",
+   "cost": "Odd fields add friction and look unfinished.",
+   "fix": "Short form: name, phone, treatment."
+  },
+  {
+   "problem": "The braces page appears to be headed 'Smiles made at Creative Arts' but shows porcelain veneer photos, with no braces or aligner before and after cases.",
+   "cost": "Patients looking for braces see no proof of braces results.",
+   "fix": "Real orthodontic cases with captions."
+  },
+  {
+   "problem": "The page cites 242 reviews but appears to show no excerpts, the reviewer is listed as a veneers dentist, and the menu text appears to run together such as 'Dental crownsZirconia'.",
+   "cost": "Missing proof and mismatched credentials weaken trust.",
+   "fix": "Review excerpts, the specialist's name and a clean menu."
+  }
+ ],
+ "redesign": [
+  "One clear booking form.",
+  "Real braces and aligner cases.",
+  "Review excerpts and the specialist's profile."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Lucia Clinic",
+ "owner": "the Lucia Clinic team",
+ "city": "Jumeirah, Dubai",
+ "website": "luciaclinic.com",
+ "summary": "Lucia Clinic has a famous founder, a strong team and press. The homepage has errors that visitors can see, and its booking buttons do not send them anywhere.",
+ "findings": [
+  {
+   "problem": "The Instagram section shows the visible error No feed with the ID 1 found, and the Moments Worth Sharing grid has blank image tiles.",
+   "cost": "A visible error on a premium clinic homepage makes patients doubt how well the clinic is run.",
+   "fix": "A working social feed or a clean section without it."
+  },
+  {
+   "problem": "The hero Book An Appointment and BOOK NOW buttons link to #, and menu parents like Procedures and Face go nowhere. Booking is a callback form.",
+   "cost": "A patient ready to book clicks and nothing happens. That is a lost booking at a high value treatment price.",
+   "fix": "One working booking path with online scheduling, and WhatsApp as the second option."
+  },
+  {
+   "problem": "Testimonials come mostly from celebrities and influencers, with no ordinary patient reviews, star ratings or counts. Before and after images have no captions.",
+   "cost": "Patients trust people like themselves and want to see the procedure and timeline behind each result.",
+   "fix": "Verified patient reviews with ratings and captioned before and after cases."
+  },
+  {
+   "problem": "Typos and repeats: Tin Lips, 199,2 for a year, FACE and BODY headings doubled, Skin Tags listed twice, Anti-ageing and Anti-aging mixed.",
+   "cost": "Small errors weaken an image of precision that a medical aesthetic clinic depends on.",
+   "fix": "A proofread build with consistent copy and clean sections."
+  }
+ ],
+ "redesign": [
+  "A premium homepage with one clear booking path and WhatsApp on every page.",
+  "Procedure pages that rank for searches like lip fillers Dubai and laser Dubai.",
+  "Real patient proof next to every booking button: reviews, stars and captioned results."
+ ]
+}

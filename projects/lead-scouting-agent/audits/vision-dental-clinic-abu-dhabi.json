@@ -1,0 +1,34 @@
+{
+ "business": "Vision Dental Clinic",
+ "owner": "Dr Hussein Salah Tahoun",
+ "city": "Abu Dhabi, UAE",
+ "website": "visiondentalclinic.com",
+ "summary": "An Abu Dhabi clinic with over 1,000 Google reviews and a named medical director is a strength, but cut off service text and booking on another website appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Service descriptions appear cut off, for example 'Dental Implant is a material or device placed in and...' and 'Metal Braces are mostly made up of stainless steel brackets...'.",
+   "cost": "Patients cannot read what you offer and may go elsewhere.",
+   "fix": "Finished descriptions for every service."
+  },
+  {
+   "problem": "The Book Appointment button appears to send patients to a third party website, and no opening hours or WhatsApp option appear.",
+   "cost": "Patients who prefer WhatsApp or want hours before booking have no route.",
+   "fix": "A booking form on your own site, visible hours and a WhatsApp button."
+  },
+  {
+   "problem": "The medical director's name appears in two spellings, the 30 year team claim appears below his own 35 years, and the license label appears in two forms.",
+   "cost": "Mixed names and numbers weaken trust in a medical brand.",
+   "fix": "Consistent names, figures and license text."
+  },
+  {
+   "problem": "Four of five dentists appear with only a title and no bio, and only nine of the 1049 reviews appear on the page.",
+   "cost": "Patients choosing a dentist want to know who will treat them.",
+   "fix": "Dentist bios with qualifications and a live reviews feed."
+  }
+ ],
+ "redesign": [
+  "Finished service descriptions.",
+  "On site booking, hours and WhatsApp.",
+  "Consistent details, dentist bios and reviews."
+ ]
+}

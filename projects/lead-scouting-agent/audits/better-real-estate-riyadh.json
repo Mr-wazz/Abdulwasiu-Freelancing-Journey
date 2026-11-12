@@ -1,0 +1,34 @@
+{
+ "business": "Better Real Estate",
+ "owner": "the Better Real Estate team",
+ "city": "Riyadh, Saudi Arabia",
+ "website": "betterrealestate.sa",
+ "summary": "A Riyadh brokerage appears to lose seller and buyer leads to a name mix up, vague calls to action and no proof.",
+ "findings": [
+  {
+   "problem": "The company appears as Better Real Estate, Better Property and BETTER PROPERTY across the title, logo and footer.",
+   "cost": "Mixed names confuse owners and hurt search visibility.",
+   "fix": "One brand name everywhere."
+  },
+  {
+   "problem": "The hero buttons appear to be plain labels such as Sell Real Estate, and the closing section Make your dreams a reality appears to have no button or form.",
+   "cost": "Visitors have no clear next step.",
+   "fix": "Action buttons and an enquiry form."
+  },
+  {
+   "problem": "The phone link appears to use tel:// and the WhatsApp link appears to include a plus sign, and the address appears with no city.",
+   "cost": "Mobile visitors may fail to call or message.",
+   "fix": "Clean call and WhatsApp links and a full address."
+  },
+  {
+   "problem": "No reviews, licence number, team names or listing counts appear, and image files appear to carry stock photo names.",
+   "cost": "Owners choose a licensed agent they can see and verify.",
+   "fix": "Licence details, team profiles and reviews."
+  }
+ ],
+ "redesign": [
+  "One brand name.",
+  "Clear buttons and form.",
+  "Working links and proof."
+ ]
+}

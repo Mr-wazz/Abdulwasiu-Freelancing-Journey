@@ -1,0 +1,34 @@
+{
+ "business": "Dr Haus Dermatology",
+ "owner": "the Dr Haus team",
+ "city": "Harley Street, London",
+ "website": "drhausdermatology.com",
+ "summary": "CQC rated care, strong reviews and an established Harley Street name are strengths, but dead menus and typos in reviews appear to weaken a premium brand.",
+ "findings": [
+  {
+   "problem": "The menu headings Face And Neck, Body, Facials, Skin and General link to #, and Laser Scar Reduction links to the acne scar page.",
+   "cost": "Patients browsing treatments hit dead ends or land on the wrong page.",
+   "fix": "Working menus and correct treatment links."
+  },
+  {
+   "problem": "The footer block Medical, Laser Skin Treatments, Teenagers, General appears twice, and the same treatments are listed under both Face and Neck and Skin.",
+   "cost": "Repeated blocks make the page feel cluttered and hide what matters.",
+   "fix": "One clean treatment structure."
+  },
+  {
+   "problem": "Reviews show 'Dr Haus Dermtology', 'experencing' and 'Dr Atessa AssimShe', and Ultherapy PRIME and Ultherapy Prime are both used.",
+   "cost": "Unedited text and mixed spellings weaken a premium medical brand.",
+   "fix": "Proofread reviews and one consistent naming style."
+  },
+  {
+   "problem": "The callback form shows a visible validation note and a Captcha label with no visible captcha, and the page says award winning without naming an award.",
+   "cost": "Leftover form text and unnamed awards reduce trust at the point of enquiry.",
+   "fix": "A clean tested form and named, linked awards."
+  }
+ ],
+ "redesign": [
+  "Working menus and one clean treatment structure.",
+  "A clean enquiry form with a WhatsApp option.",
+  "Named awards, linked CQC report and proofread reviews."
+ ]
+}

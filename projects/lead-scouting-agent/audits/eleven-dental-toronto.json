@@ -1,0 +1,34 @@
+{
+ "business": "Eleven Dental",
+ "owner": "Dr Daria and team",
+ "city": "Toronto, Canada",
+ "website": "elevendental.ca",
+ "summary": "A Yorkville spa dentistry clinic appears to lose bookings to dead menu items, mixed booking messages and unnamed proof.",
+ "findings": [
+  {
+   "problem": "The About and Oral Surgery menu items appear to link to #, and one Learn More card appears to link to the wrong service page.",
+   "cost": "Patients exploring the clinic or treatments hit dead ends.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The header pushes Book Online while the FAQ appears to say to call to book, and the contact form appears to have no appointment type or preferred time.",
+   "cost": "Mixed messages and a thin form lose ready patients.",
+   "fix": "One clear booking path and a complete form."
+  },
+  {
+   "problem": "The brand appears as Eleven Dental, 11 Dental and 11 Dentistry, and typos such as Stop going to the dentist come to Eleven appear.",
+   "cost": "Mixed names and typos weaken trust.",
+   "fix": "One brand name and proofread copy."
+  },
+  {
+   "problem": "Seven reviews appear with no total rating, doctors appear named only in reviews, and most images appear to be blank placeholders.",
+   "cost": "Patients want to see who treats them and see real photos.",
+   "fix": "Named dentists, a rating summary and real images."
+  }
+ ],
+ "redesign": [
+  "Working menus.",
+  "One booking path.",
+  "Dentist profiles and real photos."
+ ]
+}

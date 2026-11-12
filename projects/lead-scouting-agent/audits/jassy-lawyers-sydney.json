@@ -1,0 +1,34 @@
+{
+ "business": "Jassy Lawyers",
+ "owner": "the team",
+ "city": "Bondi Junction, Sydney, Australia",
+ "website": "jassylawyers.com.au",
+ "summary": "A Bondi Junction firm with almost three decades of experience is a strength, but a dead Free Consultation button and a 2023 footer appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The Free Consultation button appears three times and links to #, and Terms and Conditions, Privacy Policy, Get a Call Back and the search icon appear to link to # as well.",
+   "cost": "A client ready to enquire hits a dead button.",
+   "fix": "Working consultation and policy pages."
+  },
+  {
+   "problem": "The footer appears to read 2023, the header appears to read JassyLawyer while the logo says Jassy Lawyers, and a staging address appears in the page code.",
+   "cost": "An old date and mixed names make a firm look inactive.",
+   "fix": "A current footer and one consistent name."
+  },
+  {
+   "problem": "The time dropdown appears to show options run together (8 AM9 AM10 AM), the phone number appears with no area code, and the phone link appears to contain a space.",
+   "cost": "Broken form details and a phone link that may not dial lose enquiries.",
+   "fix": "A clean form and a correct click to call link."
+  },
+  {
+   "problem": "No lawyers, testimonials or case results appear, only statements such as 'proven experts' and 'decades of experience'.",
+   "cost": "Clients choosing a lawyer need proof of who they are hiring.",
+   "fix": "Named lawyers, credentials and client feedback."
+  }
+ ],
+ "redesign": [
+  "Working buttons and policy pages.",
+  "A current footer and one name.",
+  "A clean form, named lawyers and visible proof."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Ashmans Solicitors",
+ "owner": "the Ashmans team",
+ "city": "Leeds, UK",
+ "website": "ashmanssolicitors.weebly.com",
+ "summary": "A multi office criminal and personal injury firm appears to lose enquiries to typos in its menu and headings, a free builder address and a cluttered menu.",
+ "findings": [
+  {
+   "problem": "The menu appears to read Ashamns Solicitors Dewsbury and Ashmans Solicitors SHeffield, and a heading appears to say YEARS IN BUSNESS.",
+   "cost": "A client choosing a defence solicitor under stress reads the firm name misspelled in the menu, and doubts how careful the firm is.",
+   "fix": "Clean headings and menu labels."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, while your email uses ashmanssolicitors.com.",
+   "cost": "A free builder address makes a firm with six offices look smaller than it is, and clients who check before calling may go elsewhere.",
+   "fix": "Your own domain on the site."
+  },
+  {
+   "problem": "The menu appears to list Google My Business, Bio Page and RSS beside the main pages, with many town pages repeated.",
+   "cost": "Clients cannot find the service they need in a menu this crowded, and a crowded menu makes visitors leave.",
+   "fix": "A short menu by service and by office."
+  },
+  {
+   "problem": "The counters for years in business, happy clients and team members appear to show no numbers.",
+   "cost": "A firm that claims proof but shows none gives a nervous client less reason to trust it with a serious case.",
+   "fix": "Real figures and named results."
+  }
+ ],
+ "redesign": [
+  "Clean menu and headings.",
+  "Own domain.",
+  "Proof counters and a clear enquiry button."
+ ]
+}

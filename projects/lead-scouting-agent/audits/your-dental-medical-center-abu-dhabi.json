@@ -1,0 +1,34 @@
+{
+ "business": "YOUR Dental and Medical Center",
+ "owner": "the YDMC team",
+ "city": "Abu Dhabi, UAE",
+ "website": "ydmc.ae",
+ "summary": "A two location Abu Dhabi clinic appears to lose patients to wrong links, mixed branding and no opening hours.",
+ "findings": [
+  {
+   "problem": "The Google Reviews link appears to open a search for a different business name, and the footer WhatsApp message appears to name another clinic.",
+   "cost": "Patients may land on the wrong business and doubt who you are.",
+   "fix": "Links and messages that use your own clinic name."
+  },
+  {
+   "problem": "The Book Now link appears to be a popup anchor, the hero and About sections appear twice, and no opening hours appear.",
+   "cost": "Patients cannot easily book or confirm when you are open.",
+   "fix": "One clear booking button and visible hours."
+  },
+  {
+   "problem": "Typos such as Costmetic Dentistry, Hyfra Facial and qaFounded in 2016 appear, and the clinic name appears in five different forms.",
+   "cost": "Typos and mixed names weaken trust in a medical brand.",
+   "fix": "Proofread copy and one brand name."
+  },
+  {
+   "problem": "Five doctors appear to share one placeholder image, a reviewed doctor appears not to be listed, and the General Dentistry card appears to describe cosmetic dentistry.",
+   "cost": "Patients choose a dentist they can see, and mismatched cards confuse them.",
+   "fix": "Real doctor photos and correct service cards."
+  }
+ ],
+ "redesign": [
+  "Own brand links.",
+  "One booking button and hours.",
+  "Doctor profiles and clean copy."
+ ]
+}

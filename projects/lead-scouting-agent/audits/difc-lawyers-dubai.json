@@ -1,0 +1,34 @@
+{
+ "business": "DIFC Lawyers",
+ "owner": "the DIFC Lawyers team",
+ "city": "Sheikh Zayed Road, Dubai",
+ "website": "difclawyers.com",
+ "summary": "A clear DIFC and ADGM focus and a working enquiry form are strong, but unfinished text and no visible phone number appear to cost you high value enquiries.",
+ "findings": [
+  {
+   "problem": "The regulatory section ends mid sentence with 'the Financial Services', the consultation section starts in lowercase with no subject, and blog posts all carry the same date.",
+   "cost": "Cut off sentences on a law firm page make clients doubt the care behind the advice.",
+   "fix": "Finished, proofread copy and real publish dates."
+  },
+  {
+   "problem": "No phone number appears as text. The only number sits inside a WhatsApp link, and several icon links have no label.",
+   "cost": "Corporate clients who want to call cannot find a number quickly.",
+   "fix": "A visible click to call number and labelled contact options."
+  },
+  {
+   "problem": "The logo appears to use a blank placeholder image and the legal concepts link goes to the family law page.",
+   "cost": "A missing logo and wrong links weaken trust at first glance.",
+   "fix": "A working logo and correct links."
+  },
+  {
+   "problem": "No client testimonials, case results or registration details appear, and only one lawyer is named.",
+   "cost": "Companies choosing a DIFC firm look for named lawyers and proof.",
+   "fix": "Named team profiles, credentials and client proof."
+  }
+ ],
+ "redesign": [
+  "A clear first screen with a visible phone number, WhatsApp and one enquiry form.",
+  "Finished copy, a named team and dated, useful articles.",
+  "Credentials and client proof placed beside every call to action."
+ ]
+}

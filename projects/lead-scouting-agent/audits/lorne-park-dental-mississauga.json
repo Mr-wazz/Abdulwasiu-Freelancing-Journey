@@ -1,0 +1,34 @@
+{
+ "business": "Lorne Park Dental",
+ "owner": "Dr Rosanna Fasciani, Dr Nahim Ali and Dr Corcoran",
+ "city": "Mississauga, Canada",
+ "website": "lorneparkdental.com",
+ "summary": "A Mississauga family practice with three named dentists and an accessible office is a strength, but a booking form with no visible submit button and mixed team links appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The appointment form appears to show raw dropdown text ('Preferred Time - None - MorningAfternoon') and no visible submit button.",
+   "cost": "A new patient who tries to request an appointment may not know how to finish.",
+   "fix": "A clean booking form with a visible button and confirmation."
+  },
+  {
+   "problem": "The main menu appears to link to /meet-our-mississauga-team while the body links to /meet-our-team, and the carousel Previous and Next buttons appear to point to the same anchor.",
+   "cost": "Patients may land on a broken page or a carousel that does not move.",
+   "fix": "One correct team page and working carousel controls."
+  },
+  {
+   "problem": "The Google Maps link in the header appears to end in a stray '6', and Friday hours appear in a different format from the other days.",
+   "cost": "A broken map link and mixed hours cost patients who come to find you.",
+   "fix": "A correct map link and one hours format."
+  },
+  {
+   "problem": "Only one unattributed testimonial appears with no ratings or review count, and Dr Corcoran appears with no first name.",
+   "cost": "Thin proof and half named staff weaken trust for a new patient.",
+   "fix": "Named reviews with ratings and full dentist profiles."
+  }
+ ],
+ "redesign": [
+  "A clean booking form.",
+  "One team page and working controls.",
+  "A correct map link, one hours format and visible proof."
+ ]
+}

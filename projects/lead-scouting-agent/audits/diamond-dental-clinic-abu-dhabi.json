@@ -1,0 +1,29 @@
+{
+ "business": "Diamond Dental Clinic",
+ "owner": "the Diamond Dental Clinic team",
+ "city": "Abu Dhabi, UAE",
+ "website": "drbaherbarsoum.wixsite.com/diamonddentalclinic",
+ "summary": "An Abu Dhabi dental clinic open since 1992 appears to lose new patients to a free builder address, a 2020 date and a hotmail contact.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "Patients check a clinic's credibility online first, and a free builder address looks temporary for a clinic trading since 1992.",
+   "fix": "Your own domain and a clinic email."
+  },
+  {
+   "problem": "The page appears to carry a 2020 copyright date.",
+   "cost": "An old date tells a patient the clinic may not be active, so they book a competitor.",
+   "fix": "A fresh, current page."
+  },
+  {
+   "problem": "The contact appears to be a hotmail address.",
+   "cost": "A free email gives less trust, and it can land in spam when patients and insurers write to you.",
+   "fix": "A clinic email on your own domain."
+  }
+ ],
+ "redesign": [
+  "Own domain and clinic email.",
+  "Fresh look with doctors and insurance.",
+  "Booking and WhatsApp."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Sydney Conveyancing Solicitors",
+ "owner": "the SC Solicitors team",
+ "city": "Sydney, Australia",
+ "website": "scsolicitors.com.au",
+ "summary": "A Sydney CBD conveyancing firm with fixed fees appears to lose quote requests to a broken form and no visible fees.",
+ "findings": [
+  {
+   "problem": "The Get Your Quote button appears to open a popup that may fail without scripts, and the form dropdown options appear to run together such as BuyingSelling.",
+   "cost": "Visitors may be unable to request a quote.",
+   "fix": "A simple, tested quote form."
+  },
+  {
+   "problem": "The form fields appear as plain text with no visible input styling, and no required fields or privacy wording appear.",
+   "cost": "Visitors may not see where to type and leave.",
+   "fix": "Clear fields and consent wording."
+  },
+  {
+   "problem": "The mobile number appears in two formats, and the landline tel link appears to contain a stray space.",
+   "cost": "The landline link may fail to dial.",
+   "fix": "Clean call links."
+  },
+  {
+   "problem": "Fixed fees are promoted but no amounts appear, a 50 percent off offer appears with no terms, and no testimonials or named lawyers appear.",
+   "cost": "Clients choose a lawyer they can see, at a price they can see.",
+   "fix": "Fee amounts, offer terms, reviews and lawyer profiles."
+  }
+ ],
+ "redesign": [
+  "Working quote form.",
+  "Clean call links.",
+  "Fees, reviews and lawyer profiles."
+ ]
+}

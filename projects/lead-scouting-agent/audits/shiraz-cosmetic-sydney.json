@@ -1,0 +1,34 @@
+{
+ "business": "Shiraz Cosmetic and Medical Clinic",
+ "owner": "the Shiraz team",
+ "city": "Chatswood, Sydney",
+ "website": "shirazcosmeticandmedicalclinic.com.au",
+ "summary": "A wide treatment menu and accreditations are strong, but visible typos, failed review widgets and a booking form that appears to show no fields lose enquiries.",
+ "findings": [
+  {
+   "problem": "Raw shortcodes [trustindex no-registration=google] and [grw id=7885] appear as text where Google reviews should load.",
+   "cost": "Your best proof does not show and the page looks broken.",
+   "fix": "Working live review widgets."
+  },
+  {
+   "problem": "Typos appear in the menu and copy: Chtswood, Qualified and Experience Doctors, frindly, tightning, rejuvanation and micro-needing in page addresses.",
+   "cost": "Spelling errors in a medical clinic reduce trust and hurt search ranking.",
+   "fix": "Proofread copy and clean page addresses."
+  },
+  {
+   "problem": "The booking section appears to list options as plain text with no visible fields or submit button, and no WhatsApp or chat option appears.",
+   "cost": "A patient ready to book may not be able to, and every lost enquiry is lost revenue.",
+   "fix": "A working booking form and WhatsApp button."
+  },
+  {
+   "problem": "Eyebrow Hair Transplant links to the laser page, Non-Surgical Facelift links to the thread lift page, and the Before & After section shows only an image and a link.",
+   "cost": "Wrong links send people to the wrong treatment and results are not shown.",
+   "fix": "Correct links and a real before and after gallery."
+  }
+ ],
+ "redesign": [
+  "Working review widgets and a named doctor profile with credentials.",
+  "A visible booking form and a WhatsApp button on every page.",
+  "Correct treatment links and a captioned before and after gallery."
+ ]
+}

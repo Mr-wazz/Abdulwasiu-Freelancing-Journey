@@ -1,0 +1,34 @@
+{
+ "business": "Hones Lawyers",
+ "owner": "Jason Hones",
+ "city": "North Sydney, Australia",
+ "website": "honeslawyers.com.au",
+ "summary": "A North Sydney property and planning boutique with recognised specialists is a strength, but copied award labels and clashing contact details appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "Two phone numbers appear (02 8318 0788 and 02 9929 7071), the address appears in two formats, and the hours line appears to link to a map.",
+   "cost": "A client cannot tell which number to call, and mixed details look careless for a law firm.",
+   "fix": "One verified phone, address and hours block."
+  },
+  {
+   "problem": "The enquiry dropdown appears to show literal asterisks ('*Select Legal Service*') and the form labels appear with stray characters such as 'Full Name \\*'.",
+   "cost": "Visible form glitches make a client doubt that the message will arrive.",
+   "fix": "A clean labeled form with a clear submit button."
+  },
+  {
+   "problem": "Image text appears to name another organisation ('Doyles 2026 Environment icon'), and the testimonial text appears to contain 'plesant people' and '87 years lifetime'.",
+   "cost": "Copied labels and typos weaken the proof you want a new client to trust.",
+   "fix": "Correct award labels and proofread testimonials."
+  },
+  {
+   "problem": "The claims '95% success rate' and 'thousands of clients' appear with no basis, two case studies appear in both News and Case Studies, and the Team section appears to show only 3 of 9 people.",
+   "cost": "Unexplained numbers and repeated content make proof look thin.",
+   "fix": "Sourced results, distinct case studies and a full team page."
+  }
+ ],
+ "redesign": [
+  "One verified contact block.",
+  "A clean consultation form.",
+  "Correct awards, sourced results and a full team page."
+ ]
+}

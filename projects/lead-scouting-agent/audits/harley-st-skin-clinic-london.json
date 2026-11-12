@@ -1,0 +1,34 @@
+{
+ "business": "The Harley Street Skin Clinic",
+ "owner": "the clinic team",
+ "city": "Devonshire Place, London",
+ "website": "harleystreetskinclinic.com",
+ "summary": "A large patient count, a WhatsApp option and a wide menu are strengths, but exposed PHP warnings and dead menu headings appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The team section shows raw PHP warnings, including 'Warning: Trying to access array offset on value of type null' and a server file path.",
+   "cost": "Technical errors on a medical page look careless and expose server details.",
+   "fix": "A clean team section with no errors."
+  },
+  {
+   "problem": "The Treatments and Conditions menu items link to #, and categories such as Breasts and Digestive Health contain only a View All link.",
+   "cost": "Patients browsing treatments hit dead ends.",
+   "fix": "Working menus and finished category pages."
+  },
+  {
+   "problem": "The body phone link is tel:0207436441, one digit short of the footer number, and the opening hours differ between the body and the footer.",
+   "cost": "A patient who taps to call may reach the wrong line, and mixed hours cost visits.",
+   "fix": "One checked number and one set of hours."
+  },
+  {
+   "problem": "Over 61,329 patients agree appears twice, Mons Pubic Lift is misspelled, and image text reads 'image title' and 'alt'.",
+   "cost": "Repeated lines, typos and placeholders weaken a premium brand.",
+   "fix": "Proofread copy and real image descriptions."
+  }
+ ],
+ "redesign": [
+  "A clean team section and working menus.",
+  "One checked phone number, hours and a direct enquiry form.",
+  "Proofread copy with real image descriptions."
+ ]
+}

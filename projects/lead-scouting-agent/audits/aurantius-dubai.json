@@ -1,0 +1,33 @@
+{
+ "business": "Aurantius Real Estate",
+ "owner": "the Aurantius team",
+ "city": "Dubai Marina",
+ "website": "aurantius.ae",
+ "summary": "Your site has a real team, a CEO message and WhatsApp links, but dead buttons and placeholder text sit exactly where buyers and sellers want to act.",
+ "findings": [
+  {
+   "problem": "Buy a property, Sell a property and Get a consultation point to #. The menu parents Rent & Sale, Services and Academy also point to #.",
+   "cost": "These are your main money buttons, and a dead button loses the lead.",
+   "fix": "Every key button linked to a real page or form."
+  },
+  {
+   "problem": "A popup says Our Spring Sale Has Started, includes a developer note (You can see how this popup was set up in our step-by-step guide) and gives no offer.",
+   "cost": "A leftover note in front of customers looks careless.",
+   "fix": "A real offer or no popup."
+  },
+  {
+   "problem": "The reviews section shows only image frames and a Leave a Review link, with no written testimonials.",
+   "cost": "Buyers and sellers want proof from past clients.",
+   "fix": "A live review wall and case results."
+  },
+  {
+   "problem": "Placeholder text such as image () and Frame (), a title ending in IMTIAZ R, an odd long dash inside the word off-plan, and a dropdown reading 1st of the month15th of the month.",
+   "cost": "Small errors across the page cost credibility with investors.",
+   "fix": "A clean, proofread build."
+  }
+ ],
+ "redesign": [
+  "Working buy, sell and consultation paths with a short form and WhatsApp.",
+  "A live review wall, case results and clean, proofread property pages."
+ ]
+}

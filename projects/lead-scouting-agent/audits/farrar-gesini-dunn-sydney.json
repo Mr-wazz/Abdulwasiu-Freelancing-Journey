@@ -1,0 +1,34 @@
+{
+ "business": "Farrar Gesini Dunn",
+ "owner": "the Farrar Gesini Dunn team",
+ "city": "Sydney, Australia",
+ "website": "fgd.com.au",
+ "summary": "A multi office Sydney family law and estates firm appears to lose enquiries to thin proof, repeated read more links and an unclear contact form.",
+ "findings": [
+  {
+   "problem": "Only one unattributed testimonial appears, with no ratings, review counts or case outcomes.",
+   "cost": "Clients choose a firm they can see proof for.",
+   "fix": "Named reviews, ratings and outcomes."
+  },
+  {
+   "problem": "Calls to action appear to repeat as Find out more and Read More many times.",
+   "cost": "Vague buttons do not tell a visitor what happens next.",
+   "fix": "Clear action labels such as Book a free fee discussion."
+  },
+  {
+   "problem": "The contact form appears to ask for Other Party and show office options run together.",
+   "cost": "A confusing form causes abandoned enquiries.",
+   "fix": "A simple form with name, phone and matter type."
+  },
+  {
+   "problem": "No lawyer names appear on the homepage and no booking option or WhatsApp appears.",
+   "cost": "Clients hire a person, not a logo.",
+   "fix": "Lawyer profiles and an instant booking button."
+  }
+ ],
+ "redesign": [
+  "Named reviews and results.",
+  "Clear buttons and a simple form.",
+  "Lawyer profiles and booking."
+ ]
+}

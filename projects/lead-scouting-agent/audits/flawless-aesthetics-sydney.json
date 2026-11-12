@@ -1,0 +1,34 @@
+{
+ "business": "Flawless Aesthetics",
+ "owner": "the Flawless team",
+ "city": "Sydney",
+ "website": "flawlessaesthetics.com.au",
+ "summary": "AHPRA registered doctors and a clear non surgical focus are strong, but unfinished page details and a thin booking form appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The cookie banner shows Manage {vendor_count} vendors and {title} entries, and the Explore Our Treatments button links back to the same page.",
+   "cost": "Unfilled code on the first screen looks careless for a medical brand.",
+   "fix": "A clean banner and buttons that open the right page."
+  },
+  {
+   "problem": "The principal doctor appears as Dr Michael Khela, Dr Michael and Registered as Dr Moheb Khela, and the footer reads Flawless Aesthetics Clinics and Flawless Aesthetic.",
+   "cost": "Changing names weaken trust and make the clinic harder to find.",
+   "fix": "One consistent name for the clinic and each doctor."
+  },
+  {
+   "problem": "The booking form asks only name, email, phone and concerns. It has no clinic or time choice, and no WhatsApp option appears.",
+   "cost": "Patients who are ready to book must wait for a call back and some will leave.",
+   "fix": "A booking form with clinic and time choice plus a WhatsApp button."
+  },
+  {
+   "problem": "The page claims more than 5,000 non surgical nose procedures but shows no reviews, ratings or captioned results, and several images appear to be blank placeholders.",
+   "cost": "Cosmetic clients choose on real proof and see none.",
+   "fix": "A review wall and captioned results with consent."
+  }
+ ],
+ "redesign": [
+  "One clear page per treatment with a booking button on each.",
+  "A booking form with clinic and time choice and a WhatsApp option.",
+  "Real reviews and captioned results near every call to action."
+ ]
+}

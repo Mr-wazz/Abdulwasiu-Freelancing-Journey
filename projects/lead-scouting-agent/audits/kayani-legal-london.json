@@ -1,0 +1,34 @@
+{
+ "business": "Kayani Legal",
+ "owner": "the Kayani Legal team",
+ "city": "London, UK",
+ "website": "kayanilegal.weebly.com",
+ "summary": "An Ilford solicitors firm appears to lose enquiries to leftover template instructions, awkward copy and a free builder address.",
+ "findings": [
+  {
+   "problem": "The text Let your visitors know how you would like stay in touch appears on the page, which looks like a template instruction.",
+   "cost": "Template instructions on a law firm page make the firm look unfinished.",
+   "fix": "Real contact wording."
+  },
+  {
+   "problem": "The page title appears to begin with a lowercase kayani and read A Firm Solicitors, and the heading appears as A Firm Of Solicitor.",
+   "cost": "Naming errors in the firm's own title weaken trust.",
+   "fix": "A proofread title and headings."
+  },
+  {
+   "problem": "Copy such as You explore areas of law on the website we outclass others appears on the page.",
+   "cost": "Garbled sentences make clients doubt a firm's attention to detail.",
+   "fix": "Plain, proofread homepage copy."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, and no WhatsApp appears.",
+   "cost": "A free builder address looks temporary and clients cannot message quickly.",
+   "fix": "Your own domain and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Real contact wording.",
+  "Proofread titles and copy.",
+  "Own domain and WhatsApp."
+ ]
+}

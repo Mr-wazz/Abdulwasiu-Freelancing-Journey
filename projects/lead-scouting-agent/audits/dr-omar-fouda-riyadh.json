@@ -1,0 +1,34 @@
+{
+ "business": "Dr Omar Fouda Clinic",
+ "owner": "Dr Omar Fouda",
+ "city": "Riyadh",
+ "website": "drfoudaneel.com",
+ "summary": "A recent, calm clinical brand with surgical and non surgical care is a strength, but conflicting numbers and no patient proof appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The WhatsApp button appears to use +966578087777 while the listed number is +966578587777.",
+   "cost": "One wrong digit sends patients to the wrong line.",
+   "fix": "One verified number."
+  },
+  {
+   "problem": "Procedure Cost, For Men and Skin menu items appear to link to #, and the full menu appears three times on the page.",
+   "cost": "Dead links and repeated menus frustrate patients looking for prices.",
+   "fix": "Working menu with a real price page."
+  },
+  {
+   "problem": "The Our Clinic section appears to list Riyadh, Jeddah and Doha but only one Riyadh address, and booking buttons appear to open a popup with no visible form or slots.",
+   "cost": "Unclear locations and a hidden booking flow lose consultations.",
+   "fix": "Address per city and a clear booking form."
+  },
+  {
+   "problem": "The Trusted by Patients heading appears to be followed by no testimonials, the copy appears to say 'of of' and 'Photo Rejuvanation', and 'board-certified' names no board.",
+   "cost": "Missing proof and typos weaken a surgeon's brand.",
+   "fix": "Reviews, results and named credentials."
+  }
+ ],
+ "redesign": [
+  "One number, working menu and price page.",
+  "Address per city and clear booking.",
+  "Reviews, results and credentials."
+ ]
+}

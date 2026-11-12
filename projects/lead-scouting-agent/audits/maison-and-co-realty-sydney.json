@@ -1,0 +1,34 @@
+{
+ "business": "Maison and Co Realty",
+ "owner": "Eddie and Vera",
+ "city": "Sydney, Australia",
+ "website": "maisoncorealty.com.au",
+ "summary": "A boutique Sydney agency with a clear voice appears to lose owners to missing proof and an appraisal button with no form.",
+ "findings": [
+  {
+   "problem": "The page promises a complimentary appraisal, but only a Book Appraisal button appears, with no visible form.",
+   "cost": "Owners ready to ask for a price must work to do it, and many will not.",
+   "fix": "A short appraisal form on the homepage."
+  },
+  {
+   "problem": "The nav appears to list Testimonials and Meet Our Team, but no testimonials or team section appears on the page.",
+   "cost": "Owners choose an agent they can see and trust.",
+   "fix": "Real testimonials, sold results and a team section."
+  },
+  {
+   "problem": "Only one phone number appears, once, and no business address appears in the page text.",
+   "cost": "Owners cannot easily call or confirm you are local.",
+   "fix": "Phone and address in the header and footer."
+  },
+  {
+   "problem": "The Buy section appears to say you are building your portfolio, and the rent text says Marsfield and Punchbowl while a Rouse Hill listing appears.",
+   "cost": "Placeholder and mismatched text weakens a premium brand.",
+   "fix": "Clear sale results and consistent copy."
+  }
+ ],
+ "redesign": [
+  "Appraisal form.",
+  "Testimonials and team.",
+  "Visible phone and address."
+ ]
+}

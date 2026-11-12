@@ -1,0 +1,34 @@
+{
+ "business": "Promise Dental Center",
+ "owner": "the Promise Dental team",
+ "city": "Doha, Qatar",
+ "website": "promisedentalcenter.com",
+ "summary": "A growing three branch Doha dental group appears to lose bookings to a WhatsApp only path, empty doctor profiles and conflicting claims.",
+ "findings": [
+  {
+   "problem": "The header Book Online button appears to go to WhatsApp while the FAQ points to an online booking form, and the form appears to collect a date but no time slot.",
+   "cost": "Patients get mixed instructions and drop off.",
+   "fix": "One booking path with date and time selection."
+  },
+  {
+   "problem": "The booking pop up appears to show Doctor Name: - and Specialization: - as unfilled placeholders, and several doctor profile pages appear to be empty templates.",
+   "cost": "Placeholder text and empty profiles reduce trust.",
+   "fix": "Complete doctor profiles."
+  },
+  {
+   "problem": "The site appears to say A Decade Of Trusted Excellence and also 6+ Years Experience, and the offers appear to show no prices.",
+   "cost": "Contradictions and missing prices weaken proof.",
+   "fix": "One accurate history line and priced offers."
+  },
+  {
+   "problem": "No opening hours appear, phone links appear to contain spaces, and doctor names appear spelled differently in reviews.",
+   "cost": "Patients cannot confirm when to call, and links may fail to dial.",
+   "fix": "Visible hours, clean tel links and consistent names."
+  }
+ ],
+ "redesign": [
+  "One booking path.",
+  "Complete doctor profiles.",
+  "Hours, priced offers and clean links."
+ ]
+}

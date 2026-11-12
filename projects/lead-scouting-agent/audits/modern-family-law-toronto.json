@@ -1,0 +1,33 @@
+{
+ "business": "Modern Family Law",
+ "owner": "Stephanie Pasternak",
+ "city": "Toronto",
+ "website": "modernfamilylaw.ca",
+ "summary": "Your page offers a free consultation and names a strong team, but the contact details disagree and the main button does not lead to a visible form.",
+ "findings": [
+  {
+   "problem": "Header and footer list 647-348-6723, but the Call Us Here button dials 647-362-2346.",
+   "cost": "Callers reach a different number, so some enquiries are lost.",
+   "fix": "One checked phone number everywhere."
+  },
+  {
+   "problem": "Book a Free Consultation points to #request and no form fields appear. There is no WhatsApp option.",
+   "cost": "The free consultation is your main offer, and visitors who cannot find the form leave.",
+   "fix": "A short booking form linked to your calendar."
+  },
+  {
+   "problem": "Social icons link to #, the text [PURCHASE] appears, and a field reads Leave this Blank if are sentient.",
+   "cost": "Leftover template text makes a law firm look unmaintained.",
+   "fix": "Clean links and form labels."
+  },
+  {
+   "problem": "The menu and testimonials appear twice, one testimonial repeats, the same stock photo is used twice, and there are typos such as very detailed oriented.",
+   "cost": "Repeats and typos weaken trust when clients compare firms.",
+   "fix": "One testimonial wall and proofread copy."
+  }
+ ],
+ "redesign": [
+  "One phone number, one booking form and a calendar link on every page.",
+  "A clean testimonial wall, team profiles with photos and proofread copy."
+ ]
+}

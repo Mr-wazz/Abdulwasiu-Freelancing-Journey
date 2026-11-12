@@ -1,0 +1,19 @@
+{
+ "business": "Dentism Dental Polyclinic",
+ "owner": "the Dentism team",
+ "city": "Dubai",
+ "website": "dentism.ae",
+ "summary": "Dentism has a DHA licensed clinic, a clean template and WhatsApp booking. But the page that should prove your results is empty, and contradictions on the site make patients unsure when you are open. These are the gaps I saw on your public site and how I would close each one.",
+ "findings": [
+  {"problem": "The Real People. Real Results before and after section appears to show empty placeholder images, and the clinic photos look the same.", "cost": "Cosmetic and implant patients choose on visible results. An empty results section sends them to a clinic that shows proof.", "fix": "A real before and after gallery with captions, treatment and patient consent."},
+  {"problem": "Your hours list Sunday 9:30 AM to 4:00 PM, but the FAQ says you are open Monday to Saturday only. The header says Call Us 24/7 while the FAQ tells emergency patients to call in opening hours.", "cost": "A patient in pain who is unsure if you are open will call a clinic that is clearly open. Contradictions also look careless.", "fix": "One source of truth for hours and emergency instructions, shown the same everywhere."},
+  {"problem": "Booking depends entirely on WhatsApp. There is no booking form or calendar, so a visitor without WhatsApp has no clear way to book.", "cost": "Every patient who prefers a form or does not use WhatsApp leaves without booking.", "fix": "A short booking form with date and treatment, alongside WhatsApp, with instant confirmation."},
+  {"problem": "The footer Treatments links go nowhere. Dr. Annie appears as Varghese and as Don Varghese, and the header says Poly Clinic while the brand says Polyclinic.", "cost": "Dead links hurt search visibility and trust. Inconsistent names make the clinic look unfinished.", "fix": "Working treatment pages that rank for searches, with consistent names and branding."}
+ ],
+ "redesign": [
+  "A proof first homepage: real before and after cases, Google reviews and your DHA license number near every booking button.",
+  "Booking form plus WhatsApp on every page, with consistent opening hours and emergency instructions.",
+  "A page per treatment, written to rank for searches like dental implants Dubai and teeth whitening Dubai.",
+  "Clear doctor profiles with credentials, so patients know who will treat them."
+ ]
+}

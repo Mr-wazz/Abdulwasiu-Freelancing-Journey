@@ -1,0 +1,34 @@
+{
+ "business": "Raha Medical Clinics",
+ "owner": "the Raha team",
+ "city": "Riyadh",
+ "website": "rahahealth.com.sa",
+ "summary": "Listed prices and WhatsApp booking are strengths, but mixed names, Arabic text on the English page and no doctor names or reviews appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The page calls the clinic Dermatology and Aesthetic Clinic, Dermatology and Cosmetic Clinic, Raha Medical Complex, Raha Medical Clinics and Raha Health Services.",
+   "cost": "Changing names confuse patients and weaken search visibility.",
+   "fix": "One clear brand name."
+  },
+  {
+   "problem": "Arabic price labels and Arabic WhatsApp text appear on the English page, the footer booking text mentions a Beauty & Skincare page that does not exist, and two list items are numbered 10 and 11 while the rest are not.",
+   "cost": "Mixed language and leftover text confuse English speaking patients.",
+   "fix": "Clean English and Arabic versions."
+  },
+  {
+   "problem": "The Location & Working Hours heading has no address or map, the same insurance logo repeats about five times, and many images have no descriptions.",
+   "cost": "Patients cannot find you easily and the page feels unfinished.",
+   "fix": "A map with hours and a clean insurance section."
+  },
+  {
+   "problem": "Every Book now button opens WhatsApp with no on site form, and the page shows no named doctors, testimonials or before and after results.",
+   "cost": "Patients who prefer a form or want proof find neither.",
+   "fix": "A booking form plus named doctors and results."
+  }
+ ],
+ "redesign": [
+  "One brand name and clean English and Arabic pages.",
+  "A booking form with WhatsApp and a map with hours.",
+  "Named doctors, reviews and captioned results."
+ ]
+}

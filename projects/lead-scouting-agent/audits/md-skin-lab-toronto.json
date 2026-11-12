@@ -1,0 +1,34 @@
+{
+ "business": "MD Skin Lab",
+ "owner": "the MD Skin Lab team",
+ "city": "Toronto, Canada",
+ "website": "mdskinlab.ca",
+ "summary": "A Toronto medical spa selling products and treatments appears to lose bookings to a confusing booking path and missing proof.",
+ "findings": [
+  {
+   "problem": "The cart note appears to say that purchasing a treatment package does not book an appointment, and several different booking links and labels appear.",
+   "cost": "Patients may pay and think they are booked, or give up.",
+   "fix": "One clear booking path."
+  },
+  {
+   "problem": "Menu items such as By Concern appear to link to #, and the Sign In link appears to use javascript:void(0).",
+   "cost": "Patients hit dead ends when browsing.",
+   "fix": "Working menus and account links."
+  },
+  {
+   "problem": "Developer text such as choosing a selection results in a full page refresh appears to be visible, along with a leave this blank field.",
+   "cost": "Leaked internal text looks unprofessional on a medical site.",
+   "fix": "Clean, tested forms and product pages."
+  },
+  {
+   "problem": "No clinic hours, physician name, reviews or before and after examples appear.",
+   "cost": "Patients choose treatments from clinics that show who treats them and the results.",
+   "fix": "Hours, physician profiles and a results gallery."
+  }
+ ],
+ "redesign": [
+  "One booking path.",
+  "Working menus.",
+  "Hours, profiles and results."
+ ]
+}

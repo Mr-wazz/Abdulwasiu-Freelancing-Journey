@@ -1,0 +1,34 @@
+{
+ "business": "Oakville Place Dental",
+ "owner": "Dr Steven Solomon",
+ "city": "Oakville, Canada",
+ "website": "dentistoakville.com",
+ "summary": "A long established Oakville practice with CEREC same visit crowns is a strength, but a demo link and mixed claims appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The Invisalign card appears to link to a page ending in -demo, and the same card appears twice with a second link.",
+   "cost": "A patient interested in Invisalign may land on a test page.",
+   "fix": "One live Invisalign page."
+  },
+  {
+   "problem": "The FAQ appears to say over 30 years in practice while the footer says almost 25 years, and the footer address appears without the city name.",
+   "cost": "Mixed claims and an incomplete address make the practice look careless.",
+   "fix": "One verified experience claim and a full address."
+  },
+  {
+   "problem": "The Request an Appointment form appears to ask only for name, phone and preferred time of day, with no date, and the heading 'Sevices' appears misspelled.",
+   "cost": "Patients cannot pick a real slot, and typos weaken trust.",
+   "fix": "A real booking calendar and proofread headings."
+  },
+  {
+   "problem": "The Accreditations section appears to show university logos that are not accreditations, and no patient reviews or ratings appear.",
+   "cost": "Misleading badges and missing reviews give new patients little reason to trust you.",
+   "fix": "Real accreditations and Google reviews with ratings."
+  }
+ ],
+ "redesign": [
+  "One live page per service.",
+  "A real booking calendar.",
+  "Accurate credentials and visible reviews."
+ ]
+}

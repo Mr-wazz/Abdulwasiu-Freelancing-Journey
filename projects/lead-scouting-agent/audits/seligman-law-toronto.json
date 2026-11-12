@@ -1,0 +1,34 @@
+{
+ "business": "Seligman Law",
+ "owner": "Robin Seligman",
+ "city": "Toronto, Canada",
+ "website": "seligmanlaw.com",
+ "summary": "A Toronto immigration boutique appears to lose consultations because the form it promises does not appear.",
+ "findings": [
+  {
+   "problem": "The page appears to say Use the form below to contact us, but no form appears, only a Lets Chat heading.",
+   "cost": "Visitors who want to write cannot.",
+   "fix": "A working consultation form."
+  },
+  {
+   "problem": "All four practice area headings appear to link to the same services page.",
+   "cost": "Visitors cannot reach a page for their specific case.",
+   "fix": "One page per practice area."
+  },
+  {
+   "problem": "The only testimonial appears to be a quote from the founder, not a client.",
+   "cost": "Clients want to hear from other clients.",
+   "fix": "Real client reviews."
+  },
+  {
+   "problem": "Trade agreements such as NAFTA and TPP appear in the copy, typos such as process require appear, and headings appear in mixed capitalisation.",
+   "cost": "Outdated references and typos weaken expert positioning.",
+   "fix": "Updated, proofread copy."
+  }
+ ],
+ "redesign": [
+  "Working form.",
+  "One page per practice.",
+  "Client reviews and updated copy."
+ ]
+}

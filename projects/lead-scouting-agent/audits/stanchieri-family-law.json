@@ -1,0 +1,34 @@
+{
+ "business": "Stanchieri Family Law",
+ "owner": "the Stanchieri team",
+ "city": "Toronto",
+ "website": "stanchierifamilylaw.com",
+ "summary": "Stanchieri has a large team of lawyers and a clear structure. The homepage gives a visitor no clear next step and shows no proof, at the moment a client in a stressful situation is choosing a lawyer.",
+ "findings": [
+  {
+   "problem": "The closing copy says Book a legal consultation, but no scheduling link is provided. Only a Contact Us link appears, and the hero has no action button.",
+   "cost": "A client who is ready to book has to find a contact page, and many will call the next firm.",
+   "fix": "A Book a consultation button in the hero and closing section, linked to a calendar."
+  },
+  {
+   "problem": "No testimonials, client outcomes or credentials appear on the homepage, and the 2008 founding date and team size appear only in hidden page data.",
+   "cost": "Family law clients decide on trust. Without visible proof, they compare on price or call the firm with reviews.",
+   "fix": "Named reviews, your 2008 history and team size shown near every consultation button."
+  },
+  {
+   "problem": "The lawyer headshot grid repeats the same people several times, and about a dozen images in the services and retainers sections have no image source.",
+   "cost": "Repeated rows push content down, and missing images leave visible gaps on a page that is meant to look reliable.",
+   "fix": "One clean team grid and every image in place."
+  },
+  {
+   "problem": "The only listed email is support@stanchierifamilylaw.com, and the page title shows as Home.",
+   "cost": "A support address looks like customer service, not legal intake, and a page title of Home wastes your search listing.",
+   "fix": "A dedicated consultation email and a search title that names the firm and city."
+  }
+ ],
+ "redesign": [
+  "A consultation first homepage with a hero button, a short intake form and a phone number above the fold.",
+  "Proof beside every button: named reviews, outcomes and your 2008 history.",
+  "Practice area pages written to rank for searches like divorce lawyer Toronto and child custody lawyer Toronto."
+ ]
+}

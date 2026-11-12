@@ -1,0 +1,24 @@
+{
+ "business": "Acton Vale Dental",
+ "owner": "the Acton Vale Dental team",
+ "city": "London, UK",
+ "website": "actonvaledentists.com",
+ "summary": "An Acton dental practice appears to lose new patients to mixed date signals in its footer and no quick message option.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Copyright 2022 and Site last updated Nov 2026 side by side.",
+   "cost": "A visitor cannot tell if the content is current, and an old copyright date makes the practice look inactive.",
+   "fix": "One current date and a refreshed page."
+  },
+  {
+   "problem": "No WhatsApp or text option appears next to the phone number.",
+   "cost": "Patients who want a quick answer message first, and the practice that replies first gets the booking.",
+   "fix": "A one tap text button and online booking."
+  }
+ ],
+ "redesign": [
+  "Current page.",
+  "Clean footer.",
+  "Booking and text."
+ ]
+}

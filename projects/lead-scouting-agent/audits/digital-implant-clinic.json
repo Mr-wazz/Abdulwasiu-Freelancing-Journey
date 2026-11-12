@@ -1,0 +1,19 @@
+{
+ "business": "Digital Implant Clinic",
+ "owner": "the Digital Implant Clinic team",
+ "city": "Sheikh Zayed Road, Dubai",
+ "website": "digitalimplantclinic.com",
+ "summary": "Digital Implant Clinic sells a high value treatment from a prime Sheikh Zayed Road address. A patient comparing implant clinics will judge you in seconds. These are the gaps I saw on your public site, and how I would close each one.",
+ "findings": [
+  {"problem": "The testimonials section shows blank name placeholders (__________) instead of real patient names, dates or treatments.", "cost": "An implant is a big decision. Anonymous or unfinished reviews tell a patient that nobody has vouched for you.", "fix": "A review wall with real names and star ratings pulled from your Google reviews."},
+  {"problem": "The only booking path is a Make An Appointment button that sends the patient to a contact page. No inline booking form, no WhatsApp button.", "cost": "Every extra click and every wait for a callback sends a ready patient to the next clinic on Google Maps.", "fix": "Booking form and WhatsApp on every page, so a patient books in under 30 seconds on a phone."},
+  {"problem": "The headline reads Best DentaI Clinic In Dubai with a capital I instead of an l. The header and logo appear twice, there is a blank duplicate paragraph and the copyright line has no year or name.", "cost": "A clinic that promises precision cannot show typos in its main headline. It weakens trust in your standards.", "fix": "A clean, proofread build with one header and consistent copy."},
+  {"problem": "The newsletter form has a name field but no email field, and the landline phone link is malformed so it will not dial. Before and after photos have no captions.", "cost": "Broken forms and links lose leads silently. Uncaptioned photos prove nothing to a cautious patient.", "fix": "Tested forms and working tap to call, with captioned before and after cases."}
+ ],
+ "redesign": [
+  "A fast, modern homepage that leads with dental implants, your highest value treatment, and a clear reason to choose you.",
+  "Booking and WhatsApp on every page, so a patient can book in under 30 seconds on a phone.",
+  "Proof near every booking button: real Google reviews, captioned before and after cases and doctor credentials.",
+  "Treatment pages written to rank for searches like dental implants Dubai and same day implants Dubai."
+ ]
+}

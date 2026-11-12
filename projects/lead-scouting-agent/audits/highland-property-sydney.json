@@ -1,0 +1,34 @@
+{
+ "business": "Highland Property",
+ "owner": "the team",
+ "city": "Sydney, Australia",
+ "website": "highlandproperty.com.au",
+ "summary": "A Sydney agency with property and financial services under one brand is a strength, but broken images and malformed phone links appear to cost you appraisal requests.",
+ "findings": [
+  {
+   "problem": "Most images appear to load the same placeholder file instead of real photos, and image text appears as file names such as 'image (33)_81_25'.",
+   "cost": "A seller judging an agency on first look sees blank pictures and loses confidence.",
+   "fix": "Real optimised photos with proper descriptions."
+  },
+  {
+   "problem": "The Highland Marine phone link appears to read 'tel:0295440888or0404014595' and the footer phone link appears to contain spaces.",
+   "cost": "A mobile visitor who taps to call may get a failed call.",
+   "fix": "Separate, correctly formatted click to call links."
+  },
+  {
+   "problem": "The Financial Services button appears to point to one website while the section uses another, and the Property Alerts menu item appears to link to #open-login-form.",
+   "cost": "Visitors are sent to the wrong site or a dead item.",
+   "fix": "Correct destinations for every button."
+  },
+  {
+   "problem": "The Enquire now form appears to have no message field, 'Please choose' appears as visible text on the appraisal form, and the Vue project text appears cut off.",
+   "cost": "Thin forms and cut text lose appraisal requests.",
+   "fix": "A complete appraisal form and finished copy."
+  }
+ ],
+ "redesign": [
+  "Real photos with proper descriptions.",
+  "Working click to call links.",
+  "Correct buttons and a complete appraisal form."
+ ]
+}

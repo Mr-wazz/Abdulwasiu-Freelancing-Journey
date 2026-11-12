@@ -1,0 +1,34 @@
+{
+ "business": "Mohammad Al Najjar Advocates",
+ "owner": "the Al Najjar team",
+ "city": "Dubai, UAE",
+ "website": "alnajjarlawyer.com",
+ "summary": "A Business Bay law firm appears to lose enquiries to inconsistent WhatsApp numbers and an old copyright year.",
+ "findings": [
+  {
+   "problem": "The header WhatsApp button appears to use one number while the footer appears to use another.",
+   "cost": "Clients may reach the wrong person.",
+   "fix": "One verified WhatsApp number."
+  },
+  {
+   "problem": "Call For Consultation appears four times with the same wording, and the contact form appears to show no response time.",
+   "cost": "Generic buttons give no reason to act.",
+   "fix": "Specific buttons and a clear response promise."
+  },
+  {
+   "problem": "The footer appears to show 2023 while images appear dated 2026, and image labels appear as HOME 1 to HOME 61.",
+   "cost": "Old dates and placeholder labels look neglected.",
+   "fix": "A current date and proper image labels."
+  },
+  {
+   "problem": "Reviews appear as a few words such as Best lawyer with no case types, some appear untranslated, and best law firm claims appear unsupported.",
+   "cost": "Thin proof does not win high value clients.",
+   "fix": "Detailed, translated reviews and sourced claims."
+  }
+ ],
+ "redesign": [
+  "One WhatsApp number.",
+  "Specific buttons.",
+  "Current dates and detailed reviews."
+ ]
+}

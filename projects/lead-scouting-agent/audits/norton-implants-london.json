@@ -1,0 +1,33 @@
+{
+ "business": "Norton Implants",
+ "owner": "Dr. Michael Norton and team",
+ "city": "Harley Street, London",
+ "website": "nortonimplants.com",
+ "summary": "Norton Implants has over 35 years of experience, about 10,000 implants placed and a WhatsApp number. The homepage hides that proof behind grey placeholders and sends every booking link to one page.",
+ "findings": [
+  {
+   "problem": "The Testimonials, Publications and Lecture dates tiles use empty grey placeholders, and no reviews or cases appear on the page.",
+   "cost": "A patient choosing an implant surgeon looks for proof. Grey boxes where the proof should be tell them there is none.",
+   "fix": "Real testimonials, publications and captioned before and after cases in place of the placeholders."
+  },
+  {
+   "problem": "There is no booking or enquiry form on the page. Every booking link goes to the same page, and there is no live chat.",
+   "cost": "Every extra click costs consultations, and a patient who wants to ask a quick question has nowhere to do it on the page.",
+   "fix": "A short booking form on the page, with WhatsApp beside it."
+  },
+  {
+   "problem": "Lecture Diaries in the menu links to #, Read More links to an anchor that may not exist, and the Book your consultation link has a stray space in its address.",
+   "cost": "Broken links lose visitors and a booking link that may fail loses consultations directly.",
+   "fix": "Tested links, with every booking button going to a working form."
+  },
+  {
+   "problem": "The phone number and address repeat in the header, body and footer, the menu appears twice, and social icons have no labels.",
+   "cost": "Repeated blocks dilute a clear message and weaken credibility.",
+   "fix": "One clean layout with consistent descriptions of each doctor."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage that uses your 35 years and 10,000 implants, with real testimonials and cases beside every booking button.",
+  "A booking form on the page and WhatsApp for quick questions."
+ ]
+}

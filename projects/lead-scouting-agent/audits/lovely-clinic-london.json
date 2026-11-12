@@ -1,0 +1,33 @@
+{
+ "business": "The Lovely Clinic",
+ "owner": "Dr Sarah Tonks",
+ "city": "London",
+ "website": "thelovelyclinic.co.uk",
+ "summary": "Your clinic has Google reviews, press logos and an expert team, but the page has dead treatment menus and a WhatsApp link that dials your landline.",
+ "findings": [
+  {
+   "problem": "The footer WhatsApp link points to tel:+44(0)2036955400, the landline, not the WhatsApp number +44 7401 163760.",
+   "cost": "A patient who taps to message gets a phone call instead and may give up.",
+   "fix": "A tested WhatsApp button on the correct number."
+  },
+  {
+   "problem": "Injectables, Thread Lifting, Laser Treatments, Skin, Hair, Gynaecology and Body menu items link to #, and the same treatment appears under different URLs (/bbl-hero/, /bbl-heroic/).",
+   "cost": "A patient looking for a treatment hits a dead menu and Google sees duplicates.",
+   "fix": "Working menus and one page per treatment."
+  },
+  {
+   "problem": "Leaked template text shows (Circle Text Configuration with Larger Font, Girl in a jacket), Trending appears five times, and several reviews appear to repeat word for word.",
+   "cost": "Repeats and leftover text make a premium brand look careless.",
+   "fix": "Clean templates and a single review wall."
+  },
+  {
+   "problem": "No street address on the homepage, no before and after images, Book Now opens a popup with a 150 pound fee, and 45,000+ procedures has no source.",
+   "cost": "Patients cannot see where you are or what results to expect.",
+   "fix": "Address and map, captioned results and clear fee wording."
+  }
+ ],
+ "redesign": [
+  "Working menus, a correct WhatsApp button and one page per treatment.",
+  "A clean review wall, results gallery and clear address and fee information."
+ ]
+}

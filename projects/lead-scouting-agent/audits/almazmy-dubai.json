@@ -1,0 +1,34 @@
+{
+ "business": "Al Mazmy Advocates",
+ "owner": "the Al Mazmy team",
+ "city": "Dubai",
+ "website": "almazmylaw.ae",
+ "summary": "DIFC and onshore services with several practice areas are strong, but two websites, two phone numbers and a form that appears to show no fields cost you clients.",
+ "findings": [
+  {
+   "problem": "Contact buttons on almazmylaw.ae send people to almazmy.com, and the firm appears as Al Mazmy, Almazmy and Yaqoub Almaazmi Advocates & Faragallah Legal Consultancy.",
+   "cost": "A client moving between two domains and names may lose trust.",
+   "fix": "One site and one consistent firm name."
+  },
+  {
+   "problem": "The header lists +971 4 568 6523 while the footer phone icon dials +971 56 403 7377.",
+   "cost": "A client who taps to call may reach a different line than expected.",
+   "fix": "One checked number everywhere."
+  },
+  {
+   "problem": "The form appears to show labels without input fields, with a visible Leave this field blank note and a 5+5? check.",
+   "cost": "Leftover form text and a missing form lose enquiries.",
+   "fix": "A clean, tested enquiry form."
+  },
+  {
+   "problem": "Four award images are labelled only Award Logo, there are no team bios, and the footer reads Follw Us.",
+   "cost": "Unnamed awards and no lawyers named reduce credibility.",
+   "fix": "Named awards, team profiles and proofread copy."
+  }
+ ],
+ "redesign": [
+  "One site, one firm name and one correct phone number.",
+  "A clean enquiry form with a WhatsApp option.",
+  "Named awards and team profiles."
+ ]
+}

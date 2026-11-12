@@ -1,0 +1,33 @@
+{
+ "business": "Dora Clinics",
+ "owner": "the Dora Clinics team",
+ "city": "Riyadh",
+ "website": "doraclinic.sa",
+ "summary": "You have a 4.5 rating from 1,311 Google reviews, a booking form and WhatsApp, but errors in the booking flow and details lose patients.",
+ "findings": [
+  {
+   "problem": "The booking form's service dropdown has garbled options (for example Laser Leather Skin), and the Book Now buttons all go to the offers page.",
+   "cost": "A patient who cannot pick the right service or reach a booking step leaves.",
+   "fix": "Clean service list and a direct booking step."
+  },
+  {
+   "problem": "Doctor cards link to the same profile (dr-doaa-shams), two doctors have no profile link, and Privacy Policy and Terms link to #.",
+   "cost": "Patients want to read about their doctor, and broken links look careless.",
+   "fix": "A working profile for each doctor and real policy pages."
+  },
+  {
+   "problem": "Typos include Botex injections, Mohamdia, Ezdehr and CONTACTUS. Three different email addresses are listed and the footer says 2020.",
+   "cost": "Mixed contact details and outdated dates reduce trust.",
+   "fix": "One email and proofread, current copy."
+  },
+  {
+   "problem": "The Google review carousel uses the same avatar for every reviewer, featured testimonials are dated 2021 to 2022, and the Services and Offers blocks appear twice.",
+   "cost": "Stale reviews and repeats waste your strongest proof.",
+   "fix": "A fresh review wall and one clean services page."
+  }
+ ],
+ "redesign": [
+  "A bilingual booking flow with a clear service list and WhatsApp.",
+  "Doctor profiles, fresh reviews and one clean services page."
+ ]
+}

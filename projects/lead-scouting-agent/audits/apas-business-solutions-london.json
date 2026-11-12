@@ -1,0 +1,29 @@
+{
+ "business": "APAS Business Solutions",
+ "owner": "the APAS team",
+ "city": "London, UK",
+ "website": "apasbusinesssolutions.com",
+ "summary": "An accountancy practice that promises no penalty fines appears to lose new clients to a cluttered menu, leftover placeholder text and a typo in the pricing area.",
+ "findings": [
+  {
+   "problem": "The main menu appears to list Advertising Page about eleven times, next to internal items such as Time Sheet, PAYE details and Employees Registration Form.",
+   "cost": "A new client cannot find your services in a menu this long, and staff pages in a public menu look careless for a firm that handles money.",
+   "fix": "A short menu with five or six clear services."
+  },
+  {
+   "problem": "Placeholder Latin text, Quisque rhoncus ut mauris, appears in the footer area.",
+   "cost": "Leftover template text makes the site look unfinished, and clients doubt a firm that leaves it on show.",
+   "fix": "Clean footer with your real details."
+  },
+  {
+   "problem": "The business plan prices appear to carry the typo Busniess Plan and uneven price formatting.",
+   "cost": "A typo in the area where a client decides to buy lowers trust and sales.",
+   "fix": "Clear price cards with a simple next step."
+  }
+ ],
+ "redesign": [
+  "Short menu, clear services.",
+  "No placeholder text.",
+  "Clean price cards and an enquiry form."
+ ]
+}

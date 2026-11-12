@@ -1,0 +1,34 @@
+{
+ "business": "Quttainah Medical Center",
+ "owner": "the Quttainah team",
+ "city": "Madinat Khalifa South, Doha",
+ "website": "qmc-doha.com",
+ "summary": "A dermatology, plastic surgery and pharmacy offer with WhatsApp booking is a strength, but dead menus and three different WhatsApp numbers appear to confuse patients.",
+ "findings": [
+  {
+   "problem": "The About, Departments and Media menu items link to #.",
+   "cost": "Visitors cannot reach your main sections from the menu.",
+   "fix": "Working menus and department pages."
+  },
+  {
+   "problem": "Book Now sends people to +974 5147 5954, Appointments to +974 5025 6513 and the footer to +974 4408 9701.",
+   "cost": "Patients do not know which number is the right one and some will give up.",
+   "fix": "One clear booking number and a booking form."
+  },
+  {
+   "problem": "The page says Make an Appointment Friend, keyword phrases such as dermatologist near me are repeated in the text, and the hours omit Saturday.",
+   "cost": "Odd copy and missing hours cost bookings.",
+   "fix": "Clear, proofread copy and complete hours."
+  },
+  {
+   "problem": "The rating shows 4.4 from 99 reviews but only a few appear, several reviews have no text, and staff names vary between Dr. Shin and Dr. Nashat.",
+   "cost": "Thin proof and changing names weaken your strongest asset.",
+   "fix": "A full review wall and consistent staff names."
+  }
+ ],
+ "redesign": [
+  "Working menus and one booking number with a form.",
+  "Proofread copy with complete opening hours.",
+  "A full review wall and consistent staff profiles."
+ ]
+}

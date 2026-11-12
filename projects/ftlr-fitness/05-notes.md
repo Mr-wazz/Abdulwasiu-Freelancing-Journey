@@ -182,3 +182,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Apple rule: first subscriptions must be submitted with a new app version.
 - Fix: wrapper MARKETING_VERSION 1.0 to 1.0.1 (commit 666496b), new Codemagic build, version 1.0.1 created in App Store Connect with What's New text, review info carried over. Next: attach new build and BOTH subscriptions in the In-App Purchases and Subscriptions section, then submit.
 - Lesson: before every submission, open the version page and confirm both subscriptions are listed under In-App Purchases and Subscriptions.
+
+## 10 to 12 Nov 2026: 1.0.1 with subscriptions approved
+- Draft submission needed 5 items: version 1.0.1 (build 125), both subscriptions AND both subscription groups. Apple warning "must be submitted with its subscription group" meant the groups were missing. Monthly group page would not load, so it was added to the draft directly.
+- Lesson: in "Add for Review" always pick the existing draft, never "Create New Submission", and include the subscription groups.
+- 12 Nov: Abdulwasiu reports Apple approved. Still to do: test plans and a purchase on a fresh install.
+- Next: Instagram launch post for Up Agency portfolio (ask Leah's OK first). Upsell: offer step 1 only (store listing pack).

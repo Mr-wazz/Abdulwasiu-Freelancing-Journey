@@ -38,5 +38,5 @@ Status: NOT delivered. Blocked on build 13.
 
 ## Status 10 Nov 2026
 - [x] Version 1.0 approved and live in the App Store
-- [ ] Subscriptions approved (were not included in the 1.0 review; resubmitting with 1.0.1)
+- [x] Subscriptions approved with version 1.0.1 (12 Nov)
 - [ ] Plans load in the live app and a purchase works

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-14 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. The Lovely Clinic (London)
+
+Message:
+> Hello, I looked at The Lovely Clinic website. The WhatsApp link appears to dial a landline, and several treatment menu items seem to lead nowhere. A client who taps and cannot reach you may book elsewhere. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/447401163760?text=Hello%2C%20I%20looked%20at%20The%20Lovely%20Clinic%20website.%20The%20WhatsApp%20link%20appears%20to%20dial%20a%20landline%2C%20and%20several%20treatment%20menu%20items%20seem%20to%20lead%20nowhere.%20A%20client%20who%20taps%20and%20cannot%20reach%20you%20may%20book%20elsewhere.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. LAW TIME Legal Consultants (Abu Dhabi)
+
+Message:
+> Hi, I went through the LAW TIME website. The Contact us button appears to open the About page, and there seem to be no client testimonials. A person who cannot find the contact page quickly may call another firm. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/971567476703?text=Hi%2C%20I%20went%20through%20the%20LAW%20TIME%20website.%20The%20Contact%20us%20button%20appears%20to%20open%20the%20About%20page%2C%20and%20there%20seem%20to%20be%20no%20client%20testimonials.%20A%20person%20who%20cannot%20find%20the%20contact%20page%20quickly%20may%20call%20another%20firm.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Smile by Design (Sydney)
+
+Message:
+> Good day, I checked the Smile by Design website. Booking appears to happen on another site, and I could not find patient reviews or results. A patient sent away to book may not come back. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/61401614264?text=Good%20day%2C%20I%20checked%20the%20Smile%20by%20Design%20website.%20Booking%20appears%20to%20happen%20on%20another%20site%2C%20and%20I%20could%20not%20find%20patient%20reviews%20or%20results.%20A%20patient%20sent%20away%20to%20book%20may%20not%20come%20back.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. K Estates (Dubai)
+
+Message:
+> Hello, I read the K Estates website. Some sections appear empty, and the property filters seem to all open the same buy page. A buyer who cannot narrow the search may leave for a portal. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/971589633865?text=Hello%2C%20I%20read%20the%20K%20Estates%20website.%20Some%20sections%20appear%20empty%2C%20and%20the%20property%20filters%20seem%20to%20all%20open%20the%20same%20buy%20page.%20A%20buyer%20who%20cannot%20narrow%20the%20search%20may%20leave%20for%20a%20portal.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. La Clinica (Riyadh)
+
+Message:
+> Hi there, I visited the La Clinica website. Some template code appears in the banner, and the same phone number seems to serve two branches. A new patient may doubt the clinic before calling. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/966536570591?text=Hi%20there%2C%20I%20visited%20the%20La%20Clinica%20website.%20Some%20template%20code%20appears%20in%20the%20banner%2C%20and%20the%20same%20phone%20number%20seems%20to%20serve%20two%20branches.%20A%20new%20patient%20may%20doubt%20the%20clinic%20before%20calling.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-13 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

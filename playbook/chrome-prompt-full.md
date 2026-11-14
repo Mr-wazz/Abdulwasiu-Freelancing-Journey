@@ -1,6 +1,6 @@
 # Paste ALL of this into the Claude in Chrome side panel
 
-Use my open Chrome tabs to work on my Upwork freelancer account. I am already signed in. I give you permission to edit my Upwork profile for these 3 tasks only. Do not change anything else, do not apply to jobs, do not spend Connects, do not buy anything.
+Use my open Chrome tabs to work on my Upwork freelancer account. I am already signed in. I give you permission to edit my Upwork profile for these 3 tasks only. Do not change anything else (not the title, overview or skills), do not apply to jobs, do not spend Connects, do not buy anything.
 
 Work one item at a time. After each item is saved, tell me in one line and move on.
 
@@ -11,7 +11,7 @@ TASK 1: HOURLY RATE
 Go to my Upwork profile, edit the hourly rate, set it to $35.00 per hour and save.
 
 =====================================================
-TASK 2: PORTFOLIO (5 projects, in this order)
+TASK 2: PORTFOLIO (2 projects, in this order)
 For each project: Profile, Portfolio section, click +. Fill Project title, Your role, Project description and Skills exactly as below. Upload the image (ask me to pick it). Add the live link. Publish.
 If a skill is not accepted, pick the closest Upwork skill.
 
@@ -40,48 +40,6 @@ Image: `02-cprs-recycling.png`. Link: https://cprsrecycling.com/
 A web platform for Copackers Recycling where buyers and sellers trade recycled materials such as PET flakes. Each order moves through clear stages: request for quote, quote, payment proof, inspection and logistics. I developed the buyer workspace, order tracking cards, document generation (purchase order and proforma drafts), and navigation for listings, messages, finance, inspections and logistics. Fast to load and built for daily operational use.
 
 **Skills:** Web Application, Web Development, Dashboard, JavaScript, UX/UI
-
----
-
-## 3. Extrafazant: Content and Animation Studio Website
-Image: `03-extrafazant.png`. Link: https://www.extrafazant.nl/
-
-**Title:** Webflow Website for a Dutch Content & Animation Studio
-
-**Role:** Webflow Developer
-
-**Description:**
-Website for Extrafazant, a Dutch studio that creates social content, video and animation for brands like Jumbo and Fontys. I developed the site in Webflow from the designer's concept (design by Dylan Brouwer), with bold typography, a scrolling client logo strip, project pages and video. Loads in about 2 seconds on mobile and is fully responsive.
-
-**Skills:** Webflow, Web Development, Responsive Design, Landing Page, Animation
-
----
-
-## 4. Creative Reference Library (CRL)
-Image: `04-creative-reference-library.png`. Link: https://crl-2026.webflow.io/
-
-**Title:** Webflow Editorial Website | Creative Reference Library
-
-**Role:** Webflow Developer
-
-**Description:**
-An editorial website for the Creative Reference Library, a curated collection of books, albums, films, videos and playlists for creative professionals. I developed it in Webflow with oversized typography, a structured index and library, and CMS-driven content so new references can be added without code. Loads in under 1 second on mobile.
-
-**Skills:** Webflow, Webflow CMS, Web Development, Responsive Design, Web Design
-
----
-
-## 5. Zirka: Defence Technology Product Website
-Image: `05-zirka.png`. Link: https://www.zrk.technology/
-
-**Title:** Product Website for a Defence Tech Company | Webflow
-
-**Role:** Webflow Developer
-
-**Description:**
-Product website for Zirka, a Ukrainian defence technology company with an autonomous interceptor. I developed a dark, cinematic site with a full-screen product visual, interactive interface details, and sections for the threat, features, effectiveness and system. Loads in about 1.5 seconds on mobile with all media working.
-
-**Skills:** Webflow, Web Development, Landing Page, Responsive Design, Interaction Design
 
 ---
 

@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-15 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Alcove Aesthetics (London)
+
+Message:
+> Hello, I looked at the Alcove Aesthetics website. Some code text appears in the cookie banner, and the treatment times seem to contradict each other. A client who sees this may doubt the clinic before booking. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/447457404982?text=Hello%2C%20I%20looked%20at%20the%20Alcove%20Aesthetics%20website.%20Some%20code%20text%20appears%20in%20the%20cookie%20banner%2C%20and%20the%20treatment%20times%20seem%20to%20contradict%20each%20other.%20A%20client%20who%20sees%20this%20may%20doubt%20the%20clinic%20before%20booking.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Quttainah Medical Center (Doha)
+
+Message:
+> Hi, I went through the Quttainah Medical Center website. Several menu items appear to lead nowhere, and three different WhatsApp numbers are listed. A patient unsure which number to use may call another clinic. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/97451475954?text=Hi%2C%20I%20went%20through%20the%20Quttainah%20Medical%20Center%20website.%20Several%20menu%20items%20appear%20to%20lead%20nowhere%2C%20and%20three%20different%20WhatsApp%20numbers%20are%20listed.%20A%20patient%20unsure%20which%20number%20to%20use%20may%20call%20another%20clinic.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. DIFC Lawyers (Dubai)
+
+Message:
+> Good day, I checked the DIFC Lawyers website. Some sentences appear cut off, and I could not find a phone number written as text. A client who cannot see how to reach you may contact another firm. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/971506275196?text=Good%20day%2C%20I%20checked%20the%20DIFC%20Lawyers%20website.%20Some%20sentences%20appear%20cut%20off%2C%20and%20I%20could%20not%20find%20a%20phone%20number%20written%20as%20text.%20A%20client%20who%20cannot%20see%20how%20to%20reach%20you%20may%20contact%20another%20firm.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. Bourgeois Dental Clinic (Dubai)
+
+Message:
+> Hello, I read the Bourgeois Dental Clinic website. The Privacy and Terms links appear to open the homepage, and the results are labelled Case 1 to 10 with no captions. Patients may not see what each treatment achieved. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/971529224099?text=Hello%2C%20I%20read%20the%20Bourgeois%20Dental%20Clinic%20website.%20The%20Privacy%20and%20Terms%20links%20appear%20to%20open%20the%20homepage%2C%20and%20the%20results%20are%20labelled%20Case%201%20to%2010%20with%20no%20captions.%20Patients%20may%20not%20see%20what%20each%20treatment%20achieved.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. The Skin Lab (Abu Dhabi)
+
+Message:
+> Hi there, I visited The Skin Lab website. The booking buttons appear to scroll to a message form, and I could not find prices or before and after photos. A visitor who cannot compare may delay booking. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/971509538223?text=Hi%20there%2C%20I%20visited%20The%20Skin%20Lab%20website.%20The%20booking%20buttons%20appear%20to%20scroll%20to%20a%20message%20form%2C%20and%20I%20could%20not%20find%20prices%20or%20before%20and%20after%20photos.%20A%20visitor%20who%20cannot%20compare%20may%20delay%20booking.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-14 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

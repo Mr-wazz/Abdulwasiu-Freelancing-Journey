@@ -55,4 +55,4 @@ https://secure-the-unknown.cyera.com/ loads fast, but it showed "Your browser is
 - Down: firstchoice19.com, bekeetech.com, packageit.ng, specshub.com.ng, passolutions.com.ng, rightspec.com.ng/glomus/
 
 ## If a client asks
-Be ready to say exactly what you did on each site (for example "I built it in Webflow from the designer's file"). Clients often ask this on the first call.
+Be ready to say exactly what you did on each site (for example "I built it in WordPress from the client's design"). Clients often ask this on the first call.

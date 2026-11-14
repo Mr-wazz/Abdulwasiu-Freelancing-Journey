@@ -6,7 +6,7 @@ Goal: turn Behance into a steady source of creative design and creative developm
 - Behance Pro free trial started 14 Nov. Ends 22 Nov 2026, then NGN 17,200 per month. Decide by 21 Nov.
 - Gmail check: no job alerts or client messages from Behance so far. Only newsletters. 6 followers and 1 comment since Aug 2025.
 - Claude in Chrome: not reachable from the cloud session. Needs a Claude session running on the MacBook (see "Connect Chrome" below).
-- Profile link: not shared yet.
+- Profile: https://www.behance.net/Oyenolaabdulwasiu (audited 14 Nov, see audit.md).
 
 ## The flow (Claude does the work, Abdulwasiu approves)
 1. AUDIT: Claude opens the profile in Chrome, checks headline, about, services, projects, covers, tags, pricing, availability.
@@ -19,8 +19,8 @@ Goal: turn Behance into a steady source of creative design and creative developm
 
 ## Job filter (my preferences)
 - Services: brand identity, logo, UI and UX, web design, website build (WordPress, Elementor, Webflow, custom), landing pages and funnels, mobile app design and build (Capacitor, App Store, Play Store).
-- Minimum budget: TBC by Abdulwasiu (suggested: $500 minimum, focus on $1,500+).
-- Skip: contests, spec work, "free test task", under $300, vague posts with no business goal.
+- Minimum budget: $500. Focus on jobs over $1,500 (these go first in every daily batch).
+- Skip: contests, spec work, "free test task", budgets under $500, vague posts with no business goal.
 - Prefer: business owners and startups with a clear goal (launch, rebrand, more bookings, app store launch).
 
 ## Safety rules

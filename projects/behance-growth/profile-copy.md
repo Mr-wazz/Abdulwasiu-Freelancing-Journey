@@ -1,6 +1,14 @@
-# Behance Profile Copy (draft v1, ready to paste)
+# Behance Profile Copy (v2, ready to paste)
 
-Draft written before seeing the live profile. Will be adjusted after the Chrome audit.
+v2, updated after the audit of the live profile (see audit.md).
+
+## Settings to change
+- Occupation: see name line below
+- Company: Fiverpulse
+- Availability: Available now
+- Minimum budget: $500, turn ON "enforce minimum budget"
+- Website: your own domain once it loads (not the vibepreview link)
+- Work experience: add "Founder, Fiverpulse" at the top, fix "UI Designer" and "Head of Design"
 
 ## Name line / occupation
 Creative Designer and Developer | Brands, Websites and Apps that bring in customers
@@ -21,9 +29,10 @@ What I do:
 5. Landing pages and funnels that turn visitors into leads and bookings
 
 Recent results:
-1. Took a habit tracking app from 2 Apple rejections to App Store approval, with a new icon and store screenshots
-2. Built and shipped a fitness app to TestFlight with in app subscriptions
-3. Audited clinic and law firm websites in Canada, the UK, Australia and Saudi Arabia, finding the booking leaks that cost them patients and clients
+1. Brand identities for The Standard LLC and Pickle, plus email design systems for health care, DTC golf, pharmacy and electronics brands
+2. Took a habit tracking app from 2 Apple rejections to App Store approval, with a new icon and store screenshots
+3. Built and shipped a fitness app to TestFlight with in app subscriptions
+4. Audited clinic and law firm websites in Canada, the UK, Australia and Saudi Arabia, finding the booking leaks that cost them patients and clients
 
 How I work: clear fixed price, milestones, and updates every step. You always know what is done and what is next.
 
@@ -33,6 +42,7 @@ Tell me your goal and I will tell you the fastest way to reach it.
 | Service | Starting price | Delivery |
 |---|---|---|
 | Brand Identity Starter (logo, colors, fonts, mini brand guide) | $800 | 7 to 10 days |
+| Email Design System (6 branded templates, built and tested in your email tool) | $600 | 7 days |
 | Landing Page Design and Build (1 page, mobile first, form or booking) | $900 | 7 days |
 | Business Website Design and Build (up to 6 pages, WordPress or Elementor) | $1,800 | 2 to 3 weeks |
 | Mobile App UI Design (up to 12 screens, clickable prototype) | $1,500 | 2 weeks |

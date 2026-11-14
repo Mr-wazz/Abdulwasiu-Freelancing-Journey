@@ -55,12 +55,12 @@ Warning signs seen: many $5 to $25 fixed price "full website" posts. Skip them. 
 
 Primary: WordPress Developer, Elementor, WooCommerce, Page Speed Optimization.
 Secondary: website redesign, bug fixes, malware cleanup, migration, technical SEO, Core Web Vitals, landing pages, maintenance.
-Differentiator: lead automation, GoHighLevel (HighLevel), CRM follow up. Very few WordPress profiles offer this, and it links to Fiverpulse's GHL service.
+Secondary platform: Webflow (matches the portfolio). GoHighLevel is NOT offered on this Upwork account (Adam's decision, 2026-11-14).
 
 ## 6. Profile changes made (or proposed)
 
-- Title: `WordPress Developer | Elementor, WooCommerce, Speed & Lead Automation` (69 of 70 chars)
-- Skills: 20 tags from section 3, plus HighLevel
+- Title: `WordPress Developer | Elementor, WooCommerce, Speed & Webflow` (live since 2026-11-14)
+- Skills: 20 tags from section 3, plus Webflow and Web Design (no HighLevel)
 - Overview: hook first (the first two lines show in search), problem and money angle, services grouped by client need, process, clear call to action.
 
 ## 7. Still to do

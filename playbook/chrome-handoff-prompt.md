@@ -24,7 +24,7 @@ Open `playbook/upwork-portfolio/README.md`. For each of the 5 projects, in the o
 5. Show me a summary, then Publish after I say yes.
 Skip the "Optional" and "Taken out" sites. If a skill name is not accepted, pick the closest Upwork skill and tell me.
 
-### Task 3: Project Catalog (4 offers)
-Open `playbook/upwork-catalog/README.md`. For each of the 4 projects, create a new Project Catalog listing with the title, search tags, 3 tiers (name, what you get, delivery days, revisions, price), gallery image from `playbook/upwork-catalog/`, buyer requirements, description and FAQ exactly as written. Show me each listing before you click Submit for review.
+### Task 3: Project Catalog (3 offers)
+Open `playbook/upwork-catalog/README.md`. For each of the 3 projects, create a new Project Catalog listing with the title, search tags, 3 tiers (name, what you get, delivery days, revisions, price), gallery image from `playbook/upwork-catalog/`, buyer requirements, description and FAQ exactly as written. Show me each listing before you click Submit for review.
 
 When finished, give me a short list of what was saved and anything that failed.

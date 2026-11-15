@@ -40,3 +40,27 @@ Pick 1 reference per proposal, the one closest to the client's niche. Always pai
 ## Example: roofing job
 
 > Hi [Name], I looked at your site. It takes about 8 seconds to load on a phone and the quote button only appears at the bottom of the page. The roofing sites that win the most calls, like tadlockroofing.com, put a free inspection button, click to call and their reviews right at the top, and they load fast on mobile. I would rebuild your homepage in Elementor around that same pattern, keep your branding, and get it loading in under 3 seconds. I can start this week. Would a fixed price of $X with a 5 day timeline work for you?
+
+## More references by niche (added 2026-11-15)
+Same rule: design examples only, never "I built this". Sites marked (WP) run on WordPress, so you can say "this kind of site can be built in WordPress".
+
+| Niche | Best references | What they do well (use these words) |
+|---|---|---|
+| Architecture and interiors | novairedesignstudio.com, cranberryhome.co.uk, wireframeonline.com | Big project galleries, luxury typography, consultation booking, click to call, client reviews |
+| Engineering and consultancy | edgeengineering.net (WP) | Quote request, click to call, project portfolio, reviews, newsletter |
+| Fashion and jewelry | noliajewelry.com, hope-couture.com | Premium product photos, reviews, newsletter signup for repeat sales |
+| Skincare and bath products | veriphyskincare.com, laurelbathhouse.com, skoud.com | Clean product pages, reviews on products, strong product photography |
+| Restaurant | thefigrye.com (WP) | Reservations, reviews, newsletter |
+| Hotel and boutique stay | palazzosogni.com (WP), thedrake.ca, tandjungsarihotel.com, terrenohotel.com, jagerhof.net | Direct booking, click to call, photo galleries, reviews, newsletter |
+| Travel and hospitality brand | here-away.com (WP), sondaven.com | Booking, destination storytelling, newsletter |
+| Printing and local services | carbonlessprinter.com, nightshieldps.com | Quote request, click to call, booking, reviews |
+| SaaS and apps | withgiraffe.com, databull.app, firenum.com, nuros.app, onlinenotepad.net | Clear product explanation, sign up or free trial button, demo booking, reviews |
+| Nonprofit and charity | bailproject.org (WP), sanctuaryforfamilies.org (WP), 826national.org (WP), roomtoread.org, austinpetsalive.org, girlswhocode.com | Donate button everywhere, volunteer signup, newsletter, impact stories |
+| Accounting and consultancy (Nigeria) | emekanwobodo.org, ikennaconsult.com | Consultation booking, click to call, service list, reviews |
+| Law firm | bearlitigation.com | Consultation booking, case reviews, newsletter |
+| B2B technology | mark43.com (WP) | Request a demo, customer proof, enterprise trust signals |
+| Artist and photographer portfolio | pedrobonatto.com, kristinkwan.com, mervi.art, artlambi.be (WP), gorkem.cc | Full-screen galleries, booking or commission enquiries, newsletter |
+| Apparel and niche ecommerce | ashestoarmor.net, embroideryzone2.com | Product catalog, newsletter, simple checkout |
+
+Not loading when checked (do not cite until rechecked): studio2jd.com, easttennpoolandspa.com, marieterrell.com.
+Too big to be a useful comparison for small clients (skip in proposals): khanacademy.org, watsi.org, lapharmacie.com.

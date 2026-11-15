@@ -9,5 +9,8 @@
 7. Every proposal opens with a real finding from the client's own site (speed, mobile, missing tracking, missing call to action).
 8. Adam approves each batch before anything is sent.
 
+9. Payment verified clients only. Never apply to a client whose payment is not verified.
+10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
+
 ## Scan schedule
 Every 3 hours: pull new jobs, filter by these rules, audit each client's website, draft tailored proposals, and send Adam one batch to approve. Nothing is submitted without his yes.

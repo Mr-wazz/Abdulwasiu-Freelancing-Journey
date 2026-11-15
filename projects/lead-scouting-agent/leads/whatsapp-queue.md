@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-16 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day. Note: the Qatar and Dubai numbers below are the ones each site labels as WhatsApp, if a chat does not open, the number may be a landline, skip it.
+
+## 1. DRHC Dubai, Dr Rami Hamed Center (Dubai)
+
+Message:
+> Hello, I looked at the Dr Rami Hamed Center website. The appointment form appears not to load, and I spotted spelling mistakes such as representitve. A patient who cannot book or sees typos may trust the clinic less. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/971524830895?text=Hello%2C%20I%20looked%20at%20the%20Dr%20Rami%20Hamed%20Center%20website.%20The%20appointment%20form%20appears%20not%20to%20load%2C%20and%20I%20spotted%20spelling%20mistakes%20such%20as%20representitve.%20A%20patient%20who%20cannot%20book%20or%20sees%20typos%20may%20trust%20the%20clinic%20less.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Retaj Real Estate (Doha)
+
+Message:
+> Hi, I went through the Retaj Real Estate website. Template menu items such as Typography and Page 404 appear in the menu, and an Out of Stock filter shows on a property search. A buyer may think the site is unfinished. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/97433388700?text=Hi%2C%20I%20went%20through%20the%20Retaj%20Real%20Estate%20website.%20Template%20menu%20items%20such%20as%20Typography%20and%20Page%20404%20appear%20in%20the%20menu%2C%20and%20an%20Out%20of%20Stock%20filter%20shows%20on%20a%20property%20search.%20A%20buyer%20may%20think%20the%20site%20is%20unfinished.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. The Pearl Dermatology and Laser Centre (Doha)
+
+Message:
+> Good day, I checked The Pearl Dermatology and Laser Centre website. The Branches menu appears to lead nowhere, and the booking form shows no fields. A patient who cannot book online may call another clinic. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/97450830888?text=Good%20day%2C%20I%20checked%20The%20Pearl%20Dermatology%20and%20Laser%20Centre%20website.%20The%20Branches%20menu%20appears%20to%20lead%20nowhere%2C%20and%20the%20booking%20form%20shows%20no%20fields.%20A%20patient%20who%20cannot%20book%20online%20may%20call%20another%20clinic.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. EDEN Aesthetics Clinic (Dubai)
+
+Message:
+> Hello, I read the EDEN Aesthetics Clinic website. The booking form seems to be only a dropdown and a submit button, and many menu links appear to open the same page. A client may leave before booking. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/97145774796?text=Hello%2C%20I%20read%20the%20EDEN%20Aesthetics%20Clinic%20website.%20The%20booking%20form%20seems%20to%20be%20only%20a%20dropdown%20and%20a%20submit%20button%2C%20and%20many%20menu%20links%20appear%20to%20open%20the%20same%20page.%20A%20client%20may%20leave%20before%20booking.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. Al Sulaiti Law Firm (Doha)
+
+Message:
+> Hi there, I visited the Al Sulaiti Law Firm website. The About and Newsroom links appear to go nowhere, and I could not find a contact form. A client with an urgent matter may contact another firm. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/97444664066?text=Hi%20there%2C%20I%20visited%20the%20Al%20Sulaiti%20Law%20Firm%20website.%20The%20About%20and%20Newsroom%20links%20appear%20to%20go%20nowhere%2C%20and%20I%20could%20not%20find%20a%20contact%20form.%20A%20client%20with%20an%20urgent%20matter%20may%20contact%20another%20firm.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-15 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

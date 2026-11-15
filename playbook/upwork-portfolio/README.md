@@ -116,6 +116,21 @@ Website for Norm Architects, a Copenhagen studio working across architecture, in
 
 ---
 
+## 8. Space Copenhagen: Interior Design Studio Website
+Image: `08-space-copenhagen.png`. Link: https://spacecph.dk/
+Note: Adam was part of the development team, working through UP Agency, early 2026. Contact at the agency: Mazas (do not publish the name).
+
+**Title:** Interior Design Studio Website | WordPress Development (Team Project)
+
+**Role:** WordPress Developer (via UP Agency)
+
+**Description:**
+Website for Space Copenhagen, a multidisciplinary studio designing hotels, restaurants, interiors and furniture worldwide. I was part of the development team at UP Agency that built the site in WordPress. The site uses a calm, editorial grid that lets project photography lead, with each project showing its name and location, plus sections for Projects, Design, About and Contact and a site search. Loads in under 2 seconds on mobile.
+
+**Skills:** WordPress, WordPress Development, Responsive Design, Web Development, WordPress Theme
+
+---
+
 ## Optional: Cyera AI Guardian
 https://secure-the-unknown.cyera.com/ loads fast, but it showed "Your browser is not supported" in my test browser (it likely needs 3D graphics). If it looks right on your computer, add it with your own screenshot.
 

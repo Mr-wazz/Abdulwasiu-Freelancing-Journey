@@ -101,6 +101,21 @@ An online beauty store for Beautymart, selling authentic skincare, makeup, perfu
 
 ---
 
+## 7. Norm Architects: Architecture and Design Studio Website
+Image: `07-norm-architects.png`. Link: https://normcph.com/
+Note: Adam was part of the development team, working through UP Agency, early 2026. Contact at the agency: Mazas (do not publish the name).
+
+**Title:** Architecture Studio Website | WordPress Development (Team Project)
+
+**Role:** WordPress Developer (via UP Agency)
+
+**Description:**
+Website for Norm Architects, a Copenhagen studio working across architecture, interiors and product design. I was part of the development team at UP Agency that built the site in WordPress. The site uses a minimal, gallery-led layout: full-width project photography, a slider for featured projects, and clear sections for Architecture, Design, Creative, Videos, Studio and Press, so the studio's work speaks for itself. Fully responsive.
+
+**Skills:** WordPress, WordPress Development, Responsive Design, Web Development, WordPress Theme
+
+---
+
 ## Optional: Cyera AI Guardian
 https://secure-the-unknown.cyera.com/ loads fast, but it showed "Your browser is not supported" in my test browser (it likely needs 3D graphics). If it looks right on your computer, add it with your own screenshot.
 

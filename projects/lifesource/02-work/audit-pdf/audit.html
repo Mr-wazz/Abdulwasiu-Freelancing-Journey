@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LifeSource Website Audit</title>
+<style>
+  @page { size: A4; margin: 0; }
+  :root {
+    --green: #22341A; --green-2: #34502A; --sage: #CFE6A6; --cream: #FBF6EC; --paper: #FFFFFF;
+    --ink: #1E2619; --muted: #5E6A57; --line: #E4DED0; --rust: #D4512A; --amber: #C98A12; --ok: #3E7A3A;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: var(--paper); }
+  body { font-family: "Inter", sans-serif; color: var(--ink); font-size: 10.2pt; line-height: 1.5; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  h1, h2, h3, .serif { font-family: "Bitstream Charter", "Charter", Georgia, serif; font-weight: 700; color: var(--green); }
+  .page { width: 210mm; height: 297mm; padding: 18mm 18mm 20mm; position: relative; page-break-after: always; overflow: hidden; }
+  .page:last-child { page-break-after: auto; }
+  .foot { position: absolute; left: 18mm; right: 18mm; bottom: 9mm; display: flex; justify-content: space-between; font-size: 7.8pt; color: var(--muted); border-top: 1px solid var(--line); padding-top: 3mm; }
+  .eyebrow { font-size: 8pt; letter-spacing: .14em; text-transform: uppercase; font-weight: 600; color: var(--rust); margin-bottom: 2mm; }
+  h2 { font-size: 21pt; line-height: 1.15; margin-bottom: 4mm; }
+  h3 { font-size: 13.5pt; line-height: 1.25; }
+  p + p { margin-top: 2.5mm; }
+  .lead { font-size: 11.2pt; color: #2C3626; }
+  .muted { color: var(--muted); }
+  strong { font-weight: 600; }
+
+  /* Cover */
+  .cover { background: var(--green); color: var(--cream); padding: 22mm 20mm; display: flex; flex-direction: column; }
+  .cover .brand { display: flex; align-items: center; gap: 3mm; font-size: 9pt; letter-spacing: .16em; text-transform: uppercase; color: var(--sage); font-weight: 600; }
+  .cover .dot { width: 3mm; height: 3mm; border-radius: 50%; background: var(--sage); }
+  .cover h1 { color: var(--cream); font-size: 40pt; line-height: 1.05; margin-top: 52mm; }
+  .cover .sub { font-size: 13.5pt; color: #DCE7CC; margin-top: 6mm; max-width: 140mm; line-height: 1.45; }
+  .cover .site { display: inline-block; margin-top: 10mm; padding: 2.5mm 5mm; border: 1px solid #5C7550; border-radius: 99px; font-size: 10.5pt; color: var(--sage); }
+  .cover .meta { margin-top: auto; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6mm; border-top: 1px solid #4A6340; padding-top: 6mm; }
+  .cover .meta div { font-size: 8pt; text-transform: uppercase; letter-spacing: .12em; color: #A9BC97; }
+  .cover .meta b { display: block; margin-top: 1.5mm; font-size: 11pt; letter-spacing: 0; text-transform: none; color: var(--cream); font-weight: 600; }
+
+  /* Score tiles */
+  .tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4mm; margin: 6mm 0 7mm; }
+  .tile { border: 1px solid var(--line); border-radius: 3mm; padding: 4mm; background: var(--cream); }
+  .tile .n { font-family: "Bitstream Charter", serif; font-size: 27pt; font-weight: 700; line-height: 1; }
+  .tile .l { font-size: 8.4pt; color: var(--muted); margin-top: 2mm; line-height: 1.35; }
+  .tile .tag { display: inline-block; font-size: 7.2pt; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; padding: .6mm 2mm; border-radius: 99px; margin-top: 2.5mm; }
+  .good .n { color: var(--ok); } .good .tag { background: #E1EFD9; color: var(--ok); }
+  .fair .n { color: var(--amber); } .fair .tag { background: #F7EBCD; color: #8A5E07; }
+  .poor .n { color: var(--rust); } .poor .tag { background: #F8DED4; color: #A3361A; }
+
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 7mm; }
+  .box { border-radius: 3mm; padding: 5mm 5.5mm; }
+  .box h3 { font-size: 12pt; margin-bottom: 3mm; }
+  .box.ok { background: #EEF5E6; } .box.bad { background: #FBEDE6; }
+  ul.clean { list-style: none; }
+  ul.clean li { padding-left: 5mm; position: relative; margin-bottom: 2mm; font-size: 9.6pt; line-height: 1.45; }
+  ul.clean li::before { content: ""; position: absolute; left: 0; top: 2mm; width: 2mm; height: 2mm; border-radius: 50%; background: var(--ok); }
+  .box.bad ul.clean li::before { background: var(--rust); }
+
+  .money { margin-top: 7mm; background: var(--green); color: var(--cream); border-radius: 3mm; padding: 6mm 7mm; display: grid; grid-template-columns: 52mm 1fr; gap: 6mm; align-items: center; }
+  .money .big { font-family: "Bitstream Charter", serif; font-size: 23pt; font-weight: 700; color: var(--sage); line-height: 1.1; }
+  .money p { font-size: 10pt; color: #E3EBD7; }
+
+  /* Findings */
+  .finding { border-top: 1px solid var(--line); padding-top: 3.6mm; margin-top: 3.6mm; }
+  .finding:first-of-type { border-top: 0; margin-top: 0; padding-top: 0; }
+  .fhead { display: flex; align-items: baseline; gap: 3mm; margin-bottom: 2.5mm; }
+  .fnum { font-family: "Bitstream Charter", serif; font-weight: 700; font-size: 12pt; color: var(--muted); min-width: 7mm; }
+  .sev { margin-left: auto; font-size: 7.2pt; font-weight: 700; text-transform: uppercase; letter-spacing: .09em; padding: .8mm 2.4mm; border-radius: 99px; white-space: nowrap; }
+  .sev.c { background: var(--rust); color: #fff; } .sev.h { background: #F8DED4; color: #A3361A; } .sev.m { background: #F7EBCD; color: #8A5E07; } .sev.l { background: #E8ECE2; color: #4A5644; }
+  .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4mm; margin-top: 2mm; }
+  .grid3 div { font-size: 9.2pt; line-height: 1.45; }
+  .grid3 b { display: block; font-size: 7.6pt; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-bottom: 1mm; font-weight: 600; }
+  figure { margin-top: 4mm; }
+  figure img { width: 100%; display: block; border-radius: 2mm; border: 1px solid var(--line); }
+  figcaption { font-size: 8pt; color: var(--muted); margin-top: 1.5mm; }
+  .phone { width: 52mm; height: 96mm; border-radius: 6mm; border: 2.2mm solid #1C2417; overflow: hidden; background: #fff; flex-shrink: 0; }
+  .phone img { width: 100%; display: block; }
+  .withphone { display: flex; gap: 7mm; align-items: flex-start; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 9pt; margin-top: 3mm; }
+  th { text-align: left; font-size: 7.6pt; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; padding: 2mm 2.5mm; border-bottom: 1.5px solid var(--green); }
+  td { padding: 1.6mm 2.5mm; border-bottom: 1px solid var(--line); vertical-align: top; }
+  td.s { font-weight: 700; font-family: "Bitstream Charter", serif; font-size: 10.5pt; }
+  .r { color: var(--rust); } .a { color: var(--amber); } .g { color: var(--ok); }
+
+  .plan { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4mm; margin-top: 5mm; }
+  .step { border: 1px solid var(--line); border-radius: 3mm; padding: 5mm; background: var(--cream); }
+  .step .when { font-size: 7.6pt; text-transform: uppercase; letter-spacing: .12em; color: var(--rust); font-weight: 700; }
+  .step h3 { font-size: 12.5pt; margin: 1.5mm 0 3mm; }
+  .step ul.clean li { font-size: 9pt; }
+  .cta { margin-top: 8mm; background: var(--green); color: var(--cream); border-radius: 3mm; padding: 8mm; }
+  .cta h3 { color: var(--cream); font-size: 17pt; margin-bottom: 3mm; }
+  .cta p { color: #E3EBD7; font-size: 10.5pt; }
+  .cta .sig { margin-top: 5mm; font-weight: 600; color: var(--sage); }
+  .method { margin-top: 7mm; font-size: 8.4pt; color: var(--muted); line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<!-- 1. COVER -->
+<section class="page cover">
+  <div class="brand"><span class="dot"></span>Fiverpulse</div>
+  <h1>Website Speed and<br>Conversion Audit</h1>
+  <p class="sub">How fast lifesource.earth loads for families, and where the website may be losing people who are ready to reach out.</p>
+  <span class="site">lifesource.earth</span>
+  <div class="meta">
+    <div>Prepared for<b>Ekobay, LifeSource</b></div>
+    <div>Prepared by<b>Abdulwasiu, Fiverpulse</b></div>
+    <div>Date<b>16 November 2026</b></div>
+  </div>
+</section>
+
+<!-- 2. SUMMARY -->
+<section class="page">
+  <div class="eyebrow">Summary</div>
+  <h2>A beautiful, fast site on computers. On phones, a few small gaps stand between families and your team.</h2>
+  <p class="lead">I tested 7 key pages with Google Lighthouse, the same tool behind Google's speed ratings, on both a computer and a mid range phone. The site is in good shape on desktop. On mobile, where most families search, a broken button, a hidden phone number and two slow pages can quietly send people to another funeral home.</p>
+
+  <div class="tiles">
+    <div class="tile good"><div class="n">98</div><div class="l">Homepage speed on a computer</div><span class="tag">Excellent</span></div>
+    <div class="tile fair"><div class="n">79</div><div class="l">Homepage speed on a phone</div><span class="tag">Needs work</span></div>
+    <div class="tile poor"><div class="n">51</div><div class="l">Plan Ahead page on a phone</div><span class="tag">Poor</span></div>
+    <div class="tile poor"><div class="n">56</div><div class="l">Obituaries page on a phone</div><span class="tag">Poor</span></div>
+  </div>
+
+  <div class="two">
+    <div class="box ok">
+      <h3>What is working well</h3>
+      <ul class="clean">
+        <li>Your server answers in under 0.1 seconds. That is excellent.</li>
+        <li>The homepage headline appears in under 2 seconds on a phone.</li>
+        <li>No errors, secure connection (HTTPS) and the layout fits phone screens.</li>
+        <li>Clear, warm writing and a public price list. That builds trust.</li>
+      </ul>
+    </div>
+    <div class="box bad">
+      <h3>What may be costing you families</h3>
+      <ul class="clean">
+        <li>The homepage "Schedule a Consultation" button goes nowhere.</li>
+        <li>No call button at the top of the screen on phones.</li>
+        <li>Plan Ahead and Obituaries are the slowest pages on mobile.</li>
+        <li>After hours, a family can only fill a form and wait.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="money">
+    <div class="big">$1,295 to $6,750</div>
+    <p>The range of your packages, from your own price list. If just one family a month gives up on the website and calls someone else, that is a real loss every month. Most fixes in this report are small and fast.</p>
+  </div>
+
+  <div class="foot"><span>LifeSource  |  Website Speed and Conversion Audit</span><span>2</span></div>
+</section>
+
+<!-- 3. FINDINGS 1 to 2 -->
+<section class="page">
+  <div class="eyebrow">Findings</div>
+  <h2>The two quickest wins</h2>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">01</span><h3>The "Schedule a Consultation" button goes nowhere</h3><span class="sev c">Fix today</span></div>
+    <p>In the Process section of the homepage, right under "available 24/7 to answer your questions", this button links back to the homepage itself. When someone taps it, the page simply reloads. A person who was ready to talk to you gets nothing.</p>
+    <figure><img src="img/dead-button.png" alt="Schedule a Consultation button on the LifeSource homepage"><figcaption>Homepage, Process section. The highlighted button reloads the same page instead of opening a booking or contact page.</figcaption></figure>
+    <div class="grid3">
+      <div><b>Why it matters</b>This button sits at the exact moment a visitor decides to reach out.</div>
+      <div><b>The fix</b>Point the button to your Contact page, or better, to an online booking calendar.</div>
+      <div><b>Effort</b>About 5 minutes in the website editor.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">02</span><h3>No call button at the top of the screen on phones</h3><span class="sev h">High</span></div>
+    <div class="withphone">
+      <div>
+        <p>On a phone, the top bar shows only the logo and the menu. Your number, 213.395.0034, is inside the menu and at the very bottom of the page.</p>
+        <p>Families with an immediate need are often stressed, grieving and searching on their phone. They should be able to call you with one tap, from any page, without searching.</p>
+        <div class="grid3" style="grid-template-columns:1fr; gap:3mm; margin-top:4mm">
+          <div><b>The fix</b>Add a sticky "Call us 24/7" button to the top bar on mobile, visible on every page.</div>
+          <div><b>Also</b>On phones, the small photo tiles in the headline cover some words ("Plan a", "your", "planet"). Moving them slightly makes the message easier to read.</div>
+          <div><b>Effort</b>Under 1 hour.</div>
+        </div>
+      </div>
+      <div class="phone"><img src="img/mobile-top.png" alt="LifeSource homepage on an iPhone"></div>
+    </div>
+  </div>
+
+  <div class="foot"><span>LifeSource  |  Website Speed and Conversion Audit</span><span>3</span></div>
+</section>
+
+<!-- 4. FINDINGS 3 to 6 -->
+<section class="page">
+  <div class="eyebrow">Findings</div>
+  <h2>Speed on the pages that matter most</h2>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">03</span><h3>The Plan Ahead page jumps while it loads</h3><span class="sev h">High</span></div>
+    <p>Mobile score: <strong class="r">51 out of 100</strong>. While the page loads, a block of text moves down the screen. Google measures this as "layout shift": your page scores 0.33, and Google rates anything above 0.25 as poor. Visitors lose their place or tap the wrong thing. This is the page for pre planning, your most valuable kind of enquiry.</p>
+    <div class="grid3">
+      <div><b>Cause</b>The embedded planning form loads late and pushes the content down.</div>
+      <div><b>The fix</b>Reserve space for the form so nothing moves, and load it after the main text.</div>
+      <div><b>Result</b>A calm, stable page and a much better score.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">04</span><h3>The Obituaries page takes about 7 seconds on a phone</h3><span class="sev h">High</span></div>
+    <p>Mobile score: <strong class="r">56 out of 100</strong>. The main content appears after <strong>7.2 seconds</strong>. Obituaries are often the most visited pages of a funeral home website, because families share the link with friends and relatives. Every one of those visitors is a person meeting LifeSource for the first time.</p>
+    <div class="grid3">
+      <div><b>Cause</b>The obituary listing waits for an external widget and its photos.</div>
+      <div><b>The fix</b>Show the page first, then load the widget. Compress the photos.</div>
+      <div><b>Result</b>Faster first impression for every guest who opens a shared link.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">05</span><h3>Add on tools slow the phone down</h3><span class="sev m">Medium</span></div>
+    <p>Tools for email popups, analytics and widgets keep a phone busy for almost a full second. In the phone test the page was not fully ready to use until about 12 seconds in, and about 420 KB of code is downloaded but never used.</p>
+    <table>
+      <tr><th>Tool</th><th>What it does</th><th>Time it blocks the phone</th></tr>
+      <tr><td>Klaviyo</td><td>Email signup popups</td><td>0.40 s</td></tr>
+      <tr><td>Google Tag Manager</td><td>Analytics</td><td>0.27 s</td></tr>
+      <tr><td>Website platform code</td><td>Runs the site</td><td>0.14 s</td></tr>
+      <tr><td>Elfsight</td><td>Widget</td><td>0.13 s</td></tr>
+    </table>
+    <p style="margin-top:3mm"><strong>The fix:</strong> load email and widget tools a few seconds after the page appears, and remove any tool no longer in use. Nothing is lost, the page just feels ready sooner.</p>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">06</span><h3>A few large photos</h3><span class="sev m">Medium</span></div>
+    <p>Three homepage photos weigh 190 to 300 KB each and use an older format. One of them loads straight away even though it is far down the page. Converting them to a modern format (WebP) and loading them only when needed saves about 300 KB on every homepage visit, with no visible loss of quality.</p>
+  </div>
+
+  <div class="foot"><span>LifeSource  |  Website Speed and Conversion Audit</span><span>4</span></div>
+</section>
+
+<!-- 5. FINDINGS 7 to 8 + TABLE -->
+<section class="page">
+  <div class="eyebrow">Findings</div>
+  <h2>Google visibility and the biggest opportunity</h2>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">07</span><h3>Small search engine issues</h3><span class="sev m">Medium</span></div>
+    <ul class="clean" style="margin-top:2mm">
+      <li><strong>Sitemap address:</strong> the robots.txt file lists your sitemap as "/sitemap.xml". Google needs the full address, https://lifesource.earth/sitemap.xml. Google's own test flags this as 2 errors. This can slow down how Google finds your new blog posts and pages.</li>
+      <li><strong>Two main headings</strong> on the homepage. Pages should have one, so Google knows the main topic.</li>
+      <li><strong>9 images without a description</strong> (alt text). Google cannot read them, and neither can screen readers used by people with low vision.</li>
+      <li><strong>Some light text</strong> is hard to read against its background, and the logo link has no label.</li>
+    </ul>
+    <p class="muted" style="margin-top:2mm">Effort: about 1 hour in total. Your SEO score would move from 85 toward 100.</p>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">08</span><h3>No way to book or get an answer outside office hours</h3><span class="sev h">Biggest opportunity</span></div>
+    <p>Your website promises that you are available 24/7, and that is a real strength. Today, though, a family who visits at 11 pm can only call or fill a form and wait. There is no calendar to book a consultation, no instant reply and no text option. Many people who are planning ahead also need a few gentle reminders before they are ready.</p>
+    <div class="grid3">
+      <div><b>Online booking</b>Families pick a consultation time themselves, day or night.</div>
+      <div><b>Instant reply</b>Every form and missed call gets a kind text or email within a minute.</div>
+      <div><b>Gentle follow up</b>Pre planning enquiries receive helpful guidance over a few weeks.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="fhead"><span class="fnum">09</span><h3>Page by page results on a phone</h3></div>
+    <table>
+      <tr><th>Page</th><th>Speed score</th><th>Main content shows</th><th>Main issue</th></tr>
+      <tr><td>Home</td><td class="s a">79</td><td>1.8 s</td><td>Add on tools block the phone</td></tr>
+      <tr><td>Plan Ahead</td><td class="s r">51</td><td>3.5 s</td><td>Content jumps while loading</td></tr>
+      <tr><td>Obituaries</td><td class="s r">56</td><td>7.2 s</td><td>Slow obituary widget</td></tr>
+      <tr><td>Contact</td><td class="s a">77</td><td>1.7 s</td><td>Add on tools block the phone</td></tr>
+      <tr><td>Aquamation</td><td class="s a">76</td><td>2.8 s</td><td>Large images, add on tools</td></tr>
+      <tr><td>Terramation</td><td class="s a">73</td><td>3.2 s</td><td>Large images, add on tools</td></tr>
+      <tr><td>Packages</td><td class="s a">72</td><td>3.4 s</td><td>Large images, add on tools</td></tr>
+    </table>
+    <p class="muted" style="margin-top:2mm; font-size:8.4pt">Scores out of 100. Google rates 90 and above as good, 50 to 89 as needs work, under 50 as poor.</p>
+  </div>
+
+  <div class="foot"><span>LifeSource  |  Website Speed and Conversion Audit</span><span>5</span></div>
+</section>
+
+<!-- 6. ACTION PLAN -->
+<section class="page">
+  <div class="eyebrow">Action plan</div>
+  <h2>What I recommend, in order</h2>
+  <p class="lead">Start with the quick wins so families stop slipping away this week. Then speed up the key pages. Then make sure no enquiry goes unanswered, day or night.</p>
+
+  <div class="plan">
+    <div class="step">
+      <div class="when">Step 1  |  Week 1</div>
+      <h3>Quick wins</h3>
+      <ul class="clean">
+        <li>Fix the Schedule a Consultation button</li>
+        <li>Sticky one tap call button on phones</li>
+        <li>Headline readable on mobile</li>
+        <li>Sitemap, headings and image descriptions</li>
+        <li>Compress and lazy load photos</li>
+      </ul>
+    </div>
+    <div class="step">
+      <div class="when">Step 2  |  Week 2</div>
+      <h3>Faster key pages</h3>
+      <ul class="clean">
+        <li>Stop the Plan Ahead page jumping</li>
+        <li>Speed up the Obituaries page</li>
+        <li>Load add on tools after the page appears</li>
+        <li>Track calls and form sends in Google Analytics</li>
+        <li>Before and after speed report</li>
+      </ul>
+    </div>
+    <div class="step">
+      <div class="when">Step 3  |  Weeks 3 to 4</div>
+      <h3>Never miss a family</h3>
+      <ul class="clean">
+        <li>Online booking for consultations</li>
+        <li>Instant text back for missed calls</li>
+        <li>Instant reply to every form</li>
+        <li>Gentle follow up for pre planning</li>
+        <li>Review request after each service</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cta">
+    <h3>Next step: a 15 minute call</h3>
+    <p>I would be glad to walk you through these findings and answer any questions. You can fix the first item on your own today. For the rest, I can handle everything for you with a clear, fixed price and a before and after report so you can see the difference.</p>
+    <p class="sig">Abdulwasiu  |  Fiverpulse</p>
+  </div>
+
+  <p class="method"><strong>How this audit was done.</strong> Tests ran on 16 November 2026 with Google Lighthouse 12 (simulated mid range phone on a 4G connection, plus desktop), automated browser checks of links and layout, and screenshots on an iPhone sized screen. Lab results can differ slightly from real visitors depending on their phone and connection. Prices quoted are from LifeSource's public General Price List (October 2026). No changes were made to the website.</p>
+
+  <div class="foot"><span>LifeSource  |  Website Speed and Conversion Audit</span><span>6</span></div>
+</section>
+
+</body>
+</html>

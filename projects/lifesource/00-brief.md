@@ -2,7 +2,7 @@
 
 ## Client
 - Business: LifeSource (lifesource.earth). Green and sustainable funeral home: terramation (human composting), aquamation, natural burial, burial at sea, flame cremation, memorials.
-- Owner: unknown (ask Abdulwasiu)
+- Contact: Ekobay (role at LifeSource not confirmed yet)
 - Country and city: Los Angeles, USA. Serves LA, Ventura, Orange, San Bernardino, Riverside counties.
 - Phone and email on site: 213.395.0034, info@lifesource.earth
 - Source (Fiverr, Upwork, Maps, direct): unknown (ask Abdulwasiu)

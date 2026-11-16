@@ -1,3 +1,36 @@
+# WhatsApp list for 2026-11-17 (4 messages, only 4 usable numbers left)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. Dentoc is a new YouTube lead with no email, WhatsApp is the only route. The other three also have email drafts, so skip the WhatsApp if you already sent the email. Some Abu Dhabi and Dubai numbers may be landlines, if a chat does not open, skip it.
+
+## 1. Dentoc Dental Clinic (Accra, Ghana)
+
+Message:
+> Hello, I found Dentoc Dental Clinic on YouTube and saw you have branches in Accra, Sunyani and Nkawkaw. I could not find a website for the clinic, so patients who search online may not see your services, prices or results. With Black Friday on 27 November, a simple offer page could bring in bookings. May I send you a short one page note on how?
+
+Tap to open: https://wa.me/233539621911?text=Hello%2C%20I%20found%20Dentoc%20Dental%20Clinic%20on%20YouTube%20and%20saw%20you%20have%20branches%20in%20Accra%2C%20Sunyani%20and%20Nkawkaw.%20I%20could%20not%20find%20a%20website%20for%20the%20clinic%2C%20so%20patients%20who%20search%20online%20may%20not%20see%20your%20services%2C%20prices%20or%20results.%20With%20Black%20Friday%20on%2027%20November%2C%20a%20simple%20offer%20page%20could%20bring%20in%20bookings.%20May%20I%20send%20you%20a%20short%20one%20page%20note%20on%20how%3F
+
+## 2. Bioclinic Aesthetic Clinic (Abu Dhabi)
+
+Message:
+> Hi, I looked at the Bioclinic Aesthetic Clinic website. I could not find a booking form or Book button, and there appear to be no reviews or credentials shown. A visitor who cannot book on the spot may go to another clinic, and Black Friday is on 27 November. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/97126343966?text=Hi%2C%20I%20looked%20at%20the%20Bioclinic%20Aesthetic%20Clinic%20website.%20I%20could%20not%20find%20a%20booking%20form%20or%20Book%20button%2C%20and%20there%20appear%20to%20be%20no%20reviews%20or%20credentials%20shown.%20A%20visitor%20who%20cannot%20book%20on%20the%20spot%20may%20go%20to%20another%20clinic%2C%20and%20Black%20Friday%20is%20on%2027%20November.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 3. Dubai Cosmetic Surgery Clinic (Dubai)
+
+Message:
+> Good day, I checked the Dubai Cosmetic Surgery Clinic website. Form text appears to leak onto the page, and the price guide link seems to open a theme demo site. A patient comparing surgeons may lose trust before calling. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/97143485575?text=Good%20day%2C%20I%20checked%20the%20Dubai%20Cosmetic%20Surgery%20Clinic%20website.%20Form%20text%20appears%20to%20leak%20onto%20the%20page%2C%20and%20the%20price%20guide%20link%20seems%20to%20open%20a%20theme%20demo%20site.%20A%20patient%20comparing%20surgeons%20may%20lose%20trust%20before%20calling.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. Masterpiece Property (Abu Dhabi)
+
+Message:
+> Hello, I read the Masterpiece Property website. The licence appears under two regulator names, and the Curated Collection section looks empty. A buyer checking credentials may hesitate to enquire. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/97124082000?text=Hello%2C%20I%20read%20the%20Masterpiece%20Property%20website.%20The%20licence%20appears%20under%20two%20regulator%20names%2C%20and%20the%20Curated%20Collection%20section%20looks%20empty.%20A%20buyer%20checking%20credentials%20may%20hesitate%20to%20enquire.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+
 # WhatsApp list for 2026-11-16 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day. Note: the Qatar and Dubai numbers below are the ones each site labels as WhatsApp, if a chat does not open, the number may be a landline, skip it.

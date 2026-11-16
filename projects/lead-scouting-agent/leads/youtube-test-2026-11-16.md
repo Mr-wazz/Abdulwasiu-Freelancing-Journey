@@ -19,3 +19,10 @@
 - YouTube About pages load fine over plain requests, subscriber count, description and linked URLs are readable.
 - Small coaches often have no public email. Expect many "needs_manual_send" leads (Facebook, LinkedIn, WhatsApp).
 - Roughly 1 in 3 candidates is usable. Plan for about 3 good leads per firing, not 6.
+
+## Run 2026-11-16 23:12 UTC (about 14 channels checked, 0 email drafts saved)
+- Dentoc Dental Clinic (Ghana): 14 subscribers, 60 videos, branches in Accra, Sunyani, Nkawkaw. YouTube links only WhatsApp (233539621911), Instagram, TikTok. I found no website for it. Strong need, WhatsApp only. In tonight's WhatsApp list.
+- Skin and Body Goals MedSpa (Pearland, Texas), 4.11K subscribers: Shopify store with two different booking systems (Square and GlossGenius), contact page link gives a 404, no Black Friday offer, domain has no mail server so no email. Manual contact only (Instagram or Facebook), owner Jessica Fields.
+- Platina Dental and Dr Swetha (Hyderabad), 3.29K subscribers: runs two websites (platinadental.com is good, drswethadentist.com is an older keyword stuffed site with no form on the page). Email contact@drswethadentist.com works (MX ok). Low ticket market, low priority.
+- Skipped: Viva Vitality (already has a Black Friday banner), Express Med Spa (good site), York Dental Clinic (5 subscribers, decent site), Berardi Immigration Law (good site), Skin Beauty Med Spa (site shows no text, 161 subscribers, no contact), Frear Law (no site link).
+- Result: only 1 strong new lead (Dentoc) and 2 weak ones. Honest yield is low. Good channels are rarely weak, weak ones rarely have public emails.

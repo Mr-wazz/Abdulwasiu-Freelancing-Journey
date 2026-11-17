@@ -1,3 +1,43 @@
+# WhatsApp list for 2026-11-18 (5 messages)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.
+
+## 1. Citadel Real Estate (Doha)
+
+Message:
+> Hello, I looked at the Citadel Real Estate website. A technical error message that shows a server file path appears on a page, and I could not find a lead form. A buyer who sees an error may leave before enquiring, and Black Friday is on 27 November. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/97450160133?text=Hello%2C%20I%20looked%20at%20the%20Citadel%20Real%20Estate%20website.%20A%20technical%20error%20message%20that%20shows%20a%20server%20file%20path%20appears%20on%20a%20page%2C%20and%20I%20could%20not%20find%20a%20lead%20form.%20A%20buyer%20who%20sees%20an%20error%20may%20leave%20before%20enquiring%2C%20and%20Black%20Friday%20is%20on%2027%20November.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Infinity Aesthetic and Dental Center (Dubai)
+
+Message:
+> Hi, I went through the Infinity Aesthetic and Dental Center website. The booking buttons appear to be broken links, and the stats counters seem to show zero. A patient who taps Book and gets nothing may go to another clinic. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/971581827011?text=Hi%2C%20I%20went%20through%20the%20Infinity%20Aesthetic%20and%20Dental%20Center%20website.%20The%20booking%20buttons%20appear%20to%20be%20broken%20links%2C%20and%20the%20stats%20counters%20seem%20to%20show%20zero.%20A%20patient%20who%20taps%20Book%20and%20gets%20nothing%20may%20go%20to%20another%20clinic.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Bella Medical Centre (Abu Dhabi)
+
+Message:
+> Good day, I checked the Bella Medical Centre website. It has five Book Consultation buttons but no booking form behind them that I could find. A visitor who wants to book now has no clear next step. I put the fix on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/971502494758?text=Good%20day%2C%20I%20checked%20the%20Bella%20Medical%20Centre%20website.%20It%20has%20five%20Book%20Consultation%20buttons%20but%20no%20booking%20form%20behind%20them%20that%20I%20could%20find.%20A%20visitor%20who%20wants%20to%20book%20now%20has%20no%20clear%20next%20step.%20I%20put%20the%20fix%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+## 4. The Aesthetics Clinic (Dubai)
+
+Message:
+> Hello, I read The Aesthetics Clinic website. The contact links appear to open a Google search instead of your details, and some editor text is left on the page. A client trying to reach you may give up. May I send you a short note on how to fix it?
+
+Tap to open: https://wa.me/971544821557?text=Hello%2C%20I%20read%20The%20Aesthetics%20Clinic%20website.%20The%20contact%20links%20appear%20to%20open%20a%20Google%20search%20instead%20of%20your%20details%2C%20and%20some%20editor%20text%20is%20left%20on%20the%20page.%20A%20client%20trying%20to%20reach%20you%20may%20give%20up.%20May%20I%20send%20you%20a%20short%20note%20on%20how%20to%20fix%20it%3F
+
+## 5. Ora Face Clinic (Dubai)
+
+Message:
+> Hi there, I visited the Ora Face Clinic website. I saw typos in the menu, repeated sections, and social links that appear to point to the wrong accounts. These small things can make a clinic look less trustworthy before Black Friday on 27 November. I made a short one page note, can I send it here?
+
+Tap to open: https://wa.me/971585552112?text=Hi%20there%2C%20I%20visited%20the%20Ora%20Face%20Clinic%20website.%20I%20saw%20typos%20in%20the%20menu%2C%20repeated%20sections%2C%20and%20social%20links%20that%20appear%20to%20point%20to%20the%20wrong%20accounts.%20These%20small%20things%20can%20make%20a%20clinic%20look%20less%20trustworthy%20before%20Black%20Friday%20on%2027%20November.%20I%20made%20a%20short%20one%20page%20note%2C%20can%20I%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-17 (4 messages, only 4 usable numbers left)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. Dentoc is a new YouTube lead with no email, WhatsApp is the only route. The other three also have email drafts, so skip the WhatsApp if you already sent the email. Some Abu Dhabi and Dubai numbers may be landlines, if a chat does not open, skip it.

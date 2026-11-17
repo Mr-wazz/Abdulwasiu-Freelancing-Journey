@@ -32,3 +32,7 @@
 - Fitnesslane (2K subscribers, fitness channel and app): the website it links, fitnesslane.com, now shows a parked IONOS "domain already registered" page, so the YouTube link and app brand point to a dead site. No public email found, so no contact route. Possibly defunct. Not saved as a lead.
 - Reddit cannot be searched with the tool I have (the domain is blocked), so the Reddit part of lane C is unavailable. Lane C needs another source.
 - Lesson: channel searches by niche word return big or good channels. Better to start from the weak funnel signs (Linktree only, parked or dead link) than from the niche.
+
+## Run 2026-11-17 23:12 UTC (0 new leads, Nov 18 WhatsApp list written)
+- Search for Linktree-only coach channels returned only big or generic channels. WebSearch cannot filter by subscriber count, so finding weak small channels by search is slow.
+- Suggestion for next runs: build the lead list from sources that already show the weakness (Meta Ad Library landing pages, Instagram bios linking to a dead site), and use YouTube only to check a business after it is found.

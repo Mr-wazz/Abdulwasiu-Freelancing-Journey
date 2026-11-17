@@ -26,3 +26,9 @@
 - Platina Dental and Dr Swetha (Hyderabad), 3.29K subscribers: runs two websites (platinadental.com is good, drswethadentist.com is an older keyword stuffed site with no form on the page). Email contact@drswethadentist.com works (MX ok). Low ticket market, low priority.
 - Skipped: Viva Vitality (already has a Black Friday banner), Express Med Spa (good site), York Dental Clinic (5 subscribers, decent site), Berardi Immigration Law (good site), Skin Beauty Med Spa (site shows no text, 161 subscribers, no contact), Frear Law (no site link).
 - Result: only 1 strong new lead (Dentoc) and 2 weak ones. Honest yield is low. Good channels are rarely weak, weak ones rarely have public emails.
+
+## Run 2026-11-17 11:12 UTC (0 drafts, 0 new usable leads)
+- Searches by niche (coaches in 4 cities, ecommerce owners, gyms and trainers) returned mostly big channels (117K to 2.9M subscribers) with working funnels.
+- Fitnesslane (2K subscribers, fitness channel and app): the website it links, fitnesslane.com, now shows a parked IONOS "domain already registered" page, so the YouTube link and app brand point to a dead site. No public email found, so no contact route. Possibly defunct. Not saved as a lead.
+- Reddit cannot be searched with the tool I have (the domain is blocked), so the Reddit part of lane C is unavailable. Lane C needs another source.
+- Lesson: channel searches by niche word return big or good channels. Better to start from the weak funnel signs (Linktree only, parked or dead link) than from the niche.

@@ -4,6 +4,7 @@
 - 2026-11-04: Fiverr buyer ashish0987654 messaged about my cold calling gig. Wants cold calling to sell laser hair removal packages for their med spa.
 - 2026-11-17: project folder created. Asked to build a 500 lead list first.
 - 2026-11-17: researched website and posters. Built v1 lead list (163 verified B2B leads).
+- 2026-11-17: wrote full partner cold call script (02-work/call-script.md): opener, hooks per business type, objections, clinic FAQ, voicemail, follow up text and email, daily targets.
 
 ## Decisions
 - B2B referral partners only (legal to cold call, higher value per lead). Greater Sacramento, about 30 miles. Excel delivery.
@@ -25,3 +26,4 @@
 | Date | Task | Hours | Problems |
 |---|---|---|---|
 | 2026-11-17 | Website research, lead sourcing, Excel builder, call script | 2.5 | Data source limits (see Problems) |
+| 2026-11-17 | Call script | 0.5 | |

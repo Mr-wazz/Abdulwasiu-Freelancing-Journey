@@ -1,3 +1,29 @@
+# WhatsApp list for 2026-11-19 (3 messages, no more usable numbers left)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business. Alpha Advocates looks urgent, the site may be hacked, so send that one first. If a chat does not open, the number may be a landline, skip it.
+
+## 1. Bright Way (Dubai)
+
+Message:
+> Hello, I looked at the Bright Way website. The booking buttons appear to open only a message popup, and some links seem to lead nowhere. A visitor who wants to book now may leave, and Black Friday is on 27 November. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/971554971986?text=Hello%2C%20I%20looked%20at%20the%20Bright%20Way%20website.%20The%20booking%20buttons%20appear%20to%20open%20only%20a%20message%20popup%2C%20and%20some%20links%20seem%20to%20lead%20nowhere.%20A%20visitor%20who%20wants%20to%20book%20now%20may%20leave%2C%20and%20Black%20Friday%20is%20on%2027%20November.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. ABK Real Estate (Doha)
+
+Message:
+> Hi, I went through the ABK Real Estate website. The footer still shows placeholder contact details such as contact@mysite.com and a 123-456-7890 phone number. A buyer who tries those will not reach you. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/97474020082?text=Hi%2C%20I%20went%20through%20the%20ABK%20Real%20Estate%20website.%20The%20footer%20still%20shows%20placeholder%20contact%20details%20such%20as%20contact%40mysite.com%20and%20a%20123-456-7890%20phone%20number.%20A%20buyer%20who%20tries%20those%20will%20not%20reach%20you.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+## 3. Alpha Advocates and Legal Consultants (Abu Dhabi)
+
+Message:
+> Good day, I checked the Alpha Advocates website. Some betting and casino text and test links appear on the pages, which may mean the site has been tampered with. A client who sees that may not trust the firm. I put the details on one page, would you like me to send it here?
+
+Tap to open: https://wa.me/971505809025?text=Good%20day%2C%20I%20checked%20the%20Alpha%20Advocates%20website.%20Some%20betting%20and%20casino%20text%20and%20test%20links%20appear%20on%20the%20pages%2C%20which%20may%20mean%20the%20site%20has%20been%20tampered%20with.%20A%20client%20who%20sees%20that%20may%20not%20trust%20the%20firm.%20I%20put%20the%20details%20on%20one%20page%2C%20would%20you%20like%20me%20to%20send%20it%20here%3F
+
+
 # WhatsApp list for 2026-11-18 (5 messages)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business so nobody is contacted twice in one day.

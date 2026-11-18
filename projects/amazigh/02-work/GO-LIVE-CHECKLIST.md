@@ -18,8 +18,8 @@ Status as of 23 Oct 2026. Tick when done. Who does it is in brackets.
 - [x] Both products: 7 day free introductory offer (done 23 Oct)
 - [x] Yearly: display name and description (done 23 Oct)
 - [ ] Both products: review screenshot of the Premium page (take it from the TestFlight build)
-- [ ] RevenueCat: add iOS app (bundle ID com.base6996fa161c7db2beb6067c48.app), entitlement "premium", offering "default" with monthly and yearly packages
-- [ ] Copy the RevenueCat iOS public key (appl_...) into Base44 lib/purchases (REVENUECAT_IOS_API_KEY)
+- [x] RevenueCat: app, products, entitlement premium, offering default (done 27 Oct in the client project)
+- [x] Public key in Base44 lib/purchases and published (27 Oct)
 
 ## D. Build and release (after B and C)
 1. Merge feature/premium-and-reminders into main (risetrack-ios)

@@ -166,3 +166,33 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 
 ## 24 Oct 2026 note
 Abdulwasiu said Leah (FTLR) is still pending in Apple review. Do not send upsells until approved.
+
+## 28 Oct 2026: Apple rejection, version 1.0 (121)
+- Status was Waiting for Review for 10 days, then Apple replied (review date 28 Oct, iPhone 17 Pro Max and iPad Air 11 M3).
+- Issue 1, Guideline 2.1(b): subscriptions (Monthly, Yearly) were not submitted for review with the app. Fix: complete each subscription's metadata incl. App Review screenshot (paywall), add both to version 1.0 under In-App Purchases and Subscriptions, upload a new build, submit together.
+- Issue 2, Guideline 3.1.2(c): no functional Terms of Use (EULA) link in App Store metadata. Fix: add the Apple standard EULA link (and Privacy Policy) at the end of the App Description for EVERY localization, check Privacy Policy URL field, and reply with a screen recording of the paywall showing title, length, price, Terms and Privacy links. Also add the same lines to the Notes field of App Review Information.
+- Links: Privacy https://ftlr-fitness.base44.app/PrivacyPolicy, Terms https://ftlr-fitness.base44.app/Terms, Apple EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+## 28 Oct to 9 Nov 2026: fixes and resubmission of 1.0
+- Description and App Review notes got Terms (Apple standard EULA) and Privacy links. Review notes on both subscriptions rewritten. New paywall review screenshot uploaded (1206x2622).
+- Codemagic builds failed with 403 until Leah (Account Holder) accepted the updated Program License Agreement. Build 124 then succeeded and replaced 121 on version 1.0.
+- Reply sent to Apple by Abdulwasiu. Version 1.0 approved and live in the App Store.
+- Incident: a page read printed the demo password into chat once. Advised changing it. Never stored in this repo.
+
+## 10 Nov 2026: live app shows "We could not load your plans"
+- Cause: Apple approved the app WITHOUT the subscriptions. Both (YearlySubscription, MonthlySubscription) were still Draft / Missing Metadata, never reviewed. So the live store returned no products to RevenueCat.
+- Checked fine: names, descriptions, prices in 175 territories, review screenshots, Paid Apps Agreement In Effect, RevenueCat product IDs match.
+- Apple rule: first subscriptions must be submitted with a new app version.
+- Fix: wrapper MARKETING_VERSION 1.0 to 1.0.1 (commit 666496b), new Codemagic build, version 1.0.1 created in App Store Connect with What's New text, review info carried over. Next: attach new build and BOTH subscriptions in the In-App Purchases and Subscriptions section, then submit.
+- Lesson: before every submission, open the version page and confirm both subscriptions are listed under In-App Purchases and Subscriptions.
+
+## 10 to 12 Nov 2026: 1.0.1 with subscriptions approved
+- Draft submission needed 5 items: version 1.0.1 (build 125), both subscriptions AND both subscription groups. Apple warning "must be submitted with its subscription group" meant the groups were missing. Monthly group page would not load, so it was added to the draft directly.
+- Lesson: in "Add for Review" always pick the existing draft, never "Create New Submission", and include the subscription groups.
+- 12 Nov: Abdulwasiu reports Apple approved. Still to do: test plans and a purchase on a fresh install.
+- Next: Instagram launch post for Up Agency portfolio (ask Leah's OK first). Upsell: offer step 1 only (store listing pack).
+
+## 12 Nov 2026: growth pitch
+- Leah asked "Open to ideas" for reaching 1,000 users; she emails members from the Base44 admin area.
+- Pitched GoHighLevel (not MailerLite). Plan for Leah written: 02-work/FTLR-GHL-Plan.md. Phases and internal pricing in 04-upsell.md.
+- Instagram launch post content drafted for Up Agency; Leah's OK to show the app is still needed.

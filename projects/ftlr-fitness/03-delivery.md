@@ -35,3 +35,8 @@ Status: NOT delivered. Blocked on build 13.
 - [ ] Invite Leah to RevenueCat
 - [ ] Fiverr review requested, testimonial collected
 - [ ] Reddit referral accepted
+
+## Status 10 Nov 2026
+- [x] Version 1.0 approved and live in the App Store
+- [x] Subscriptions approved with version 1.0.1 (12 Nov)
+- [ ] Plans load in the live app and a purchase works

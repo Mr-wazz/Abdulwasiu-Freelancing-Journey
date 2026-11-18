@@ -1,0 +1,14 @@
+RiseTrack is a habit and task tracker. The app is free to use, with an optional auto-renewable subscription called RiseTrack Premium (monthly or yearly), bought only through Apple In-App Purchase. Price and any free trial are shown in Apple's purchase sheet.
+
+FREE: up to 5 habits, 1 task, habits valid for the day they are created, 7 days of history, basic statistics, predefined challenges.
+PREMIUM: unlimited habits and tasks, repeating and custom-day habits, reminders (local notifications on the iPhone), full history, advanced statistics, custom challenges.
+
+HOW TO TEST
+1. Sign in with the demo account in the Sign-in information above (email and password; the app has no Apple or social login). A new account can also be created with email and password.
+2. Locked Premium features show a small gold crown badge. Tapping one opens the Premium page. The Premium page is also in Settings.
+3. The Premium page shows the Free vs Premium comparison, the Monthly and Yearly plans with price from the App Store, the purchase button, "Restaurer mes achats" (Restore Purchases), and links to the Terms of Service and the Privacy Policy.
+4. Purchases can be tested with the App Review sandbox account.
+
+ACCOUNT DELETION: Settings > "Supprimer le compte" (Delete account) permanently deletes the account and its data. Please do not delete the demo account; use a new account to test deletion.
+
+PERMISSIONS: camera and photo library only when the user chooses a profile picture; notifications only when the user enables a reminder (Premium). No other device permission is used.

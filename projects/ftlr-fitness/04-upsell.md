@@ -89,3 +89,17 @@ By month: Oct 520, Nov 1,360, Dec 1,600, Jan 1,450.
 Rules: one open offer at a time, Fiverr custom offers only, start only when funded, written scope, lead with value, never push.
 First offers: listing pack 150, screenshots 250, launch announcement pack 120, welcome sequence 180.
 Open question for Abdulwasiu: target is gross or net? $5,000 net needs about $6,250 gross at 20 percent Fiverr fee.
+
+## 12 Nov 2026: GoHighLevel growth system (replaces offer 7)
+Context: app 1.0.1 approved with subscriptions. Leah: "Open to ideas" for reaching 1,000 users. She emails members from the Base44 admin area today. Her founding member email offers a move to the App Store plus a free 45 minute session.
+Pitch sent: GoHighLevel instead of MailerLite (email, SMS, booking, pages, follow ups in one tool).
+Client plan (no prices): projects/ftlr-fitness/02-work/FTLR-GHL-Plan.md
+
+Internal pricing (Fiverr custom offers, one phase at a time, do not lead with it):
+- Phase 1 Quick wins (booking calendar, founding member move flow, 7 day welcome series, list import): $350
+- Phase 2 Keep members (win back, referral campaign, review requests): $400
+- Phase 3 Grow (challenge landing page, Instagram keyword follow up, newsletter template, dashboard): $450
+- Total $1,200. Optional monthly management folded into the care plan: $199 per month.
+- GHL software: Leah pays GHL directly (about $97 per month, Starter) in her own account, OR use an agency sub account and bundle into the monthly fee. Decide before quoting. Never move payment off Fiverr.
+Checks before promising: Base44 to GHL member sync needs a webhook or Zapier, test first. SMS in the US needs A2P 10DLC registration (takes days to weeks): set expectations. Domain auth (SPF, DKIM, DMARC) needed for email delivery; Leah logs in herself.
+Status: pitched 12 Nov. Waiting for Leah's reply. Next: send the plan when she says yes, then Phase 1 offer.

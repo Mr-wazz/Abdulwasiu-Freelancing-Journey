@@ -32,3 +32,9 @@ No research yet. First task on the first proposal: research current pricing for 
 - Client came from outside Fiverr, paid 600 USD on Grey for a full invoicing app. No escrow, so use written scope and 50 percent upfront on add ons.
 - Rule: small first upsell step with 3 tiers. Do not jump from 600 to 1,500 in one quote. Result: pending.
 - App Store live is the best moment to offer money features (Pro plan with Apple payment). Result: pending.
+
+## Learnings from Amazigh (RiseTrack), 25 Oct 2026
+- Client screen recordings (WhatsApp video) are the best bug evidence for wrapped web apps. Extract frames with a small Swift AVFoundation script when ffmpeg is missing.
+- Wrapped web app trap: a permanent CSS transform on a scroll container breaks every position fixed element (floating buttons, dialogs) inside the iOS WebView. Test create, edit and delete flows after every layout change.
+- Price page, locks and native code can be built early and hidden behind a flag, then switched on after Apple approves.
+- Client pays at the end and keeps adding polish requests. Include small bug fixes, quote new features, keep a visible list.

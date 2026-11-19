@@ -1,0 +1,29 @@
+{
+ "business": "Life Coaching by Eric",
+ "owner": "Eric Haggerty",
+ "city": "Online, USA",
+ "website": "erichaggerty.wixsite.com/lifecoachllc",
+ "summary": "A one coach practice appears to lose bookings to a free builder address, a leftover placeholder email and a name that changes from line to line, just before Black Friday on 27 November.",
+ "findings": [
+  {
+   "problem": "The contact area appears to show info@mysite.com, the template placeholder, next to your real address, and the site runs on a free Wix address with the Wix advert at the top.",
+   "cost": "A client who writes to the placeholder never reaches you, and a free address with an advert signals a hobby, so buyers hesitate before paying for sessions.",
+   "fix": "Remove the placeholder, your own domain, no builder advert."
+  },
+  {
+   "problem": "The name changes across the page: Life Coaching by Eric, Life Coaching Co and The Life Coaching CO, and the text talks about an experienced coaching team.",
+   "cost": "A visitor cannot tell who they are hiring or whether it is one person or a company, and unclear trust costs the first booking.",
+   "fix": "One brand name and one clear story about you."
+  },
+  {
+   "problem": "Sessions are listed one by one at 50 to 80 dollars with a free discovery call, and I could not find a package, an offer page or a way to capture an email for a promotion.",
+   "cost": "On Black Friday people buy bundles and deals, and a coach with only single sessions has nothing to promote and no list to send it to.",
+   "fix": "A Black Friday coaching package page with email capture."
+  }
+ ],
+ "redesign": [
+  "Own domain, one brand, no placeholder.",
+  "Black Friday package page with a countdown.",
+  "Email capture and booking in one flow."
+ ]
+}

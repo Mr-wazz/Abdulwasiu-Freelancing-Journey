@@ -1,3 +1,22 @@
+# WhatsApp list for 2026-11-20 (2 messages, no more usable numbers)
+
+How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. Bin Eid has no working email (its domain accepts no mail), so WhatsApp is the only route, PDF is ready in audits/bin-eid-advocates-sharjah.pdf. Diamond Dental also has an email draft in Gmail, skip the WhatsApp if you already sent the email.
+
+## 1. Bin Eid Advocates and Legal Consultants (Dubai and Sharjah)
+
+Message:
+> Hello, I looked at the Bin Eid Advocates website. The homepage appears to open with an article from 2016, the menu spells Legal Services as Legal Sevices, and I could not find an enquiry form. A client choosing a lawyer may take these as signs the firm is inactive. I wrote a one page note on the fix, may I send it here?
+
+Tap to open: https://wa.me/971505627999?text=Hello%2C%20I%20looked%20at%20the%20Bin%20Eid%20Advocates%20website.%20The%20homepage%20appears%20to%20open%20with%20an%20article%20from%202016%2C%20the%20menu%20spells%20Legal%20Services%20as%20Legal%20Sevices%2C%20and%20I%20could%20not%20find%20an%20enquiry%20form.%20A%20client%20choosing%20a%20lawyer%20may%20take%20these%20as%20signs%20the%20firm%20is%20inactive.%20I%20wrote%20a%20one%20page%20note%20on%20the%20fix%2C%20may%20I%20send%20it%20here%3F
+
+## 2. Diamond Dental Clinic (Abu Dhabi)
+
+Message:
+> Hi, I went through the Diamond Dental Clinic website. It appears to run on a free Wix address with a 2020 footer, and the WhatsApp number is plain text, not a tap to chat button. A patient with a quick question may message another clinic, and Black Friday is on 27 November. Is it okay if I send a short note with the fixes?
+
+Tap to open: https://wa.me/971503570795?text=Hi%2C%20I%20went%20through%20the%20Diamond%20Dental%20Clinic%20website.%20It%20appears%20to%20run%20on%20a%20free%20Wix%20address%20with%20a%202020%20footer%2C%20and%20the%20WhatsApp%20number%20is%20plain%20text%2C%20not%20a%20tap%20to%20chat%20button.%20A%20patient%20with%20a%20quick%20question%20may%20message%20another%20clinic%2C%20and%20Black%20Friday%20is%20on%2027%20November.%20Is%20it%20okay%20if%20I%20send%20a%20short%20note%20with%20the%20fixes%3F
+
+
 # WhatsApp list for 2026-11-19 (3 messages, no more usable numbers left)
 
 How to use: tap the link on your phone, WhatsApp opens with the message ready, read it once, tap send. Send the PDF only after they reply. These businesses also have an email draft in Gmail. If you send the email first, skip the WhatsApp for that business. Alpha Advocates looks urgent, the site may be hacked, so send that one first. If a chat does not open, the number may be a landline, skip it.

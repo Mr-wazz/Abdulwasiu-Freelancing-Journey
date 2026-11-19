@@ -9,6 +9,22 @@ Goal: move from cheap gigs to value based pricing. Target $5,000+ per project. T
 ## Style
 Short and simple answers. Explain technical steps like to a beginner. No dashes as punctuation. Use commas, periods and colons.
 
+## Folder map (where everything lives)
+```
+/projects/    one folder per client (Rule 1). Never mix clients.
+/guides/      step by step guides I follow (App Store checklist and more)
+/playbook/    what I learned: upsell-learnings.md
+/research/    market, pricing, prospect and tool research
+/plugins/     Claude Code plugins, hooks, commands: what is installed and how to use it
+/platforms/   notes per platform: Fiverr, Upwork, GHL, Base44, WordPress, Capacitor
+/templates/   reusable proposals, messages, emails
+/chats/       saved chat summaries and decisions (YYYY-MM-DD-topic.md)
+/scripts/     helper scripts (new-client.sh, test-site.js)
+/.claude/     hooks and slash commands
+```
+When I create a file, put it in the right folder. Each folder has a README.md that says what goes there.
+Say "save this chat" and I write a summary to /chats/.
+
 ## Rule 1: One folder per project
 For every new client, create right away:
 ```
@@ -73,6 +89,9 @@ When asked "money review", give:
 2. Unpaid or overdue invoices
 3. Clients ready for an upsell this week
 4. 3 actions that bring the most money in the next 7 days
+
+## Rule 6: App Store publishing
+Any time an app is being prepared for the App Store, or was rejected, FIRST read `guides/appstore-rejection-checklist.md`. Run its audit prompt on the code, work through the manual checks with Abdulwasiu, and save results in that client's 03-delivery.md. Command: `/appstore-check <client>`. Never tell a client the app is ready to submit before this is done. Add any new rejection reason or fix to the guide.
 
 ## Quality standard
 Before saying done, check the work. Test links, forms, automations. State clearly what is finished and what is not.

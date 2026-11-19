@@ -164,6 +164,9 @@ Upsell is now mentioned softly in every Leah message so she is aware.
 - Key rule found: store listing subtitle, keywords and screenshots can only change with a NEW app version. Promotional text can change anytime. So listing steps 1 and 2 are written now and applied in app version 1.1, bundled with ratings prompt and purchase polish.
 - Hours per step are estimates. Tracker xlsx remains the live status sheet.
 
+## 24 Oct 2026 note
+Abdulwasiu said Leah (FTLR) is still pending in Apple review. Do not send upsells until approved.
+
 ## 28 Oct 2026: Apple rejection, version 1.0 (121)
 - Status was Waiting for Review for 10 days, then Apple replied (review date 28 Oct, iPhone 17 Pro Max and iPad Air 11 M3).
 - Issue 1, Guideline 2.1(b): subscriptions (Monthly, Yearly) were not submitted for review with the app. Fix: complete each subscription's metadata incl. App Review screenshot (paywall), add both to version 1.0 under In-App Purchases and Subscriptions, upload a new build, submit together.

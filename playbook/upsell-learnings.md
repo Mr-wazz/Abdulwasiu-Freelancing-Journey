@@ -33,3 +33,10 @@ No research yet. First task on the first proposal: research current pricing for 
 - Wrapped web app trap: a permanent CSS transform on a scroll container breaks every position fixed element (floating buttons, dialogs) inside the iOS WebView. Test create, edit and delete flows after every layout change.
 - Price page, locks and native code can be built early and hidden behind a flag, then switched on after Apple approves.
 - Client pays at the end and keeps adding polish requests. Include small bug fixes, quote new features, keep a visible list.
+
+## Prospect pattern: funeral homes (LifeSource, 16 Nov 2026)
+- Their public General Price List (GPL, required by law in the US) gives real package prices. Use it to put a dollar value on every lost lead.
+- Most valuable pages: Obituaries (most traffic, shared by families) and Pre planning (paid in advance). Audit these, not just the homepage.
+- "Immediate need" visitors are on phones and stressed: check for a one tap call button in the header.
+- Speed scores that are only average make a weak pitch. Lead with a broken button or missing lead capture, then speed.
+- Result: pending.

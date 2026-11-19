@@ -11,13 +11,27 @@
         "source": "github",
         "repo": "JuliusBrussee/caveman"
       }
+    },
+    "linkedin-skills": {
+      "source": {
+        "source": "github",
+        "repo": "sergebulaev/linkedin-skills"
+      }
+    },
+    "openseo": {
+      "source": {
+        "source": "github",
+        "repo": "every-app/open-seo"
+      }
     }
   },
   "enabledPlugins": {
     "superpowers@claude-plugins-official": true,
     "claude-code-setup@claude-plugins-official": true,
     "claude-security@claude-plugins-official": true,
-    "caveman@caveman": true
+    "caveman@caveman": true,
+    "linkedin-skills@linkedin-skills": true,
+    "openseo@openseo": true
   },
   "hooks": {
     "PreToolUse": [

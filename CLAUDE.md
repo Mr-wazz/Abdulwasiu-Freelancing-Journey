@@ -85,3 +85,6 @@ Open every reply with the client name so projects never mix.
 
 ## Language rule
 Abdulwasiu does not read French. For French speaking clients: write the client message in French AND give an English translation right below it. Also translate every French client message he pastes. Prices for French clients may be in the client's currency, say which currency in every document.
+
+## Rule 6: App Store projects
+Any project that ships an iOS app or uses in app purchases: follow playbook/app-store-approval.md at every stage (intake, build, App Store Connect setup, submission gate, after approval, rejection). Report each stage as a PASS / FIX / RISK table. It is a guideline: always deliver what the client asked for, in the Apple approved way, and explain any change in one line.

@@ -3,7 +3,7 @@
 Goal: replies, interviews, direct offers. Not just "proposal sent".
 
 ## 1. Be early
-Most hires happen among the first proposals. Apply within 1 to 3 hours of posting. That is why the scan runs every 3 hours.
+Most hires happen among the first proposals. Apply within 1 to 3 hours of posting. That is why the scan runs every hour.
 
 ## 2. The first 2 lines decide everything
 The client sees only the first ~200 characters in their list. Never open with "Hi, I am a WordPress developer with X years".

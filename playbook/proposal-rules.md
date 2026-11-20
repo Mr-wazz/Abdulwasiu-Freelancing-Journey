@@ -13,4 +13,4 @@
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 
 ## Scan schedule
-Every 3 hours: pull new jobs, filter by these rules, audit each client's website, draft tailored proposals, and send Adam one batch to approve. Nothing is submitted without his yes.
+Every hour (the fastest the scheduler allows): pull new jobs, filter by these rules, audit each client's website, draft tailored proposals, and send Adam one batch to approve. Nothing is submitted without his yes.

@@ -7,10 +7,10 @@
 5. Location: Adam confirmed on 2026-11-14 that he is in the United States. Apply to US-only remote jobs and worldwide remote jobs.
 6. Use reference sites from proposal-reference-sites.md as design examples only, never as Adam's own work.
 7. Every proposal opens with a real finding from the client's own site (speed, mobile, missing tracking, missing call to action).
-8. Adam approves each batch before anything is sent.
+8. Auto-send: Adam gave standing approval on 2026-11-20. Proposals that pass every rule are submitted without waiting, with relevant portfolio projects attached, no boost, no files. Only Adam's own portfolio sites are cited.
 
 9. Payment verified clients only. Never apply to a client whose payment is not verified.
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 
 ## Scan schedule
-Every hour (the fastest the scheduler allows): pull new jobs, filter by these rules, audit each client's website, draft tailored proposals, and send Adam one batch to approve. Nothing is submitted without his yes.
+Every hour (the fastest the scheduler allows): pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

@@ -42,3 +42,8 @@
 - Robinhood Dental Practice (Birmingham): site is only a Wix blog, no contact page found at the paths I tried, no email. Not saved.
 - Unchecked small ticket candidates: IMMAX Immigration and Tax Services, Alpha Accountants (GoDaddy), Design of All Trades, Lovely Chic Planning, DesignSpacio.
 - The free builder pool is nearly exhausted for UAE real estate and clinics. New leads need a new source.
+
+## Run 2026-11-20 23:12 UTC (0 new leads, no Nov 21 WhatsApp list)
+- No unused WhatsApp numbers are left in leads.csv. Nov 21 list not written because I will not repeat numbers already messaged or invent them.
+- Checked four more small Dubai clinic sites. Two return no readable text (dentalclinicdubai and estheticclinicdubai on GoDaddy), one blocks my request (montrealintclinicae), one (Villanova Cosmetic and Surgical Center, Jumeirah) lists only a landline +971 4 3276669 and no WhatsApp.
+- Need new leads from outside this tool's reach, see the message to Abdulwasiu.

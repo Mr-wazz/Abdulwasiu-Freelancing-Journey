@@ -2,8 +2,10 @@
 
 | Date | Job | Client country / spend | Proposals | Connects | Status | Opening line | Reply |
 |---|---|---|---|---|---|---|---|
+| 2026-11-20 | WordPress Developer & SEO: Sewer Line Replacement Cost Calculator site | US (IL) / $118.9K | 5 | 17 | Submitted ($35/hr; research $300, build $1,800, SEO $750/mo) | "A calls-only calculator site wins on one thing..." | pending |
 | 2026-11-20 | WordPress Website Refresh and Handoff for Small Manufacturer | US (NY) / $7.6K | 2 to 3 | 20 | Submitted ($45/hr bid, $2,200 fixed offered) | "A WordPress refresh your team can run alone is exactly how I build..." | pending |
 | 2026-11-16 | WordPress speed specialist (Pioneers, Ekobay E.) | unknown / new | n/a | n/a | Closed, $5 | n/a | Flagged: looks staged (copied job text, delivered a site credited to Boyce Studios) |
 
 ## Scan log
 - 2026-11-20 first scan: 0 jobs passed all rules. Rejected: client country rule (India x2, Nigeria x2, Pakistan x2), already hired (PayPal cart, Surgeon site, Travel agency), not dev work (sales closer, VA, community manager, broker), low rate (UK WP/PHP $9 to $17/hr), needs case studies Adam does not have (Singapore CDP). Unconfirmed: WooCommerce Security Assessment, $500, US, client $131K spend (job page would not open).
+- 2026-11-20 23:11 scan: 1 submitted (sewer calculator). Note: second contract client 'Tochi Ekobay' shares the surname of the first client 'Ekobay Emmanuel'.

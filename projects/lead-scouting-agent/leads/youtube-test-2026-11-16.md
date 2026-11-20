@@ -36,3 +36,9 @@
 ## Run 2026-11-17 23:12 UTC (0 new leads, Nov 18 WhatsApp list written)
 - Search for Linktree-only coach channels returned only big or generic channels. WebSearch cannot filter by subscriber count, so finding weak small channels by search is slow.
 - Suggestion for next runs: build the lead list from sources that already show the weakness (Meta Ad Library landing pages, Instagram bios linking to a dead site), and use YouTube only to check a business after it is found.
+
+## Run 2026-11-20 11:12 UTC (0 new leads)
+- Free builder search (real estate, clinics, accountants, immigration) returned mostly businesses already in leads.csv (JAMBA, Vista, Kensington, Immigra) or dead sites (The London Medical Clinic weebly site now 404).
+- Robinhood Dental Practice (Birmingham): site is only a Wix blog, no contact page found at the paths I tried, no email. Not saved.
+- Unchecked small ticket candidates: IMMAX Immigration and Tax Services, Alpha Accountants (GoDaddy), Design of All Trades, Lovely Chic Planning, DesignSpacio.
+- The free builder pool is nearly exhausted for UAE real estate and clinics. New leads need a new source.

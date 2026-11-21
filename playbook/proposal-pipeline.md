@@ -2,6 +2,7 @@
 
 | Date | Job | Client country / spend | Proposals | Connects | Status | Opening line | Reply |
 |---|---|---|---|---|---|---|---|
+| 2026-11-21 | US-Based WordPress Pro: Speed, Ad Tracking & Local SEO (Robbins Foundation Systems) | US (WA) / $36.1K | 10 | 14 | Submitted ($400 in 2 milestones; offered $600/mo for Phase 2) | "Solid ground: I looked at robbinsfoundationsystems.com before writing..." | pending |
 | 2026-11-20 | WordPress Developer & SEO: Sewer Line Replacement Cost Calculator site | US (IL) / $118.9K | 5 | 17 | Submitted ($35/hr; research $300, build $1,800, SEO $750/mo) | "A calls-only calculator site wins on one thing..." | pending |
 | 2026-11-20 | WordPress Website Refresh and Handoff for Small Manufacturer | US (NY) / $7.6K | 2 to 3 | 20 | Submitted ($45/hr bid, $2,200 fixed offered) | "A WordPress refresh your team can run alone is exactly how I build..." | pending |
 | 2026-11-16 | WordPress speed specialist (Pioneers, Ekobay E.) | unknown / new | n/a | n/a | Closed, $5 | n/a | Flagged: looks staged (copied job text, delivered a site credited to Boyce Studios) |

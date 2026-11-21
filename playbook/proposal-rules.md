@@ -13,6 +13,8 @@
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 11. Never apply when the client's hire rate is below 50% (Adam's rule, 2026-11-21). This also excludes brand-new clients with no hires yet.
 12. Hourly bid: $25/hr (Adam changed his rate from $35 to $25 on 2026-11-21). Fixed-price offers stay priced by value.
+13. No calls (Adam's rule, 2026-11-21). Adam works by live chat on Upwork. Proposals and replies offer live chat, never a call or video meeting. Close with an easy yes/no question like "Want me to start with a quick live chat here on Upwork?"
+14. Price, discount, deadline or contract questions in messages: never commit. Reply "Give me a minute to recheck our messages and get back to you." and alert Adam at once.
 
 ## Scan schedule
 Every hour (the fastest the scheduler allows): pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

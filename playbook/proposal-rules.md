@@ -12,6 +12,7 @@
 9. Payment verified clients only. Never apply to a client whose payment is not verified.
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 11. Never apply when the client's hire rate is below 50% (Adam's rule, 2026-11-21). This also excludes brand-new clients with no hires yet.
+12. Hourly bid: $25/hr (Adam changed his rate from $35 to $25 on 2026-11-21). Fixed-price offers stay priced by value.
 
 ## Scan schedule
 Every hour (the fastest the scheduler allows): pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

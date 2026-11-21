@@ -1,0 +1,34 @@
+{
+ "business": "Omar Al Atrash Dental Clinic",
+ "owner": "Dr Omar Al Atrash and team",
+ "city": "Abu Dhabi, UAE",
+ "website": "alatrashdental.wixsite.com/dental",
+ "summary": "An Abu Dhabi family dental clinic appears to lose new patients to a free builder address, a 2018 date and a yahoo contact.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "Patients check a clinic's credibility online first, and a free builder address looks temporary.",
+   "fix": "Your own domain and a clinic email."
+  },
+  {
+   "problem": "The page appears to carry a 2018 copyright date.",
+   "cost": "An old date tells a patient the clinic may not be active, so they book a competitor.",
+   "fix": "A fresh, current page."
+  },
+  {
+   "problem": "The only contact shown appears to be a yahoo address and one landline.",
+   "cost": "A free email gives less trust, and patients who want a quick answer have nothing faster than a call.",
+   "fix": "A clinic email and a one tap WhatsApp button."
+  },
+  {
+   "problem": "No WhatsApp appears, and booking appears to depend on a Book Online link.",
+   "cost": "Patients in the UAE often message first, and a clinic that answers first wins the booking.",
+   "fix": "Online booking on the page and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Own domain and clinic email.",
+  "Fresh look with insurance and services.",
+  "Booking and WhatsApp."
+ ]
+}

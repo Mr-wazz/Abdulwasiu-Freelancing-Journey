@@ -1,0 +1,34 @@
+{
+ "business": "Abdulla M. Al-Mulla Law Firm",
+ "owner": "the Legal Abdulla team",
+ "city": "Alnasr Tower, Doha",
+ "website": "legalabdulla.com",
+ "summary": "A clear practice list, WhatsApp and phone access are strengths, but three firm names, conflicting figures and no appointment form appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "The firm appears as Abdulla M. Al-Mulla Law Firm, Abdulla M. Al-Mulla Advocates and Legal Consultancy and Legal Abdulla Law Firm, and phone numbers appear as +974 3000 9998 and +974 400 20 200.",
+   "cost": "Changing names and numbers confuse clients and weaken search visibility.",
+   "fix": "One firm name and one checked number."
+  },
+  {
+   "problem": "Book an Appointment appears three times but points to an anchor, and no contact or appointment form is visible.",
+   "cost": "Clients who want to book online have no simple way and some will leave.",
+   "fix": "A real appointment form with confirmation."
+  },
+  {
+   "problem": "The page claims 500+ Cases Handled, Cases Won 500+, 98% Success Rate and Client Satisfaction 100%, and the office hours say Sunday to Thursday while it also claims 24/7 Legal Support.",
+   "cost": "Conflicting figures reduce trust in a law firm.",
+   "fix": "One verified set of figures and clear hours."
+  },
+  {
+   "problem": "Every practice card ends with the leftover label Professional Grade, the call link tel:+974 3000 9998 contains spaces, and no testimonials or bar admissions appear.",
+   "cost": "Leftover labels, a risky phone link and thin proof weaken credibility.",
+   "fix": "Clean cards, a tested call link, testimonials and credentials."
+  }
+ ],
+ "redesign": [
+  "One firm name, one number and a real appointment form with WhatsApp.",
+  "One verified set of figures and clear opening hours.",
+  "Credentials, testimonials and clean practice pages."
+ ]
+}

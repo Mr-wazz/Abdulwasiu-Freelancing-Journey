@@ -1,0 +1,33 @@
+{
+ "business": "Sydney Dental Veneers",
+ "owner": "the Sydney Dental Veneers team",
+ "city": "Pitt Street, Sydney",
+ "website": "sydneydentalveneer.com.au",
+ "summary": "Sydney Dental Veneers shows clear starting prices, media logos and online booking.",
+ "findings": [
+  {
+   "problem": "The counters show 100,000+ patients and 23,000+ veneers, then later 70+ patients, 3+ five-star reviews and 302+ years of experience.",
+   "cost": "A patient who sees 302 years of experience or 3 reviews doubts every number on the page.",
+   "fix": "One verified set of numbers, shown correctly."
+  },
+  {
+   "problem": "The page repeatedly describes in-house ceramic labs, but the footer says Our restorations are crafted by our partner lab.",
+   "cost": "A claim that contradicts itself raises doubts about everything else you say about quality.",
+   "fix": "One clear, accurate statement about where veneers are made."
+  },
+  {
+   "problem": "Payment prices conflict: $57 a week for porcelain in the FAQ, from $30 a week for Invisalign elsewhere, and composite shows no price in one place but from $700 per tooth in another.",
+   "cost": "Price confusion is the main reason patients delay booking and compare other clinics.",
+   "fix": "One price page with clear starting prices for every treatment."
+  },
+  {
+   "problem": "The Explore Treatment Results section shows filter labels but no visible before and after images, and there are no written patient testimonials. Services links to #, and there is no contact form or chat.",
+   "cost": "Veneer patients decide on visible results. Without them or a quick way to ask a question, many leave.",
+   "fix": "A working results gallery, written reviews and a short contact form."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with accurate numbers, real before and after cases and your prices beside every booking button.",
+  "One price page and one clear statement about your lab."
+ ]
+}

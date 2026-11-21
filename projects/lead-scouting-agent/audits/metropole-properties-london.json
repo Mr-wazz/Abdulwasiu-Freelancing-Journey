@@ -1,0 +1,29 @@
+{
+ "business": "Metropole Properties",
+ "owner": "the Metropole Properties team",
+ "city": "London, UK",
+ "website": "metropoleproperty.com",
+ "summary": "A Paddington estate agent appears to lose landlords and sellers to placeholder Lorem ipsum text in its Our Services section.",
+ "findings": [
+  {
+   "problem": "The Our Services section appears to show placeholder Lorem ipsum text under Sales, Request Valuation, Contact us, Commercial Sales and Commercial Lettings.",
+   "cost": "Landlords and sellers read this section to decide whether to call, and dummy text tells them the business is careless.",
+   "fix": "Real service copy for every card."
+  },
+  {
+   "problem": "The page is a long single page of sections with the same short text repeated in each block.",
+   "cost": "Visitors skim, find no proof, and move to an agent that shows results.",
+   "fix": "Short sections with results, reviews and a clear next step."
+  },
+  {
+   "problem": "No WhatsApp appears next to the phone number.",
+   "cost": "Landlords with a quick question message first, and the agent who answers first gets the valuation.",
+   "fix": "A one tap WhatsApp button and a valuation form."
+  }
+ ],
+ "redesign": [
+  "Real service copy.",
+  "Proof and reviews.",
+  "Valuation form and WhatsApp."
+ ]
+}

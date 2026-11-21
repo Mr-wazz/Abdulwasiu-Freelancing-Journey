@@ -1,0 +1,33 @@
+{
+ "business": "beyondental",
+ "owner": "the beyondental team",
+ "city": "Park Street, Sydney CBD",
+ "website": "beyondental.com.au",
+ "summary": "beyondental has a cosmetic dentistry page and a general enquiry form. The page shows no proof and has visible errors, which cost cosmetic patients who are comparing clinics.",
+ "findings": [
+  {
+   "problem": "No reviews, before and after photos, accreditations or dentist names appear. Images look like stock photos of smiling people, not your clinic.",
+   "cost": "Cosmetic patients want to see real results and who will treat them. Stock photos tell them nothing.",
+   "fix": "Real clinic photos, consented before and after cases and named dentists."
+  },
+  {
+   "problem": "Most booking buttons go to an external portal, the header Book an appointment goes to a different page, and the enquiry form states no response time.",
+   "cost": "Patients who are sent to different places or never told when you will reply book elsewhere.",
+   "fix": "One booking path on your own site with a stated response time."
+  },
+  {
+   "problem": "A shopping cart showing $0.00 0 Cart appears twice, and the cart link goes to #. A stray x and dash show near the top.",
+   "cost": "An empty cart on a dental clinic page looks unfinished and raises doubts about the care.",
+   "fix": "Remove the cart and clean up the header."
+  },
+  {
+   "problem": "Typos include eyondental's missing its first letter and Our composite bonding are designed. Several crown and whitening images use children's dentistry icon text. No from prices are shown.",
+   "cost": "Typos in your own name and no price guidance push patients to clinics that are clearer.",
+   "fix": "A proofread build with from prices for key treatments."
+  }
+ ],
+ "redesign": [
+  "A proof first page with real photos, named dentists and captioned results beside every booking button.",
+  "One on site booking path with from prices."
+ ]
+}

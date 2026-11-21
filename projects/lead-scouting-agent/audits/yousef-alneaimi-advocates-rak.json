@@ -1,0 +1,34 @@
+{
+ "business": "Yousef AlNeaimi Advocates and Legal Consultants",
+ "owner": "the AlNeaimi Advocates team",
+ "city": "Ras Al Khaimah, UAE",
+ "website": "yousefalneaimi.wixsite.com/advocateslegalsite",
+ "summary": "A Ras Al Khaimah law firm appears to lose clients to a misspelled page title, garbled service text and a free builder address.",
+ "findings": [
+  {
+   "problem": "The page title appears as Best | Law Firm | Laywer, which misspells Lawyer and reads like a keyword list.",
+   "cost": "This is what Google and browser tabs show, so searchers see a typo and a spammy label.",
+   "fix": "A clean title with your firm name and city."
+  },
+  {
+   "problem": "The services text appears garbled, for example To the right & advocate & herders.",
+   "cost": "A client reading broken sentences doubts the quality of the firm's legal work.",
+   "fix": "Clear, proofread service descriptions."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner and a 2020 copyright date.",
+   "cost": "A free builder address and an old date look temporary for a law firm.",
+   "fix": "Your own domain and a current page."
+  },
+  {
+   "problem": "The contact appears to be a gmail address, and no WhatsApp appears.",
+   "cost": "A free email gives less trust, and clients who want to message first have no easy way.",
+   "fix": "A firm email and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Clean title and copy.",
+  "Own domain.",
+  "WhatsApp and enquiry form."
+ ]
+}

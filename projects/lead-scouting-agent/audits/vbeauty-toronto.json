@@ -1,0 +1,33 @@
+{
+ "business": "VBeauty Medical Spa",
+ "owner": "the VBeauty team",
+ "city": "Yorkville, Toronto",
+ "website": "vbeautyspa.com",
+ "summary": "You cite 369 Google reviews at 4.9 and offer online booking, but a published internal note, repeated forms and changing names weaken a premium Yorkville brand.",
+ "findings": [
+  {
+   "problem": "An internal note shows in a caption (Please confirm the eligibility area, age, and prize expiry with the client before publishing), LOAD MODE appears in the page body, and one hashtag block is pasted under unrelated posts.",
+   "cost": "Leaked notes make a medical spa look careless in front of new clients.",
+   "fix": "Clean posts and remove all internal text."
+  },
+  {
+   "problem": "The practitioner appears as Viktoriya, Viktorya RN and Victoria, and the brand as VBeauty Spa, VBeauty Medical Spa, VBeauty Medispa and Vbeauty Spa.",
+   "cost": "Changing names weaken trust and make you harder to find.",
+   "fix": "One brand name and one spelling for each person."
+  },
+  {
+   "problem": "The free consultation form repeats four or five times and shows only a Name field. Patient Concerns and By Area link to #, and Laser Treatments goes to the Morpheus8 page.",
+   "cost": "Repeated forms with missing fields and wrong links lose enquiries.",
+   "fix": "One complete form and correct links."
+  },
+  {
+   "problem": "The page cites 369 Google reviews but shows five testimonials with no names or dates, and no before and after images.",
+   "cost": "Cosmetic clients choose on real proof.",
+   "fix": "A real review wall and captioned results."
+  }
+ ],
+ "redesign": [
+  "One clean booking form, correct menus and no internal text.",
+  "A real review wall, named team and captioned before and after results."
+ ]
+}

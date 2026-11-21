@@ -1,0 +1,34 @@
+{
+ "business": "Westmere Global",
+ "owner": "the family team",
+ "city": "Knightsbridge, London",
+ "website": "westmereglobal.com",
+ "summary": "A family run prime London lettings and acquisitions offer is a strength, but a form that needs JavaScript and dead social links appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The contact form appears to show 'Please enable JavaScript in your browser to complete this form' and a garbled label 'I help? Email'.",
+   "cost": "A landlord or tenant who cannot complete the form moves to the next agent.",
+   "fix": "A simple working form with WhatsApp."
+  },
+  {
+   "problem": "The page title appears to say Knightsbridge Estate Agents while the footer says Westmere Global Property, and the contact email appears on westmereproperty.com while the site is westmereglobal.com.",
+   "cost": "Mixed names and domains confuse clients and weaken trust.",
+   "fix": "One brand name and one domain."
+  },
+  {
+   "problem": "The Instagram, LinkedIn, Facebook and YouTube links appear to go to #, and hero and gallery images appear to be blank placeholders.",
+   "cost": "Dead links and blank images look unfinished for a luxury agent.",
+   "fix": "Working profiles and real photos."
+  },
+  {
+   "problem": "Buy and Sell appear in the menu but no sale listings show, only three rentals, and the proof appears to be one line, 'family-run business built over decades', with no reviews or team names.",
+   "cost": "Empty sections and thin proof lose instructions.",
+   "fix": "Real listings, team names and reviews."
+  }
+ ],
+ "redesign": [
+  "Working form, WhatsApp and one brand.",
+  "Real photos, listings and profiles.",
+  "Team names and reviews."
+ ]
+}

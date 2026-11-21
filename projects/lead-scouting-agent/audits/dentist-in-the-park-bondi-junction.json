@@ -1,0 +1,34 @@
+{
+ "business": "Dentist in the Park",
+ "owner": "Dr Brendan Quill",
+ "city": "Bondi Junction, Sydney, Australia",
+ "website": "dentistinthepark.com.au",
+ "summary": "A Bondi Junction practice with a 5.0 Google rating is a strength, but booking buttons that only request a callback and pricing silence appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Book a Visit, Book an Appointment and Meet the practice appear to link to the same contact page, which appears to be a callback request ('we'll call you back to confirm a time').",
+   "cost": "The page says patients can request an appointment online, but they only leave a number, so some will go to a clinic that books instantly.",
+   "fix": "A real online booking calendar and buttons that match their destination."
+  },
+  {
+   "problem": "All 21 'Read on Google' links appear to point to the same Maps address, and review names appear run together ('Veronicaon Google').",
+   "cost": "Visitors cannot read the reviews you worked to earn, and the formatting looks careless.",
+   "fix": "Linked and clean review cards."
+  },
+  {
+   "problem": "The text 'Your browser does not support the video tag' and 'Don't fill this out if you're human' appear visibly on the page.",
+   "cost": "Leftover technical text makes the page look unfinished.",
+   "fix": "Hidden technical fields and a working hero."
+  },
+  {
+   "problem": "The page promises 'clear pricing before any treatment begins' but appears to show no price ranges, and the 2,500+ members figure appears unexplained.",
+   "cost": "Patients comparing clinics cannot judge value, and unexplained numbers weaken trust.",
+   "fix": "Treatment price guides and a clear membership explanation."
+  }
+ ],
+ "redesign": [
+  "A real booking calendar.",
+  "Linked reviews and clean text.",
+  "Price guides and a membership explainer."
+ ]
+}

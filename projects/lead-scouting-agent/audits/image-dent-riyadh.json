@@ -1,0 +1,33 @@
+{
+ "business": "Image Dent",
+ "owner": "the Image Dent team",
+ "city": "Riyadh",
+ "website": "image-dent.com",
+ "summary": "Your Arabic site has doctors, 623 reviews and a booking form, but the English version, messaging options and several details lose patients.",
+ "findings": [
+  {
+   "problem": "The English version appears to be only a stub, with a Book Appointment heading and a divider.",
+   "cost": "Expats and visitors who read English cannot use the site.",
+   "fix": "A full English version of every key page."
+  },
+  {
+   "problem": "No WhatsApp anywhere. Four phone numbers are listed, and the phone links contain spaces (tel:+966 11 4836060).",
+   "cost": "Saudi patients message first, and links that fail lose calls.",
+   "fix": "A WhatsApp button and tested click to call links."
+  },
+  {
+   "problem": "Several reviews show only a name with no text, one doctor uses a default placeholder photo, and the specialities menu does nothing when clicked.",
+   "cost": "Empty reviews and placeholders look unfinished.",
+   "fix": "Real reviews, doctor photos and working menus."
+  },
+  {
+   "problem": "The home page has repeated buttons (book twice in a row), no address or map, no before and after, and some spelling errors.",
+   "cost": "Patients do not know where you are or what results to expect.",
+   "fix": "Address and map, results gallery and clean copy."
+  }
+ ],
+ "redesign": [
+  "Arabic and English versions with a WhatsApp and booking button.",
+  "Real reviews, doctor photos, address map and a results gallery."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "Reforme Lab",
+ "owner": "the Reforme Lab team",
+ "city": "Toronto and Mississauga",
+ "website": "reformelab.com",
+ "summary": "Two locations, 74 Google reviews and online booking are good foundations, but repeated blocks, dead menus and leftover form text hold the page back.",
+ "findings": [
+  {
+   "problem": "The line Combat Dry, Dull Skin, Wrinkles and More. Book Now! appears seven times in a row with nothing different under it.",
+   "cost": "Seven identical blocks hide your services and look like an error.",
+   "fix": "One strong section per service."
+  },
+  {
+   "problem": "Gallery, Careers and the service categories (Skin Tightening and Laser, Cosmetic Injectables and others) link to #, and a visible label reads Leave this field empty if you're human.",
+   "cost": "Dead menus and leftover form text look unfinished.",
+   "fix": "Working menus and a clean contact form."
+  },
+  {
+   "problem": "The page says Based on 74 reviews but shows about six, writes ** EXCELLENT ** with stray asterisks, and the brand appears as Reforme Lab and Reform Lab.",
+   "cost": "Thin review display and slips weaken your proof.",
+   "fix": "A full review wall and consistent branding."
+  },
+  {
+   "problem": "No before and after appears on the homepage, about 20 tiles use keyword style labels, and clinically proven outcomes sits beside a note that outcomes are not guaranteed.",
+   "cost": "Clients want real results, and mixed claims lower trust.",
+   "fix": "Captioned results and consistent claims."
+  }
+ ],
+ "redesign": [
+  "One clear page per service with a booking button on each.",
+  "A full review wall, captioned results and consistent claims."
+ ]
+}

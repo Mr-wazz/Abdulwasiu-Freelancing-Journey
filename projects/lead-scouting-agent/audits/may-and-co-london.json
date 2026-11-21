@@ -1,0 +1,34 @@
+{
+ "business": "May and Co",
+ "owner": "the May and Co team",
+ "city": "London, UK",
+ "website": "mayandco.co.uk",
+ "summary": "A Chelsea and Earls Court independent estate agency appears to lose valuation enquiries to a thin homepage, no visible proof and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "The homepage text appears to be very short, with only a small welcome paragraph and a menu.",
+   "cost": "Owners choosing an agent want to see areas, results and people before they call.",
+   "fix": "A fuller homepage with areas, team and recent results."
+  },
+  {
+   "problem": "No reviews, sold results or testimonials appear on the homepage.",
+   "cost": "Sellers choose the agent who shows proof.",
+   "fix": "Named reviews and sold examples."
+  },
+  {
+   "problem": "A menu item called Tiger Cubs appears with no explanation.",
+   "cost": "Unclear menu items confuse visitors.",
+   "fix": "A clear label such as Graduate Programme."
+  },
+  {
+   "problem": "A stray markup character group appears in the page text and no WhatsApp appears.",
+   "cost": "Broken code looks careless and clients cannot message quickly.",
+   "fix": "Clean markup and WhatsApp on every page."
+  }
+ ],
+ "redesign": [
+  "Fuller homepage.",
+  "Reviews and results.",
+  "Clear menu and WhatsApp."
+ ]
+}

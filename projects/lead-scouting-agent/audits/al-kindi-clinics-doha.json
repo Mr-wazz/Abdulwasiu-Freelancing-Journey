@@ -1,0 +1,34 @@
+{
+ "business": "Al Kindi Clinics",
+ "owner": "the team",
+ "city": "Doha",
+ "website": "alkindiclinics.com",
+ "summary": "Dental and dermatology under one roof, evening hours and WhatsApp booking are strengths, but dead buttons and typos appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The booking button appears to read 'Schedule Appoinment', and several Book Now buttons on the dental, dermatology and doctor cards appear to link to #.",
+   "cost": "A patient who taps Book Now and reaches nothing may call another clinic.",
+   "fix": "Working booking buttons and a booking form."
+  },
+  {
+   "problem": "The hero appears to say 'open until 9 pm every day' while the footer shows 'Fri : 2 \u2013 9 pm', and the copyright appears as 2025.",
+   "cost": "Conflicting hours cause wasted trips and a poor first visit.",
+   "fix": "Accurate hours and a current footer."
+  },
+  {
+   "problem": "The clinic appears as Al Kindi Clinics, Alkindi Clinics and Al-Kindi Clinic, and the Dermatology and doctor blocks appear twice with different staff lists.",
+   "cost": "Mixed names and repeated blocks confuse patients and search engines.",
+   "fix": "One brand name and one team list."
+  },
+  {
+   "problem": "The page appears to promise 'prices that fit a normal budget' with no prices shown, four undated testimonials, and a free mail address alkindiclinics@gmail.com as contact.",
+   "cost": "No prices, thin proof and a free mail contact weaken a medical brand.",
+   "fix": "Clear price ranges, dated reviews and a branded email."
+  }
+ ],
+ "redesign": [
+  "Working booking buttons and form.",
+  "Accurate hours, one brand name, one team list.",
+  "Prices, dated reviews and branded email."
+ ]
+}

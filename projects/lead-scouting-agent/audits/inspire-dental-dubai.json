@@ -1,0 +1,34 @@
+{
+ "business": "Inspire Dental and Aesthetic Clinic",
+ "owner": "Dr Sahla and team",
+ "city": "Dubai, UAE",
+ "website": "inspiredental.ae",
+ "summary": "A Dubai clinic in Oud Metha appears to lose bookings because the booking form looks incomplete and the offers section is empty.",
+ "findings": [
+  {
+   "problem": "The booking form appears to show only time and reason fields with no name or phone fields, and Schedule Appointment appears to be an email link.",
+   "cost": "Patients cannot easily book, so they call a competitor.",
+   "fix": "A complete on page booking form."
+  },
+  {
+   "problem": "Our Offers appears to promise limited time deals but lists no offers.",
+   "cost": "Empty promises weaken trust and miss a chance to convert.",
+   "fix": "Real offers with prices and dates, or remove the section."
+  },
+  {
+   "problem": "The footer appears to say All right reserved, and headings such as Need Help ? and Listen from our happy patients appear.",
+   "cost": "Typos make a clinic look careless.",
+   "fix": "Proofread copy."
+  },
+  {
+   "problem": "No dentist is named in the clinic's own copy, and several image labels appear to be filenames.",
+   "cost": "Patients choose the dentist they can see and trust.",
+   "fix": "Named dentists with credentials and correct image labels."
+  }
+ ],
+ "redesign": [
+  "Complete booking form.",
+  "Real offers.",
+  "Named dentists and clean copy."
+ ]
+}

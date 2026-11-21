@@ -1,0 +1,34 @@
+{
+ "business": "Moorehouse Solicitors",
+ "owner": "the Moorehouse Solicitors team",
+ "city": "London, UK",
+ "website": "artecharvey.wixsite.com/uklawyers",
+ "summary": "A Tottenham solicitor firm appears to lose clients to a free builder address, a template footer name and news from 2015.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, though your email uses moorehouseslaw.co.uk.",
+   "cost": "Clients checking a solicitor's credibility trust a firm domain, and a builder address looks temporary.",
+   "fix": "Your own domain connected to the site."
+  },
+  {
+   "problem": "The footer appears to say 2023 by Lawyer & Lawyer, which looks like a template name and not Moorehouse Solicitors.",
+   "cost": "A wrong name in the footer makes visitors wonder whose site they are on.",
+   "fix": "Your firm name and details everywhere."
+  },
+  {
+   "problem": "The News and Publications items appear to be dated 01-09-2015.",
+   "cost": "Old news tells a client the firm may not be active, so they call another firm.",
+   "fix": "Fresh, short practice updates."
+  },
+  {
+   "problem": "Only a mobile number and an email appear, with no WhatsApp, and the page title says Immigration & Visas UK Lawyers instead of your firm name.",
+   "cost": "Clients who want a quick message have no easy way, and searchers do not see who you are.",
+   "fix": "A one tap WhatsApp button and a title with your firm name."
+  }
+ ],
+ "redesign": [
+  "Own domain and firm name.",
+  "Fresh practice pages.",
+  "Enquiry form and WhatsApp."
+ ]
+}

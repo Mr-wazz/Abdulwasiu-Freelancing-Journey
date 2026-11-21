@@ -1,0 +1,29 @@
+{
+ "business": "Bin Eid Advocates and Legal Consultants",
+ "owner": "the firm",
+ "city": "Dubai and Sharjah, UAE",
+ "website": "bineidlawfirmuae.weebly.com",
+ "summary": "A two office firm appears to lose enquiries to a free builder address, a homepage that is a 2016 article and a menu typo, just before Black Friday on 27 November.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Weebly address with the builder advert, Create your own unique website, at the bottom of every page.",
+   "cost": "A client choosing a lawyer for a serious matter looks for signs of a real firm, and a builder advert and free address say the opposite.",
+   "fix": "Your own domain and a clean footer."
+  },
+  {
+   "problem": "The homepage appears to open with an article dated 2016, Things to Keep in Mind before Selecting a Law Firm, and the menu spells Legal Services as Legal Sevices.",
+   "cost": "A ten year old date and a typo in the menu make the firm look inactive, and a client will call the next firm on the search page.",
+   "fix": "A homepage that names your practice areas, and a corrected menu."
+  },
+  {
+   "problem": "I found no enquiry form. Contact is by two phone numbers, a fax and an email, and the WhatsApp number appears only as text, not as a tap to chat button.",
+   "cost": "Clients who find you at night or on a phone cannot reach you in one tap, so the enquiry goes to a firm that makes it easier.",
+   "fix": "An enquiry form and a one tap WhatsApp button on every page."
+  }
+ ],
+ "redesign": [
+  "Own domain, clean footer, fixed menu.",
+  "Homepage with your practice areas.",
+  "Enquiry form and one tap WhatsApp."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "business": "The London Orthodontic Group",
+ "owner": "the London Orthodontic Group team",
+ "city": "London, UK",
+ "website": "londonlovesbraces.com",
+ "summary": "A Knightsbridge orthodontic group appears to lose new patients to placeholder Lorem ipsum text in its Invisalign offer and thin social proof.",
+ "findings": [
+  {
+   "problem": "The Invisalign offer section appears to show placeholder Lorem ipsum text.",
+   "cost": "Patients reading the offer to decide whether to book see dummy text, which makes the offer look unreal and costs the booking.",
+   "fix": "A real offer with price, terms and a clear book button."
+  },
+  {
+   "problem": "The headline proof appears to be 1456 Facebook likes and 874 Instagram reactions next to 12800 Smiles Created.",
+   "cost": "Small social counts next to a large claim make a premium practice look less established than it is.",
+   "fix": "Real reviews, before and after cases and named specialists."
+  },
+  {
+   "problem": "No WhatsApp or text option appears next to the phone number.",
+   "cost": "Patients comparing orthodontists message first, and the practice that replies first gets the consultation.",
+   "fix": "A one tap text button and online booking."
+  }
+ ],
+ "redesign": [
+  "Real offer copy.",
+  "Reviews and cases as proof.",
+  "Booking and text."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Town Hall Dental",
+ "owner": "the Town Hall Dental team",
+ "city": "London, United Kingdom",
+ "website": "townhalldental.co.uk",
+ "summary": "A Marylebone dental page appears to lose patients because the address, phone and hours conflict and copy looks unfinished.",
+ "findings": [
+  {
+   "problem": "The header address appears to be in Brighouse while the body gives a Marylebone address, and the call button appears to use a West Yorkshire number.",
+   "cost": "Marylebone patients may call the wrong place or doubt the practice.",
+   "fix": "One verified address and phone per clinic page."
+  },
+  {
+   "problem": "The body appears to say open five days from 08:30 to 15:00, while the footer lists different hours.",
+   "cost": "Patients cannot tell when to visit or call.",
+   "fix": "One correct hours table."
+  },
+  {
+   "problem": "Keyword text such as Until Marylebone Dentist and Emergency Dentist Marylebone appears in the wrong places, with typos like Proving First Class.",
+   "cost": "Garbled copy makes the practice look careless.",
+   "fix": "Clear, proofread copy."
+  },
+  {
+   "problem": "Tongue Tie Treatment, News and Dentist Referral appear to link to #, Case Studies appears to point to a coming soon page, and the footer appears to show 2024.",
+   "cost": "Dead links and old dates weaken trust.",
+   "fix": "Working pages and a current date."
+  }
+ ],
+ "redesign": [
+  "Correct address and phone.",
+  "One hours table.",
+  "Clean copy and working links."
+ ]
+}

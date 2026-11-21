@@ -1,0 +1,34 @@
+{
+ "business": "Orlando Reid",
+ "owner": "Baljit Arora and Jack Reid",
+ "city": "London, UK",
+ "website": "orlandoreid.co.uk",
+ "summary": "A multi office agency with lettings, sales and management is a strength, but counters that read zero and a contact section with no usable form appear to cost you landlord and buyer enquiries.",
+ "findings": [
+  {
+   "problem": "The hero counters appear to read 'Established in 0', 'Properties Sold 0', 'Properties Let 0 +' and 'Properties Managed 0 +'.",
+   "cost": "The first numbers a landlord reads show nothing, which weakens trust in your track record.",
+   "fix": "Correct live counters with real founding year and figures."
+  },
+  {
+   "problem": "The Contact Us and Partner With Us section appears to show labels only, with no visible fields or submit button, and both buttons link to #contact.",
+   "cost": "A landlord ready to ask for a valuation has no working way to reach you from the page.",
+   "fix": "A short valuation and contact form that sends straight to your team."
+  },
+  {
+   "problem": "No WhatsApp option appears anywhere, and the footer Site Map link appears to point to #.",
+   "cost": "Many landlords and tenants prefer a quick WhatsApp message, and a dead link looks unfinished.",
+   "fix": "A WhatsApp button and working footer links."
+  },
+  {
+   "problem": "The Awards paragraph appears twice in a row, 'Excellet' appears in a heading, and the Manchester address appears in two versions.",
+   "cost": "Repeated text, typos and mixed addresses make the agency look careless.",
+   "fix": "Clean proofread copy and one verified address per office."
+  }
+ ],
+ "redesign": [
+  "Correct stats row with real figures.",
+  "A valuation form and a WhatsApp button.",
+  "Clean copy and one verified address per office."
+ ]
+}

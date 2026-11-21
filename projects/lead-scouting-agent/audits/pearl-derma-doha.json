@@ -1,0 +1,34 @@
+{
+ "business": "The Pearl Dermatology and Laser Centre",
+ "owner": "the Pearl team",
+ "city": "Doha",
+ "website": "thepearlderma.com",
+ "summary": "Two Doha branches and decades of experience are strong, but a dead menu link, repeated blocks and a booking form that appears to show no fields lose patients.",
+ "findings": [
+  {
+   "problem": "The Branches menu item links to #, the Accent Prime Body Contour page uses a generic address, and the Welcome to heading appears twice with no text under it.",
+   "cost": "Visitors cannot find your two branches and the page looks unfinished.",
+   "fix": "Working menus and a clear branch page."
+  },
+  {
+   "problem": "The expert is named Dr.Hala Taher in one place and Dr. Hala Haj Tajer in another, and the centre is spelled Centre and Center.",
+   "cost": "Changing names weaken trust and search visibility.",
+   "fix": "One consistent name for the clinic and doctor."
+  },
+  {
+   "problem": "The booking form appears to show labels and a Send button without visible fields, and bookings are not confirmed until a helpdesk call.",
+   "cost": "Patients who want to book now may leave instead of waiting for a call.",
+   "fix": "A working form with branch and time choice and WhatsApp booking."
+  },
+  {
+   "problem": "One testimonial has a name but no text, before and after photos have no captions, and most images appear to be blank placeholders with no alt text.",
+   "cost": "Proof is thin where patients decide.",
+   "fix": "Full reviews and captioned results."
+  }
+ ],
+ "redesign": [
+  "Working branch pages and one booking path with WhatsApp.",
+  "Consistent doctor and clinic names across the site.",
+  "Full reviews and captioned before and after results."
+ ]
+}

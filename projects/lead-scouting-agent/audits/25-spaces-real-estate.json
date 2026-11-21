@@ -1,0 +1,34 @@
+{
+ "business": "25 Spaces Real Estate",
+ "owner": "the 25 Spaces team",
+ "city": "The Pearl, Doha",
+ "website": "25spaces.com",
+ "summary": "25 Spaces has a licence number, a 4.9 Google rating and a modern layout. Repeated blocks and missing channels weaken a strong first impression, and Qatar buyers expect WhatsApp.",
+ "findings": [
+  {
+   "problem": "The first two Featured Listings are identical: the same Porto Arabia unit, price and specs. The Impact in Numbers block and the testimonials also appear two or more times.",
+   "cost": "A repeated listing in the first position wastes your best space and makes the site look careless to a buyer comparing agencies.",
+   "fix": "Unique featured listings and one clean version of each section."
+  },
+  {
+   "problem": "No WhatsApp button or chat widget appears, even though WhatsApp is a main channel in Qatar. The enquiry form is the only way to ask.",
+   "cost": "A buyer who wants a quick answer on a listing messages another agency that offers WhatsApp.",
+   "fix": "A WhatsApp button on every listing with a pre-filled message."
+  },
+  {
+   "problem": "The QAR 1,850,000 Viva East unit has no for sale label, so it can read as a rental. The form consent text is long and dense.",
+   "cost": "Unclear listings and heavy consent text cost enquiries from buyers who give up before sending.",
+   "fix": "Clear Buy or Rent labels on every card and a short, clear consent line."
+  },
+  {
+   "problem": "Testimonials are attributed to first names or initials only, with no photos or dates, and the 17 + counter has a stray space. Social icons have no labels.",
+   "cost": "Unattributed proof is easy to doubt, and small errors weaken a licensed agency's image.",
+   "fix": "Named, dated reviews linked to your Google profile, and clean, labelled links."
+  }
+ ],
+ "redesign": [
+  "A lead first homepage with unique featured listings, WhatsApp on every card and a short enquiry form.",
+  "Buy and Rent labels, and area pages written to rank for searches like apartments for sale The Pearl Doha.",
+  "Proof beside every enquiry button: licence number, named agents and dated reviews."
+ ]
+}

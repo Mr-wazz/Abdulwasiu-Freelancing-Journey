@@ -1,0 +1,34 @@
+{
+ "business": "Evergreen Dental",
+ "owner": "Dr Steven You, Dr Ryan Chou and the team",
+ "city": "Chatswood, Sydney",
+ "website": "evergreendental.com.au",
+ "summary": "Chatswood since 2014 with implants and Invisalign is a strength, but conflicting phone numbers and a booking form with defects appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The About section appears to give (02) 8074 3849 while the header and footer show (02) 8599 1999, and the Call Us Now button appears to use (02) 80743849.",
+   "cost": "Three numbers for one clinic cause missed calls.",
+   "fix": "One verified number everywhere."
+  },
+  {
+   "problem": "The booking form appears to show a Preferred Date label with no date field, garbled options such as 'Your Interest Your InterestGeneral Dentistry', and the form repeats twice.",
+   "cost": "A broken form loses patients who try to book online.",
+   "fix": "One clean working booking form."
+  },
+  {
+   "problem": "The Invisalign heading appears above cosmetic copy ('Everyone wants to appear younger'), the Dr Steven You bio appears to say 'Dr. Chou speaks fluent English', and 'All-on-6 Dental lmplants' appears with a lowercase L.",
+   "cost": "Wrong copy and typos weaken a clinical brand.",
+   "fix": "Correct service copy and bios."
+  },
+  {
+   "problem": "The page says 'Check out our opening hours below' but no hours appear, three blog articles appear to share the same All-on-6 summary, and the free implant offer says 'Limited time only' with no end date.",
+   "cost": "Missing hours, copied summaries and an undated offer lose trust and urgency.",
+   "fix": "Visible hours, unique summaries and a dated offer."
+  }
+ ],
+ "redesign": [
+  "One verified number and a clean booking form.",
+  "Correct service copy, bios and visible hours.",
+  "Unique blog summaries and a dated offer."
+ ]
+}

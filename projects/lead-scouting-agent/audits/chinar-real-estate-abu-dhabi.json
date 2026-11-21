@@ -1,0 +1,34 @@
+{
+ "business": "Chinar Properties and Management",
+ "owner": "the Chinar Real Estate team",
+ "city": "Abu Dhabi, UAE",
+ "website": "chinarrlmanagement.wixsite.com/chinar",
+ "summary": "An Abu Dhabi real estate agency appears to lose enquiries to garbled welcome copy, a free builder address and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "The welcome text appears to include a garbled sentence, We accept that the organization we would not be able to employ individuals.",
+   "cost": "A visitor reading the first paragraph sees broken English, and doubts the agency's professionalism.",
+   "fix": "Clear, proofread welcome copy."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "A free builder address looks temporary for a real estate agency.",
+   "fix": "Your own domain."
+  },
+  {
+   "problem": "The homepage appears to run a long text about why to live in Abu Dhabi before showing a listing.",
+   "cost": "Buyers and tenants come to see properties, and a wall of text sends them to the big portals.",
+   "fix": "Featured listings and a search at the top."
+  },
+  {
+   "problem": "The page shows a Call us number, but no WhatsApp appears.",
+   "cost": "Renters in Abu Dhabi message first, and the agent who replies first wins the viewing.",
+   "fix": "A one tap WhatsApp button and an enquiry form."
+  }
+ ],
+ "redesign": [
+  "Proofread copy.",
+  "Own domain.",
+  "Listings first and WhatsApp."
+ ]
+}

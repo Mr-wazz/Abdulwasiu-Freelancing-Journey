@@ -1,0 +1,33 @@
+{
+ "business": "MedVSPA",
+ "owner": "the MedVSPA team",
+ "city": "Yorkville, Toronto",
+ "website": "medvspa.com",
+ "summary": "An RN-led Yorkville clinic since 2011 with Google reviews, but every main booking button on the homepage links to nothing.",
+ "findings": [
+  {
+   "problem": "Book Now, Book Consultation and Schedule an appointment all link to #, in the header and the footer.",
+   "cost": "Every booking button is dead, so ready clients cannot book from the page.",
+   "fix": "Booking buttons linked to your booking system."
+  },
+  {
+   "problem": "System messages (Your message was sent successfully! and Something went wrong, try refreshing) appear in several places, and a stray x shows near the top.",
+   "cost": "Leftover messages make the site look unfinished.",
+   "fix": "Clean forms with messages shown only after sending."
+  },
+  {
+   "problem": "Typos and mismatches include Scollard Str., Crows Feet, MedVSpa and MedVSPA, and Lymph Drainage against Lymphatic Drainage.",
+   "cost": "Small errors reduce trust in a medical clinic.",
+   "fix": "Proofread copy and one brand spelling."
+  },
+  {
+   "problem": "Before and After is a single teaser image with a link, reviews name Elena in one place and Olena in another, and there is no WhatsApp option.",
+   "cost": "Clients want results and a quick way to ask.",
+   "fix": "A before and after gallery, a named team and a messaging option."
+  }
+ ],
+ "redesign": [
+  "Working booking buttons on every page.",
+  "A results gallery, consistent names and a simple messaging option."
+ ]
+}

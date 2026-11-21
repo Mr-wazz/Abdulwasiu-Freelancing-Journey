@@ -1,0 +1,34 @@
+{
+ "business": "Mackenzie Dental Centre",
+ "owner": "Dr Lloyd Pedvis",
+ "city": "Vaughan, Canada",
+ "website": "mackenziedentalcentre.com",
+ "summary": "A Woodbridge family dental office with implants and cosmetic care is a strength, but dead booking buttons and no office hours appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Book An Appointment appears three times and Book A Consultation appears twice, all linking to #, and no working online booking appears.",
+   "cost": "A patient ready to book hits a dead button and may leave.",
+   "fix": "One working booking form behind every button."
+  },
+  {
+   "problem": "No office hours appear, and emergency dentistry appears featured with no after hours process.",
+   "cost": "Patients in pain cannot tell when or how to reach you.",
+   "fix": "Visible hours and a clear emergency process."
+  },
+  {
+   "problem": "A review appears to say 'replying on a Sunday', the text appears to include a missing space ('Vaughan,Woodbridge'), and the header appears to serve Woodbridge and Vaughan while the body lists many more areas.",
+   "cost": "Typos and mixed service areas weaken a clinic's care image.",
+   "fix": "Proofread copy and one clear service area."
+  },
+  {
+   "problem": "The before and after slider appears to show one image pair, testimonials appear with initials only, and the claim 'leading dentist' appears with no data.",
+   "cost": "Thin proof gives a new patient little reason to choose you.",
+   "fix": "Real cases, ratings and named reviews."
+  }
+ ],
+ "redesign": [
+  "One working booking form.",
+  "Visible hours and emergency steps.",
+  "Proofread copy and stronger proof."
+ ]
+}

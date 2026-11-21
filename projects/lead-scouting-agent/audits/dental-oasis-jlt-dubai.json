@@ -1,0 +1,34 @@
+{
+ "business": "Dental Oasis",
+ "owner": "the Dental Oasis team",
+ "city": "Dubai, UAE",
+ "website": "dentaloasis.ae",
+ "summary": "A JLT clinic with a 4.9 Google rating appears to lose bookings to forms that need scripts and leftover site text.",
+ "findings": [
+  {
+   "problem": "The appointment form appears to have no date, time or treatment fields, and both forms appear to show Please enable JavaScript to complete this form.",
+   "cost": "Patients who cannot use the form leave without booking.",
+   "fix": "A complete booking form that works for everyone."
+  },
+  {
+   "problem": "The language toggles and four feature cards appear to link to #, and some service links appear to use a different address pattern from the menu.",
+   "cost": "Visitors hit dead ends and broken service pages.",
+   "fix": "Working links and consistent service pages."
+  },
+  {
+   "problem": "Stray labels such as Comment Phone Message appear in the form, and the footer appears to say Copyright 2025 with no business name.",
+   "cost": "Leftover text makes the clinic look unfinished.",
+   "fix": "Clean labels and a correct footer."
+  },
+  {
+   "problem": "The 4.9 rating appears with no review count or source link, and no before and after examples or licence numbers appear.",
+   "cost": "Unsupported claims do not convince patients for veneers and implants.",
+   "fix": "Linked reviews and a results gallery."
+  }
+ ],
+ "redesign": [
+  "Complete booking form.",
+  "Working links.",
+  "Clean labels, reviews and results."
+ ]
+}

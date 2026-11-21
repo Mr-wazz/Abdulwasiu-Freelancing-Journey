@@ -1,0 +1,34 @@
+{
+ "business": "Smilerite Dental and Medical Clinic",
+ "owner": "the Smilerite team",
+ "city": "Abu Dhabi, UAE",
+ "website": "smilerite.net",
+ "summary": "A multi branch Abu Dhabi dental group appears to lose bookings to zero counters, popup only booking and inconsistent details.",
+ "findings": [
+  {
+   "problem": "The counters for Years Collective Experience, Dedicated Dental Professionals and Customers Served appear to read 0.",
+   "cost": "Zeros wipe out your strongest proof.",
+   "fix": "Working counters or fixed numbers."
+  },
+  {
+   "problem": "Our Branches appears to link to #, and Book An appointment and Watch VIDEO appear to rely on popups.",
+   "cost": "Visitors hit dead ends if a popup fails.",
+   "fix": "A working branch page and plain booking links."
+  },
+  {
+   "problem": "The booking form appears to end at 2:00 PM to 8:00 PM while branches are listed open until 9:00 PM and 10:00 PM, and the form appears not to confirm a booking.",
+   "cost": "Patients may think they are booked, or miss late slots.",
+   "fix": "A real booking form with all open hours and confirmation."
+  },
+  {
+   "problem": "Typos such as Restorative Denistry and Madinat Al Ryad appear, the page appears to say Based on 730 reviews but show about four, and one review appears empty.",
+   "cost": "Typos and thin proof weaken trust.",
+   "fix": "Proofread copy and real reviews."
+  }
+ ],
+ "redesign": [
+  "Working counters.",
+  "Working branch page and booking.",
+  "Proofread copy and reviews."
+ ]
+}

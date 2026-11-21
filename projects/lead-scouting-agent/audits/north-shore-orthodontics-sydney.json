@@ -1,0 +1,34 @@
+{
+ "business": "North Shore Orthodontics",
+ "owner": "the North Shore Orthodontics team",
+ "city": "Sydney, Australia",
+ "website": "northshoreorthodontics.com.au",
+ "summary": "A long established North Shore orthodontic practice appears to lose new patients to a 2016 footer, plain text phone number and no online booking.",
+ "findings": [
+  {
+   "problem": "The footer appears to read Copyright 2016.",
+   "cost": "A ten year old year makes a visitor wonder if the practice is still current.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "The phone number appears as plain text, not a tap to call link.",
+   "cost": "A parent on a phone has to copy the number instead of one tap to call.",
+   "fix": "Tap to call on every page."
+  },
+  {
+   "problem": "No online booking form appears, only an Online Referral page and a Contact us page.",
+   "cost": "Families who want to book at night leave to find another practice.",
+   "fix": "A simple new patient booking form."
+  },
+  {
+   "problem": "The text No results found appears on the page.",
+   "cost": "Stray messages make the site look neglected.",
+   "fix": "Remove leftover search text."
+  }
+ ],
+ "redesign": [
+  "Current footer.",
+  "Tap to call.",
+  "Online booking and clean page."
+ ]
+}

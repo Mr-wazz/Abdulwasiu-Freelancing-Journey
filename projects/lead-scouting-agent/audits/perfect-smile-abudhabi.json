@@ -1,0 +1,33 @@
+{
+ "business": "Perfect Smile Dental Centre",
+ "owner": "the Perfect Smile team",
+ "city": "Abu Dhabi",
+ "website": "perfectsmiledental.ae",
+ "summary": "Your site lists many treatments and insurers, but it sends patients in circles and shows little proof. These are the gaps I saw on the homepage.",
+ "findings": [
+  {
+   "problem": "Smile Gallery, every FAQ question and the opening hours link to #. Header says MOH approval, footer says DOH.",
+   "cost": "Patients who click for proof get nothing, and mixed regulator labels look careless on a medical site.",
+   "fix": "Working gallery, one correct approval number, FAQ that opens."
+  },
+  {
+   "problem": "No booking form, only phone or WhatsApp. The WhatsApp link is written wa.me/+971..., which may not open.",
+   "cost": "Evening visitors who want to book online go to a clinic with a form.",
+   "fix": "Short booking form and a tested WhatsApp button on every page."
+  },
+  {
+   "problem": "No patient reviews, no named dentists, no before and after. 'Our Doctors' is only a link.",
+   "cost": "Veneer and implant patients want faces and results before they call.",
+   "fix": "Doctor cards, Google reviews, captioned results."
+  },
+  {
+   "problem": "Three sections repeat the same claims. Typos such as 'confidence.Whether' and 'Third molar removals,Tooth colored'.",
+   "cost": "Repeated copy buries your treatments and typos weaken trust.",
+   "fix": "One clean services layout with from prices."
+  }
+ ],
+ "redesign": [
+  "A booking form and WhatsApp button on every page, with a stated reply time.",
+  "Doctor cards, real reviews and captioned before and after cases."
+ ]
+}

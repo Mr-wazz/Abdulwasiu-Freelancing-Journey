@@ -1,0 +1,33 @@
+{
+ "business": "SB Family Lawyers",
+ "owner": "Sarah Bevan",
+ "city": "Sydney",
+ "website": "sbfamilylawyers.com.au",
+ "summary": "You have a named team, three offices and a 5 star Facebook rating, but your page lists conflicting details and a contact form that appears incomplete.",
+ "findings": [
+  {
+   "problem": "Three phone numbers appear in different places ((02) 9633 1088, 1300 007 235, (02) 9980 1095), and the welcome text names Mosman and Surry Hills while the footer lists Sydney CBD and Crows Nest.",
+   "cost": "Clients are unsure which office to call or visit, and some calls are lost.",
+   "fix": "One checked set of offices and numbers."
+  },
+  {
+   "problem": "The contact form shows only Contact Email and Are you human?, with no name or message field visible. There is no WhatsApp.",
+   "cost": "A distressed client wants an easy, clear way to ask for help and leaves if it is not there.",
+   "fix": "A short, complete enquiry form and a callback option."
+  },
+  {
+   "problem": "Several links are # or empty, some images are blank placeholders, the Google+ icon links to a discontinued service, and Facebook feed text shows See MoreSee Less.",
+   "cost": "Dead and leftover items make a law firm look unmaintained.",
+   "fix": "Clean links and current social icons."
+  },
+  {
+   "problem": "No client testimonials appear, only 5 stars on Facebook. The team shows names without photos, the footer says 2025 while posts are dated 2026, and the best family lawyers in Sydney has no support.",
+   "cost": "Clients want to hear from other clients and see who will act for them.",
+   "fix": "Client testimonials, team photos and current copy."
+  }
+ ],
+ "redesign": [
+  "One clear contact path: complete enquiry form, click to call and WhatsApp.",
+  "Client testimonials, team profiles with photos and a clean office page."
+ ]
+}

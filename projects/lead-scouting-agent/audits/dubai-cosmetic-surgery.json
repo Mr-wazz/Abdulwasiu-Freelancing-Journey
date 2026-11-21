@@ -1,0 +1,33 @@
+{
+ "business": "Dubai Cosmetic Surgery Clinic",
+ "owner": "the Dubai Cosmetic Surgery team",
+ "city": "Umm Suqeim, Dubai",
+ "website": "dubaicosmeticsurgery.com",
+ "summary": "Six named surgeons, 1,000+ procedures and a booking form are strong, but leftover form text, a demo site link and conflicting numbers undercut a high ticket brand.",
+ "findings": [
+  {
+   "problem": "Form labels leak onto the page (-None- Internet Walk in Phone and Please select Google Yahoo MSN Facebook), and the Consult Now and financing block repeats about 8 times.",
+   "cost": "Leftover text and repeats make a surgical clinic look unfinished.",
+   "fix": "Clean form and each block shown once."
+  },
+  {
+   "problem": "The price guide View More and Full price guide links go to aesthetica.cmsmasters.net, a theme demo site, and several slider images are dummy.png.",
+   "cost": "Patients who click for prices land on a demo site and lose trust.",
+   "fix": "Your own price page and real images."
+  },
+  {
+   "problem": "The page says more than 250 five-star reviews and also a 4.8 rating from 1000+ reviews, transforming looks for the last 17 years and more than 15 years, and quotes prices in $ with simple flat rate beside ranges.",
+   "cost": "Conflicting numbers make patients doubt every claim.",
+   "fix": "One verified set of figures and prices in AED."
+  },
+  {
+   "problem": "Reviews include Your laiyar and a blank one, Prof. Dr. Dr. Wolfgang Funk has a doubled Dr., WhatsApp (+971 4 348 5575) differs from the main phone, and no before and after images show.",
+   "cost": "Surgery patients choose on real results and clear contact.",
+   "fix": "Good reviews, a results gallery and one contact number."
+  }
+ ],
+ "redesign": [
+  "A clean booking form, one phone and WhatsApp, and prices in AED.",
+  "Real reviews, a captioned results gallery and consistent facts."
+ ]
+}

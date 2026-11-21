@@ -1,0 +1,34 @@
+{
+ "business": "Dr Ophelia Veraitch Dermatology",
+ "owner": "Dr Ophelia and the team",
+ "city": "Harley Street, London",
+ "website": "drophelia.com",
+ "summary": "A strong reputation and a 4.9 Google rating are strengths, but typos, a dead menu item and no online booking form appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Microneedling London links to #, Skin Cancer Screening has no link, and the header phone link is tel:+44207022 9888 with a space.",
+   "cost": "Dead links and a faulty phone link lose patients who try to act.",
+   "fix": "Working links and a tested phone link."
+  },
+  {
+   "problem": "The page shows 'Hollistic Approach', 'a discreet. comfortable environment', and the logo text reads Dr. Orphelia.",
+   "cost": "Spelling slips on a premium dermatology page reduce trust.",
+   "fix": "Proofread copy and correct logo text."
+  },
+  {
+   "problem": "No booking or contact form appears, contact relies on phone and email, and no WhatsApp number is listed.",
+   "cost": "Patients who prefer to book online or message first may leave.",
+   "fix": "A direct booking form and WhatsApp."
+  },
+  {
+   "problem": "The page repeats 'Real stories of healing and hope' on five tiles, names no awards behind award winning, and shows no treatment pricing.",
+   "cost": "Repeated lines and unnamed claims weaken proof.",
+   "fix": "Named awards, outcome details and pricing guidance."
+  }
+ ],
+ "redesign": [
+  "Working links, a tested phone link and proofread copy.",
+  "A booking form with WhatsApp.",
+  "Named awards, richer patient stories and pricing guidance."
+ ]
+}

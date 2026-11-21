@@ -1,0 +1,34 @@
+{
+ "business": "Bourgeois Dental Clinic",
+ "owner": "Dr. Nour and team",
+ "city": "Sheikh Zayed Road, Dubai",
+ "website": "bourgeoisclinic.com",
+ "summary": "Bourgeois has a 4.9 Google rating from 274 reviews, ten recent results and a WhatsApp number. Broken policy links and uncaptioned results hold back a clinic that already has strong proof.",
+ "findings": [
+  {
+   "problem": "The Privacy Policy and Terms and Conditions links both go to the homepage, and the Google Maps link uses a placeholder looking ID (cid=123456789).",
+   "cost": "Missing policy pages are a trust and compliance risk, and a wrong map link sends patients to the wrong place.",
+   "fix": "Real policy pages and a verified map link."
+  },
+  {
+   "problem": "The ten Recent Results images are labelled only Case 1 to Case 10, with no treatment names, timelines or patient context.",
+   "cost": "Cosmetic patients decide on what was done and how long it took. Bare numbered photos do not tell them.",
+   "fix": "Captioned before and after cases with treatment and timeline, with patient consent."
+  },
+  {
+   "problem": "No booking form appears on the homepage, and the contact overlay shows only a Submit button with no visible fields. Opening hours appear only in the FAQ.",
+   "cost": "A patient ready to book has to open another page, and a form with no fields loses the enquiry.",
+   "fix": "A short booking form on the homepage with visible fields, hours nearby and WhatsApp."
+  },
+  {
+   "problem": "The TikTok address reads @bourjeois.clinic, the footer says Bourgeois Clinic while the site says Bourgeois Dental Clinic, and a review spells the doctor Dr Noor while the site says Dr. Nour.",
+   "cost": "Inconsistent names and a misspelled social handle make a patient unsure they have found the right clinic.",
+   "fix": "One consistent brand name and correct social links."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage that puts your 4.9 rating and captioned results beside every booking button.",
+  "A booking form with visible fields, WhatsApp and clear hours.",
+  "Treatment pages written to rank for searches like dental implants Sheikh Zayed Road and porcelain veneers Dubai."
+ ]
+}

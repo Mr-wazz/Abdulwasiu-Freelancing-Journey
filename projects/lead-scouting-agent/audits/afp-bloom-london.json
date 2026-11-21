@@ -1,0 +1,34 @@
+{
+ "business": "AFP Bloom",
+ "owner": "William Healing, Zoe Bloom, Victoria Toy and Nicole Derham",
+ "city": "London, UK",
+ "website": "afpbloom.com",
+ "summary": "A ranked family law boutique with four partners is a strength, but dead menu links and no contact form appear to cost you high value enquiries.",
+ "findings": [
+  {
+   "problem": "The menu items about, reputation and international appear to link to #, and the READ MORE under the children section appears to link to # as well.",
+   "cost": "A client exploring your reputation or international work lands nowhere.",
+   "fix": "Working pages for every menu item."
+  },
+  {
+   "problem": "The homepage appears to have no contact form, only a mailto link and a phone number in the footer, and the main calls to action appear to be generic READ MORE links.",
+   "cost": "A client ready to enquire has no clear next step.",
+   "fix": "A confidential enquiry form and a clear Book a consultation button."
+  },
+  {
+   "problem": "Typos appear such as 'Members of our tream', 'comparative' instead of competitive hourly rates, and the partner name appears as Zoe Bloom in one place and Zoe with an accent in another.",
+   "cost": "Typos in a premium firm weaken the impression of care.",
+   "fix": "Proofread copy and consistent names."
+  },
+  {
+   "problem": "The Legal 500 badge appears to read 2024 while the page is dated 2026, and the only testimonial appears to be attributed to Chambers and Partners, not a client.",
+   "cost": "Old badges and no client voices make proof look dated.",
+   "fix": "Current badges and named client feedback where allowed."
+  }
+ ],
+ "redesign": [
+  "Working menu pages.",
+  "A confidential enquiry form and clear call to action.",
+  "Proofread copy, current badges and visible proof."
+ ]
+}

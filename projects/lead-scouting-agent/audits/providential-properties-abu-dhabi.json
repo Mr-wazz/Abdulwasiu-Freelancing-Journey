@@ -1,0 +1,34 @@
+{
+ "business": "Providential Properties",
+ "owner": "the team",
+ "city": "Al Maryah Island, Abu Dhabi",
+ "website": "providentialproperties.ae",
+ "summary": "Luxury Yas and Saadiyat listings and an off-market offer are strengths, but dead links and conflicting claims appear to cost you serious buyers.",
+ "findings": [
+  {
+   "problem": "Menu items such as Projects, Islands, Services and Company appear to link to #, and the main View Listings button appears to use javascript:void(0).",
+   "cost": "A buyer who clicks the main button and sees nothing leaves for a competitor.",
+   "fix": "Working navigation and listing buttons."
+  },
+  {
+   "problem": "The email link appears malformed (https://hello@providentialproperties.ae), the hero says EST. 2020 beside 22Y Cumulative Market Experience, and Support 24/7 sits beside 09:00 to 18:00, Sunday Closed.",
+   "cost": "Broken contact links and contradictory claims weaken trust at the moment of enquiry.",
+   "fix": "Working mailto and WhatsApp, one set of verified claims."
+  },
+  {
+   "problem": "Prices appear as 1650000 1,750,000 with no label, the Yas Park Gate card says Sold Out but still shows Call and Email buttons, and Manchester City under By Area appears to link to an Ohana property.",
+   "cost": "Unclear prices and mislabeled listings confuse high value buyers.",
+   "fix": "Clean price format and correct listing labels."
+  },
+  {
+   "problem": "Only three reviews appear with first names, awards have no year, and market figures such as 142B AED have no source.",
+   "cost": "Luxury buyers want proof and find little.",
+   "fix": "Dated reviews, linked awards and sourced figures."
+  }
+ ],
+ "redesign": [
+  "Working navigation, listing buttons and contact links.",
+  "Clean prices and accurate listing labels.",
+  "Dated reviews, awards and sourced market figures."
+ ]
+}

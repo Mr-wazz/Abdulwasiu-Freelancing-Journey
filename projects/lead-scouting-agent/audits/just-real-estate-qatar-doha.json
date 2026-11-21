@@ -1,0 +1,34 @@
+{
+ "business": "Just Real Estate Qatar",
+ "owner": "the team",
+ "city": "Doha",
+ "website": "jre.com.qa",
+ "summary": "Decades of Qatar experience and listings across Doha, Lusail and The Pearl are strengths, but conflicting numbers and placeholder reviews appear to cost you buyers.",
+ "findings": [
+  {
+   "problem": "The header appears to list +974 4491 3333, the call icon appears to use the placeholder tel:+911234567890, and WhatsApp appears to use wa.me/0097450626231.",
+   "cost": "A buyer who taps the call icon reaches a wrong number.",
+   "fix": "One verified phone and WhatsApp."
+  },
+  {
+   "problem": "No visible contact form appears, only a Send a message link to another page.",
+   "cost": "Buyers must leave the page to enquire and some drop off.",
+   "fix": "An on page enquiry form."
+  },
+  {
+   "problem": "Every testimonial appears to use the same avatar and one reviewer appears as John Doe, with no full names, dates or ratings.",
+   "cost": "Filler proof makes real clients look fake.",
+   "fix": "Real, attributed reviews."
+  },
+  {
+   "problem": "Prices appear as '7,450.000 QAR', the area filter appears as 'Lusail FoxHills Marina', and several cards appear to show 'coming soon...' or 0 bedrooms.",
+   "cost": "Odd formats and unfinished cards make listings hard to trust.",
+   "fix": "Clean price format and finished listing cards."
+  }
+ ],
+ "redesign": [
+  "One verified phone and WhatsApp.",
+  "On page enquiry form.",
+  "Real reviews and finished listing cards."
+ ]
+}

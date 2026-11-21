@@ -1,0 +1,34 @@
+{
+ "business": "Brampton Dental Arts",
+ "owner": "Dr Azeem Sheikh",
+ "city": "Brampton, Canada",
+ "website": "bramptondentalarts.com",
+ "summary": "A Brampton practice offering same day implants under one roof is a strength, but conflicting hours and booking that is only a phone call appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The body appears to say Wednesday and Friday 8am to 1pm while the footer says Wednesday 8am to 5pm, and Saturday appears only in the footer.",
+   "cost": "Patients cannot trust the hours and may arrive when you are closed.",
+   "fix": "One verified hours block everywhere."
+  },
+  {
+   "problem": "Book Appointment, Book an Appointment and Book Now appear to link to an accepting new patients page, and no booking form or scheduling tool appears.",
+   "cost": "Patients ready to book online have to phone, and many will not.",
+   "fix": "A real online booking calendar."
+  },
+  {
+   "problem": "The email address appears as an obfuscated placeholder, a Select Page label appears at the top, and the footer appears to show no copyright year.",
+   "cost": "Leftover template elements and an unreadable email look unfinished.",
+   "fix": "Clean markup and a readable contact email."
+  },
+  {
+   "problem": "No patient testimonials or ratings appear, only one dentist is named though the menu says Meet the Doctors, and the claim 'the only dentist you are likely to need' appears with no proof.",
+   "cost": "Unproven claims and no reviews give a new patient little reason to choose you.",
+   "fix": "Real reviews, named team and credentials."
+  }
+ ],
+ "redesign": [
+  "One verified hours block.",
+  "A real booking calendar.",
+  "Clean markup, reviews and a full team page."
+ ]
+}

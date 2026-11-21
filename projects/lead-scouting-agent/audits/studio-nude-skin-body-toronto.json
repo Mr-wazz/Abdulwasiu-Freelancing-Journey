@@ -1,0 +1,29 @@
+{
+ "business": "Studio Nude Skin and Body",
+ "owner": "the Studio Nude team",
+ "city": "Toronto, Canada",
+ "website": "studionude.ca",
+ "summary": "A Yorkville body contouring and skin clinic appears to lose bookings to typos in its menu, a 2023 date and an overloaded menu.",
+ "findings": [
+  {
+   "problem": "The menu appears to spell Lymphatic Drainage as Drianage and Microblading as Miroblading.",
+   "cost": "Typos in treatment names make a clinic that sells precision look careless.",
+   "fix": "Proofread treatment names."
+  },
+  {
+   "problem": "The page appears to carry a 2023 copyright date.",
+   "cost": "An old date makes a visitor wonder if the clinic is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The menu appears to list more than 40 treatments in one long list.",
+   "cost": "Visitors cannot find the one treatment they came for, and they leave without booking.",
+   "fix": "Grouped treatment pages with a clear next step."
+  }
+ ],
+ "redesign": [
+  "Proofread menu.",
+  "Grouped treatments.",
+  "Current page and clear booking."
+ ]
+}

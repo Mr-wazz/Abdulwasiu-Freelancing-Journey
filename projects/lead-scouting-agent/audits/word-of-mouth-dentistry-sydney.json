@@ -1,0 +1,34 @@
+{
+ "business": "Word of Mouth Dentistry",
+ "owner": "the Word of Mouth Dentistry team",
+ "city": "Sydney, Australia",
+ "website": "wordofmouthdentistry.com.au",
+ "summary": "A Kogarah dental practice with a multi award claim appears to lose new patients to a leftover Covid notice and thin proof on the homepage.",
+ "findings": [
+  {
+   "problem": "A section called Information for Patients Regarding Covid-19 still appears on the homepage.",
+   "cost": "Old pandemic notices make the practice look stuck in an earlier year.",
+   "fix": "Replace it with a current new patient welcome."
+  },
+  {
+   "problem": "Stray markup characters appear at the top of the page text.",
+   "cost": "Broken code looks careless on a healthcare site.",
+   "fix": "Clean template markup."
+  },
+  {
+   "problem": "A Multi Award Winning claim appears with no ratings or review excerpt shown on the first page.",
+   "cost": "A claim with no visible proof is easy to doubt.",
+   "fix": "Visible ratings, review quotes and named awards."
+  },
+  {
+   "problem": "No WhatsApp appears, and booking appears to rely on a Request an Appointment form and a phone number.",
+   "cost": "Families who want a quick reply choose another practice.",
+   "fix": "WhatsApp and instant online booking."
+  }
+ ],
+ "redesign": [
+  "Current welcome.",
+  "Clean markup.",
+  "Visible proof and instant booking."
+ ]
+}

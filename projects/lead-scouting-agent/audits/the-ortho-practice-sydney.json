@@ -1,0 +1,34 @@
+{
+ "business": "The Ortho Practice",
+ "owner": "Dr Theodor Baisi",
+ "city": "Maroubra, Sydney, Australia",
+ "website": "theorthopractice.com.au",
+ "summary": "A specialist orthodontic practice with Diamond Invisalign status and two clinics is a strength, but a deposit offer with no end date and a request only booking form appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The booking form appears to say 'Complete your booking form and we will be in touch', so patients cannot choose a time.",
+   "cost": "Patients ready to book must wait for a reply and some will go elsewhere.",
+   "fix": "A real online booking calendar."
+  },
+  {
+   "problem": "No opening hours appear although the page promotes out of school hours appointments, and the header Call Us button appears to show only the Maroubra number.",
+   "cost": "Patients of the second clinic cannot tell when or how to call.",
+   "fix": "Visible hours and a number per clinic."
+  },
+  {
+   "problem": "The banner '$0 Deposit This November' appears with no end date, and the Dental Monitoring button appears to point to a page ending in -old.",
+   "cost": "Offers without dates and old pages look neglected.",
+   "fix": "Dated offers and clean links."
+  },
+  {
+   "problem": "The Invisible Orthodontist appears under two names, Dr Theodor Baisi appears as Dr Theo Baisi in image text, and only one clinician is named with no reviews or before and after cases.",
+   "cost": "Mixed names and thin proof weaken trust.",
+   "fix": "One brand name, named team and visible cases and reviews."
+  }
+ ],
+ "redesign": [
+  "A real booking calendar.",
+  "Visible hours and a number per clinic.",
+  "Dated offers, one brand name and visible proof."
+ ]
+}

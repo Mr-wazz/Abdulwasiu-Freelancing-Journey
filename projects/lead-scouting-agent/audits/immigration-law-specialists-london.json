@@ -1,0 +1,34 @@
+{
+ "business": "Immigration Law Specialists",
+ "owner": "the Immigration Law Specialists team",
+ "city": "London, UK",
+ "website": "immigrationlawspecialists.weebly.com",
+ "summary": "A London immigration firm appears to lose clients to a free builder address, a keyword heavy menu and no enquiry form.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Weebly address.",
+   "cost": "Clients choosing an immigration adviser judge credibility first, and a free builder address looks temporary.",
+   "fix": "Your own domain and a firm email."
+  },
+  {
+   "problem": "The menu appears to repeat the same keywords, such as Immigration Law Solicitors, Immigration Solicitors and Immigration Applications.",
+   "cost": "Repeated keywords read like spam and do not tell a client what happens next.",
+   "fix": "A clear menu with real service pages."
+  },
+  {
+   "problem": "The page appears to say contact us on line, but I did not see an enquiry form.",
+   "cost": "A client in a hurry will not copy an email address, so they contact another firm.",
+   "fix": "A short enquiry form on the page."
+  },
+  {
+   "problem": "The firm name appears with a stray space, I mmigration, and no WhatsApp appears.",
+   "cost": "Typos in the firm's own name weaken trust, and many clients prefer to message first.",
+   "fix": "A corrected name and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Clear service pages.",
+  "Enquiry form and WhatsApp."
+ ]
+}

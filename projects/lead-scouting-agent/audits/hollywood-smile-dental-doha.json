@@ -1,0 +1,34 @@
+{
+ "business": "Hollywood Smile Dental Center (ATOS Medical Center)",
+ "owner": "the ATOS Medical Center team",
+ "city": "Doha, Qatar",
+ "website": "medicalcenter.qa",
+ "summary": "A Doha cosmetic dental centre appears to lose smile makeover enquiries because there is no booking form and proof is thin.",
+ "findings": [
+  {
+   "problem": "The Book An Appointment section appears to give only a phone number and email, with no form or booking button.",
+   "cost": "Patients ready to book have to call or write, and many will not.",
+   "fix": "An on page booking form."
+  },
+  {
+   "problem": "Contact Us and Call Us Now appear to point to the same anchor, and header and footer links for the same services appear to use different addresses.",
+   "cost": "Confusing links send patients to the wrong place.",
+   "fix": "Consistent links and a clear primary button."
+  },
+  {
+   "problem": "The testimonials page address appears to be spelled testimonails, and the page appears as both Dental Center and Dental Clinic.",
+   "cost": "Typos and mixed names weaken trust.",
+   "fix": "Proofread copy and one brand name."
+  },
+  {
+   "problem": "The stats such as 99+ satisfaction and 16+ honorary awards appear to name no source, and no before and after photos or dentist credentials appear.",
+   "cost": "High value patients want visible results and credentials.",
+   "fix": "A results gallery, named dentists and sourced stats."
+  }
+ ],
+ "redesign": [
+  "On page booking.",
+  "Consistent links.",
+  "Results, credentials and sourced stats."
+ ]
+}

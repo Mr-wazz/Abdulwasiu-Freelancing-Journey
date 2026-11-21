@@ -1,0 +1,34 @@
+{
+ "business": "Horizons and Co",
+ "owner": "the Horizons and Co team",
+ "city": "Abu Dhabi, UAE",
+ "website": "horizlaw.ae",
+ "summary": "An established Abu Dhabi and Dubai law firm appears to lose enquiries to a missing contact form and generic calls to action.",
+ "findings": [
+  {
+   "problem": "The Send message section appears to show a heading but only an image of a form, so there is no working contact form.",
+   "cost": "Prospective clients cannot write to the firm from the page.",
+   "fix": "A working enquiry form."
+  },
+  {
+   "problem": "The only calls to action appear to be Read more and View our services, with no book a consultation prompt.",
+   "cost": "Visitors have no clear next step.",
+   "fix": "A consultation button on every service."
+  },
+  {
+   "problem": "Typos such as inter national and the advent of Al appear, testimonials appear to end with 123456, and Arbitration appears to link to the homepage.",
+   "cost": "Typos and leftover text weaken trust in a law firm.",
+   "fix": "Proofread copy and correct links."
+  },
+  {
+   "problem": "The footer appears to give no street addresses for either office, and the Winner award appears with no description.",
+   "cost": "Clients want to see where you are and what you won.",
+   "fix": "Office addresses and detailed awards."
+  }
+ ],
+ "redesign": [
+  "Working form.",
+  "Consultation buttons.",
+  "Clean copy, addresses and awards."
+ ]
+}

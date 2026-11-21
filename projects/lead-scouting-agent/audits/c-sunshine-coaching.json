@@ -1,0 +1,29 @@
+{
+ "business": "C Sunshine Coaching",
+ "owner": "the coach",
+ "city": "USA",
+ "website": "csunshinewellness.wixsite.com/coach",
+ "summary": "A wellness coach appears to lose clients to a 2022 footer, a free builder address and an ended program still shown on the booking page, with Black Friday on 27 November.",
+ "findings": [
+  {
+   "problem": "The footer appears to say 2022 and the site runs on a free Wix address with the Wix advert at the top.",
+   "cost": "A date four years old and a builder advert make a visitor wonder if the coach is still active, and people pay active coaches, not dormant ones.",
+   "fix": "Current footer, your own domain, no builder advert."
+  },
+  {
+   "problem": "The booking page lists Group Wellness Coaching as Ended, with Subject to Package under it, next to the live 15 minute and 90 dollar sessions.",
+   "cost": "A product marked as ended on the page where people book makes the whole page look abandoned and confuses buyers about what they can buy.",
+   "fix": "Remove ended items, show only what is on sale."
+  },
+  {
+   "problem": "The only offers appear to be a free 15 minute call and one 90 dollar session, with no Black Friday package, and the contact is a phone number and a gmail address with no WhatsApp.",
+   "cost": "On Black Friday a clear bundle sells, and a client who wants to send a quick message has no easy way to do it.",
+   "fix": "A Black Friday package page and a one tap message button."
+  }
+ ],
+ "redesign": [
+  "Own domain, current footer.",
+  "Clean booking page, no ended items.",
+  "Black Friday package and one tap message."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Boutique Dental Bondi",
+ "owner": "the team",
+ "city": "Bondi, Sydney, Australia",
+ "website": "boutiquedental.com.au",
+ "summary": "A Bondi practice open seven days with implants, injectables and orthodontics is a strength, but placeholder page addresses and no named dentists appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Gum Grafting appears to link to /new-page, and the Surgical Dentistry and Smile Makeover folders appear to link to /new-dropdown-1 and /new-dropdown-2.",
+   "cost": "Patients clicking those items reach unfinished pages.",
+   "fix": "Real pages for every treatment."
+  },
+  {
+   "problem": "Several services appear to have two page addresses each (teeth whitening, orthodontics, implants, injectables, wisdom teeth), and Explore Invisalign appears to open the orthodontics page.",
+   "cost": "Duplicate pages split your Google ranking and confuse patients.",
+   "fix": "One page per treatment with a dedicated Invisalign page."
+  },
+  {
+   "problem": "No street address appears, 'open 7 days a week' appears with no opening times, and the page title appears to say Bondi Junction while the body says Bondi.",
+   "cost": "Patients cannot tell when or where to visit.",
+   "fix": "Visible address, hours and one location name."
+  },
+  {
+   "problem": "No dentist is named, and no testimonials, reviews or accreditation details appear.",
+   "cost": "New patients want to know who will treat them and what others say.",
+   "fix": "Named dentists, credentials and reviews."
+  }
+ ],
+ "redesign": [
+  "Real pages for every treatment.",
+  "One page per treatment.",
+  "Visible address, hours, named dentists and reviews."
+ ]
+}

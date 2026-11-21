@@ -1,0 +1,29 @@
+{
+ "business": "Kaluh Real Estate",
+ "owner": "Julie and Nikko",
+ "city": "Sydney, Australia",
+ "website": "kaluh.com.au",
+ "summary": "A Bexley North agency led by Julie and Nikko appears to lose seller and landlord enquiries because the homepage offers only an email and a phone number to reach them.",
+ "findings": [
+  {
+   "problem": "The homepage appears to have no enquiry form, only an email address and a phone number.",
+   "cost": "A seller who is only browsing will not stop to write an email or make a call, so a hot lead can leave without a trace.",
+   "fix": "A short enquiry form on the homepage that sends you the lead at once."
+  },
+  {
+   "problem": "No WhatsApp or text option appears on the page.",
+   "cost": "Property owners message first and call later, and the agent who replies fastest wins the listing.",
+   "fix": "A one tap WhatsApp and text button."
+  },
+  {
+   "problem": "Several listings appear to show Contact Agent instead of a price or detail.",
+   "cost": "A buyer who cannot see a price often moves on to the next listing.",
+   "fix": "Clearer listing cards with a next step."
+  }
+ ],
+ "redesign": [
+  "Homepage form that captures every seller.",
+  "WhatsApp and text button.",
+  "Listing cards that move buyers to call."
+ ]
+}

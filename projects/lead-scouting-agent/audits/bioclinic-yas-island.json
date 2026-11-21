@@ -1,0 +1,34 @@
+{
+ "business": "Bioclinic Aesthetic Clinic",
+ "owner": "the Bioclinic team",
+ "city": "Yas Island, Abu Dhabi",
+ "website": "bioclinic.ae",
+ "summary": "Bioclinic has a calm, premium look and a clear three step patient experience. The site has no way to book, and leftover text and broken links weaken the premium feel it is going for.",
+ "findings": [
+  {
+   "problem": "There is no booking form and no Book a consultation button. The main buttons only scroll or browse, and the header has no phone or WhatsApp button.",
+   "cost": "A visitor who likes the clinic has no direct next step and must hunt for a contact page. Many leave without booking.",
+   "fix": "A Book a consultation button in the header and hero with a short booking form and WhatsApp beside it."
+  },
+  {
+   "problem": "There are no reviews, before and after cases, practitioner names or credentials, and no pricing guidance anywhere on the page.",
+   "cost": "Aesthetic patients decide on proof and on who will treat them. Without it, a premium look is not enough to win the booking.",
+   "fix": "Named clinicians with credentials, real reviews and captioned results with consent."
+  },
+  {
+   "problem": "The Instagram menu item links to /#contact, and the Instagram section falls back to a Posts not showing message. Leftover text such as Hover or tap to turn and stray underscores in headings appear on the page.",
+   "cost": "Broken links and leftover text break the polished feel a premium clinic depends on, right where trust is built.",
+   "fix": "Working social links, a stable feed and clean headings."
+  },
+  {
+   "problem": "Service cards rely on hover or tap to reveal what they offer, and a Staff login link sits in the public footer.",
+   "cost": "Mobile visitors may never see the treatments, and a staff link in public view looks unfinished.",
+   "fix": "Treatments shown clearly on mobile, and the staff login moved out of the visitor path."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with a clear Book a consultation button, a short form and WhatsApp on every page.",
+  "A proof layer: named clinicians, real reviews and captioned results beside every booking button.",
+  "Treatment pages written to rank for searches like skin treatments Yas Island and aesthetic clinic Abu Dhabi."
+ ]
+}

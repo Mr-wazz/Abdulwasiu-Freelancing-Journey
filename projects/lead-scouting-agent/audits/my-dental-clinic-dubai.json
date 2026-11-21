@@ -1,0 +1,34 @@
+{
+ "business": "My Dental Clinic",
+ "owner": "Dr Sarah Jamal and team",
+ "city": "Dubai, UAE",
+ "website": "mydentalclinic.ae",
+ "summary": "A Dubai clinic with 225 Google reviews appears to lose bookings to dead buttons and a hard to find booking form.",
+ "findings": [
+  {
+   "problem": "Three Discover more buttons and the Treatments menu appear to link to #, so they go nowhere.",
+   "cost": "Patients exploring treatments hit dead ends.",
+   "fix": "Working pages behind every treatment link."
+  },
+  {
+   "problem": "The Book now button appears to link to the footer, not the booking form, and Contact points to two different anchors.",
+   "cost": "The main booking path is hard to find, so ready patients leave.",
+   "fix": "One clear booking button that opens the form."
+  },
+  {
+   "problem": "Two Call Us buttons appear to dial different numbers, and several team names differ between the team page and reviews.",
+   "cost": "Patients may call the wrong line and doubt who treats them.",
+   "fix": "One verified number and consistent doctor names."
+  },
+  {
+   "problem": "Image labels appear to be generic or in Italian, and no prices or captioned before and after examples appear for veneers or whitening.",
+   "cost": "Patients compare clinics that show results and prices.",
+   "fix": "Captioned results and starting prices."
+  }
+ ],
+ "redesign": [
+  "Working treatment pages.",
+  "One booking button and number.",
+  "Results and starting prices."
+ ]
+}

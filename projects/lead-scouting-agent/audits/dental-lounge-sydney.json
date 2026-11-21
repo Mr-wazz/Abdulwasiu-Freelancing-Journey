@@ -1,0 +1,33 @@
+{
+ "business": "Dental Lounge",
+ "owner": "Dr Verdian and team",
+ "city": "Sydney CBD and Double Bay",
+ "website": "dentallounge.com.au",
+ "summary": "Dental Lounge offers a free consultation, a before and after slider with 10 pairs and a payment plans page. Dead links and mismatched details weaken a practice with several clinics.",
+ "findings": [
+  {
+   "problem": "The Bowral navigation and footer links and the Treatments parent menu point to #. The Sydney CBD footer phone links to the Double Bay number.",
+   "cost": "A patient who clicks Bowral or calls the CBD number from the footer reaches the wrong place, and you lose the booking.",
+   "fix": "Working links and the correct phone number for each clinic."
+  },
+  {
+   "problem": "The Porcelain Veneers heading has no content, Composite Veneers appears twice, and About Dental Implants repeats.",
+   "cost": "Empty and repeated sections on your highest value treatment page send patients to a competitor who explains it clearly.",
+   "fix": "One clear page per treatment with a from price."
+  },
+  {
+   "problem": "Several bios use different names from their titles (Dr Kalos and Jemima, Dr Gavan and Iain), and one mentions a Balmain practice that is not a current clinic. Typos include steralisation and Dental Lounge,working.",
+   "cost": "Inconsistent doctor names and typos in a clinical site make patients doubt who will treat them.",
+   "fix": "Verified doctor profiles and a proofread build."
+  },
+  {
+   "problem": "No patient reviews or star ratings appear, the only quote is from a dentist, and the before and after slider has no captions or consent notes. Every button goes to a separate booking page.",
+   "cost": "Patients choose cosmetic clinics on peer proof, and an extra click to book costs enquiries.",
+   "fix": "Captioned results, Google reviews and a short booking form on each page."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with captioned results and Google reviews beside every booking button.",
+  "A booking form on every page and correct details for each clinic."
+ ]
+}

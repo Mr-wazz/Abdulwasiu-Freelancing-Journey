@@ -1,0 +1,34 @@
+{
+ "business": "Borovac Dentistry",
+ "owner": "Dr Vesna Borovac and team",
+ "city": "Toronto, Canada",
+ "website": "borovacdentistry.com",
+ "summary": "A Yorkville cosmetic practice appears to lose enquiries to dead menu links, an email link that may not open and no online booking.",
+ "findings": [
+  {
+   "problem": "The About Us and Dental Services menu items appear to link to #, and the Email Us link appears to lack a mailto prefix.",
+   "cost": "Patients cannot reach key pages, and tapping to email may do nothing.",
+   "fix": "Working menu pages and a proper email link."
+  },
+  {
+   "problem": "Book an Appointment appears with no booking form or scheduler, so every route is a phone call or email, and the only hours shown are Mon to Fri 8am to 5pm.",
+   "cost": "Patients who want to book online or after hours go elsewhere.",
+   "fix": "An online booking form and complete hours."
+  },
+  {
+   "problem": "The phone link title appears to read About Dr. Borovac, service card links appear titled for different services, and one service appears under two different page addresses.",
+   "cost": "Mismatched labels and duplicate pages confuse patients and search engines.",
+   "fix": "Correct labels and one page per service."
+  },
+  {
+   "problem": "Gallery and blog cards appear to be blank placeholders, no testimonials appear, and a Covid-19 preparedness page appears to remain linked.",
+   "cost": "Cosmetic patients buy on visible results and current information.",
+   "fix": "A results gallery, reviews and current content."
+  }
+ ],
+ "redesign": [
+  "Working menus and email link.",
+  "Online booking and hours.",
+  "Results and reviews."
+ ]
+}

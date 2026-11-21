@@ -1,0 +1,34 @@
+{
+ "business": "ARP Law Group",
+ "owner": "the ARP Law team",
+ "city": "Abu Dhabi, UAE",
+ "website": "arplawgroup.com",
+ "summary": "A UAE law firm site appears to be live with under construction messaging and a contact form that does not appear.",
+ "findings": [
+  {
+   "problem": "The page appears to say We are building a better experience for you, with a heading and no content under it.",
+   "cost": "Visitors may think the firm is not active.",
+   "fix": "Finish the page before promoting it."
+  },
+  {
+   "problem": "The hero headline appears to read WE ARE A FULL SERVICE with no noun.",
+   "cost": "An unfinished headline weakens first impressions.",
+   "fix": "A complete headline."
+  },
+  {
+   "problem": "The contact section appears to show labels such as NAME and EMAIL with no visible fields or button.",
+   "cost": "Prospective clients cannot write to the firm.",
+   "fix": "A working enquiry form."
+  },
+  {
+   "problem": "No lawyer names, client results or testimonials appear, and the address appears only in the footer.",
+   "cost": "Clients want to see who they are hiring.",
+   "fix": "Lawyer profiles, results and a visible address."
+  }
+ ],
+ "redesign": [
+  "Complete content.",
+  "Working form.",
+  "Lawyer profiles and address."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Magnum Clinic",
+ "owner": "the Magnum Clinic team",
+ "city": "Dubai, UAE",
+ "website": "magnumclinic.ae",
+ "summary": "A four branch Dubai clinic with 1,400 Google reviews appears to lose patients to conflicting hours and branch details.",
+ "findings": [
+  {
+   "problem": "Opening hours appear as Mon to Sat on one block and Mon to Sun for another branch, and JVC appears with a third version.",
+   "cost": "Patients may arrive when you are closed.",
+   "fix": "One verified hours table per branch."
+  },
+  {
+   "problem": "All four branches appear to share one email, the Arjan branch appears to share the DSO phone number, and its address shows only Al Barsha South.",
+   "cost": "Patients cannot reach or find the branch they want.",
+   "fix": "Own phone, email and full address per branch."
+  },
+  {
+   "problem": "The header button appears to read Book Appointment Book, and the map section appears to say Map preview loads when you scroll here.",
+   "cost": "Visible rendering errors make a medical brand look unfinished.",
+   "fix": "A clean booking button and a working map."
+  },
+  {
+   "problem": "Sections and testimonials appear to repeat, and the price range appears as AED 800 to AED 25,000 with no starting price.",
+   "cost": "Repeats add clutter and a wide range gives no buying signal.",
+   "fix": "One section each and clear starting prices."
+  }
+ ],
+ "redesign": [
+  "Hours per branch.",
+  "Branch contact details.",
+  "Clean booking and pricing."
+ ]
+}

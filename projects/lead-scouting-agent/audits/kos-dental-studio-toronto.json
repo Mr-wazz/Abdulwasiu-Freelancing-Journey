@@ -1,0 +1,29 @@
+{
+ "business": "Kos Dental Studio",
+ "owner": "Dr Kosta Abate and team",
+ "city": "Toronto, Canada",
+ "website": "kosdentalstudio.com",
+ "summary": "A Dupont Street dental studio appears to lose new patients to a default page title, jumbled opening hours and no quick way to message.",
+ "findings": [
+  {
+   "problem": "The page title appears as Home | My Site and the header appears to read My Site, which are default Wix names.",
+   "cost": "Google and browser tabs show My Site instead of your studio, so searchers do not see who you are.",
+   "fix": "A title and header with the studio name and area."
+  },
+  {
+   "problem": "The opening hours appear jumbled, with times listed after Tuesday, Wednesday and Thursday that do not line up with the days.",
+   "cost": "A patient checking hours before booking may give up or turn up at the wrong time.",
+   "fix": "A clean hours table."
+  },
+  {
+   "problem": "No online price guide, reviews or text option appear next to Book Now.",
+   "cost": "Patients compare studios on price and proof, and many prefer to text a question first.",
+   "fix": "Reviews, price ranges and a one tap text button."
+  }
+ ],
+ "redesign": [
+  "Correct title and header.",
+  "Clean hours and services.",
+  "Reviews and quick contact."
+ ]
+}

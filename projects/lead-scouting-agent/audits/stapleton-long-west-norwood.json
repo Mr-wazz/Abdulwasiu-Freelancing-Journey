@@ -1,0 +1,29 @@
+{
+ "business": "Stapleton Long",
+ "owner": "the Stapleton Long team",
+ "city": "London, UK",
+ "website": "stapletonlong.co.uk",
+ "summary": "A West Norwood estate agent serving since 1907 appears to lose landlords and sellers to a typo in its footer name and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "The footer appears to say 2026 Stapleon Long Estate Agents, missing the t in Stapleton.",
+   "cost": "A typo in the firm's own name in the footer makes a century old agent look careless.",
+   "fix": "The correct firm name everywhere."
+  },
+  {
+   "problem": "No WhatsApp appears next to the phone number and Email link.",
+   "cost": "Landlords with a quick question message first, and the agent who replies first gets the valuation.",
+   "fix": "A one tap WhatsApp button and a valuation form."
+  },
+  {
+   "problem": "The menu appears to list many items, including Management, Property Management, Letting and Property Management Fee, Land and New Homes and Local Areas.",
+   "cost": "Visitors cannot find the one page they need and leave without asking for a valuation.",
+   "fix": "Grouped pages with one clear valuation call to action."
+  }
+ ],
+ "redesign": [
+  "Correct name.",
+  "Grouped menu.",
+  "Valuation form and WhatsApp."
+ ]
+}

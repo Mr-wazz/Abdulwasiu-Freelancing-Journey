@@ -1,0 +1,34 @@
+{
+ "business": "JJ Lawyers",
+ "owner": "the team",
+ "city": "Sydney CBD",
+ "website": "jjlawyers.com.au",
+ "summary": "Free consultation, a named accredited specialist and many reviews are strengths, but conflicting numbers and leftover form text appear to cost you calls.",
+ "findings": [
+  {
+   "problem": "The page appears to show (02) 8005 3075 in the hero while the header and footer show (02) 8378 8585, and the hero link appears to dial the other number.",
+   "cost": "A client who dials the wrong or mismatched number may never reach you.",
+   "fix": "One verified phone number everywhere."
+  },
+  {
+   "problem": "Form field names such as first_name, last_name and type_of_matter appear as visible text, and the mailto link appears to contain a stray space (info@jjlawyers.com.au%20).",
+   "cost": "A broken form and email link lose enquiries from clients who prefer to write.",
+   "fix": "Clean working form and email link."
+  },
+  {
+   "problem": "The page repeats 'We're here for you 24/7' beside Mon to Sun 8:30 AM to 5:30 PM, and the firm name appears as James & Jaramillo, J&J Lawyers, JJ Lawyers, JnJ and JJLAWYERS.",
+   "cost": "Contradictory hours and many names weaken trust and search visibility.",
+   "fix": "Accurate hours and one brand name."
+  },
+  {
+   "problem": "The family law page appears to carry criminal and traffic reviews and an FAQ about criminal accusations, shows 221 reviews but about 20 testimonials, and many reviews are dated 2 years ago.",
+   "cost": "Off-topic and stale proof does little to win a family law client.",
+   "fix": "Family law reviews, fresh dates and matching FAQs."
+  }
+ ],
+ "redesign": [
+  "One phone number, hours and brand name.",
+  "Clean enquiry form and booking.",
+  "Family law specific proof and FAQ."
+ ]
+}

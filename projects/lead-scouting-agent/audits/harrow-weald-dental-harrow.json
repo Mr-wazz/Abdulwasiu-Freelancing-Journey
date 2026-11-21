@@ -1,0 +1,34 @@
+{
+ "business": "Harrow Weald Dental Practice",
+ "owner": "Dr Devang Patel",
+ "city": "Harrow, London, UK",
+ "website": "harrowwealddental.co.uk",
+ "summary": "A Harrow practice open since 2003 with 550 plus five star reviews claimed is a strength, but a dead treatments menu and placeholder text appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Treatments menu item appears to link to #, empty links appear in the header and footer, and the review links appear to point to #.",
+   "cost": "Patients cannot browse treatments from the menu, and reviews do not open.",
+   "fix": "Working treatment and review links."
+  },
+  {
+   "problem": "The text 'treatments at harrow weald dental' appears seven times as placeholder copy, and the award list appears three times.",
+   "cost": "Repeated filler text lowers trust and hurts the page.",
+   "fix": "Written treatment content and one award list."
+  },
+  {
+   "problem": "The directions link appears to start from a location in Mumbai, the phone link appears to contain spaces, and 'Childern' appears misspelled.",
+   "cost": "Wrong directions, a phone link that may not dial and typos cost visits.",
+   "fix": "Correct directions, a clean phone link and proofread text."
+  },
+  {
+   "problem": "Awards appear dated 2011 and 2012, the BDA membership appears to end in 2019, and only four of 550 plus reviews appear.",
+   "cost": "Old dates and few shown reviews weaken proof.",
+   "fix": "Current credentials and a live reviews feed."
+  }
+ ],
+ "redesign": [
+  "Working menu and review links.",
+  "Real treatment content.",
+  "Correct directions, current credentials and live reviews."
+ ]
+}

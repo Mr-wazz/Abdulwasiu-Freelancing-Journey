@@ -1,0 +1,29 @@
+{
+ "business": "Dentistry in the 6ix",
+ "owner": "Dr Bitaraf and team",
+ "city": "Toronto, Canada",
+ "website": "dentistryinthe6ix.com",
+ "summary": "A Beaches dental office appears to lose new patients to a 2023 date and a live.com contact.",
+ "findings": [
+  {
+   "problem": "The page appears to carry a 2023 copyright date.",
+   "cost": "An old date tells a patient the office may not be active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The doctor email appears to be a live.com address.",
+   "cost": "A free email gives less trust and can land in spam.",
+   "fix": "A clinic email on your own domain."
+  },
+  {
+   "problem": "No text or WhatsApp option appears, only a phone number and a contact form.",
+   "cost": "Patients who want a quick answer message first.",
+   "fix": "A one tap text button and online booking."
+  }
+ ],
+ "redesign": [
+  "Own email domain.",
+  "Current page.",
+  "Booking and text."
+ ]
+}

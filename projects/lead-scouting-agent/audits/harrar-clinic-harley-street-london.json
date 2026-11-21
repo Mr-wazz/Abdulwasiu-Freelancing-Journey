@@ -1,0 +1,34 @@
+{
+ "business": "Harrar Clinic",
+ "owner": "Dr Harrar and the team",
+ "city": "Harley Street, London",
+ "website": "harrarclinicharleystreet.com",
+ "summary": "A Harley Street address and a private GP plus aesthetics offer are strengths, but phone only booking and typos appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The Appointments link appears to point back to the homepage, and booking is by a mobile number and a fax line with no booking form, WhatsApp or opening hours.",
+   "cost": "Patients who cannot book online or see hours go elsewhere.",
+   "fix": "Online booking and WhatsApp with hours."
+  },
+  {
+   "problem": "The page appears to say 'are mostly by recommendation but new patients are considered' and shows 10 Harley Street and 10 Sandmere Road without saying which is the main site.",
+   "cost": "A discouraging line and two addresses cost new patients.",
+   "fix": "One clear welcome message and one address."
+  },
+  {
+   "problem": "Copy appears to include 'We beleive', 'consolodation', 'co-morbitities', 'locallly', 'ablilty' and leftover labels such as Anchor 1, Blog1, About3 and top of page.",
+   "cost": "Typos and template leftovers undermine a Harley Street medical brand.",
+   "fix": "Proofread copy and clean template."
+  },
+  {
+   "problem": "Social icons appear to link to generic Wix pages, no patient reviews appear, and no CQC or GMC details are shown.",
+   "cost": "No proof or credentials leaves new patients unsure.",
+   "fix": "Real reviews and registration details."
+  }
+ ],
+ "redesign": [
+  "Online booking, WhatsApp and visible hours.",
+  "One address and a welcoming message.",
+  "Proofread copy, reviews and credentials."
+ ]
+}

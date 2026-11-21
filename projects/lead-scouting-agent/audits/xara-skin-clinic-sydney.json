@@ -1,0 +1,34 @@
+{
+ "business": "Xara Skin Clinic",
+ "owner": "the Xara Skin Clinic team",
+ "city": "Sydney, Australia",
+ "website": "xaraskinclinic.site123.me",
+ "summary": "A Lane Cove skin clinic appears to lose bookings to a free builder address, a homepage made of 2020 and 2021 blog posts and no online booking.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free SITE123 address, with a footer that says I BUILT MY SITE FOR FREE USING SITE123.",
+   "cost": "A free builder footer looks temporary for a clinic that sells skin treatments.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "The homepage appears to show blog posts dated 2020 and 2021 instead of your treatments and prices.",
+   "cost": "A visitor sees old posts and not what you offer, so they leave for a clinic that shows treatments.",
+   "fix": "Treatment pages with prices and results."
+  },
+  {
+   "problem": "The page appears to be labelled Beauty Salon Sydney rather than a skin clinic.",
+   "cost": "Clients searching for laser and skin treatments may not find you under a salon label.",
+   "fix": "A clear title with your treatments and suburb."
+  },
+  {
+   "problem": "No online booking and no WhatsApp appear, only two phone numbers and a gmail address.",
+   "cost": "Clients who want to book at night cannot, and they book where they can.",
+   "fix": "Online booking on the page and a WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Own domain and branding.",
+  "Treatment pages with prices.",
+  "Booking and WhatsApp."
+ ]
+}

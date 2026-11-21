@@ -1,0 +1,34 @@
+{
+ "business": "Museum Dental",
+ "owner": "Dr Christakos, Dr Nikoletos, Dr Walton and the team",
+ "city": "Annex and Yorkville, Toronto",
+ "website": "museumdental.ca",
+ "summary": "A named team and recent Toronto top dentist awards are strengths, but a request only booking flow and small inconsistencies appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "No booking form appears on the page: the only booking option is a Request An Appointment button that leads to another page, with no WhatsApp or live chat.",
+   "cost": "Every extra click before booking loses patients who want to book now.",
+   "fix": "Instant booking on the page."
+  },
+  {
+   "problem": "Dr. Nicholette Nikoletos is spelled Nikoletta in her own bio, and the award source reads Post City Magazine in one place and Post City Magazines in another.",
+   "cost": "Name slips on a dentist's own page weaken trust.",
+   "fix": "Proofread bios with consistent names."
+  },
+  {
+   "problem": "Testimonials appear with first names only and no dates, the awards have no links to the publications, and the footer copyright shows no year.",
+   "cost": "Unverifiable proof reads as less believable.",
+   "fix": "Dated reviews linked to Google and award sources."
+  },
+  {
+   "problem": "The mobile menu appears to use javascript:void(0), the Team and About Us menu items point to pages with mismatched names, and opening hours are repeated twice.",
+   "cost": "Navigation friction and repeated blocks cost mobile visitors.",
+   "fix": "Clean navigation and one hours block."
+  }
+ ],
+ "redesign": [
+  "Booking on the page with WhatsApp.",
+  "Verified reviews and linked awards.",
+  "Clean mobile menu and consistent names."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Adam Bernard Solicitors",
+ "owner": "the team",
+ "city": "London, UK",
+ "website": "adambernards.co.uk",
+ "summary": "A London firm with immigration, wills and property services and over 15 years of experience is a strength, but template text and claims that clash appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The cookie banner appears to show unrendered text such as 'Manage {vendor_count} vendors' and '{title}', and 'Please enable JavaScript' and 'utm matchtype term' appear in the form.",
+   "cost": "Visible code text makes a law firm look unfinished and unsafe.",
+   "fix": "Clean banner and form text."
+  },
+  {
+   "problem": "The Central London address, the new client label and the info email link appear to point to #, and the opening hours appear to link to #.",
+   "cost": "A client cannot reach the office or email from those links.",
+   "fix": "Working contact links."
+  },
+  {
+   "problem": "Typos appear such as 'LANDLORDS and TENENTS' and 'Adam bennard solicitors', the firm appears to claim 24/7 availability while office hours are 9am to 5:30pm, and the headings appear to say East Ham while the addresses say Upton Park.",
+   "cost": "Typos and mixed claims weaken trust in a law firm.",
+   "fix": "Proofread copy and consistent claims."
+  },
+  {
+   "problem": "Many competing buttons appear (Get Free Consultation, Request Callback, Book Free, Request a Call), and the 4.8 rating and 15000 clients claims appear with no source.",
+   "cost": "Too many choices and unsourced claims lower conversions.",
+   "fix": "One clear call to action and sourced proof."
+  }
+ ],
+ "redesign": [
+  "Clean banner and form.",
+  "Working contact links.",
+  "Proofread copy, one call to action and sourced proof."
+ ]
+}

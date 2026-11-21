@@ -1,0 +1,34 @@
+{
+ "business": "Bond Dental",
+ "owner": "the team",
+ "city": "Mayfair and Central London",
+ "website": "bonddental.co.uk",
+ "summary": "Several London locations, evening and weekend appointments and NHS plus private care are strengths, but conflicting addresses and thin review proof appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Marylebone address appears as W1U 6JW in the location list and W1U 8HW in the footer, and King's Cross appears as WC1N 1AG in one place and W11 3HL in another.",
+   "cost": "Wrong postcodes send patients and maps to the wrong place.",
+   "fix": "One verified address per location."
+  },
+  {
+   "problem": "The page appears to promise 'flexible appointment times, including evenings and weekends' but no opening hours appear.",
+   "cost": "Patients cannot check if you are open when they are free.",
+   "fix": "Visible hours per location."
+  },
+  {
+   "problem": "The heading 'We Accept All Dental Insurances' appears above only four logos, repeated twice, and 'consistent 5-star reviews' appears with no review count or source.",
+   "cost": "Overclaims and missing proof weaken trust.",
+   "fix": "Named insurers and a live review count."
+  },
+  {
+   "problem": "The Kensington menu Invisalign item appears to point to the Marylebone page, the Google review icon text appears to read 'gogle review', and Online Booking appears to open an unlabelled third party portal.",
+   "cost": "Wrong location links and an unclear booking portal lose patients.",
+   "fix": "Correct location links and a branded booking flow."
+  }
+ ],
+ "redesign": [
+  "One verified address and hours per location.",
+  "Named insurers and live reviews.",
+  "Correct links and a clear booking flow."
+ ]
+}

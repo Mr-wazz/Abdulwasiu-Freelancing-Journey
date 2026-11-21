@@ -1,0 +1,34 @@
+{
+ "business": "Goodwins Family Law",
+ "owner": "the Goodwins team",
+ "city": "Harrow, London",
+ "website": "goodwinsfamilylaw.co.uk",
+ "summary": "Fixed fee consultations and a two step enquiry form are strong, but dead menu headings and inconsistent details appear to lose enquiries.",
+ "findings": [
+  {
+   "problem": "Menu headings Children's Law, Unmarried Couples and Financial Matters link to #, and several links use double slashes such as //divorce/.",
+   "cost": "People looking for their exact situation hit dead ends.",
+   "fix": "Working menus and clean page addresses."
+  },
+  {
+   "problem": "The firm is called Goodwins Family Law Society in one place, the location is Pinner in the FAQ and Harrow in the footer, and hours are written two ways.",
+   "cost": "Inconsistent details make a law firm look careless.",
+   "fix": "One consistent name, address and hours."
+  },
+  {
+   "problem": "The enquiry form shows Select a service twice and the Thinking about legal aid? link goes to the dispute resolution page.",
+   "cost": "A confusing form and a wrong link lose clients at the last step.",
+   "fix": "A clean form and correct links."
+  },
+  {
+   "problem": "The page claims a high client satisfaction rate with no figure, testimonials have no names or dates, and Skype is listed as a contact method.",
+   "cost": "Thin proof and outdated options reduce trust.",
+   "fix": "Real figures, dated reviews and current contact options."
+  }
+ ],
+ "redesign": [
+  "Working menus and one clean enquiry form with a WhatsApp option.",
+  "Consistent firm details and a named team.",
+  "Dated reviews and clear fixed fee pricing."
+ ]
+}

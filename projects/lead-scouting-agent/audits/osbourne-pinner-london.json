@@ -1,0 +1,34 @@
+{
+ "business": "Osbourne Pinner Solicitors",
+ "owner": "the team",
+ "city": "London, UK",
+ "website": "osbournepinner.com",
+ "summary": "A London firm covering immigration, family and property across several offices is a strength, but counters that read zero and a testimonials section with no testimonials appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The counters appear to read '0 +' for free consultations, years of experience and successful cases, and the Testimonials section appears to be only a link with no testimonials.",
+   "cost": "Zeros on your strongest proof points make the claims look false.",
+   "fix": "Live counters and visible client reviews."
+  },
+  {
+   "problem": "The Careers link appears to point to 'http://careers', and Services and Careers menu items appear to have no destination.",
+   "cost": "Visitors click menu items that do nothing.",
+   "fix": "Working menu destinations."
+  },
+  {
+   "problem": "The Manchester office appears to list the same London phone number and the same fax as every other office, and Harrow appears with no details.",
+   "cost": "Clients cannot tell which office to contact.",
+   "fix": "Verified details for each office."
+  },
+  {
+   "problem": "The word 'Turnstile' and a stray character appear visibly on both forms, the consultation form appears to have no surname field, and tenant eviction and sports law each appear on two different page addresses.",
+   "cost": "Visible code text and duplicate pages look careless and split your search ranking.",
+   "fix": "Clean forms and one page per service."
+  }
+ ],
+ "redesign": [
+  "Live counters and visible reviews.",
+  "Working menu.",
+  "Verified office details, clean forms and one page per service."
+ ]
+}

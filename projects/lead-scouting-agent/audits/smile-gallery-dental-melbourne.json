@@ -1,0 +1,29 @@
+{
+ "business": "Smile Gallery Dental Clinic",
+ "owner": "Dr Lawrence Chua and the team",
+ "city": "Melbourne, Australia",
+ "website": "smilegallerydentalclinic.weebly.com",
+ "summary": "A Box Hill clinic with six dentists appears to lose new patients to a free builder address, a 2014 footer and a page that can only be booked by phone.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Weebly address, and the footer appears to say Copyright 2014, Powered by Create your own unique website.",
+   "cost": "A clinic with six dentists looks smaller and less current when a builder advert and a 2014 date sit at the bottom, and patients choose a clinic that looks active.",
+   "fix": "Your own domain and a current footer."
+  },
+  {
+   "problem": "The page appears to list the dentist pages of other towns, such as Cowes, Phillip Island, Maryborough, Moe and Deer Park, as plain links.",
+   "cost": "A patient in Box Hill who sees unrelated towns wonders if this is the right clinic, and the clutter pushes real information down the page.",
+   "fix": "A clean page for Box Hill only."
+  },
+  {
+   "problem": "Booking appears to be by phone only, with Make an appointment now 9899 0288, and the contact is a gmail address and a fax number.",
+   "cost": "Patients who decide in the evening cannot book, and a gmail address with a fax number looks dated for a clinic taking private health fund patients.",
+   "fix": "Online booking and a professional email."
+  }
+ ],
+ "redesign": [
+  "Own domain, current footer.",
+  "Clean Box Hill page.",
+  "Online booking and professional email."
+ ]
+}

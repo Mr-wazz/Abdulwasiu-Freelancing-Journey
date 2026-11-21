@@ -1,0 +1,34 @@
+{
+ "business": "Dr Cosima Medispa",
+ "owner": "Dr Cosima and team",
+ "city": "Sydney, Australia",
+ "website": "drcosima.com.au",
+ "summary": "A Bondi Junction laser and skin clinic appears to lose patients to typos, awkward treatment names and a limited new patient path.",
+ "findings": [
+  {
+   "problem": "The header appears to read Dr Cosima Medipa, and a treatment name appears as Cellulite Reductiom.",
+   "cost": "Spelling errors in the clinic name and treatments hurt trust at a premium price.",
+   "fix": "Proofread names and treatment titles."
+  },
+  {
+   "problem": "Treatment names appear to carry Bondi Junction on the end, such as Byonik: Bondi Junction Laser and Rejuran Treatment Bondi Junction.",
+   "cost": "Stuffed names read as unnatural and make the menu hard to scan.",
+   "fix": "Clean treatment names with location handled in the page structure."
+  },
+  {
+   "problem": "The page appears to say new consultation spaces open only once per month.",
+   "cost": "Patients who want to start now may book another clinic instead.",
+   "fix": "A waitlist that captures their details, plus instant booking."
+  },
+  {
+   "problem": "No WhatsApp appears and only one phone number appears.",
+   "cost": "Younger patients choose clinics they can message in seconds.",
+   "fix": "WhatsApp or chat on every treatment page."
+  }
+ ],
+ "redesign": [
+  "Clean names and spelling.",
+  "Waitlist and instant booking.",
+  "WhatsApp on treatment pages."
+ ]
+}

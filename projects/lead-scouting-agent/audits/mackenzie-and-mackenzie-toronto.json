@@ -1,0 +1,34 @@
+{
+ "business": "MacKenzie and MacKenzie",
+ "owner": "the MacKenzie team",
+ "city": "Toronto, Canada",
+ "website": "mackenzielawyers.com",
+ "summary": "A Toronto firm in business since 1980 has real credibility, but unfinished pages and inconsistent details appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The page says to use the form below, but no form appears to be visible, and the only action is Schedule a consultation.",
+   "cost": "Visitors who want to describe their matter have no clear way to do it.",
+   "fix": "A short enquiry form with a matter type field."
+  },
+  {
+   "problem": "Legal Services appears to link to /new-page, and the address appears as Attwell Drive in the body and Atwell Drive in the footer.",
+   "cost": "Placeholder pages and spelling slips make a long established firm look careless.",
+   "fix": "A real services page and one consistent address."
+  },
+  {
+   "problem": "The firm appears as MacKenzie and MacKenzie, MacKenzie Lawyers and MacKenzie & MacKenzie, and the history appears as since 1980 and over 30 years.",
+   "cost": "Inconsistent names and dates weaken trust and search visibility.",
+   "fix": "One name and one correct history line."
+  },
+  {
+   "problem": "No lawyer names, case results or visible Google rating appear, and fees are said to be discussed upfront without any ranges.",
+   "cost": "Clients choose the firm that shows who, what and how much.",
+   "fix": "Lawyer profiles, results and fee guidance."
+  }
+ ],
+ "redesign": [
+  "Enquiry form.",
+  "Real services page and one address.",
+  "Lawyer profiles, results and fee guidance."
+ ]
+}

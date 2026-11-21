@@ -1,0 +1,34 @@
+{
+ "business": "Montagu Dental",
+ "owner": "the Montagu Dental team",
+ "city": "London, United Kingdom",
+ "website": "montagudental.com",
+ "summary": "A private Marylebone practice with 170 plus reviews appears to lose bookings to a Book Now button that goes nowhere.",
+ "findings": [
+  {
+   "problem": "The Treatments menu and the header Book Now appear to link to #, and the hours in the footer appear to link to #.",
+   "cost": "Ready patients hit a dead end on the main booking button.",
+   "fix": "A working booking button and hours."
+  },
+  {
+   "problem": "The Google reviews block appears to show blank placeholder rows, and the review count appears as 170 plus, 170 and 175 in different places.",
+   "cost": "Inconsistent proof weakens a strong asset.",
+   "fix": "One accurate review count and real review quotes."
+  },
+  {
+   "problem": "The Get in Touch and newsletter areas appear to show no form fields, and the email domain appears to differ from the website domain.",
+   "cost": "Visitors cannot easily write to you, and mismatched domains look odd.",
+   "fix": "A working form and a matching email domain."
+  },
+  {
+   "problem": "The team appears twice with different job titles for the same staff, and typos such as relive strain and withfull appear.",
+   "cost": "Inconsistent titles and typos reduce trust in a clinical team.",
+   "fix": "One team section and proofread copy."
+  }
+ ],
+ "redesign": [
+  "Working booking button.",
+  "Accurate reviews.",
+  "Form, one team section and clean copy."
+ ]
+}

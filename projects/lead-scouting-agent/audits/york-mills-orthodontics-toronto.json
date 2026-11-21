@@ -1,0 +1,34 @@
+{
+ "business": "York Mills Orthodontics",
+ "owner": "Dr David Morrow",
+ "city": "Toronto, Canada",
+ "website": "yorkmillsortho.ca",
+ "summary": "A Toronto orthodontic practice with 27 years of experience and virtual consultations is a strength, but dead menu parents and two different phone numbers appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The New Patients and Treatment menu parents appear to link to #, and the search control and back to top links appear to link to # as well.",
+   "cost": "Patients looking for new patient information or treatments land nowhere.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The phone number appears as 416-391-4222 in most places and 1.866.486.4876 in the bottom call to action, and hours appear only in the footer.",
+   "cost": "Patients may call the wrong line and cannot see hours before they call.",
+   "fix": "One verified number and visible hours."
+  },
+  {
+   "problem": "The slider appears to use a dummy.png placeholder, the before and after section appears to show only a placeholder, and the text 'at out office' appears.",
+   "cost": "Placeholder images and typos make a premium practice look unfinished.",
+   "fix": "Real photos, real before and after cases and proofread copy."
+  },
+  {
+   "problem": "No online booking appears, a COVID-19 update link appears to remain, and no testimonials or reviews appear.",
+   "cost": "Old links and no proof or booking path lose patients to a clinic that shows both.",
+   "fix": "On site booking, current links and visible reviews."
+  }
+ ],
+ "redesign": [
+  "Working menu pages.",
+  "One number and visible hours.",
+  "Real photos, cases, booking and reviews."
+ ]
+}

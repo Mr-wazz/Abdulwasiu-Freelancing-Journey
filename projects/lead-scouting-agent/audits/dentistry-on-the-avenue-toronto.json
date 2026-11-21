@@ -1,0 +1,34 @@
+{
+ "business": "Dentistry on the Avenue",
+ "owner": "Dr Halyna Hrynash",
+ "city": "Toronto, Canada",
+ "website": "dentistryontheavenue.com",
+ "summary": "A full service Toronto dental office with free parking is a strength, but booking buttons that go nowhere and mixed hours appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Both Book Appointment buttons appear to link to the homepage itself, and the About, Services, Why us and Contact us items appear to link to the homepage instead of their sections.",
+   "cost": "A patient who clicks to book lands back where they started and may leave.",
+   "fix": "Buttons that open one working booking form."
+  },
+  {
+   "problem": "Monday and Wednesday appear as 10am to 6pm while Thursday appears as 9am to 12pm, with the note 'working hours may vary upon request'.",
+   "cost": "Patients cannot trust the hours and may arrive when you are closed.",
+   "fix": "One clear verified schedule."
+  },
+  {
+   "problem": "The text 'Anchor 1' and 'Anchor 2' appears in the Services section, the form label appears as 'Your Messsage', and 'Healthy life style' appears.",
+   "cost": "Leftover template text and typos make a clinic look unfinished.",
+   "fix": "Proofread copy with clean section titles."
+  },
+  {
+   "problem": "No patient reviews or testimonials appear, two phone numbers appear without saying which is for emergencies, and a generic Gmail address is used.",
+   "cost": "Missing proof and mixed contact details weaken trust and slow down urgent callers.",
+   "fix": "Visible reviews, one clear phone line and a business email."
+  }
+ ],
+ "redesign": [
+  "One working booking flow.",
+  "A verified schedule.",
+  "Clean copy, reviews and clear contact details."
+ ]
+}

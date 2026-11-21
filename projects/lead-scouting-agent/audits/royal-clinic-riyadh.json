@@ -1,0 +1,34 @@
+{
+ "business": "Royal Clinic Saudia",
+ "owner": "the Royal Clinic team",
+ "city": "Riyadh",
+ "website": "royalclinicsaudia.com",
+ "summary": "A broad range of cosmetic services with a WhatsApp number are strong, but dead booking buttons and conflicting prices appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Free appointment and BOOK APPOINTMENT buttons both link to #, and the Resources menu item also links to #.",
+   "cost": "A patient ready to book hits a dead button.",
+   "fix": "Booking buttons linked to a working form."
+  },
+  {
+   "problem": "Menu items point to the wrong pages: Breast Reduction goes to a dermatology page and Dimple Creation goes to laser treatments.",
+   "cost": "Patients looking for a procedure land on a different treatment.",
+   "fix": "Correct links for every treatment."
+  },
+  {
+   "problem": "Full Rhinoplasty shows two different price pairs, 28,000 and 12,500 SAR next to 15,000 and 6,000 SAR, and the longevity summary conflicts with the detail.",
+   "cost": "Conflicting prices raise doubts about every offer.",
+   "fix": "One verified price and claim set."
+  },
+  {
+   "problem": "Typos such as 'creaates', 'your your smile' and 'every veneer is are thin' appear, and the brand shows as both Enfield Royal Saudia and Royal Clinic Saudia.",
+   "cost": "Errors and changing names weaken trust in cosmetic care.",
+   "fix": "Proofread copy and one brand name."
+  }
+ ],
+ "redesign": [
+  "Working booking buttons and correct treatment links.",
+  "One verified price list and consistent brand name.",
+  "Proofread copy with named doctors and captioned results."
+ ]
+}

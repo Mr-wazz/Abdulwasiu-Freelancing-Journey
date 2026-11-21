@@ -1,0 +1,34 @@
+{
+ "business": "GYA Dental Center",
+ "owner": "the GYA Dental team",
+ "city": "Dubai Media City",
+ "website": "gyadentalcenter.com",
+ "summary": "GYA has a 5.0 rating from 380 reviews and clear WhatsApp contact. The homepage does not show that proof and reads like keyword copy, which gives patients few reasons to book.",
+ "findings": [
+  {
+   "problem": "The header shows 5.0 from 380 reviews, but only about seven are displayed. Some have no text, and they name Dr. Khalil and Simran, who are not on the team section.",
+   "cost": "Reviews that do not match the team make patients doubt they are real, and your best proof goes unused.",
+   "fix": "A review wall pulled from your Google reviews, with names matching the team."
+  },
+  {
+   "problem": "No prices or price ranges appear, even though the page says affordable and transparent pricing. The booking button leads to another page and there is no inline form.",
+   "cost": "Patients who cannot see a price assume the worst or compare with clinics that show one.",
+   "fix": "Starting prices for top services and a booking form on the homepage."
+  },
+  {
+   "problem": "The copy repeats Dental Clinic in Dubai and Dental Clinic Near Me many times. Headings read awkwardly, and there are typos such as JumeirahLake Tower and Improve your laugh.",
+   "cost": "Keyword stuffing reads as spam to a patient and weakens trust.",
+   "fix": "Natural copy that sells care and results, still written to rank."
+  },
+  {
+   "problem": "The MOHAP advertising licence shows Application in Process, the images appear to be placeholders, and the Veneers Before and After page has no visuals on the homepage.",
+   "cost": "A pending licence and missing visuals undermine a clinic that sells aesthetic results.",
+   "fix": "Clear licence details and real captioned before and after cases."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with real reviews, prices and captioned results beside every booking button.",
+  "An inline booking form plus WhatsApp, so a patient books in under 30 seconds.",
+  "Treatment pages written to rank for searches like veneers Dubai Marina and dental implants Dubai."
+ ]
+}

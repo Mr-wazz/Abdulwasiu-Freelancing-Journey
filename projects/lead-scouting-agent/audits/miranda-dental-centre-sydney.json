@@ -1,0 +1,34 @@
+{
+ "business": "Miranda Dental Centre",
+ "owner": "Dr Abhay Kohli and team",
+ "city": "Sydney, Australia",
+ "website": "mirandadentalcare.weebly.com",
+ "summary": "A Kingsway dental practice appears to lose new patients to leftover template text, repeated paragraphs and a free builder address.",
+ "findings": [
+  {
+   "problem": "The page text appears to include leftover template wording such as please mention any other equipment's.",
+   "cost": "Template notes on a dental page make the practice look unfinished.",
+   "fix": "Real equipment details in place of template notes."
+  },
+  {
+   "problem": "Paragraphs such as At Miranda Dental clinic we are dedicated to providing our patients with highest quality of dental care appear twice.",
+   "cost": "Repeated copy wastes the visitor's attention and looks careless.",
+   "fix": "One clear version of each message."
+  },
+  {
+   "problem": "Typos such as dentistsadhere and appointmen appear in the page text.",
+   "cost": "Spelling errors in a clinic's own text weaken trust.",
+   "fix": "Proofread copy on every page."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, and no online booking form or WhatsApp appears.",
+   "cost": "Patients who want to book online or message cannot, and a free builder address looks temporary.",
+   "fix": "Your own domain, online booking and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Clean copy.",
+  "Proofread text.",
+  "Own domain, booking and WhatsApp."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "Beautica Dental Center",
+ "owner": "the Beautica team",
+ "city": "Abu Dhabi",
+ "website": "beauticadental.com",
+ "summary": "Beautica has eight named doctors and a full range of treatments, but the homepage shows zeros, copied text and dead links.",
+ "findings": [
+  {
+   "problem": "Counters appear to show 0 for patients, doctors and Google reviews. The testimonials area shows placeholder text (Award, Type, Project).",
+   "cost": "Zeros and placeholders make a clinic look unfinished, the opposite of proof.",
+   "fix": "Real numbers, Google reviews and patient stories."
+  },
+  {
+   "problem": "Service text is in the wrong place: root canal text under Aesthetic and Cosmetic, crowns under Bridges, braces under Scanners. Several sentences stop mid way.",
+   "cost": "Patients reading about veneers or implants get confused and leave.",
+   "fix": "One accurate page per treatment."
+  },
+  {
+   "problem": "Logo, slider and many card links go to # or are empty. Images use dummy.png and the alt text says 'denatal'.",
+   "cost": "Broken links and weak SEO lose both visitors and Google traffic.",
+   "fix": "Working links and proper image text."
+  },
+  {
+   "problem": "The contact form shows only a privacy line, no visible fields. No email is listed. No before and after.",
+   "cost": "Patients who want a form or email have no option except WhatsApp or phone.",
+   "fix": "A short form, one booking path and a results gallery."
+  }
+ ],
+ "redesign": [
+  "Real counters, reviews and before and after proof.",
+  "One accurate page per treatment, with a booking form and WhatsApp."
+ ]
+}

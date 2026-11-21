@@ -1,0 +1,34 @@
+{
+ "business": "Du Law Office",
+ "owner": "the Du Law Office team",
+ "city": "Toronto, Canada",
+ "website": "dulawoffice.ca",
+ "summary": "A Toronto family and criminal law office with a bail hotline appears to lose enquiries to stray page code, no online form and no instant message option.",
+ "findings": [
+  {
+   "problem": "Stray markup characters appear about three times in the page text near the header.",
+   "cost": "Broken code on the first screen looks careless to a client in a crisis.",
+   "fix": "Clean template markup."
+  },
+  {
+   "problem": "No online enquiry form appears, only a phone number and an email address.",
+   "cost": "Many clients prefer to leave details at night instead of calling.",
+   "fix": "A short confidential enquiry form with matter type."
+  },
+  {
+   "problem": "No WhatsApp or WeChat option appears, even though the site offers Chinese language pages.",
+   "cost": "Chinese speaking clients often message first.",
+   "fix": "WhatsApp and WeChat contact on every page."
+  },
+  {
+   "problem": "English such as court attending experience and As a very professional divorce lawyer appears on the homepage.",
+   "cost": "Awkward phrases weaken a lawyer's credibility.",
+   "fix": "Proofread homepage copy."
+  }
+ ],
+ "redesign": [
+  "Clean markup.",
+  "Confidential enquiry form.",
+  "WhatsApp, WeChat and proofread copy."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "La Clinica",
+ "owner": "the team",
+ "city": "Riyadh",
+ "website": "laclinica.com.sa",
+ "summary": "Named doctors and WhatsApp on the page are strengths, but template leftovers and one number for two branches appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The cookie banner appears to show raw template text such as {title} three times and Manage {vendor_count} vendors.",
+   "cost": "Visible code on the first screen makes a clinic look careless.",
+   "fix": "Clean consent banner."
+  },
+  {
+   "problem": "The Khobar and Riyadh sections appear to show the same phone number and the same map link, and Book now and Book a consultation appear to go to different pages.",
+   "cost": "Patients cannot tell which branch to visit or where to book.",
+   "fix": "Separate branch details and one booking flow."
+  },
+  {
+   "problem": "The brand appears as La Clinica, La clinica and Laclinica, the header and logo appear twice, and a For inquiries heading appears to have no content.",
+   "cost": "Mixed naming and empty blocks weaken trust and search visibility.",
+   "fix": "One brand name and a clean layout."
+  },
+  {
+   "problem": "The page appears to show no patient reviews, ratings or years in operation, only one doctor with a stated certification, and 'Best dental clinic in Riyadh' repeated without proof.",
+   "cost": "Unsupported claims and no reviews lose patients who compare clinics.",
+   "fix": "Real reviews, credentials and specifics."
+  }
+ ],
+ "redesign": [
+  "Clean consent banner and one brand name.",
+  "Separate branch details and one booking flow.",
+  "Real reviews and doctor credentials."
+ ]
+}

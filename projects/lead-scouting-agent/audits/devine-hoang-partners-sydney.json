@@ -1,0 +1,34 @@
+{
+ "business": "Devine Hoang Partners",
+ "owner": "Sean Devine and team",
+ "city": "Sydney, Australia",
+ "website": "devinehoangpartners.wixsite.com/mysite",
+ "summary": "A Parramatta law practice with free initial advice appears to lose enquiries to a free builder address and a 2017 design credit.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address makes a law practice look temporary.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "A credit that reads Web Design with a roman numeral date for 2017 appears in the page text.",
+   "cost": "An old design credit signals a site that has not been refreshed.",
+   "fix": "Remove the old credit and refresh the design."
+  },
+  {
+   "problem": "The only email shown appears to be a personal address, and no WhatsApp appears.",
+   "cost": "Clients prefer a firm email and a quick message option.",
+   "fix": "A firm email address and WhatsApp."
+  },
+  {
+   "problem": "The page title appears to read Go To Court New, which does not name the practice area or suburb.",
+   "cost": "A vague title loses searchers looking for a Parramatta lawyer.",
+   "fix": "A title with the practice name and suburb."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Fresh design.",
+  "Firm email and WhatsApp."
+ ]
+}

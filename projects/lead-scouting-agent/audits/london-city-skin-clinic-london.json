@@ -1,0 +1,34 @@
+{
+ "business": "London City Skin Clinic",
+ "owner": "Dr Robby Bajaj",
+ "city": "London, UK",
+ "website": "londoncityskinclinic.com",
+ "summary": "A Harley Street skin clinic founded in 2010 is a strength, but dead menu links and an empty testimonials section appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The main menu items Treatments and Conditions, the Skin and Face and Body headers and every Back link appear to point to #.",
+   "cost": "Visitors cannot browse your treatments from the menu.",
+   "fix": "A working treatment and condition menu."
+  },
+  {
+   "problem": "The Our Testimonials heading appears with no testimonials beneath it, and thousands of quality procedures appears claimed with no evidence.",
+   "cost": "Cosmetic clients choose by proof, and an empty proof section loses them.",
+   "fix": "Real, dated reviews and ratings."
+  },
+  {
+   "problem": "The brand appears as London City Skin Clinic in the header and London Skin Clinic in the footer, and the Nefertiti page address appears misspelled.",
+   "cost": "Mixed names and typos confuse visitors and weaken trust.",
+   "fix": "One brand name and proofread addresses."
+  },
+  {
+   "problem": "The footer appears to read 2023, no opening hours appear, and the Beaconsfield clinic appears listed with no address or booking route.",
+   "cost": "Old dates and missing hours cost bookings.",
+   "fix": "A current footer, visible hours and full location details."
+  }
+ ],
+ "redesign": [
+  "A working treatment menu.",
+  "Real reviews.",
+  "One brand name, hours and full locations."
+ ]
+}

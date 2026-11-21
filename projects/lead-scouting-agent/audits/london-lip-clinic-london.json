@@ -1,0 +1,34 @@
+{
+ "business": "London Lip Clinic",
+ "owner": "Rupesh Shah",
+ "city": "Harley Street, London",
+ "website": "londonlipclinic.co.uk",
+ "summary": "A Harley Street address, WhatsApp on the page and long opening hours are strengths, but contradictory prices and advice appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The Botox page appears to say costs run from \u00a3300 to \u00a32,040 beside From \u00a3220 and \u00a3225 per area, and a \u00a320 consultation redeemable against treatment beside a complimentary consultation.",
+   "cost": "Conflicting prices make a patient doubt the real cost.",
+   "fix": "One clear price list and one consultation offer."
+  },
+  {
+   "problem": "Aftercare appears to say do not lie down for three hours in one place and stay upright for at least four hours in another, and results appear as 3 to 7 days, 3 to 5 days and 10 to 14 days.",
+   "cost": "Contradictory medical advice weakens trust in a clinical brand.",
+   "fix": "One reviewed aftercare and results timeline."
+  },
+  {
+   "problem": "The Before & After links appear to go to #, the images appear blank, the Patient Testimonials section appears to be only an image, and a Secret Link sits in the footer.",
+   "cost": "No visible results or readable reviews for a cosmetic clinic.",
+   "fix": "Captioned before and after photos and readable reviews."
+  },
+  {
+   "problem": "Typos appear such as 'time off work i have to take', 'Medical Botox Treatments :Botox' and 'botox work begins', and two unlabeled phone numbers show.",
+   "cost": "Small errors and unclear numbers lose bookings.",
+   "fix": "Proofread copy and labeled contact numbers."
+  }
+ ],
+ "redesign": [
+  "One price list and consultation offer.",
+  "Reviewed aftercare and results timeline.",
+  "Captioned results, readable reviews, clean copy."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Al Adl Legal Consultants",
+ "owner": "the Al Adl Legal team",
+ "city": "Business Bay, Dubai",
+ "website": "aladllegal.com",
+ "summary": "Al Adl Legal has a free consultation form, a WhatsApp button and a click to call number. Claims that contradict each other make a client doubt which promise is true.",
+ "findings": [
+  {
+   "problem": "The hero says Available 24/7 and Same-Day Response, but the footer lists Monday to Friday, 8:00 to 18:00.",
+   "cost": "A client who messages at night expecting a reply and gets none leaves and may leave a bad review.",
+   "fix": "One accurate availability message everywhere."
+  },
+  {
+   "problem": "The hero shows 4.8 stars and 200+ reviews, but no reviews or testimonials appear on the page. Five team photos show names only, with no titles or practice areas.",
+   "cost": "Proof that is claimed but not shown does not persuade, and unnamed roles weaken trust in the lawyers.",
+   "fix": "A review wall from your Google reviews and team profiles with roles and experience."
+  },
+  {
+   "problem": "Two different phone numbers appear (+971 50 225 1021 and +971 4 834 2207), and the figures conflict: 50,000,000+ and 50M+, 400+ clients and Over 400+ clients, and 38+ Countries on a UAE page.",
+   "cost": "Conflicting numbers make clients unsure which to call and which claim is true.",
+   "fix": "One phone number set and one verified set of figures."
+  },
+  {
+   "problem": "Typos such as immediately.The and law,you have, a stray + next to Services, empty menu bullets, and the same blog image reused for three articles.",
+   "cost": "Small errors in a law firm's own copy weaken trust in the care taken on a client's case.",
+   "fix": "A proofread build with unique images for each article."
+  }
+ ],
+ "redesign": [
+  "A conversion first homepage with one consultation form near the top and one accurate availability message.",
+  "Proof beside every button: your 4.8 rating shown with real reviews, named lawyers and case outcomes.",
+  "Practice pages written to rank for searches like labour lawyer Dubai and end of service claim Dubai."
+ ]
+}

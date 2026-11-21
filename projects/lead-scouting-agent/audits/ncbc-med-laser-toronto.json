@@ -1,0 +1,34 @@
+{
+ "business": "NCBC Med-Laser",
+ "owner": "the NCBC team",
+ "city": "Yonge Street, North York",
+ "website": "ncbcmedspa.com",
+ "summary": "A long running med spa with clear starting prices is a strength, but an expired offer, old blog posts and enquiry sections with no forms appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The hero says 'Your path to billiant skin', and the brand appears as NCBC Med Laser, NCBC Med-Laser and NCBC Med-Laser Ltd.",
+   "cost": "A typo in the main headline weakens a premium brand.",
+   "fix": "Proofread copy and one brand name."
+  },
+  {
+   "problem": "MAKE AN INQUIRY and Request your free consultation below have no form, the mailing list shows no sign up field, and both Book buttons go to the contact page.",
+   "cost": "Patients who want to book or ask a question face dead ends.",
+   "fix": "A working consultation form with WhatsApp."
+  },
+  {
+   "problem": "A Spring offer that ended April 30, 2026 still shows, the newest blog post is from 2022, and a June Spotlight from 2019 still advertises 30% off.",
+   "cost": "Expired offers and old posts make the clinic look inactive.",
+   "fix": "Offers and news you can update in minutes."
+  },
+  {
+   "problem": "The gallery repeats the same after images, Instagram posts use placeholder.png, and two phone numbers and a second Lawrence Avenue location appear only in the footer.",
+   "cost": "Repeated images and hidden details weaken proof and confuse patients.",
+   "fix": "A real results gallery and clear location pages."
+  }
+ ],
+ "redesign": [
+  "A working consultation form with WhatsApp.",
+  "Offers and news you can update in minutes.",
+  "A real results gallery and clear location pages."
+ ]
+}

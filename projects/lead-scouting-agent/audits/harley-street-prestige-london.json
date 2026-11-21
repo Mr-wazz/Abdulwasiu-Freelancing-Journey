@@ -1,0 +1,34 @@
+{
+ "business": "Harley Street Prestige Medical",
+ "owner": "the clinic team",
+ "city": "Harley Street, London",
+ "website": "harleystreetprestigemedical.com",
+ "summary": "A broad dermatology and aesthetic offer is a strength, but counters showing zero, typos and no visible booking form appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The counters for team members, years of experience, surgeries and satisfaction show 0 + and 0 %, and five blank bullets appear before the testimonials.",
+   "cost": "Broken figures remove the proof patients look for.",
+   "fix": "Working counters and a clean testimonial block."
+  },
+  {
+   "problem": "The page shows 'Sexuality Transmitted Diseases', 'Were Here to Help You!' and 'State-Of-The-Art Facilitie'.",
+   "cost": "Typos on a medical page reduce trust.",
+   "fix": "Proofread copy."
+  },
+  {
+   "problem": "The clinic appears under four names and the email domain harleystreet-prestigemedical.com differs from the site domain harleystreetprestigemedical.com.",
+   "cost": "Mixed names and domains confuse patients and weaken search visibility.",
+   "fix": "One brand name and one domain for email and web."
+  },
+  {
+   "problem": "No enquiry or booking form is visible, the Chat with Doctor label shows no chat, and before and after images have no captions.",
+   "cost": "Patients who want to enquire online have no simple option.",
+   "fix": "A direct booking form, working chat and captioned results."
+  }
+ ],
+ "redesign": [
+  "Working counters, a clean testimonial block and proofread copy.",
+  "A booking form and chat or WhatsApp on every page.",
+  "One brand name, one domain and captioned results."
+ ]
+}

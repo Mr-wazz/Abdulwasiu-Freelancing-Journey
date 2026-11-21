@@ -1,0 +1,34 @@
+{
+ "business": "Dawson Cornwell",
+ "owner": "the Dawson Cornwell team",
+ "city": "Staple Inn, London",
+ "website": "dawsoncornwell.com",
+ "summary": "Top tier rankings and international family law expertise are strengths, but mismatched article details, repeated blocks and an enquiry option with no visible form appear to cost you high value enquiries.",
+ "findings": [
+  {
+   "problem": "An Ottawa Principle article by Hilka Hollmann links to a slug naming a different author and principle, and an eprivateclient 2026 item has a 2024 address.",
+   "cost": "Mismatched articles make a top ranked firm look careless.",
+   "fix": "Correct article details and links."
+  },
+  {
+   "problem": "The two Legal 500 entries use identical text, the two Ottawa Principle excerpts are identical, and Emergency Line is a heading twice.",
+   "cost": "Repeated text hides your newest recognition.",
+   "fix": "Fresh text for each ranking and article."
+  },
+  {
+   "problem": "Make an Enquiry has no visible form on the page, the language switch links to #, and Search in Solicitors shows no input box.",
+   "cost": "Clients who want to enquire online have no simple option.",
+   "fix": "A direct enquiry form and working search and language options."
+  },
+  {
+   "problem": "The page says We are pleased launch (missing to), the phone appears in two formats, and Our People says 12 partners but names none.",
+   "cost": "Typos and missing names weaken a firm whose partners are its brand.",
+   "fix": "Proofread copy and named partner profiles."
+  }
+ ],
+ "redesign": [
+  "Correct article details and fresh ranking text.",
+  "A direct enquiry form with emergency contact options.",
+  "Named partner profiles and consistent contact details."
+ ]
+}

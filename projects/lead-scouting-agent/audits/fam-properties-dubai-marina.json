@@ -1,0 +1,34 @@
+{
+ "business": "fam Properties (Dubai Marina)",
+ "owner": "the Dubai Marina office team",
+ "city": "Dubai, UAE",
+ "website": "famproperties.com",
+ "summary": "A large Dubai brokerage office page appears to lose enquiries to non dialling links, one WhatsApp number for all brokers and thin proof.",
+ "findings": [
+  {
+   "problem": "The office phone link appears to lack a country code while the footer number has one, and the chat widget appears to use a US format number.",
+   "cost": "Callers from abroad may fail to connect, and the chat number looks wrong for Dubai.",
+   "fix": "Proper call links and one verified chat number."
+  },
+  {
+   "problem": "Every broker WhatsApp button appears to point to the same number.",
+   "cost": "Clients cannot reach the specific broker they chose.",
+   "fix": "Each broker linked to their own number."
+  },
+  {
+   "problem": "The Dubai Hills and Dubai South addresses appear truncated, two offices appear to share one address, and the count of 34 brokers appears to be 35.",
+   "cost": "Address and count errors make the office look careless.",
+   "fix": "Complete addresses and correct counts."
+  },
+  {
+   "problem": "No client reviews or transaction figures appear for this office, and Talk to this office appears to lead to the general contact page.",
+   "cost": "Owners and buyers want proof and a direct next step.",
+   "fix": "Office reviews, results and a direct office form."
+  }
+ ],
+ "redesign": [
+  "Working call links.",
+  "Broker contact numbers.",
+  "Reviews and direct forms."
+ ]
+}

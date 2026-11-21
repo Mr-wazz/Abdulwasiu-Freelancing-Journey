@@ -1,0 +1,29 @@
+{
+ "business": "Align and Smile",
+ "owner": "the Align and Smile team",
+ "city": "London, UK",
+ "website": "alignandsmile.co.uk",
+ "summary": "A Canary Wharf dental practice appears to lose new patients to a 2019 copyright date and an odd Order Number field in its contact form.",
+ "findings": [
+  {
+   "problem": "The footer appears to say Copyright Align and Smile 2019.",
+   "cost": "An old date makes a patient wonder if the practice is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The contact form appears to include a field called Order Number.",
+   "cost": "A dental patient does not have an order number, and a stray field looks like a template left behind.",
+   "fix": "A short form with name, phone and treatment."
+  },
+  {
+   "problem": "No WhatsApp or text option appears next to the Click to call link.",
+   "cost": "Patients who want a quick answer message first.",
+   "fix": "A one tap text button."
+  }
+ ],
+ "redesign": [
+  "Current page.",
+  "Clean contact form.",
+  "Text and online booking."
+ ]
+}

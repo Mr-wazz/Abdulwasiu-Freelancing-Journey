@@ -1,0 +1,34 @@
+{
+ "business": "Dia Dentistry",
+ "owner": "the team",
+ "city": "Brampton, Canada",
+ "website": "diadentistry.ca",
+ "summary": "A Brampton practice open Monday to Saturday with weekend appointments is a strength, but no visible booking path and no named dentists appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The FAQ appears to say patients can book online but no booking link or tool appears, and the only prominent button appears to be CALL US.",
+   "cost": "Patients who prefer to book online have no way to do it.",
+   "fix": "A booking form or calendar on the homepage."
+  },
+  {
+   "problem": "No dentists are named, no testimonials or review count appear, and the page appears to show only a Google badge with no rating.",
+   "cost": "New patients want to know who will treat them and what others say.",
+   "fix": "Named dentists, credentials and visible reviews."
+  },
+  {
+   "problem": "The address appears as Main Street North in the footer and Main Street in the FAQ, and the hours wording appears to suggest Saturday is the only weekend day.",
+   "cost": "Mixed details confuse patients planning a visit.",
+   "fix": "One address and one clear hours line."
+  },
+  {
+   "problem": "Thanks for subscribing appears in the page content before any submission, 'We care !' has a stray space, and a sentence appears to be missing a verb.",
+   "cost": "Placeholder text and typos make a clinic look unfinished.",
+   "fix": "Proofread copy and a form message that appears only after submission."
+  }
+ ],
+ "redesign": [
+  "A booking form on the homepage.",
+  "Named dentists and visible reviews.",
+  "One address and hours line, with proofread copy."
+ ]
+}

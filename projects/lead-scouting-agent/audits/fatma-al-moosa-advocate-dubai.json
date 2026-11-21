@@ -1,0 +1,34 @@
+{
+ "business": "Fatma Al Moosa Advocate and Legal Consultancy",
+ "owner": "the Fatma Al Moosa team",
+ "city": "Dubai, UAE",
+ "website": "fatmaalmoosa.com",
+ "summary": "A Dubai law firm that claims to be one of the largest appears to lose enquiries to dead menu links and thin proof.",
+ "findings": [
+  {
+   "problem": "Menu items Our Services, About us and Products appear to link to #, and a Products item appears on a law firm site.",
+   "cost": "Dead links and an odd menu item confuse visitors who came to hire a lawyer.",
+   "fix": "Working links and a menu built around practice areas."
+  },
+  {
+   "problem": "The page appears to claim one of the leading and largest law firms in Dubai, with no lawyer names, case results or reviews shown.",
+   "cost": "A big claim with no proof pushes clients to firms that show results.",
+   "fix": "Named lawyers, results and client reviews."
+  },
+  {
+   "problem": "The firm name with Law Firm appears repeated in awkward sentences, and English (US) appears twice in the language menu.",
+   "cost": "Clumsy repeats look unfinished to corporate and private clients.",
+   "fix": "Rewritten homepage copy and a clean language switch."
+  },
+  {
+   "problem": "No WhatsApp appears, only a phone number and a contact link.",
+   "cost": "Clients in Dubai expect to message a firm first.",
+   "fix": "WhatsApp and a booking form for a case review."
+  }
+ ],
+ "redesign": [
+  "Working links and practice menu.",
+  "Lawyer profiles and proof.",
+  "WhatsApp and case review booking."
+ ]
+}

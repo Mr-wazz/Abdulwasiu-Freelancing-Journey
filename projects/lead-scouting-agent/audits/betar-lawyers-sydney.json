@@ -1,0 +1,33 @@
+{
+ "business": "Betar Lawyers",
+ "owner": "Justin Betar",
+ "city": "Sydney CBD",
+ "website": "betarlawyers.com.au",
+ "summary": "Your commercial conveyancing page has clear fees language and a testimonial, but the form it points to does not appear and several copy slips show.",
+ "findings": [
+  {
+   "problem": "The page says Just fill in the form below, but no form fields appear. There is no WhatsApp option.",
+   "cost": "A client ready to request a quote has nowhere to do it.",
+   "fix": "A working quote form on the page."
+  },
+  {
+   "problem": "The FAQ email shows stray markdown asterisks and brackets, and the same phone number is written three ways.",
+   "cost": "A broken email line and mixed formats make it harder to contact you.",
+   "fix": "Clean contact details and a click to call link."
+  },
+  {
+   "problem": "The text names Commercial and Environment Protection Authority (EPA), groups Torrens and Strata under Old Systems Title, and has slips such as throughout the New South Wales and an unfinished Obligations Government Agencies item.",
+   "cost": "Errors on a law firm page reduce trust.",
+   "fix": "A proofread, accurate page."
+  },
+  {
+   "problem": "Only one testimonial appears, from a director who praises Justin in the third person. Image filenames suggest stock photos, and a detailed fee estimate is promised with no ranges.",
+   "cost": "Clients want independent proof and a sense of cost.",
+   "fix": "Real client reviews, team photos and example fee ranges."
+  }
+ ],
+ "redesign": [
+  "A working quote form and click to call on every page.",
+  "Real client reviews, team photos and clear example fees."
+ ]
+}

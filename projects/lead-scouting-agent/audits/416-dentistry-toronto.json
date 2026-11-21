@@ -1,0 +1,34 @@
+{
+ "business": "416 Dentistry",
+ "owner": "Dr Jason Adinata and team",
+ "city": "Toronto, Canada",
+ "website": "416dentistry.com",
+ "summary": "A modern Scarborough dental studio appears to lose new patients to a 2021 footer, a stuffed page title and odd menu labels.",
+ "findings": [
+  {
+   "problem": "The footer appears to read 2021.",
+   "cost": "Five old years suggest the practice is not active online.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "The page title appears to run on with many keywords such as Cosmetic Dentist, Dental Implants, Toronto Invisalign and Scarborough Dentistry.",
+   "cost": "Search results cut it off and the long title looks spammy.",
+   "fix": "A short title with the practice name and suburb."
+  },
+  {
+   "problem": "Menu labels such as hello, First and design safEty appear with odd casing.",
+   "cost": "Odd labels confuse new patients and look unfinished.",
+   "fix": "Clear plain menu labels."
+  },
+  {
+   "problem": "No WhatsApp appears, only a phone number and a book button.",
+   "cost": "Younger patients choose practices they can message in seconds.",
+   "fix": "WhatsApp or text booking on every page."
+  }
+ ],
+ "redesign": [
+  "Current footer.",
+  "Clean title.",
+  "Clear menu and text booking."
+ ]
+}

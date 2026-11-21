@@ -1,0 +1,34 @@
+{
+ "business": "Baron and Associates",
+ "owner": "the team",
+ "city": "Sydney, Australia",
+ "website": "baron.com.au",
+ "summary": "A Sydney commercial and property law firm with over 30 years of experience is a strength, but mismatched links and no contact form appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "The homepage appears to have no contact form, only an email address, a phone number and office hours.",
+   "cost": "A business owner with an urgent matter has to switch to email or phone instead of sending a quick message.",
+   "fix": "A short confidential enquiry form that sends straight to your team."
+  },
+  {
+   "problem": "Menu labels appear not to match their pages: 'legal services for business' appears to link to /portfolio/private-services/ and 'succession planning' to /portfolio/one-more/.",
+   "cost": "Clients land on the wrong page and a placeholder slug looks unfinished.",
+   "fix": "Labels and pages that match, with clean addresses."
+  },
+  {
+   "problem": "Leftover interface text appears on the page ('Loading', 'Carousel controls Previous Next') and news dates appear as 'October 30, 2026by' with no space.",
+   "cost": "Visible leftovers and typos make a professional firm look careless.",
+   "fix": "Clean markup and proofread dates."
+  },
+  {
+   "problem": "The claim 'australia's no.1 development' appears with no source, and no testimonials, named lawyers or certifications appear.",
+   "cost": "Unsupported claims and missing proof give a developer little reason to trust you.",
+   "fix": "Named partners, testimonials and sourced credentials."
+  }
+ ],
+ "redesign": [
+  "A confidential enquiry form.",
+  "Matching labels and clean pages.",
+  "Named partners, testimonials and sourced credentials."
+ ]
+}

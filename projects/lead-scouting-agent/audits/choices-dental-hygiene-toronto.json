@@ -1,0 +1,29 @@
+{
+ "business": "CHOICES Dental Hygiene",
+ "owner": "Linda Hawley and the CHOICES team",
+ "city": "Toronto, Canada",
+ "website": "choicesdentalhygiene.wixsite.com/choicesdentalhygiene",
+ "summary": "A Toronto hygiene practice with 33 years of experience appears to lose new clients to a free builder address, a 2017 date and a gmail contact.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "Clients check a practitioner's credibility online first, and a free builder address looks temporary after 33 years of experience.",
+   "fix": "Your own domain and a professional email."
+  },
+  {
+   "problem": "The footer appears to say 2017 by CHOICES Dental Hygiene Care, created with Wix.com.",
+   "cost": "An old date and a builder credit make a visitor wonder if the page is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The contact appears to be a gmail address and one phone number, with no text option.",
+   "cost": "A free email gives less trust, and clients who want a quick answer have nothing faster than a call.",
+   "fix": "A professional email and a one tap text button."
+  }
+ ],
+ "redesign": [
+  "Own domain and email.",
+  "Current page.",
+  "Booking and text."
+ ]
+}

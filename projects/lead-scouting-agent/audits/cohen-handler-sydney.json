@@ -1,0 +1,34 @@
+{
+ "business": "Cohen Handler",
+ "owner": "the Cohen Handler team",
+ "city": "Sydney",
+ "website": "cohenhandler.com.au",
+ "summary": "A clear buyers agency offer and video testimonials are strong, but typos and visible form leftovers appear to weaken a premium brand.",
+ "findings": [
+  {
+   "problem": "The page shows typos: 'Find our more about our services', 'unprepresented', 'also knows as' and 'Some times'.",
+   "cost": "Spelling errors undermine a firm that charges for negotiation skill.",
+   "fix": "Proofread copy across the site."
+  },
+  {
+   "problem": "The enquiry form shows a visible validation note beside the Instagram field, and form options run together in one line.",
+   "cost": "Leftover form text confuses buyers at the moment they enquire.",
+   "fix": "A clean, tested enquiry form."
+  },
+  {
+   "problem": "The Media menu item links to #, Locations has no landing page, and the email is hidden behind a protection code.",
+   "cost": "Dead menu items and hidden contact details cost enquiries.",
+   "fix": "Working menus and a visible contact email."
+  },
+  {
+   "problem": "Press logos appear to be blank placeholders and most testimonials exist only as video titles with no written quote.",
+   "cost": "Claims of leading agency status need visible proof.",
+   "fix": "Named press logos and written reviews beside the videos."
+  }
+ ],
+ "redesign": [
+  "A clean enquiry form and a visible contact email.",
+  "Proofread copy and consistent service names.",
+  "Visible press logos and written testimonials."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Beauty Clinic Riyadh",
+ "owner": "the Beauty Clinic Riyadh team",
+ "city": "Riyadh, Saudi Arabia",
+ "website": "beautyclinicriyadh.com",
+ "summary": "A Riyadh aesthetic clinic appears to lose consultations because its main button goes nowhere and no phone or address appears.",
+ "findings": [
+  {
+   "problem": "The main Get Started button appears to link to #, and the Treatments, Weight Loss and Laser Treatment menu items appear to link to #.",
+   "cost": "Patients ready to book hit a dead end.",
+   "fix": "A working booking button and menu pages."
+  },
+  {
+   "problem": "About ten submenu items appear to be labelled Menu Item and link to #, and all five doctor profile links appear empty.",
+   "cost": "Placeholder menus make the clinic look unfinished and hide your doctors.",
+   "fix": "Real labels and doctor profile pages."
+  },
+  {
+   "problem": "No phone number, address or opening hours appear on the page.",
+   "cost": "Patients cannot call, visit or know when you are open.",
+   "fix": "Visible phone, address and hours."
+  },
+  {
+   "problem": "The same testimonial appears twice, doctor bios appear to end in ellipses, and no before and after results appear.",
+   "cost": "Thin and repeated proof does not convince patients for high value procedures.",
+   "fix": "Real reviews, full doctor bios and a results gallery."
+  }
+ ],
+ "redesign": [
+  "Working button and menus.",
+  "Phone, address and hours.",
+  "Reviews and results."
+ ]
+}

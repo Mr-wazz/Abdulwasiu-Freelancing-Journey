@@ -1,0 +1,33 @@
+{
+ "business": "NOA Dental Clinic",
+ "owner": "the NOA Dental team",
+ "city": "Jumeirah Lakes Towers, Dubai",
+ "website": "noadentalclinic.com",
+ "summary": "You have 14 named doctors, WhatsApp and a payment plan, but conflicting hours and dates and a booking link to an Australian subdomain hurt trust.",
+ "findings": [
+  {
+   "problem": "The Book Now button points to au.patientdesk.ai, an Australian subdomain, and every doctor Read more link goes to the same /dubai-dentists page.",
+   "cost": "Patients sent to an odd address may not trust it or finish booking.",
+   "fix": "Booking on your own domain and a profile page per doctor."
+  },
+  {
+   "problem": "Wednesday shows Closed in the hours table while the footer says Mon - Sat. The page says served JLT since 2023, since 2005-2023 and over 21 years.",
+   "cost": "Conflicting hours and dates make patients doubt the details.",
+   "fix": "One set of hours and one clear history."
+  },
+  {
+   "problem": "Dr. Suhail Syed appears twice (Implantologist and Prosthodontist), the alt text says dr sushail syed, the Zirconia Crowns card ends mid sentence, and a line reads dental clinic in Dubai feature.",
+   "cost": "Errors on treatment pages weaken confidence in clinical care.",
+   "fix": "Proofread, complete treatment pages."
+  },
+  {
+   "problem": "The page cites a 4.8 Google rating but shows no review text, shows no before and after cases, and lists Dental Offers in the menu with no offers on the page.",
+   "cost": "Patients want proof and a reason to act now.",
+   "fix": "A review wall, captioned results and a real offers section."
+  }
+ ],
+ "redesign": [
+  "Booking on your own domain, a profile for each doctor and one set of hours.",
+  "A review wall, before and after gallery and a clear offers section."
+ ]
+}

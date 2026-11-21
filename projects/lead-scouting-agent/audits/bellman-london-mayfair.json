@@ -1,0 +1,34 @@
+{
+ "business": "Bellman London",
+ "owner": "the team",
+ "city": "Mayfair, London",
+ "website": "bellmanlondon.com",
+ "summary": "Sales, lettings and short lets in prime London are a strength, but an enquiry form with no fields and wrong links appear to cost you instructions.",
+ "findings": [
+  {
+   "problem": "The enquiry form appears to show 'Preferred method of contact? Either Email Telephone' with no visible name, email or message fields or submit button, and the privacy link appears to go to #.",
+   "cost": "A landlord or buyer who wants to enquire cannot leave details.",
+   "fix": "A complete working enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The Register With Us card appears to link to /valuation, the Fixed Fee Packages card appears to repeat the Free Valuation text, and the Featured Property heading appears to show no property.",
+   "cost": "Mislinked and repeated cards confuse vendors choosing a service.",
+   "fix": "Correct links and a real fixed fee page."
+  },
+  {
+   "problem": "The copy appears to say '5 minuet walk' and 'theses areas', and the form offers Branch 1, Branch 2 and Branch 3 while one address is listed.",
+   "cost": "Typos and placeholder branches weaken a premium agency.",
+   "fix": "Proofread copy and real branch details."
+  },
+  {
+   "problem": "Testimonials appear with first names only, the site appears to call you both ARLA certified and ARLA registered, and the Twitter widget appears to show no posts.",
+   "cost": "Thin, inconsistent proof loses vendors who compare agents.",
+   "fix": "Dated reviews and one correct credential line."
+  }
+ ],
+ "redesign": [
+  "Working enquiry form with WhatsApp.",
+  "Correct card links and fee pages.",
+  "Dated reviews and consistent credentials."
+ ]
+}

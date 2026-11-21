@@ -1,0 +1,34 @@
+{
+ "business": "Al Baraka Realestate",
+ "owner": "the Al Baraka Realestate team",
+ "city": "Dubai, UAE",
+ "website": "barakare.wixsite.com/baraka",
+ "summary": "A Deira real estate office appears to lose enquiries to a one page site, a free builder address and a 2021 date.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix footer that says Proudly created with Wix.com.",
+   "cost": "A free builder address and a Wix footer look temporary for an office trading since 1996.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "The page appears to carry a 2021 copyright date.",
+   "cost": "An old date makes buyers wonder if the office is still active.",
+   "fix": "A fresh, current page."
+  },
+  {
+   "problem": "The homepage text appears short and mixes Arabic into an English sentence, and I did not see any property listings.",
+   "cost": "Buyers and tenants come to see properties, and a page with none sends them to the big portals.",
+   "fix": "Property listings with photos and filters, in English and Arabic."
+  },
+  {
+   "problem": "The menu appears to be Home, Book Online, Contact and About, with no WhatsApp.",
+   "cost": "Renters message first, and the office that replies first wins the viewing.",
+   "fix": "A one tap WhatsApp button and an enquiry form."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Property listings.",
+  "WhatsApp and enquiry form."
+ ]
+}

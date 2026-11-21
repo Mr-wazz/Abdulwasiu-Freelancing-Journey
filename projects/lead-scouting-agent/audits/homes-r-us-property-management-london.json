@@ -1,0 +1,34 @@
+{
+ "business": "Homes R Us Property Management London",
+ "owner": "the Homes R Us team",
+ "city": "London, UK",
+ "website": "homesruslondon.weebly.com",
+ "summary": "A London and Nottingham letting agency appears to lose landlords to a keyword heavy page, two spellings of its email and a free builder address.",
+ "findings": [
+  {
+   "problem": "Two email addresses appear, one spelled Info@homesrsu.co.uk and one spelled sales@homesrus.co.uk.",
+   "cost": "A misspelled address can send landlord enquiries to nowhere.",
+   "fix": "One verified email address."
+  },
+  {
+   "problem": "A long list of keyword phrases such as Cheap estate agency Nottingham appears on the page.",
+   "cost": "Keyword lists look like spam to landlords and do not explain what you offer.",
+   "fix": "Plain copy about your services and areas."
+  },
+  {
+   "problem": "The phone numbers appear as 2080870644 and 1157720344 with no spacing or tap to call links.",
+   "cost": "Numbers that are hard to read lose callers.",
+   "fix": "Properly formatted tap to call numbers."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, and no WhatsApp or reviews appear.",
+   "cost": "A free builder address looks temporary and landlords look for proof.",
+   "fix": "Your own domain, reviews and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "One email.",
+  "Plain copy.",
+  "Formatted numbers, own domain and reviews."
+ ]
+}

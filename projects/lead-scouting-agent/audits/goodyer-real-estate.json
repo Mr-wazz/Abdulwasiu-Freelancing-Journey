@@ -1,0 +1,33 @@
+{
+ "business": "Goodyer Real Estate",
+ "owner": "Ms. Goodyer and team",
+ "city": "Paddington, Sydney",
+ "website": "goodyer.com.au",
+ "summary": "Goodyer has eight testimonials, a sold property grid and Sotheby's listings. The page has no lead form, and typos and a broken phone link cost enquiries from sellers.",
+ "findings": [
+  {
+   "problem": "No lead capture form or chat appears. Visitors must click Request an Appraisal and leave the page to make contact.",
+   "cost": "A seller who is ready to ask about an appraisal has to do extra work, and many will call the next agent.",
+   "fix": "A short appraisal form on the page with a confirmation message."
+  },
+  {
+   "problem": "The phone link is malformed (tel with backslashes) and may not dial. The footer social icons are labelled l and i instead of names.",
+   "cost": "A phone link that fails loses the calls that matter most to an agency.",
+   "fix": "A tested tap to call link and clearly labelled social links."
+  },
+  {
+   "problem": "The page says it is dedicated exclusively to property management, yet it also promotes luxury sales and Sotheby's listings.",
+   "cost": "A mixed message confuses sellers about whether you can sell their home.",
+   "fix": "One clear positioning for sales and for management."
+  },
+  {
+   "problem": "Typos include It it wise to choose experience, the right the right buyers, results.. and 110% . Stray text such as Menu and arrow symbols shows, and many sold listings only say Contact agent.",
+   "cost": "Typos in a premium agent's copy and hidden sale prices weaken the track record you want to show.",
+   "fix": "A proofread build with sold prices shown where possible."
+  }
+ ],
+ "redesign": [
+  "A seller first homepage with an appraisal form, working phone links and a clear message.",
+  "Your eight testimonials and sold results beside every enquiry button."
+ ]
+}

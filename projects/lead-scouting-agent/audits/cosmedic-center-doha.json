@@ -1,0 +1,33 @@
+{
+ "business": "Cosmedic Center",
+ "owner": "the Cosmedic Center team",
+ "city": "Doha",
+ "website": "cosmediccenter.com",
+ "summary": "Your homepage promotes dermatology, aesthetics and surgery, but the menu is mostly dead and a patient has no easy way to book or call.",
+ "findings": [
+  {
+   "problem": "Botox, Rhinoplasty and the other service menu items link to #.",
+   "cost": "A patient who taps the treatment she came for lands nowhere and leaves.",
+   "fix": "Working treatment pages, one per service."
+  },
+  {
+   "problem": "No phone number or WhatsApp on the page. Booking is only a link to /appointments/.",
+   "cost": "Qatar patients expect WhatsApp, and every missing channel loses enquiries.",
+   "fix": "Click to call, WhatsApp and a short form on every page."
+  },
+  {
+   "problem": "No reviews, no before and after, no named doctors. Images are generic icons, not your clinic.",
+   "cost": "Surgery and aesthetic patients choose on proof and who treats them.",
+   "fix": "Doctor profiles, real photos and captioned results."
+  },
+  {
+   "problem": "The menu repeats, brand is Centre and Center, the About text shows stray symbols, and the email icon goes to follow.it.",
+   "cost": "Small slips on a medical site make patients doubt the care.",
+   "fix": "Clean copy and correct links."
+  }
+ ],
+ "redesign": [
+  "Working service pages with a book now button on each.",
+  "Phone, WhatsApp and a form on every page, plus doctor profiles and results."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "L'Atelier Aesthetics",
+ "owner": "Dr Duncan Brennand",
+ "city": "Harley Street, London",
+ "website": "latelieraesthetics.co.uk",
+ "summary": "Your 101 Harley Street clinic has a named GMC doctor, Google reviews and press logos, but there is no visible proof of results and details do not match.",
+ "findings": [
+  {
+   "problem": "No before and after images or patient photos appear, no prices show on the homepage, and there is no WhatsApp. Booking is a separate page.",
+   "cost": "Aesthetic patients choose on results and cost, and may not click through to find them.",
+   "fix": "Captioned results, from prices and a short booking form."
+  },
+  {
+   "problem": "One Susie MacLean review appears twice with different Google links, Eva Webb's review shares Susie's link, and every reviewer shows the same placeholder logo.",
+   "cost": "Repeated reviews and one link for different people weaken the proof you do have.",
+   "fix": "A clean review wall with each review linked correctly."
+  },
+  {
+   "problem": "Typos include entrpeneur, renown, Silhoutte and Backgound. The header says Rated 4.9 while the badge says 5 Star Rated On Google.",
+   "cost": "Spelling slips on a Harley Street page cost credibility.",
+   "fix": "Proofread copy and one consistent rating."
+  },
+  {
+   "problem": "Visit us and Learn More point to anchors #findus and #meetdrduncan, the chemical peels link differs between body and menu, and the doctor appears as Dr Duncan Brennand, Duncan Brennand and Dr. Brennand.",
+   "cost": "Mismatched links and names look careless.",
+   "fix": "Working links and one consistent name."
+  }
+ ],
+ "redesign": [
+  "A short booking form, WhatsApp and from prices on every treatment page.",
+  "Captioned before and after results and a clean, consistent review wall."
+ ]
+}

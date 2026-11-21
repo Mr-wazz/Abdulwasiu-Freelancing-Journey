@@ -1,0 +1,34 @@
+{
+ "business": "Reem Medical Center",
+ "owner": "Dr Afza Naureen and the team",
+ "city": "Doha",
+ "website": "reemmedicalcenter.com",
+ "summary": "A named dermatologist and a free consultation offer are strengths, but conflicting numbers and addresses and thin proof appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The page lists two different WhatsApp numbers (33318112 and 77977245) behind different Book buttons, plus three phone numbers in the footer with no explanation.",
+   "cost": "Patients do not know which number is real and some give up.",
+   "fix": "One clear WhatsApp and one booking path."
+  },
+  {
+   "problem": "Two addresses appear: Near Alfardan, Gold Souq, Old Al Ghanem in the text, and Souq Al Jassim, Ibn Malik St in the footer.",
+   "cost": "Conflicting locations cause missed visits.",
+   "fix": "One verified address with a map."
+  },
+  {
+   "problem": "The page says transparent pricing but shows no prices, the Before and After section appears to be one image with no captions, and it claims best botox clinic in Qatar with no proof.",
+   "cost": "Botox patients compare prices and proof first and find neither.",
+   "fix": "Clear prices, captioned results and real reviews."
+  },
+  {
+   "problem": "The Services link appears to go to #, the footer shows a stray quotation mark and a copyright with no year, and the page offers both Book online and WhatsApp.",
+   "cost": "Loose ends and mixed booking paths make the clinic look careless.",
+   "fix": "Clean footer and one booking flow."
+  }
+ ],
+ "redesign": [
+  "One WhatsApp number and one booking form.",
+  "One verified address with a map.",
+  "Prices, captioned results and reviews."
+ ]
+}

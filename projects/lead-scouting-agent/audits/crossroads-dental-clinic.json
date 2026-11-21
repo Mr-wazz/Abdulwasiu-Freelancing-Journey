@@ -1,0 +1,34 @@
+{
+ "business": "Crossroads Dental Clinic",
+ "owner": "Dr. Shams and the team",
+ "city": "Sheikh Zayed Road and Deira, Dubai",
+ "website": "crossroadsdentalclinic.com",
+ "summary": "Crossroads has strong Google reviews, two branches, financing options and a booking form. The page hides that form and has errors that weaken a clinic selling implants.",
+ "findings": [
+  {
+   "problem": "Book An Appointment is buried inside the Contact Us dropdown instead of being a visible header button. Hero buttons use mixed labels such as For Appointment, Visit Us twice and about us in lowercase.",
+   "cost": "A patient ready to book has to hunt for the form, and many will not.",
+   "fix": "One clear Book Now button in the header and hero, on every page."
+  },
+  {
+   "problem": "Menu links for Root Canal Specialist, Implantologist, Gallery and Contact Us go to #, and the Instagram, LinkedIn and Facebook icons link to #.",
+   "cost": "Dead links lose visitors and remove your best proof, since social pages show real patients.",
+   "fix": "Working links everywhere and a real gallery page."
+  },
+  {
+   "problem": "Typos and stray text: Impantologist, a Slide 1 label, stray 18 text in the gallery, and weekday opening hours missing. The Smile Transformations gallery shows no before and after images.",
+   "cost": "For a clinic selling implants, a typo in the title of the main specialist weakens trust, and a missing gallery hides your results.",
+   "fix": "A proofread build with full opening hours and captioned results."
+  },
+  {
+   "problem": "The booking form has no doctor preference and a fixed time list that ignores each branch's different Sunday hours. There are no starting prices.",
+   "cost": "Patients who cannot choose a doctor or see a price drop out or book elsewhere.",
+   "fix": "A branch aware booking form and starting prices for top treatments."
+  }
+ ],
+ "redesign": [
+  "A booking first header and hero, with branch, doctor, treatment and time in one short form.",
+  "A real before and after gallery and your Google reviews beside every booking button.",
+  "A page per treatment and per doctor, written to rank for searches like dental implants Dubai."
+ ]
+}

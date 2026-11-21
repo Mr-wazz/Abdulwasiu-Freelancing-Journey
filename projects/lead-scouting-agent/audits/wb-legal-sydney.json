@@ -1,0 +1,34 @@
+{
+ "business": "WB Legal",
+ "owner": "the WB Legal team",
+ "city": "Sydney, Australia",
+ "website": "wbgweb.wixsite.com/wblegal-1",
+ "summary": "A Sydney CBD law firm that offers immigration, property, commercial and family law appears to lose enquiries to a free builder address and raw page text.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address makes a law firm look temporary.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "The footer appears to read 1993, with no current year.",
+   "cost": "An old year makes a visitor doubt the firm is active.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "No reviews or client results appear on the homepage text.",
+   "cost": "Clients choosing a firm for a visa or property matter look for proof first.",
+   "fix": "Named client reviews and short case examples."
+  },
+  {
+   "problem": "No WhatsApp appears, and a menu item reads RESPONSIBILITY with no explanation.",
+   "cost": "Migration clients often message first and unclear menu items lose them.",
+   "fix": "WhatsApp and clear menu labels."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Current footer.",
+  "Reviews and WhatsApp."
+ ]
+}

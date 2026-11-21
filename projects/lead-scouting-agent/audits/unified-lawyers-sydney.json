@@ -1,0 +1,34 @@
+{
+ "business": "Unified Lawyers",
+ "owner": "Mark Youssef, Alex Bourne and Deborah Hyde",
+ "city": "Sydney, Australia",
+ "website": "unifiedlawyers.com.au",
+ "summary": "A Sydney family and property law firm with hundreds of reviews is a strength, but dead consultation buttons and zero counters appear to cost you free consultations.",
+ "findings": [
+  {
+   "problem": "The menu items Services, Locations and Book a Free Consultation appear to link to #, and several Free Consultation buttons appear to link to # as well.",
+   "cost": "A client ready to book a consultation clicks and nothing happens.",
+   "fix": "Every consultation button leading to one working booking form."
+  },
+  {
+   "problem": "The counters appear to show '0 +' for 5 Star Testimonials and Combined Years of Experience while the text claims 600+ and 8000+.",
+   "cost": "Zeros on your strongest proof points make the claims look false.",
+   "fix": "Correct live counters."
+  },
+  {
+   "problem": "The reviewer name 'R U' appears on several testimonials, an article dated 2024 appears featured as a 2026 guide, and a review dated October 2026 appears later than the newest blog post.",
+   "cost": "Odd names and mixed dates make reviews look unreal.",
+   "fix": "Real reviewer names and correct dates."
+  },
+  {
+   "problem": "Divorce Lawyers Sydney and Family Lawyers Sydney appear to point to the homepage, and Bondi appears as an office in the body but Bondi Junction in the footer.",
+   "cost": "Clients searching for those services land on the wrong page.",
+   "fix": "Dedicated service pages and consistent office names."
+  }
+ ],
+ "redesign": [
+  "A working consultation button and form.",
+  "Correct counters.",
+  "Real reviews, correct dates and dedicated service pages."
+ ]
+}

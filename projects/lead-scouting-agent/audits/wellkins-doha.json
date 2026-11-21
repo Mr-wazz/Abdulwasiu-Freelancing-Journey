@@ -1,0 +1,34 @@
+{
+ "business": "Wellkins Medical Centre",
+ "owner": "the Wellkins team",
+ "city": "Ramada Signal, Doha",
+ "website": "wellkins.com",
+ "summary": "Clear package pricing and a WhatsApp number are strengths, but missing images, dead menu items and a pricing error appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The Departments, Services and Packages and Benefits menu items link to #, and the social icons use javascript:void(0).",
+   "cost": "Visitors cannot open the sections they came for.",
+   "fix": "Working menus and real social links."
+  },
+  {
+   "problem": "Every image appears to use the same blank placeholder, so treatment photos such as Laser Hair Removal show no picture.",
+   "cost": "A page with no images looks unfinished and sells poorly.",
+   "fix": "Real treatment photos with descriptions."
+  },
+  {
+   "problem": "One bundle reads 4 Sessions Each Qr.1,500 Save Qr.500 while the listed prices add up to Qr.1,700, a saving of Qr.200.",
+   "cost": "A pricing error invites doubt about every offer.",
+   "fix": "One verified price list."
+  },
+  {
+   "problem": "The footer logo is labelled Medidove, the Live Chat heading shows no chat, three headlines are cut off and the WhatsApp link is written two ways.",
+   "cost": "Leftovers and broken details make a medical brand look careless.",
+   "fix": "A clean page with a working chat button."
+  }
+ ],
+ "redesign": [
+  "Working menus and real treatment photos.",
+  "One verified price list with clear packages.",
+  "A working chat and WhatsApp button on every page."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Knightsbridge Prime Property",
+ "owner": "the Knightsbridge Prime team",
+ "city": "Knightsbridge, London",
+ "website": "knightsbridgeprimeproperty.com",
+ "summary": "Prime central London listings and a WhatsApp number are strengths, but repeated listings, an enquiry form that appears to show no fields and unsupported claims cost you vendors and buyers.",
+ "findings": [
+  {
+   "problem": "Lancelot Place appears three times across the listings, The Knightsbridge Apartments appears twice, and Battersea and Nine Elms and Nine Elms are separate filters.",
+   "cost": "Repeated listings make a prime agency look careless to wealthy buyers.",
+   "fix": "One clean listing per property and tidy filters."
+  },
+  {
+   "problem": "The enquiry form shows Close Submit and checkbox labels with no visible name, email or message fields, and the newsletter block shows no input fields.",
+   "cost": "A buyer or vendor ready to enquire may not be able to.",
+   "fix": "A tested enquiry form with WhatsApp."
+  },
+  {
+   "problem": "The page claims London's fastest-growing Prime Central London Agency and that you respond within 2 hours with no supporting data.",
+   "cost": "Unsupported claims reduce credibility with high value clients.",
+   "fix": "Sourced figures or specific, honest promises."
+  },
+  {
+   "problem": "The William Adinata testimonial appears twice, blocks show stray underscores, a guide price reads Guide Price\u00a36,250,000, and a testimonial uses both Becks and His.",
+   "cost": "Small slips on a multi million pound listing page look careless.",
+   "fix": "Proofread copy and tidy testimonial blocks."
+  }
+ ],
+ "redesign": [
+  "One clean listing per property and tidy filters.",
+  "A tested enquiry and valuation form with WhatsApp.",
+  "Sourced proof, named awards and proofread testimonials."
+ ]
+}

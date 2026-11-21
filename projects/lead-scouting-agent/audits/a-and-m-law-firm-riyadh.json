@@ -1,0 +1,34 @@
+{
+ "business": "A&M Law Firm",
+ "owner": "Saleh Almoghairy and the team",
+ "city": "Riyadh",
+ "website": "amlawfirm.sa",
+ "summary": "A large named legal team and a form on the page are strengths, but leftover text and thin proof appear to cost you client enquiries.",
+ "findings": [
+  {
+   "problem": "The form asks for Phone / WhatsApp but the page lists only two unlabeled phone numbers and no WhatsApp link, and it requires a Corporate Email Address.",
+   "cost": "Clients who prefer WhatsApp or use a personal email may not enquire.",
+   "fix": "WhatsApp button and a simpler form."
+  },
+  {
+   "problem": "Drag or use arrows appears twice, every team card ends with Profile, and the eight certification logos appear to repeat.",
+   "cost": "Template leftovers make the page look unfinished.",
+   "fix": "Clean carousels and one logo set."
+  },
+  {
+   "problem": "Twelve Read more and six Read More links give no context, and Foreign Investment and Corporate Governance footer links appear to go to the general practice page.",
+   "cost": "Clients looking for a specific service cannot find it quickly.",
+   "fix": "Dedicated practice pages."
+  },
+  {
+   "problem": "The awards give no year or category, client logos have no matter context, and two COVID-19 articles from 2020 sit beside 2026 content.",
+   "cost": "Old news and unspecific awards weaken proof of current work.",
+   "fix": "Dated awards and case studies."
+  }
+ ],
+ "redesign": [
+  "WhatsApp and a simpler enquiry form.",
+  "Dedicated practice pages and clean layout.",
+  "Dated awards, case studies and current news."
+ ]
+}

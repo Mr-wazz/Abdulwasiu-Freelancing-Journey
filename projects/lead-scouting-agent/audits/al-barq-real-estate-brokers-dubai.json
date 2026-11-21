@@ -1,0 +1,34 @@
+{
+ "business": "Al Barq Real Estate Brokers",
+ "owner": "the Al Barq team",
+ "city": "Dubai, UAE",
+ "website": "albarqrealestate.weebly.com",
+ "summary": "A Dubai real estate broker with a RERA registration shown appears to lose buyers and owners to a thin homepage and spacing glitches.",
+ "findings": [
+  {
+   "problem": "The page title appears to show broken spacing in the brand name, such as Al and Barq with extra space codes.",
+   "cost": "A messy name in the browser tab and search results looks careless.",
+   "fix": "A clean brand name in the title."
+  },
+  {
+   "problem": "The homepage appears to be a short paragraph with no listings, areas or team shown.",
+   "cost": "Buyers and owners cannot see what you offer or who you are.",
+   "fix": "Featured listings, areas and team on the homepage."
+  },
+  {
+   "problem": "The site appears to run on a free Weebly address, with a footer that says Powered by Create your own unique website.",
+   "cost": "A builder advert in the footer looks temporary for a brokerage.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "A menu item reads Online Forum, and only a landline and fax appear, with no form or WhatsApp.",
+   "cost": "Property enquiries in Dubai usually start on WhatsApp.",
+   "fix": "A clear menu, an enquiry form and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Clean title.",
+  "Listings and team.",
+  "Own domain, form and WhatsApp."
+ ]
+}

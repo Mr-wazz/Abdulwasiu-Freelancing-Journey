@@ -1,0 +1,34 @@
+{
+ "business": "Designer Smiles Dentistry",
+ "owner": "Dr Sarkis Nalbandian and team",
+ "city": "Sydney, Australia",
+ "website": "designersmiles.com.au",
+ "summary": "A Cremorne cosmetic practice with 124 Google reviews appears to lose enquiries to dead menu links and an empty results section.",
+ "findings": [
+  {
+   "problem": "The Dental Services menu and its sub items, Specialist, Cosmetic, General and Implants, appear to link to #.",
+   "cost": "Patients exploring treatments cannot reach them.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The Before and After section appears to show six blank image placeholders, and the Our Partners and accreditation areas appear empty.",
+   "cost": "Cosmetic patients buy on visible results and proof.",
+   "fix": "Real captioned cases and labelled accreditations."
+  },
+  {
+   "problem": "The review widget and floating review button appear to link to an empty Google link, and no review text appears.",
+   "cost": "You miss a chance to show 124 reviews as proof.",
+   "fix": "A working review link and real quotes."
+  },
+  {
+   "problem": "The disclaimer appears to contain garbled wording about the theatre, and the booking dropdown options appear to run together on one line.",
+   "cost": "Garbled text and a broken form look careless on a premium site.",
+   "fix": "Proofread copy and a clean form."
+  }
+ ],
+ "redesign": [
+  "Working menus.",
+  "Real results gallery.",
+  "Review proof and a clean form."
+ ]
+}

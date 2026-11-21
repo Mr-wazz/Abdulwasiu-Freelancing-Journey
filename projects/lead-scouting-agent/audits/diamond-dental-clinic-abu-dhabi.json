@@ -1,0 +1,29 @@
+{
+ "business": "Diamond Dental Clinic",
+ "owner": "the team",
+ "city": "Abu Dhabi, UAE",
+ "website": "drbaherbarsoum.wixsite.com/diamonddentalclinic",
+ "summary": "A dental clinic open since 1992 with four dentists appears to lose patients to a free builder address, a 2020 footer and a WhatsApp number that is not tappable, with Black Friday on 27 November.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address with the Wix advert at the top, and the footer appears to say 2020.",
+   "cost": "A clinic with four dentists and decades of history looks small and neglected next to clinics with their own domain and a current date.",
+   "fix": "Your own domain and a current footer."
+  },
+  {
+   "problem": "The contact is a hotmail address and the WhatsApp number appears only as plain text, not as a tap to chat button.",
+   "cost": "A patient who wants to ask a quick question has to copy the number first, and many will message another clinic instead.",
+   "fix": "A professional email and a one tap WhatsApp button."
+  },
+  {
+   "problem": "Nine services each have a Book Now button, but I found no offer, package or promotion page for Black Friday and no way to capture an email.",
+   "cost": "Patients look for whitening and check up deals on Black Friday, and a clinic with nothing to promote has no list to send an offer to.",
+   "fix": "A Black Friday offer page with a countdown and email capture."
+  }
+ ],
+ "redesign": [
+  "Own domain, current footer.",
+  "Professional email, one tap WhatsApp.",
+  "Black Friday offer page."
+ ]
+}

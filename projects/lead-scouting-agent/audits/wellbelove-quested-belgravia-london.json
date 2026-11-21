@@ -1,0 +1,34 @@
+{
+ "business": "Wellbelove Quested",
+ "owner": "Andrew Quested and the team",
+ "city": "Belgravia, London",
+ "website": "wellbelove-quested.com",
+ "summary": "A Belgravia specialist with decades of experience is a strength, but dead valuation buttons and an unfinished contact route appear to cost you vendors.",
+ "findings": [
+  {
+   "problem": "Request an Appraisal, Register as a Buyer and Click Here under Free Market Appraisal appear to link to #, and Get in touch appears to link to # with no visible form.",
+   "cost": "A vendor who wants a valuation hits a dead button.",
+   "fix": "Working valuation and registration forms."
+  },
+  {
+   "problem": "The tagline 'Our team of experts are here to help you...' appears to end with an ellipsis, and INDEPENDENT PROPERTY CONSULTANTS appears three times.",
+   "cost": "Unfinished and repeated copy look careless.",
+   "fix": "Finished copy and one clear message."
+  },
+  {
+   "problem": "A quote appears to read 'The first men to come to if you want to move to Belgravia' and a testimonial appears with no named author.",
+   "cost": "Garbled quotes and unnamed proof weaken trust.",
+   "fix": "Proofread quotes and attributed reviews."
+  },
+  {
+   "problem": "The page appears to say 'almost 60 years' and 'over 60 years', Sold and Let Properties appear to link to ?Itemid=214 and ?Itemid=215, and the footer address appears to be in Fulham.",
+   "cost": "Conflicting claims and unreadable links confuse buyers and vendors.",
+   "fix": "One verified claim and readable links."
+  }
+ ],
+ "redesign": [
+  "Working valuation, registration and contact forms.",
+  "Finished copy and attributed reviews.",
+  "One verified claim and readable URLs."
+ ]
+}

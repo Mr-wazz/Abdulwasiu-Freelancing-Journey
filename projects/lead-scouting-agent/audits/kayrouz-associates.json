@@ -1,0 +1,33 @@
+{
+ "business": "Kayrouz & Associates",
+ "owner": "Mr. Kayrouz and team",
+ "city": "Business Bay, Dubai",
+ "website": "kayrouzandassociates.com",
+ "summary": "Kayrouz has a clear founding story since 2006, a named team and a WhatsApp link. Typos, duplicate content and a lack of proof weaken a firm that wants corporate clients.",
+ "findings": [
+  {
+   "problem": "Visible typos: Ladnline instead of Landline, and Ethical pactice in the Responsible Business menu. The brand shows as Kayrouz & Associates and Kayrouz & Partners.",
+   "cost": "A law firm that sells precision cannot have typos in its own menu and contact details.",
+   "fix": "A proofread build with one brand name."
+  },
+  {
+   "problem": "No testimonials, case results, awards or client logos appear. The only proof is 4,500+ matters handled, with no source or date.",
+   "cost": "Corporate clients look for proof and a claim without a source is easy to doubt.",
+   "fix": "Named client quotes, case outcomes and a sourced figure."
+  },
+  {
+   "problem": "The Branded Residence in Dubai card appears three times, Founded in 2006 repeats, and the footer shows Language Language and an unexplained tagline Know & Advise.",
+   "cost": "Repeated content and stray labels push your real services down and look unfinished.",
+   "fix": "One clean version of each section."
+  },
+  {
+   "problem": "All three calls to action go to the same long form, with phone required but email optional. WhatsApp appears only as a small footer icon, and date formats vary.",
+   "cost": "A long form and a hidden WhatsApp lose clients who want a quick first message.",
+   "fix": "A short intake form and a visible WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "A consultation first page with a short form, visible WhatsApp and a calendar link.",
+  "Named proof beside every button and one clean set of practice pages."
+ ]
+}

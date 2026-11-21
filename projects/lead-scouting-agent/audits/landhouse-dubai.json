@@ -1,0 +1,34 @@
+{
+ "business": "Landhouse Properties",
+ "owner": "the Landhouse team",
+ "city": "Dubai",
+ "website": "landhouse.ae",
+ "summary": "Palm Jumeirah projects and a WhatsApp sales line are strengths, but repeated blocks, mismatched copy and no project details appear to cost you buyers.",
+ "findings": [
+  {
+   "problem": "The same Palm Jumeirah header block appears three times, Explore Orla appears twice, and The 8 appears twice under two different addresses.",
+   "cost": "Repeated blocks bury the projects buyers want to see.",
+   "fix": "One clean page per project."
+  },
+  {
+   "problem": "Palme Couture Residences is described on the Palm Jumeirah page, a rental label sits inside a sales list, and the copy contains 'property advior'.",
+   "cost": "Mismatched copy and typos make a luxury agency look careless.",
+   "fix": "Proofread copy that matches each project."
+  },
+  {
+   "problem": "No prices, unit counts, sizes or completion dates appear for any project, and Payment plan available gives no details.",
+   "cost": "Serious buyers leave when they cannot compare.",
+   "fix": "Project pages with key figures and payment plans."
+  },
+  {
+   "problem": "The sales line is +971 50 138 1755 while a success page shows +971 50 164 4706, and the footer copyright reads 2019.",
+   "cost": "Mixed numbers and an old date cause doubt about who is answering.",
+   "fix": "One verified number and a current footer."
+  }
+ ],
+ "redesign": [
+  "One clean page per project with prices, sizes and dates.",
+  "Proofread copy and consistent project names.",
+  "One WhatsApp number and a clear viewing booking form."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Porcelli D'Angela LLP",
+ "owner": "Vince Porcelli and Tullio D'Angela",
+ "city": "Mississauga, Canada",
+ "website": "pdlaw.ca",
+ "summary": "A Mississauga personal injury firm with over 50 years of combined experience is a strength, but broken links and no inline contact form appear to cost you free consultations.",
+ "findings": [
+  {
+   "problem": "The Bicycle Accidents button appears to point to /bicycle-accidets while the menu uses /bicycle-accidents, Brain Injuries appears to link to /fatality-cases-1, and the LinkedIn link appears to be malformed.",
+   "cost": "Injured clients who click for their type of case may land on an error or the wrong page.",
+   "fix": "Correct links for every case type."
+  },
+  {
+   "problem": "Every contact prompt appears to go to /contact with no inline form, and the free consultation line appears with no phone number or form next to it.",
+   "cost": "A client who is ready to call has to hunt for a way to reach you.",
+   "fix": "A short enquiry form and click to call button on every page."
+  },
+  {
+   "problem": "Testimonials appear to contain typos such as 'advise', 'straight forward' and 'I just to thank you', and article links appear to contain 'nbsp' leftovers.",
+   "cost": "Typos in client reviews and broken addresses make the firm look careless.",
+   "fix": "Proofread reviews and clean article links."
+  },
+  {
+   "problem": "The testimonials appear signed only with initials, no case results appear, and the three lawyers.com badges appear to link to the same profile.",
+   "cost": "Injury clients choose by proof, and thin proof loses them to a firm that shows results.",
+   "fix": "Named reviews with consent, results and linked badges."
+  }
+ ],
+ "redesign": [
+  "Correct links for every case type.",
+  "A short enquiry form and click to call button.",
+  "Proofread reviews and visible proof."
+ ]
+}

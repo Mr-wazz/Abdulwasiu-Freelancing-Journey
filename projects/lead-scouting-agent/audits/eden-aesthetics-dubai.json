@@ -1,0 +1,34 @@
+{
+ "business": "EDEN Aesthetics Clinic",
+ "owner": "the EDEN team",
+ "city": "Business Bay, Dubai",
+ "website": "edenderma.com",
+ "summary": "Awards, a wide treatment menu and WhatsApp booking are strengths, but a booking form with almost no fields and many mismatched menu links appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The Book Your Consultation section shows only Choose Treatment and SUBMIT, with no name, phone, email or date fields, and Thanks for submitting! shows before anyone submits.",
+   "cost": "A patient ready to book cannot leave details and you cannot call back.",
+   "fix": "A complete booking form with a real confirmation."
+  },
+  {
+   "problem": "Wrinkle Treatments, Anti Aging Injections and Dermal Fillers all link to one page, Rosacea & Sunspots links to the BBL page, and the Disclaimer link goes to the booking page.",
+   "cost": "Wrong links send patients to the wrong treatment.",
+   "fix": "One correct page per treatment."
+  },
+  {
+   "problem": "The brand appears as EDEN AESTHETICS Clinic, Eden Derma Clinic Dubai Aesthetics and EDEN Aesthetics, and 'Bacial for Back' and 'impants' appear in menus and addresses.",
+   "cost": "Changing names and typos weaken a premium brand.",
+   "fix": "One brand name and proofread copy."
+  },
+  {
+   "problem": "Only one testimonial shows, from 'Amani secret', award images carry no issuing body, and the footer shows the odd code X5FWOSSO.",
+   "cost": "Thin proof and leftover code reduce trust.",
+   "fix": "A full review wall, linked awards and a clean footer."
+  }
+ ],
+ "redesign": [
+  "A complete booking form with WhatsApp.",
+  "One correct page per treatment and one brand name.",
+  "A full review wall with linked awards."
+ ]
+}

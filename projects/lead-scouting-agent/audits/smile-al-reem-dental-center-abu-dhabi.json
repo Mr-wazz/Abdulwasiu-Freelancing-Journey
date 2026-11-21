@@ -1,0 +1,34 @@
+{
+ "business": "Smile Al Reem Dental Center",
+ "owner": "the Smile Al Reem team",
+ "city": "Abu Dhabi, UAE",
+ "website": "smilealreem.com",
+ "summary": "A multi dentist Abu Dhabi centre appears to lose bookings to formatting errors, mixed domains and unnamed proof.",
+ "findings": [
+  {
+   "problem": "Opening hours appear with stray formatting marks such as four asterisks, and headings appear with stray underscores.",
+   "cost": "Visible formatting errors make the practice look unfinished and make hours hard to read.",
+   "fix": "Clean, readable hours and headings."
+  },
+  {
+   "problem": "Service cards appear to point to a different domain than the header and booking links, and some images appear to load over an insecure http address.",
+   "cost": "Mixed domains can break links and trigger browser warnings.",
+   "fix": "One domain with secure links."
+  },
+  {
+   "problem": "The footer appears to say All right reserved, and article previews appear to end in double dots.",
+   "cost": "Typos on a medical site reduce trust.",
+   "fix": "Proofread copy."
+  },
+  {
+   "problem": "Testimonials appear to be five images with names only, insurance accepted appears with no list of insurers, and the map appears to be a static image.",
+   "cost": "Thin proof and a static map make it harder for patients to choose and find you.",
+   "fix": "Dated reviews, a list of insurers and an interactive map."
+  }
+ ],
+ "redesign": [
+  "Clean hours.",
+  "One domain.",
+  "Reviews, insurers and map."
+ ]
+}

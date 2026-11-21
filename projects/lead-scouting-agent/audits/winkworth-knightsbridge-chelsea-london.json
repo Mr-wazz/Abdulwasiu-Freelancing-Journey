@@ -1,0 +1,34 @@
+{
+ "business": "Winkworth Knightsbridge and Chelsea",
+ "owner": "the team",
+ "city": "Knightsbridge, London",
+ "website": "winkworth.co.uk",
+ "summary": "A 4.9 Google rating and a long established Brompton Road office are strengths, but a split valuation button and form glitches appear to cost you instructions.",
+ "findings": [
+  {
+   "problem": "Book A Valuation and Book a valuation appear to link to different pages (book-your-appraisal and request-valuation).",
+   "cost": "Vendors face two paths and some drop out.",
+   "fix": "One clear valuation path."
+  },
+  {
+   "problem": "The contact form appears to show 'Leave a message' and 'Free text' as duplicate fields with no visible submit button, and the office contact appears to list a bare 'admin'.",
+   "cost": "A form that looks broken loses vendor enquiries.",
+   "fix": "A short working form with a clear button."
+  },
+  {
+   "problem": "The page title appears to show '&amp;' and reviews appear to include 'Winckworth', 'necssary', 'foind' and 'seemless'.",
+   "cost": "Raw code and typos in reviews weaken polish.",
+   "fix": "Clean title and checked reviews."
+  },
+  {
+   "problem": "Sold cards appear to show 'Asking Price' with no final price, the 4.9 Google rating appears with no review count, and most reviews share the heading 'Knightsbridge & Chelsea'.",
+   "cost": "Weak sales proof does not win vendors who compare agents.",
+   "fix": "Final sold prices and a review count."
+  }
+ ],
+ "redesign": [
+  "One valuation path and a working form.",
+  "Clean title and checked reviews.",
+  "Sold prices and a review count."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "business": "Orthodontix",
+ "owner": "Dr Roger Hammond and team",
+ "city": "Sydney, Australia",
+ "website": "orthodontix.com.au",
+ "summary": "A two clinic Sydney orthodontic practice appears to lose calls to phone links that look wrong and a messy page title.",
+ "findings": [
+  {
+   "problem": "The tap to call links appear to use +610 and then the number, with an extra 0 after the country code.",
+   "cost": "A mobile visitor who taps to call may hear an error instead of your reception.",
+   "fix": "Correct +61 2 format in every call link."
+  },
+  {
+   "problem": "The numbers appear on the page as +61 (02) 9451-3477, which mixes two formats.",
+   "cost": "A mixed format looks careless and can fail when dialed from abroad.",
+   "fix": "One clean format for both clinics."
+  },
+  {
+   "problem": "The page title appears to end with a stray percent sign after the practice name.",
+   "cost": "Search results and browser tabs show the error to every new patient.",
+   "fix": "A clean title with the practice name and suburb."
+  }
+ ],
+ "redesign": [
+  "Working call links.",
+  "Clean number format.",
+  "Clean page title."
+ ]
+}

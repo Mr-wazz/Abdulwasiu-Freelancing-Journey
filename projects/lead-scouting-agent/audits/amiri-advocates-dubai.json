@@ -1,0 +1,34 @@
+{
+ "business": "Amiri Advocates and Legal Consultants",
+ "owner": "the Amiri Advocates team",
+ "city": "Dubai, UAE",
+ "website": "amiriadvocates.wixsite.com",
+ "summary": "A Dubai advocates firm founded in 2012 appears to lose client trust to a free builder address, a 2017 footer and raw page labels.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address and banner make a law firm look temporary to corporate clients.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "The footer appears to read 2017.",
+   "cost": "An old year suggests the firm is not active online.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "Raw labels such as practice_areas and our_vision appear in the page text.",
+   "cost": "Code labels make the page look unfinished.",
+   "fix": "Real headings for every section."
+  },
+  {
+   "problem": "No WhatsApp appears, only a phone, a fax number and a form.",
+   "cost": "Many clients message first and call later.",
+   "fix": "WhatsApp and a short enquiry form with matter type."
+  }
+ ],
+ "redesign": [
+  "Own domain and branded site.",
+  "Current footer and clean headings.",
+  "WhatsApp and enquiry form."
+ ]
+}

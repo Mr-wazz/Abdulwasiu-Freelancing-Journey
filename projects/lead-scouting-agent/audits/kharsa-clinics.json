@@ -1,0 +1,34 @@
+{
+ "business": "Kharsa Clinics",
+ "owner": "the Kharsa Clinics team",
+ "city": "Olaya, Riyadh",
+ "website": "kharsaclinics.com",
+ "summary": "Kharsa Clinics has 38 years of history, 30,000 smiles and 24 before and after cases. Leftover text, broken profile links and misspellings weaken a clinic that has this much to show.",
+ "findings": [
+  {
+   "problem": "Stray text appears at the top and bottom of the page: Dear User, an in-app browser notice, and For better web experience please use portrait mode. The newsletter field shows youremail@gmail.com as visible text.",
+   "cost": "Leftover system messages make a long established clinic look unmaintained at the first glance.",
+   "fix": "A clean page with no system notices and a proper newsletter field."
+  },
+  {
+   "problem": "The menu and URLs say Testinomials, and the pages are labelled Testinomials-7 to -23. Terms & Conditons is also misspelled.",
+   "cost": "A misspelled Testimonials page on a clinic selling trust undermines the proof it contains.",
+   "fix": "Correctly spelled, clean page names and URLs."
+  },
+  {
+   "problem": "Several profile links point to the wrong people: Mona Taher links to another profile, and five staff profiles use the same chris-don slug. Doctors named in reviews, such as Dr Manal, are not in the roster.",
+   "cost": "A patient who clicks a doctor and lands on someone else, or finds no one, loses confidence in the whole clinic.",
+   "fix": "Correct profile pages for every doctor and a roster that matches your reviews."
+  },
+  {
+   "problem": "Booking goes to a separate page with no inline form. The 24 before and after cases are bare links with no captions or outcomes, and several sections appear twice.",
+   "cost": "Every extra click costs bookings, and uncaptioned results do not prove what you did for each patient.",
+   "fix": "A booking form in the hero and captioned before and after cases beside it."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage that turns 38 years, 30,000 smiles and 24 cases into captioned, visible results.",
+  "A booking form in the hero plus WhatsApp, so a patient books in under 30 seconds.",
+  "Correct doctor profiles and treatment pages in Arabic and English written to rank in search."
+ ]
+}

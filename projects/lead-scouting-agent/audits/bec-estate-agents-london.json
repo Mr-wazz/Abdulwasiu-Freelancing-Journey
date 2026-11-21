@@ -1,0 +1,34 @@
+{
+ "business": "BEC Estate Agents",
+ "owner": "the BEC Estate Agents team",
+ "city": "London, UK",
+ "website": "becestates.wixsite.com/becestates",
+ "summary": "A south west London independent agency appears to lose valuation enquiries to a free builder address, spelling errors and a 2014 footer.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address makes an estate agent look temporary to landlords and sellers.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "Typos such as Mangement, Surronding and mangement appear in the page text.",
+   "cost": "Spelling errors in your own service names weaken trust with owners choosing an agent.",
+   "fix": "Proofread copy on every page."
+  },
+  {
+   "problem": "The footer appears to read 2014.",
+   "cost": "An old year suggests the agency may not be active.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "No WhatsApp and no reviews or sold results appear on the homepage.",
+   "cost": "Owners choose the agent who shows proof and answers fast.",
+   "fix": "Named reviews, sold examples and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Proofread copy.",
+  "Reviews, sold results and WhatsApp."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Mohamed Al Marzooqi Advocates and Consultancy",
+ "owner": "the M and L Advocates team",
+ "city": "Abu Dhabi, Dubai and Ajman",
+ "website": "ml-advocates.com",
+ "summary": "Three UAE offices and a WhatsApp number are strengths, but dead menu links, template labels and no enquiry form appear to cost you clients.",
+ "findings": [
+  {
+   "problem": "Menu items and the Abu Dhabi, Dubai and Ajman headings link to #, and every practice area card links to one generic page.",
+   "cost": "Clients cannot reach the office or service they need.",
+   "fix": "Working menus and a page per practice area."
+  },
+  {
+   "problem": "The label Law Firm / Lawyer appears under all nine practice areas, the Testimonials section shows four identical icons, and the blog link points to a different subdomain.",
+   "cost": "Template text and repeated icons make the firm look unfinished.",
+   "fix": "Real practice descriptions and testimonials."
+  },
+  {
+   "problem": "The firm appears as M&L Advocates & Consultancy, Mohamed Al Marzooqi and Mohammed Al Marzouqi, and the LinkedIn address spells the name with three o's.",
+   "cost": "Changing names weaken trust and search visibility.",
+   "fix": "One consistent firm name."
+  },
+  {
+   "problem": "EMAIL US links to a contact page with no form, and stats such as 11370+ Happy Clients, 5680+ Cases Done and 100+ Awards Won have no sources or dates.",
+   "cost": "Unsourced figures and no form lose enquiries and credibility.",
+   "fix": "A direct enquiry form and sourced, dated figures."
+  }
+ ],
+ "redesign": [
+  "Working menus and a page per practice area.",
+  "A direct enquiry form with WhatsApp.",
+  "Sourced figures, credentials and real testimonials."
+ ]
+}

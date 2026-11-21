@@ -1,0 +1,29 @@
+{
+ "business": "Mulgrave Dental Centre",
+ "owner": "the Mulgrave Dental team",
+ "city": "London, UK",
+ "website": "mulgravedental.com",
+ "summary": "A London dental centre appears to lose new patients to opening hours that read Saturday until 02:00 and a 2023 date.",
+ "findings": [
+  {
+   "problem": "The opening hours appear to say Saturday 09:00 to 02:00.",
+   "cost": "A patient checking Saturday hours sees 2 in the morning, which looks like a typo and makes them call or choose another practice.",
+   "fix": "Correct, clean opening hours."
+  },
+  {
+   "problem": "The footer appears to say Copyright 2023 Mulgrave Dental.",
+   "cost": "An old date makes a patient wonder if the practice is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "No online booking form appears next to the Book Appointment link.",
+   "cost": "Patients who want to book after hours cannot, and they book where they can.",
+   "fix": "Online booking on the page and a one tap text button."
+  }
+ ],
+ "redesign": [
+  "Correct hours.",
+  "Current page.",
+  "Online booking and text."
+ ]
+}

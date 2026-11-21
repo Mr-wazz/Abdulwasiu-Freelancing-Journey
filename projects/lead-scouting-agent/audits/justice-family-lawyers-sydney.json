@@ -1,0 +1,34 @@
+{
+ "business": "Justice Family Lawyers",
+ "owner": "the Justice Family Lawyers team",
+ "city": "Sydney, Australia",
+ "website": "justicefamilylawyers.com.au",
+ "summary": "A Sydney family law firm with named lawyers and awards appears to lose enquiries to empty sections, repeated messages and no way to book online.",
+ "findings": [
+  {
+   "problem": "The Year 2026, 2025 and 2024 labels and the Family Law Explainers block appear to show no content under them.",
+   "cost": "Empty blocks make the firm look unfinished.",
+   "fix": "Fill or remove empty sections."
+  },
+  {
+   "problem": "The same award appears to be listed under different names, and Send Us A Message appears about seven times.",
+   "cost": "Inconsistent awards weaken credibility and repeated prompts add noise.",
+   "fix": "One clean awards row and one clear contact path."
+  },
+  {
+   "problem": "A 4.9 rating from over 248 Google reviews appears to be linked out with no review quotes on the page.",
+   "cost": "Worried clients want to read what others said before they call.",
+   "fix": "Real review quotes on the page."
+  },
+  {
+   "problem": "Book a consultation online appears to open the general contact page, and no opening hours appear.",
+   "cost": "Clients in a hard moment give up when the next step is unclear.",
+   "fix": "A real consultation booking with hours shown."
+  }
+ ],
+ "redesign": [
+  "Clean awards and no empty sections.",
+  "Review quotes on the page.",
+  "A real booking flow with hours."
+ ]
+}

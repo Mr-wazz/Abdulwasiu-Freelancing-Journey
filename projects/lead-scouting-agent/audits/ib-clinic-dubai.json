@@ -1,0 +1,33 @@
+{
+ "business": "Invisible Braces Clinic",
+ "owner": "Dr Nikhil Sharma",
+ "city": "Sheikh Zayed Road, Dubai",
+ "website": "ibclinic.ae",
+ "summary": "You focus on braces and Invisalign with multiple WhatsApp routes, but conflicting contact details, placeholders and mixed messaging cost trust.",
+ "findings": [
+  {
+   "problem": "The orthodontic booking buttons use WhatsApp +971 58 875 9233 while the other buttons use +971 55 529 6155.",
+   "cost": "Patients message different numbers and some enquiries get lost.",
+   "fix": "One checked WhatsApp number."
+  },
+  {
+   "problem": "The footer postal code reads Dubai - 0000, the address is written two ways, and the clinic appears in at least five forms (Invisible Braces Clinic Dubai, IB Clinic and others).",
+   "cost": "Placeholder details and changing names look unfinished.",
+   "fix": "One name, one address."
+  },
+  {
+   "problem": "Treatment time is 6 to 24 months in one place and 12 to 24 months in the FAQ, and the page says we focus exclusively on braces while the menu lists skin treatments and laser hair removal.",
+   "cost": "Conflicting messages confuse patients.",
+   "fix": "Consistent facts and a clear focus."
+  },
+  {
+   "problem": "We're Accepting New Patients is an empty heading, social links go to #, Dental Implants links to a Crowns page, and the review widget says 9 reviews but shows seven, including a root canal review.",
+   "cost": "Empty sections and mismatched reviews weaken proof.",
+   "fix": "Complete sections and relevant reviews."
+  }
+ ],
+ "redesign": [
+  "One WhatsApp number, one name and one address.",
+  "Complete sections, relevant reviews and a captioned before and after gallery."
+ ]
+}

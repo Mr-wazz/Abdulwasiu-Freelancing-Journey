@@ -1,0 +1,33 @@
+{
+ "business": "M1 Med Beauty",
+ "owner": "the M1 Med Beauty team",
+ "city": "George Street, Sydney CBD",
+ "website": "m1-beauty.com.au",
+ "summary": "M1 Med Beauty has clear treatment categories, a free consultation and a persistent Book Now button. A location error and no proof reduce confidence in a doctor led clinic.",
+ "findings": [
+  {
+   "problem": "The Melbourne paragraph says M1 Med Beauty Melbourne is located in Dymocks Building Suite 12, but gives a Sydney address on George Street. No Melbourne address appears.",
+   "cost": "A patient who reads the wrong address may go to the wrong clinic, and it makes the page look careless.",
+   "fix": "One correct address per clinic."
+  },
+  {
+   "problem": "No reviews, testimonials or before and after images appear, and no doctors are named, even though the page says experienced and qualified doctors perform treatments.",
+   "cost": "Injectable patients decide on proof and on who treats them. Without it, the claim is just words.",
+   "fix": "Named doctors with credentials, reviews and captioned results."
+  },
+  {
+   "problem": "Booking is a separate page with no form or chat. CTA wording varies (Book NOW, Book now, BOOK YOUR FREE CONSULTATION), and the free consultation is not explained.",
+   "cost": "A patient is unsure what they get for free and how to claim it.",
+   "fix": "A short booking form and one clear free consultation offer."
+  },
+  {
+   "problem": "Treatment lists repeat in the menus and again in the main section, the heading Aesthetic treatments appears twice, and hours show Monday to Friday only.",
+   "cost": "Repeated lists make the page long, and missing weekend hours cost bookings.",
+   "fix": "A simpler page and clear opening hours."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with named doctors, reviews and captioned results beside every booking button.",
+  "A clean booking form, a clear free consultation offer and correct clinic details."
+ ]
+}

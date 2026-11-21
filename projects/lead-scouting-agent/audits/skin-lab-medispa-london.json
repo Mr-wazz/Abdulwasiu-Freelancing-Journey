@@ -1,0 +1,34 @@
+{
+ "business": "Skin Lab Medispa",
+ "owner": "the Skin Lab Medispa team",
+ "city": "London, UK",
+ "website": "skinlabmedispa.co.uk",
+ "summary": "A Marylebone medical aesthetics clinic with a 5.0 rating appears to lose bookings to empty review sections, thin pricing and unclear links.",
+ "findings": [
+  {
+   "problem": "The section 161 Patients. One Common Thread. appears to show no reviews, and the Google rating appears claimed but not shown.",
+   "cost": "A rating with no visible quotes asks the patient to take your word for it.",
+   "fix": "Real review quotes and a link to the source."
+  },
+  {
+   "problem": "View Marylebone appears to link to the homepage and View All Treatments appears to open the booking page.",
+   "cost": "Links that go to the wrong place frustrate patients ready to explore.",
+   "fix": "Correct links to a clinic page and a treatment list."
+  },
+  {
+   "problem": "Only three treatments appear to show a price, and no opening hours appear despite a same week appointments claim.",
+   "cost": "Patients who cannot see price or hours compare other clinics.",
+   "fix": "A fee guide and visible opening hours."
+  },
+  {
+   "problem": "The footer appears to read MONUMEN and treatment names appear in two spellings.",
+   "cost": "Small errors lower trust at a premium price point.",
+   "fix": "Proofread copy and one spelling."
+  }
+ ],
+ "redesign": [
+  "Review quotes and ratings shown.",
+  "Correct links and a fee guide.",
+  "Visible hours and clean copy."
+ ]
+}

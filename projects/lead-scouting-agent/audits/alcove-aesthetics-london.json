@@ -1,0 +1,33 @@
+{
+ "business": "Alcove Aesthetics",
+ "owner": "Dr Goziem",
+ "city": "Pall Mall, London",
+ "website": "alcoveaesthetics.com",
+ "summary": "Your Pall Mall clinic has Google reviews and a calm, discreet positioning, but template code and conflicting details show on the page.",
+ "findings": [
+  {
+   "problem": "The cookie banner shows {title} three times and Manage {vendor_count} vendors. The newsletter form shows name twice and no visible email field.",
+   "cost": "Unfilled code at the first screen looks careless on a premium clinic.",
+   "fix": "A clean banner and working sign up form."
+  },
+  {
+   "problem": "Session length is 15-30 minutes in one place, 30 in another and about 10 to 20 in the FAQ. Results appear within a few days in the FAQ and in 10-14 days in the summary.",
+   "cost": "Conflicting facts make patients doubt the information.",
+   "fix": "One consistent treatment summary."
+  },
+  {
+   "problem": "No booking form. Book Now repeats about six times to a separate page, WhatsApp is only in the footer, and no prices show.",
+   "cost": "Patients who want to book or check cost have to dig, and many leave.",
+   "fix": "A short form, a visible WhatsApp button and from prices."
+  },
+  {
+   "problem": "No before and after photos. Typos include injections injections and a anti-wrinkle. The email is info@drgoziem.com, a different name from the brand.",
+   "cost": "Cosmetic patients choose on proof, and small errors weaken trust.",
+   "fix": "Captioned results, proofread copy and a brand email."
+  }
+ ],
+ "redesign": [
+  "A booking form and WhatsApp button on every page, with from prices.",
+  "Captioned results and one clear, consistent treatment page."
+ ]
+}

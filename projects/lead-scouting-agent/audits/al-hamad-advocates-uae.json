@@ -1,0 +1,34 @@
+{
+ "business": "Al Hamad Advocates and Legal Consultant",
+ "owner": "the Al Hamad Advocates team",
+ "city": "United Arab Emirates",
+ "website": "alhamadadvo.wixsite.com/website",
+ "summary": "A UAE law firm appears to lose clients to generic consulting copy, a free builder address and a hotmail contact.",
+ "findings": [
+  {
+   "problem": "The copy appears to be generic consulting text, such as Branding & Positioning Analysis and Grow Your Business, and it names no legal practice areas.",
+   "cost": "A visitor looking for a lawyer cannot see whether you handle their case, so they call a firm that names it.",
+   "fix": "Real practice areas written for your clients."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "A free builder address looks temporary for a law firm.",
+   "fix": "Your own domain and a firm email."
+  },
+  {
+   "problem": "The contact appears to be a hotmail address and one phone number, with no WhatsApp.",
+   "cost": "A free email gives less trust, and clients who want a quick message have no easy way to send one.",
+   "fix": "A firm email and a one tap WhatsApp button."
+  },
+  {
+   "problem": "The page appears to carry a 2019 copyright date, and the menu appears to have only Home and Book Online.",
+   "cost": "A thin, dated page gives a visitor little reason to trust the firm with a case.",
+   "fix": "Practice pages, team profiles and an enquiry form."
+  }
+ ],
+ "redesign": [
+  "Real practice area copy.",
+  "Own domain and firm email.",
+  "Team pages and WhatsApp."
+ ]
+}

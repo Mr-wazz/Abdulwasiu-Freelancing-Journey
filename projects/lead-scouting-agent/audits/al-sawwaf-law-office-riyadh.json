@@ -1,0 +1,34 @@
+{
+ "business": "The Law Office of Dr Mujahid Al-Sawwaf",
+ "owner": "the Al-Sawwaf Law Office team",
+ "city": "Riyadh, Saudi Arabia",
+ "website": "sawwaf.weebly.com",
+ "summary": "A Saudi law office with a Riyadh branch appears to lose international clients to a free builder address, a template footer and a thin contact path.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Weebly address, with a footer that says Powered by Create your own unique website.",
+   "cost": "A builder advert in the footer looks unprofessional for a top litigation and finance firm.",
+   "fix": "Your own domain and a branded footer."
+  },
+  {
+   "problem": "No contact form or WhatsApp appears, only postal boxes, telephone numbers and an E-mail us link.",
+   "cost": "International clients expect to send a short enquiry in one step.",
+   "fix": "A short enquiry form and WhatsApp."
+  },
+  {
+   "problem": "A Largest litigation practice in Saudi Arabia claim appears with no source, rankings or case examples.",
+   "cost": "An unproven claim gives way to firms that show rankings and results.",
+   "fix": "Cite rankings and add case examples."
+  },
+  {
+   "problem": "The homepage appears to be a short block of text with no lawyer photos or names on the first page.",
+   "cost": "Clients hire people they can see.",
+   "fix": "Lawyer profiles on the homepage."
+  }
+ ],
+ "redesign": [
+  "Own domain and branded footer.",
+  "Enquiry form and WhatsApp.",
+  "Proof and lawyer profiles."
+ ]
+}

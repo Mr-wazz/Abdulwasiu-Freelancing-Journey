@@ -1,0 +1,29 @@
+{
+ "business": "Traynor and Co",
+ "owner": "the Traynor and Co team",
+ "city": "London, UK",
+ "website": "traynor.co.uk",
+ "summary": "A Crouch End letting agent appears to lose landlords to a default page title, a 2015 copyright date and no quick message option.",
+ "findings": [
+  {
+   "problem": "The page title appears as HOME | index, a default Wix name, and not Traynor and Co.",
+   "cost": "This is what Google and browser tabs show, so landlords searching for an agent do not see who you are.",
+   "fix": "A title with your firm name and Crouch End."
+  },
+  {
+   "problem": "The footer appears to say 2015 Traynor and Co Ltd.",
+   "cost": "An old date makes a landlord wonder if the agent is still active, even for a firm managing half a billion pounds of property.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "No WhatsApp or online valuation form appears, only the Contact page.",
+   "cost": "Landlords with a quick question message first, and the agent who answers first gets the instruction.",
+   "fix": "A one tap WhatsApp button and a valuation form."
+  }
+ ],
+ "redesign": [
+  "Correct title.",
+  "Current page.",
+  "Valuation form and WhatsApp."
+ ]
+}

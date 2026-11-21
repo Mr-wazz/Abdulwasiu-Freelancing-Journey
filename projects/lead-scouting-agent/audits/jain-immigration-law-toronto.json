@@ -1,0 +1,34 @@
+{
+ "business": "Jain Immigration Law",
+ "owner": "Ravi Jain",
+ "city": "Toronto, Canada",
+ "website": "jainimmigrationlaw.com",
+ "summary": "A 26 year Toronto immigration practice with a named team is a strength, but a contact form with no visible submit button and clashing claims appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The contact form appears to list its fields with no visible submit button, and a spam trap line reads 'Leave this Blank if are sentient'.",
+   "cost": "A client ready to book a consultation cannot finish the form, and the odd wording looks unfinished.",
+   "fix": "A clear working form with a visible button and a confirmation message."
+  },
+  {
+   "problem": "The hero appears to say 26 years of experience while the About section says over 20 years, and Business and Corporate Immigration cards appear to share the identical description.",
+   "cost": "Mixed claims and copied text make a law firm look careless to a client choosing a lawyer.",
+   "fix": "One verified experience claim and a distinct description for each service."
+  },
+  {
+   "problem": "Ali Hosseini's team link appears to point to a page named marharyta-liva, and the word 'Inadmissability' appears misspelled in a heading.",
+   "cost": "Wrong profile links and typos send clients to the wrong lawyer and weaken trust.",
+   "fix": "Correct team links and proofread copy."
+  },
+  {
+   "problem": "The footer appears to read 2025 while posts are dated 2026, images carry template file names, and no testimonials or case results appear beside unlabeled award logos.",
+   "cost": "Stale dates and missing proof give a nervous applicant little reason to pick you over another firm.",
+   "fix": "Named testimonials, labeled awards and a current footer."
+  }
+ ],
+ "redesign": [
+  "A working consultation form with a visible button.",
+  "One clear experience claim and distinct service pages.",
+  "Correct team links, proofread copy and visible client proof."
+ ]
+}

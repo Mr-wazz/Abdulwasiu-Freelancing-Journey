@@ -1,0 +1,34 @@
+{
+ "business": "Horizon Dental Clinics",
+ "owner": "the Horizon Dental team",
+ "city": "Al-Nahda, Riyadh",
+ "website": "horizondent.com",
+ "summary": "Horizon has 13 doctors, bilingual pages, WhatsApp and Google reviews. A few visible errors and conflicting numbers make a new patient hesitate right before booking.",
+ "findings": [
+  {
+   "problem": "A stray No results line appears at the top of the page above the header, and one review card shows a raw screenshot file name.",
+   "cost": "Visible leftovers make a clinic look unfinished at the first glance, before the patient reads anything.",
+   "fix": "A clean page with no leftover or system text."
+  },
+  {
+   "problem": "The hero says +870 trusted customers while the counter says +23000. A reviewer names Dr. Selena, who is not on the staff list, and Dr. Omar appears under two spellings.",
+   "cost": "Conflicting numbers make patients doubt every claim on the page.",
+   "fix": "One verified set of numbers and a staff list that matches your reviews."
+  },
+  {
+   "problem": "Seven doctors share the same generic image and several others share a Female Dentist placeholder.",
+   "cost": "Patients choose who treats them. Without real photos, 13 doctors look like none.",
+   "fix": "Real doctor profiles with photos, specialty and credentials."
+  },
+  {
+   "problem": "There is no booking form on the homepage. Visitors must leave to book, and no before and after results or review count appear.",
+   "cost": "Every extra click costs bookings, and unproven claims such as best price and world class do not persuade.",
+   "fix": "A booking form in the hero, a review count and captioned before and after cases."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage with real doctor photos, a review count and captioned smile cases beside every booking button.",
+  "A booking form in the hero plus WhatsApp, so a patient books in under 30 seconds.",
+  "Treatment pages in Arabic and English written to rank for searches like dental implants Riyadh."
+ ]
+}

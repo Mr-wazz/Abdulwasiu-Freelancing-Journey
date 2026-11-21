@@ -1,0 +1,33 @@
+{
+ "business": "Sydney Cosmetic Dentist",
+ "owner": "Dr Peter Poulos",
+ "city": "Bondi Junction, Sydney",
+ "website": "sydneycosmeticdentist.com.au",
+ "summary": "Twenty years in Bondi Junction and a 4.9 rating are strong, but conflicting phone numbers, dead menus and template leftovers cost you enquiries.",
+ "findings": [
+  {
+   "problem": "Two phone numbers appear: 02 5502 1236 on the page and (02) 8999 3795 behind the Call Now button.",
+   "cost": "Patients may reach a different line than the one they see, and some calls are lost.",
+   "fix": "One checked number everywhere."
+  },
+  {
+   "problem": "The Patients, Prices and Blog menu items link to #, and several buttons point to #open, #book and #pricelist anchors.",
+   "cost": "Patients looking for prices or booking hit dead ends.",
+   "fix": "Working menus and a clear price list page."
+  },
+  {
+   "problem": "Leftover text shows: Circle IconArrow Icon, This field is for validation purposes and should be left unchanged, and No results found. after the case studies. Several blocks appear twice.",
+   "cost": "Template debris makes a premium practice look unfinished.",
+   "fix": "Clean content with each section shown once."
+  },
+  {
+   "problem": "The page claims 4.9 stars and 85+ Google reviews but shows no review text, no before and after images appear, and 21 years conflicts with since 2006.",
+   "cost": "Veneer and implant patients want proof, and conflicting claims weaken it.",
+   "fix": "A review wall, captioned results and consistent facts."
+  }
+ ],
+ "redesign": [
+  "One phone number, clean menus and a simple booking path.",
+  "A Google review wall and a captioned before and after gallery."
+ ]
+}

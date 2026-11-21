@@ -1,0 +1,34 @@
+{
+ "business": "ABK Real Estate",
+ "owner": "the ABK Real Estate team",
+ "city": "Al Sadd, Doha",
+ "website": "abkre.qa",
+ "summary": "ABK Real Estate has a working property search and active listings. The site leaks leads: the contact links are placeholders and there is no WhatsApp, which is how Qatar property buyers prefer to ask.",
+ "findings": [
+  {
+   "problem": "The footer email link points to contact@mysite.com and the footer phone link to tel:123-456-7890. Both are template placeholders, while the visible text shows your real details.",
+   "cost": "A buyer who taps the email or phone link reaches nobody, and you lose a lead you paid to attract.",
+   "fix": "Correct, tested links across the whole site."
+  },
+  {
+   "problem": "There is no WhatsApp button anywhere. The enquiry forms show no visible labels or privacy note, and Inqiure Now is a typo.",
+   "cost": "Property buyers in Doha message on WhatsApp first. Without it, they message the next agency.",
+   "fix": "WhatsApp on every listing, plus a clear enquiry form with a confirmation message."
+  },
+  {
+   "problem": "No testimonials, agent profiles or licence number appear, and the News and several popup links go to #.",
+   "cost": "Buyers and landlords trust agents they can see. Anonymous agencies lose the listing to a named competitor.",
+   "fix": "Agent profiles, client reviews and your licence number on the homepage."
+  },
+  {
+   "problem": "Typos and repeats: Commmercial, AlMuraikh, duplicate locations such as Wukair and Wakair, listing text cut off mid sentence, and the same featured listings shown twice.",
+   "cost": "Unfinished listings and typos make the agency look careless to a buyer comparing agencies.",
+   "fix": "Clean, proofread listings and one consistent location list."
+  }
+ ],
+ "redesign": [
+  "A lead first homepage: property search, WhatsApp on every listing and a clear enquiry form.",
+  "Agent profiles, client reviews and licence details that make buyers trust you before the first call.",
+  "Area pages written to rank for searches like apartments for rent in Al Sadd Doha."
+ ]
+}

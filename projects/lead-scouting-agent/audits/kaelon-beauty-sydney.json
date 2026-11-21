@@ -1,0 +1,34 @@
+{
+ "business": "Kaelon Beauty",
+ "owner": "the team",
+ "city": "Sydney, Australia",
+ "website": "kaelonbeauty.com",
+ "summary": "A Sydney skin and beauty brand with treatments and a shop is a strength, but five dead menu links and leftover template text appear to cost you sales and bookings.",
+ "findings": [
+  {
+   "problem": "Five menu items (By Concern, Collections, Bath and Body, Brands A to K and Brands L to Z) appear to link to #.",
+   "cost": "Shoppers who browse by concern or brand land nowhere and leave.",
+   "fix": "Working collection pages for every menu item."
+  },
+  {
+   "problem": "The text 'Describe what your customers will receive when subscribing to your newsletter' and the carousel labels 'Go to item 1 Go to item 2' appear visibly on the page.",
+   "cost": "Leftover template text makes a premium brand look unfinished.",
+   "fix": "Clean, finished copy and hidden carousel labels."
+  },
+  {
+   "problem": "The practitioner name appears as Madonna in one review and Madona in three others, and Lip Balm appears to link to the same page as Treatments and Serums.",
+   "cost": "Spelling and link mismatches weaken trust and confuse shoppers.",
+   "fix": "Consistent names and correct links."
+  },
+  {
+   "problem": "Testimonials appear with no dates, ratings or surnames, one attributed to 'DIY VACATION', and one appears to say the client is now overseas.",
+   "cost": "Thin and odd proof gives a new customer little reason to trust the brand.",
+   "fix": "Verified reviews with dates and ratings."
+  }
+ ],
+ "redesign": [
+  "Working menu and collection pages.",
+  "Finished, clean copy.",
+  "Consistent names, verified reviews and correct links."
+ ]
+}

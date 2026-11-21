@@ -1,0 +1,34 @@
+{
+ "business": "Avion Law",
+ "owner": "the Avion Law team",
+ "city": "Etobicoke, Canada",
+ "website": "avionlaw.ca",
+ "summary": "Flat fee pricing is a strong selling point, but the fee placeholders and appointment wording appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "Every flat fee appears to read [Fee] call for current flat fee, so the prices that make the firm stand out are missing.",
+   "cost": "Clients comparing flat fee lawyers may leave for a firm that shows a price.",
+   "fix": "Real fee ranges or a from price on each service."
+  },
+  {
+   "problem": "The logo and footer practice links appear to point to # and page anchors, so every practice area in the footer goes to the same place.",
+   "cost": "Visitors cannot reach a page for their specific matter.",
+   "fix": "One page per practice area with its own link."
+  },
+  {
+   "problem": "Hours appear as Monday to Friday 9:00 to 17:30 while other text says by appointment only and walk-in notary service.",
+   "cost": "Mixed messages make people unsure whether to call, visit or book.",
+   "fix": "One clear rule for hours, walk-ins and appointments."
+  },
+  {
+   "problem": "No lawyer name, photo, credentials, reviews or results appear to be shown.",
+   "cost": "People hire a lawyer they can see and trust.",
+   "fix": "A named lawyer profile and visible client reviews."
+  }
+ ],
+ "redesign": [
+  "Real flat fee prices.",
+  "Working links per service.",
+  "Lawyer profile, reviews and a booking form."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "business": "Estellia Aesthetic",
+ "owner": "the Estellia Aesthetic team",
+ "city": "London, UK",
+ "website": "estelliaaesthetic.com",
+ "summary": "A West Drayton skin clinic appears to lose bookings to a 2021 copyright date, a gmail contact and no WhatsApp.",
+ "findings": [
+  {
+   "problem": "The footer appears to say 2021 by Estellia Aesthetic.",
+   "cost": "An old date makes a client wonder if the clinic is still active.",
+   "fix": "A current page."
+  },
+  {
+   "problem": "The contact appears to be a gmail address and one mobile number.",
+   "cost": "A free email gives less trust for a clinic that offers injectables and medical treatments.",
+   "fix": "A clinic email on your own domain."
+  },
+  {
+   "problem": "No WhatsApp appears, though a mobile number is shown.",
+   "cost": "Clients book aesthetic treatments by message, and the clinic that replies first wins the booking.",
+   "fix": "A one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Current page.",
+  "Own email domain.",
+  "WhatsApp and online booking."
+ ]
+}

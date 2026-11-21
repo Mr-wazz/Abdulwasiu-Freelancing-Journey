@@ -1,0 +1,34 @@
+{
+ "business": "Lewis & Associates LLP",
+ "owner": "Jacqueline Lewis and the team",
+ "city": "Toronto",
+ "website": "lewislegal.ca",
+ "summary": "A big named team and a free consultation for refugee clients are strengths, but copy errors and conflicting numbers appear to cost you trust and enquiries.",
+ "findings": [
+  {
+   "problem": "The page appears to say Immigration and Refuge Law, Law is complicate matter, and All Right Reserved, and the alt text spells Adam Wawrzkiewigz while the heading says Wawrzkiewicz.",
+   "cost": "Typos on a law firm homepage cost trust before the first call.",
+   "fix": "Proofread copy across the site."
+  },
+  {
+   "problem": "Menu parents such as Legal Services, Visitors, Students and Workers appear to link to #, and Family Class, Express Entry and Citizenship all appear to go to the same immigration law page.",
+   "cost": "Clients looking for a specific service find the same page every time.",
+   "fix": "Dedicated service pages that rank on Google."
+  },
+  {
+   "problem": "The page says Canada's Largest Immigration and Refugee Law Firm and also this boutique law firm, Trusted By 10,000+ Clients beside more than 2000 clients, and team of 25 with 13 profiles shown.",
+   "cost": "Conflicting numbers weaken every other claim.",
+   "fix": "Verified figures stated once."
+  },
+  {
+   "problem": "Booking is a link with no visible form, there is no WhatsApp, and trust badges appear to use blank placeholder images.",
+   "cost": "Clients in urgent cases leave when contact is hard.",
+   "fix": "Online booking with WhatsApp and real badges."
+  }
+ ],
+ "redesign": [
+  "Dedicated service pages and booking form.",
+  "One set of verified numbers and proof.",
+  "Clean, proofread, mobile first pages."
+ ]
+}

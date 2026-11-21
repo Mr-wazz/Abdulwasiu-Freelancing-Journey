@@ -1,0 +1,34 @@
+{
+ "business": "Cosmetic Clinic Jeddah",
+ "owner": "the team",
+ "city": "Jeddah and Riyadh",
+ "website": "cosmeticlinicjeddah.com",
+ "summary": "Hair transplant, plastic surgery and a WhatsApp button are strengths, but a dead booking button and conflicting numbers appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "The Request An Appointment button and the header Appointment link appear to link to #, so the main booking button goes nowhere.",
+   "cost": "A patient ready to book hits a dead end.",
+   "fix": "A working booking form."
+  },
+  {
+   "problem": "The header number appears as +966582719430 while the floating WhatsApp button uses +966591087287.",
+   "cost": "Patients do not know which number is real.",
+   "fix": "One verified WhatsApp number."
+  },
+  {
+   "problem": "The page appears to promise 'Best Cosmetic Clinic in Jeddah and Riyadh' but shows only a Jeddah address with no street, and the copyright appears as 'Copyright All rights reserved' with no year.",
+   "cost": "Vague locations and an unfinished footer weaken trust.",
+   "fix": "Street addresses per city and a current footer."
+  },
+  {
+   "problem": "Typos appear such as 'cosmetic rap', 'Discaimer' and 'Cosmetc Clinic', only four first name testimonials appear, and a blog excerpt appears to end mid word.",
+   "cost": "Errors and thin proof lose patients who compare clinics.",
+   "fix": "Proofread copy and dated, named reviews."
+  }
+ ],
+ "redesign": [
+  "Working booking and one WhatsApp number.",
+  "Street addresses and a current footer.",
+  "Proofread copy and real reviews."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Prudential Dental Clinic",
+ "owner": "the Prudential Dental team",
+ "city": "Sydney CBD",
+ "website": "prudentialdental.com.au",
+ "summary": "Two clinics and a clear veneers offer are strengths, but wrong copy on the veneers page and several booking paths appear to cost you cosmetic patients.",
+ "findings": [
+  {
+   "problem": "The veneers page describes veneers as thin, custom made implants, and a line about orthodontists, brackets and bands appears to be braces copy pasted onto the page.",
+   "cost": "Wrong facts on a cosmetic page confuse patients and weaken trust.",
+   "fix": "Accurate, dentist reviewed veneer copy."
+  },
+  {
+   "problem": "Typos include 'Prior the placement of your veneers', 'Are there Alternative to Veneers' and an image named Dental-Venners.png.",
+   "cost": "Spelling errors reduce trust in cosmetic work.",
+   "fix": "Proofread copy."
+  },
+  {
+   "problem": "Book In CBD Now, Book Your Appointment, Request Booking and Contact Us Today go to different places and no booking form appears on the page.",
+   "cost": "Mixed booking paths lose patients who were ready to book.",
+   "fix": "One booking path with a form and WhatsApp."
+  },
+  {
+   "problem": "The page shows no testimonials, before and after examples, pricing or dentist credentials, and a link slug points to Surry Hills although it is not a listed clinic.",
+   "cost": "Cosmetic patients decide on proof and see none.",
+   "fix": "Captioned cases, reviews and named dentists."
+  }
+ ],
+ "redesign": [
+  "Accurate veneers copy and a captioned results gallery.",
+  "One booking path with a form and WhatsApp.",
+  "Named dentists, reviews and clear pricing guidance."
+ ]
+}

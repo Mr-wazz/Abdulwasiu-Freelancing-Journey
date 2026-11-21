@@ -1,0 +1,29 @@
+{
+ "business": "Fresh Smiles Dental Hygiene Clinic",
+ "owner": "the Fresh Smiles team",
+ "city": "Toronto, Canada",
+ "website": "freshsmiles.ca",
+ "summary": "An Etobicoke hygiene clinic appears to lose new clients to a yahoo contact and no online booking.",
+ "findings": [
+  {
+   "problem": "The only email shown appears to be a yahoo.ca address.",
+   "cost": "A free email gives less trust, and it can land in spam when clients write to you.",
+   "fix": "A clinic email on your own domain."
+  },
+  {
+   "problem": "No online booking link appears in the menu, only Contact.",
+   "cost": "Clients who want to book at night cannot, and they book where they can.",
+   "fix": "Online booking on the page."
+  },
+  {
+   "problem": "No text or WhatsApp option appears next to the phone number.",
+   "cost": "Clients who want a quick answer message first.",
+   "fix": "A one tap text button."
+  }
+ ],
+ "redesign": [
+  "Own email domain.",
+  "Online booking.",
+  "Reviews and quick contact."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Search Realty Corp (MrTorontoRealtor)",
+ "owner": "the Search Realty team",
+ "city": "Toronto, Canada",
+ "website": "mrtorontorealtor.wixsite.com/mrtorontorealtor",
+ "summary": "A Toronto pre construction broker appears to lose buyers to a free builder address, a 2017 date and typos in its copy.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address with a Wix banner, though your email uses mrtorontorealtor.com.",
+   "cost": "Buyers who find the long builder address trust it less than a clean domain.",
+   "fix": "Your own domain connected to the site."
+  },
+  {
+   "problem": "The copy appears to say find the perfect tent for your property, which seems to mean tenant, and it writes Gta.",
+   "cost": "Typos on a page that sells property make a buyer doubt the broker's attention to detail.",
+   "fix": "Proofread copy on every page."
+  },
+  {
+   "problem": "The page appears to carry a 2017 copyright date.",
+   "cost": "An old date makes the site look abandoned, and buyers pick an active broker.",
+   "fix": "A fresh, current page."
+  },
+  {
+   "problem": "No WhatsApp appears, and enquiries appear to rely on a phone number and an email.",
+   "cost": "Pre construction buyers compare many brokers and message the first one that answers.",
+   "fix": "A one tap WhatsApp button and an enquiry form."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Proofread copy.",
+  "WhatsApp and enquiry form."
+ ]
+}

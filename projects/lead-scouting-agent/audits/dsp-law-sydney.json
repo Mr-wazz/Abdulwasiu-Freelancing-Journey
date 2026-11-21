@@ -1,0 +1,34 @@
+{
+ "business": "DSP Law",
+ "owner": "the DSP Law team",
+ "city": "Sydney, Australia",
+ "website": "dsplaw.com.au",
+ "summary": "A Sydney conveyancing practice appears to lose enquiries because no quote form exists and the site shows unfinished content.",
+ "findings": [
+  {
+   "problem": "Contact appears to rely on phone, text and email only, with no enquiry or quote form.",
+   "cost": "Owners and buyers who want a quote in writing have no easy way to ask.",
+   "fix": "A short quote request form."
+  },
+  {
+   "problem": "The page appears to say We will include more information in these areas in due course, and Conveyancing and Other areas of Law menu items appear to have no destination.",
+   "cost": "Unfinished sections make the firm look inactive.",
+   "fix": "Complete service pages."
+  },
+  {
+   "problem": "Typos such as letters of administation and whatsapp appear, and the footer appears to show 2023.",
+   "cost": "Typos and old dates weaken trust in a legal service.",
+   "fix": "Proofread copy and a current date."
+  },
+  {
+   "problem": "The only address appears to be a PO Box, and no fees, reviews or lawyer names appear despite the promise of low cost fees.",
+   "cost": "Clients want to see who they are hiring and what it costs.",
+   "fix": "Named lawyers, fee guidance and reviews."
+  }
+ ],
+ "redesign": [
+  "Quote form.",
+  "Complete pages.",
+  "Lawyer profiles, fees and reviews."
+ ]
+}

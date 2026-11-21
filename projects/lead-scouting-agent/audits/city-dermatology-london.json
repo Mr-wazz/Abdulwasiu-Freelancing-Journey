@@ -1,0 +1,34 @@
+{
+ "business": "City Dermatology Clinic",
+ "owner": "the City Dermatology team",
+ "city": "Harley Street, London",
+ "website": "citydermatologyclinic.com",
+ "summary": "A large review count and a multi doctor team are strengths, but leaked form text, repeated reviews and blank images appear to weaken the page.",
+ "findings": [
+  {
+   "problem": "Both Treatments menu items link to #, and ENQUIRE NOW and View Map use popup anchors instead of real pages.",
+   "cost": "Visitors cannot browse treatments from the main menu.",
+   "fix": "Working menus and real destinations."
+  },
+  {
+   "problem": "The callback form shows This field is for validation purposes and should be left unchanged, plus a stray symbol and a lone First label.",
+   "cost": "Leftover form text looks unfinished at the point of enquiry.",
+   "fix": "A clean, tested form."
+  },
+  {
+   "problem": "The review block appears twice, with the same reviews shown under first names and then full names, and about 25 images appear to be blank placeholders.",
+   "cost": "Repeated reviews and blank images look like an error.",
+   "fix": "One review wall and real images."
+  },
+  {
+   "problem": "Saturday hours read 9am to 6pm in the body and 9am to 7pm in the footer, and doctor names vary between reviews and the doctor list.",
+   "cost": "Mixed details cause confusion and missed visits.",
+   "fix": "One verified set of hours and names."
+  }
+ ],
+ "redesign": [
+  "Working menus and a clean enquiry form with WhatsApp.",
+  "One review wall and real images.",
+  "Consistent hours and doctor names across the site."
+ ]
+}

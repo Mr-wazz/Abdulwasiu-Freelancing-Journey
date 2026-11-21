@@ -1,0 +1,34 @@
+{
+ "business": "The Skin Lab",
+ "owner": "the Skin Lab team",
+ "city": "Al Bateen, Abu Dhabi",
+ "website": "theskinlab.ae",
+ "summary": "The Skin Lab has a 4.8 rating from 415 Google reviews, video testimonials and a licence number. The booking path is message only and a few details look unfinished.",
+ "findings": [
+  {
+   "problem": "Every main button points to #enquire, and the page describes a message only flow. No consultation fee or price is shown anywhere.",
+   "cost": "A patient who cannot book directly or see a price hesitates, and many will pick a clinic with instant booking.",
+   "fix": "Online booking with date and time, and starting prices for top treatments."
+  },
+  {
+   "problem": "The FAQ says you are open including public holidays, then says you are closed on National Day and two Eid holidays. The footer hours read Monday to Sunday09:00 to 21:00.",
+   "cost": "Contradictory hours cause wasted visits and bad reviews.",
+   "fix": "One accurate set of hours shown the same everywhere."
+  },
+  {
+   "problem": "The client avatars use demo file names (sl-demo) and appear to be placeholders. Review excerpts name Dr Ella, Dr. Ella and Ela.",
+   "cost": "Demo content next to real reviews makes visitors wonder which proof is real.",
+   "fix": "Only real, named patient proof, with consistent doctor names."
+  },
+  {
+   "problem": "There are no before and after results and no Instagram or Facebook links. The footer WhatsApp icon is an empty link.",
+   "cost": "Aesthetic patients decide on visible results and on social proof they can check.",
+   "fix": "A captioned results gallery, working social links and a labelled WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "A booking first homepage with online scheduling, WhatsApp and starting prices.",
+  "Real proof beside every button: your 4.8 rating, named reviews and captioned results.",
+  "Treatment pages written to rank for searches like Botox Abu Dhabi and laser hair removal Abu Dhabi."
+ ]
+}

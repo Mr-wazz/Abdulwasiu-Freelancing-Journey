@@ -1,0 +1,34 @@
+{
+ "business": "Face by SM",
+ "owner": "the team",
+ "city": "Paddington, Sydney",
+ "website": "facebysm.com",
+ "summary": "A Paddington injectables clinic with a shop and press mentions is a strength, but empty sections and leaked developer text appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The carousel appears to show numbered items 1 to 7 with empty links, and the Latest News heading appears to be followed by treatment and product content, not news.",
+   "cost": "Empty blocks on the homepage make a premium clinic look unfinished.",
+   "fix": "Filled carousel and real news."
+  },
+  {
+   "problem": "The page appears to show leaked text such as 'Use tab to navigate through the menu items.' and a pain scale line with no rating shown.",
+   "cost": "Developer text and blank ratings undermine trust before booking.",
+   "fix": "Clean copy and a real pain scale."
+  },
+  {
+   "problem": "Only one testimonial appears with no star rating, twelve In the Press logos appear to have no article links, and no practitioner bio or registration appears.",
+   "cost": "Thin proof and no named practitioners give new clients little reason to trust.",
+   "fix": "Reviews with ratings, linked press and named practitioners."
+  },
+  {
+   "problem": "The Shop link appears to go to shop.app in one place and facebysm.com/shop in others, the brand appears as Face + Body by SM and Face by SM, and two numbers appear with no address or hours.",
+   "cost": "Mixed links, names and numbers cost bookings from clients who cannot tell what is right.",
+   "fix": "One shop link, one brand name, address and hours."
+  }
+ ],
+ "redesign": [
+  "Filled homepage blocks and real news.",
+  "Reviews, linked press and named practitioners.",
+  "One brand name, address, hours and booking flow."
+ ]
+}

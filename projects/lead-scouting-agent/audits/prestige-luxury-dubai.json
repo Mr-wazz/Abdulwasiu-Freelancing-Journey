@@ -1,0 +1,33 @@
+{
+ "business": "Prestige Luxury Real Estate",
+ "owner": "the Prestige Luxury team",
+ "city": "Dubai Marina",
+ "website": "prestigeluxury.ae",
+ "summary": "Your Marina office and Dubai wide listings are a good base, but the homepage reads like an unfinished template and gives buyers no easy way to reach an agent.",
+ "findings": [
+  {
+   "problem": "The area list is a raw dump of names with typos such as Sanctnary, Curreny House, Emeral Residence and Marinsacpe, and Dubai Sport City against Dubai Sports City.",
+   "cost": "Buyers cannot search by area, and typos look careless on a luxury brand.",
+   "fix": "A clean, searchable area list."
+  },
+  {
+   "problem": "No enquiry form or WhatsApp. The only contact is a generic Contact us email link.",
+   "cost": "A buyer ready to talk to an agent has no quick way to do it.",
+   "fix": "Enquiry form and WhatsApp on every listing."
+  },
+  {
+   "problem": "The All, For Rent and For Sale tabs link to #, two Max Price filters share one label, and the footer shows the theme name (Houzez).",
+   "cost": "Broken filters and the theme name show a template, not a premium agency.",
+   "fix": "Working filters and a branded footer."
+  },
+  {
+   "problem": "No team members or reviews appear, although a Meet The Team link exists, and the claim of the highest ROI in the world has no source.",
+   "cost": "Investors want to know who they are trusting, and unsupported claims weaken trust.",
+   "fix": "Agent profiles, reviews and sourced figures."
+  }
+ ],
+ "redesign": [
+  "A fast property search with clean areas, plus an enquiry form and WhatsApp on every listing.",
+  "Named agent profiles, reviews and sourced market figures that win investor trust."
+ ]
+}

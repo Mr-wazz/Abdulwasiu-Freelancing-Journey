@@ -1,0 +1,34 @@
+{
+ "business": "Sokoloff Personal Injury Lawyers",
+ "owner": "the team",
+ "city": "Toronto",
+ "website": "sokoloff.ca",
+ "summary": "A long running injury practice with a strong call to action is a strength, but a missing form and stale proof appear to cost you new claims.",
+ "findings": [
+  {
+   "problem": "The contact area appears to show only a confirmation message, 'Your inquiry is important to us and we will reach out to you shortly', twice, with no visible form fields.",
+   "cost": "An injured person who wants to enquire cannot leave their details.",
+   "fix": "A short working claim form with WhatsApp."
+  },
+  {
+   "problem": "The Head Office heading appears to have no address under it, and the testimonials area appears to show 'Loading...'.",
+   "cost": "A missing address and stuck reviews remove two key trust signals.",
+   "fix": "Full address with map and live reviews."
+  },
+  {
+   "problem": "Statistics appear to be from 2018 ('in the year 2018 alone') while the footer reads 2026, and the same paragraph about approachability appears in two sections.",
+   "cost": "Old numbers and repeated copy make the firm look inactive.",
+   "fix": "Current figures and clean copy."
+  },
+  {
+   "problem": "The logo alt text appears to read 'Dont Put it Fff Call SOKOLOFF', phone numbers appear in three formats, and the motorcycle service is named two ways with different URLs.",
+   "cost": "Typos and mixed formats weaken polish and search visibility.",
+   "fix": "Proofread copy and one phone format."
+  }
+ ],
+ "redesign": [
+  "Working claim form with WhatsApp.",
+  "Address, map and live reviews.",
+  "Current figures and consistent copy."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Pro Dental Clinic",
+ "owner": "the Pro Dental team",
+ "city": "Harley Street, London",
+ "website": "prodentalclinic.london",
+ "summary": "Pro Dental has a Harley Street address, clear consultation calls to action and a chat widget. Empty proof sections and dead links hurt a premium clinic where trust decides the booking.",
+ "findings": [
+  {
+   "problem": "The Proudly featured in logo strip shows only empty placeholder images, and the before and after images appear to be blank placeholders. No written reviews or named clinicians appear.",
+   "cost": "A patient choosing an implant or smile clinic on Harley Street looks for proof and for who will treat them. Empty proof sections tell them nobody has vouched for you.",
+   "fix": "Real media logos, captioned before and after cases, Google reviews and named clinicians."
+  },
+  {
+   "problem": "About Us, Treatments, Pricing and Gallery in the menu link to #, and the Gallery link appears twice.",
+   "cost": "Dead menu links lose visitors who want prices or results, which are the two things patients search for first.",
+   "fix": "Working menu pages for each section, starting with pricing and results."
+  },
+  {
+   "problem": "Booking sends the patient to an external portal (aeronaclinic.co.uk) instead of an on page form, and the Harley Street email is plain text with no link.",
+   "cost": "Sending a patient to a different brand's site breaks trust, and an email they cannot tap loses enquiries.",
+   "fix": "A booking form on your own site and tappable email and phone links."
+  },
+  {
+   "problem": "The footer says Goucestershire instead of Gloucestershire, All- On-4 has a stray space, and the phone link contains spaces so it may not dial on some devices.",
+   "cost": "Typos and a phone link that fails make a premium clinic look careless at the moment a patient decides to call.",
+   "fix": "A proofread build with tested phone links."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage: real media logos, captioned results and Google reviews beside every booking button.",
+  "Booking on your own site with a short form, WhatsApp and chat, so a patient books in under 30 seconds.",
+  "Treatment and pricing pages written to rank for searches like dental implants Harley Street and All-on-4 London."
+ ]
+}

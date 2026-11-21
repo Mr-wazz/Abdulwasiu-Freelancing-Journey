@@ -1,0 +1,34 @@
+{
+ "business": "Cosmetic Dentistry Clinic South Kensington",
+ "owner": "Dr Shirazi and the team",
+ "city": "South Kensington, London",
+ "website": "cosmeticdentistryclinic.co.uk",
+ "summary": "Named GDC registered dentists and a 4.9 Google rating are strengths, but contradictory offers and prices appear to cost you new patients.",
+ "findings": [
+  {
+   "problem": "The banner appears to say 'Membership sign-ups paused' while the page repeatedly promotes 'Join our practice membership today' at \u00a330/month.",
+   "cost": "A patient who tries to join a paused plan is disappointed before their first visit.",
+   "fix": "One clear membership status and offer."
+  },
+  {
+   "problem": "The hero appears to show 'New Patient Exam \u00a330\u00a395' and 'Book \u00a330 Exam', while the fees list a New Patient Consultation at \u00a395.",
+   "cost": "Conflicting prices cause disputes and lost trust at the desk.",
+   "fix": "One clear new patient price and what it includes."
+  },
+  {
+   "problem": "The header appears to say 'Open 7 Days' while City of London is listed Mon to Fri 08:00 to 20:00, and the brand appears as Cosmetic Dentistry London, Clinic South Kensington and Clinic London.",
+   "cost": "Confusing hours and names lose bookings and search visibility.",
+   "fix": "Accurate hours per clinic and one brand name."
+  },
+  {
+   "problem": "All three journal articles appear to carry the date 30 Oct 2026 with cut off excerpts, 4.9 on Google has no visible reviews, and the main Book Now buttons appear to have no visible destination.",
+   "cost": "Thin proof and unclear buttons weaken the path to a booking.",
+   "fix": "Real reviews, dated articles and one clear booking button."
+  }
+ ],
+ "redesign": [
+  "One membership offer and one new patient price.",
+  "Accurate hours and one brand name.",
+  "Real reviews and a single booking button."
+ ]
+}

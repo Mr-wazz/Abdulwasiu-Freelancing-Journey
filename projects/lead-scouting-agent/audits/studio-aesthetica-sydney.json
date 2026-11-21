@@ -1,0 +1,33 @@
+{
+ "business": "Studio Aesthetica",
+ "owner": "Dr David Ong",
+ "city": "Paddington, Sydney",
+ "website": "studioaesthetica.com.au",
+ "summary": "Your doctor-led clinic offers a wide menu, but the site shows no proof and sends bookings down three different paths.",
+ "findings": [
+  {
+   "problem": "No patient reviews, testimonials or before and after images appear on the page.",
+   "cost": "Injectable and laser patients choose on proof, so they go to the clinic that shows results.",
+   "fix": "Review wall and consented, captioned results."
+  },
+  {
+   "problem": "Book Now goes to Timely, the footer Bookings link goes to /book-appointment, and Book an appointment today goes to /contact-us.",
+   "cost": "Three booking paths confuse patients and lose bookings.",
+   "fix": "One booking path, shown the same way on every page."
+  },
+  {
+   "problem": "Footer headings link to #, the Threadlift menu and footer go to different URLs, and stray text like Folder: About appears.",
+   "cost": "Dead links and leftover template text look unfinished on a medical site.",
+   "fix": "Clean navigation and working links."
+  },
+  {
+   "problem": "No WhatsApp, phone only (0413 000 228), the footer says 2024, and treatments are repeated under different names.",
+   "cost": "Younger patients expect to message, and repeated menus make treatments hard to find.",
+   "fix": "WhatsApp button, current copy and one menu entry per treatment."
+  }
+ ],
+ "redesign": [
+  "One booking button and WhatsApp on every page.",
+  "Reviews, results and named doctors shown beside each treatment."
+ ]
+}

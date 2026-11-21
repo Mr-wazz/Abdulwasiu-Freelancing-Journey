@@ -1,0 +1,34 @@
+{
+ "business": "Kalra Family Law",
+ "owner": "Shelly Kalra and team",
+ "city": "University Avenue, Toronto",
+ "website": "kalrafamilylaw.com",
+ "summary": "Kalra Family Law has a clean, scannable layout, Book Online and Book Now buttons, and a team of lawyers. Visible typos, a mismatched address and no client proof hold back a firm that clients must trust in a hard moment.",
+ "findings": [
+  {
+   "problem": "Visible typos: ensure the your child's best interests are protected, and Book a free consulation for a custom will. The informal line don't charge silly fees also sits on a legal page.",
+   "cost": "A family law firm sells care and precision. Typos on the page clients read first weaken both.",
+   "fix": "A proofread build with a consistent, professional tone."
+  },
+  {
+   "problem": "The Google review link points to 425 University Ave suite 300, while the contact section lists 55 University Avenue, Suite 1100.",
+   "cost": "A client who cannot tell which address is right may go to the wrong place, and a mismatch makes the firm look disorganised.",
+   "fix": "One verified address across the site and your Google profile."
+  },
+  {
+   "problem": "No client testimonials or case results appear, and the trust badges are images with no visible ratings. The four process steps have blank titles.",
+   "cost": "Family law clients choose on trust. Unrated badges and blank process steps do not give them a reason to pick you.",
+   "fix": "Named reviews, visible ratings and a clear four step process."
+  },
+  {
+   "problem": "The Book a Free Consultation button repeats many times, and there is no contact form, chat or WhatsApp. Social icons have no labels.",
+   "cost": "Clients who will not call or book online have no other way to reach you, and repeated buttons dilute the main action.",
+   "fix": "One primary button, a short intake form and a chat or WhatsApp option."
+  }
+ ],
+ "redesign": [
+  "A consultation first homepage with one clear button, a short intake form and a phone number above the fold.",
+  "Proof beside every button: named reviews, ratings and your team.",
+  "Practice area pages written to rank for searches like divorce lawyer Toronto and child custody lawyer Toronto."
+ ]
+}

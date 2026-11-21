@@ -1,0 +1,34 @@
+{
+ "business": "Bosley Real Estate",
+ "owner": "the Bosley team",
+ "city": "Toronto, Canada",
+ "website": "bosleyrealestate.com",
+ "summary": "A brokerage with nearly a century of history appears to lose seller leads to dead menu parents and a missing valuation form.",
+ "findings": [
+  {
+   "problem": "Menu parents such as Browse Listings, Sell, Buy and Relocate and Learn appear to link to #, and Contact appears to link to #.",
+   "cost": "Visitors cannot reach the pages that bring in sellers and buyers.",
+   "fix": "Working pages behind every menu item."
+  },
+  {
+   "problem": "The Get A Property Evaluation item appears in the navigation, but no valuation form appears, only general contact forms.",
+   "cost": "Owners ready for a valuation have no direct way to ask.",
+   "fix": "An on page valuation form."
+  },
+  {
+   "problem": "The hero image file appears to be named Header-Placeholder, and the location lists appear with underscores such as Niagara_Region.",
+   "cost": "Placeholder images and raw labels look unfinished.",
+   "fix": "Real hero imagery and clean labels."
+  },
+  {
+   "problem": "A market update for the week ending September 25 appears dated July 31 2026, and the history appears as both since 1928 and 100 years.",
+   "cost": "Date and history mismatches weaken trust.",
+   "fix": "Correct dates and one history line."
+  }
+ ],
+ "redesign": [
+  "Working menus.",
+  "Valuation form.",
+  "Clean content and dates."
+ ]
+}

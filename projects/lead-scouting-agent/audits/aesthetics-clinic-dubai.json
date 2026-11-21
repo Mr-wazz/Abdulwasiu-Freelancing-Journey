@@ -1,0 +1,34 @@
+{
+ "business": "The Aesthetics Clinic",
+ "owner": "the clinic team",
+ "city": "Al Furjan, Dubai",
+ "website": "theaestheticsclinic.ae",
+ "summary": "A clear results focus and WhatsApp follow up are strengths, but leftover editor text, a dead call to action and one testimonial appear to cost you bookings.",
+ "findings": [
+  {
+   "problem": "The email and phone links in the Contact section point to a Google search page, and Start your Treatment Journey links back to the homepage.",
+   "cost": "A patient who taps to call or email cannot, and the main button goes nowhere.",
+   "fix": "Tested call and email links and a real booking button."
+  },
+  {
+   "problem": "Visible leftovers include 'Describe your image', 'Use tab to navigate through the menu items', 'top of page', and a 'Thank you!' message before any form is sent.",
+   "cost": "Editor text makes a medical brand look unfinished.",
+   "fix": "A clean page with no leftover text."
+  },
+  {
+   "problem": "The service dropdown shows Choose an option with no options, and Appointment sends people to a separate page.",
+   "cost": "Enquiries are lost at the form.",
+   "fix": "A working form on the page."
+  },
+  {
+   "problem": "One testimonial from a first name and initial is shown, with no before and after images, doctor names or credentials, and the name appears as The Aesthetics Clinic and The Aesthetic Clinic.",
+   "cost": "Cosmetic patients decide on proof and see almost none.",
+   "fix": "Reviews, captioned results and named practitioners."
+  }
+ ],
+ "redesign": [
+  "Working call, email and booking buttons.",
+  "A clean page and a form with treatment options.",
+  "Reviews, captioned results and named practitioners."
+ ]
+}

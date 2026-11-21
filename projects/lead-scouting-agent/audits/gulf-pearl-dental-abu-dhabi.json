@@ -1,0 +1,34 @@
+{
+ "business": "Gulf Pearl Dental Clinic",
+ "owner": "the team",
+ "city": "Abu Dhabi, UAE",
+ "website": "gulfpearldental.com",
+ "summary": "An Abu Dhabi clinic with around a dozen listed doctors, Arabic and English service and WhatsApp booking is a strength, but three different phone numbers and repeated doctor cards appear to cost you patients.",
+ "findings": [
+  {
+   "problem": "Three different phone numbers appear (+97125031111, 97125031100 and 971501250404) across the call button, offers and doctor cards.",
+   "cost": "Patients may call or message the wrong line and give up.",
+   "fix": "One verified number per channel."
+  },
+  {
+   "problem": "The Services menu and the cosmetic dentistry and orthodontics parent items appear to link to #, and some read more links appear to use malformed web addresses.",
+   "cost": "Visitors cannot reach your service pages from the menu.",
+   "fix": "Working service pages and correct links."
+  },
+  {
+   "problem": "Doctor cards appear repeated two or three times, some doctor names appear garbled, and the doctor button text appears to show a leftover image file name.",
+   "cost": "Repeated cards, garbled names and file names look unprofessional in a medical brand.",
+   "fix": "One clean card per doctor with correct names."
+  },
+  {
+   "problem": "A New Year offers section appears with no end date, no testimonials or before and after cases appear, and the booking form appears to show no clear submit button.",
+   "cost": "Stale offers and missing proof lose trust, and a form without a button loses bookings.",
+   "fix": "Dated offers, real reviews and a working booking form."
+  }
+ ],
+ "redesign": [
+  "One verified number per channel.",
+  "Working service pages.",
+  "Clean doctor cards, dated offers and a working booking form."
+ ]
+}

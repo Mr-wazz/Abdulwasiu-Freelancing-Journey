@@ -1,0 +1,33 @@
+{
+ "business": "Doha Specialized Dental Center",
+ "owner": "Dr Issam Atta",
+ "city": "Doha",
+ "website": "dohadentalcenter.com",
+ "summary": "You have three branches and 14 named doctors, but the homepage shows placeholder numbers and sends patients to a test page when they try to book.",
+ "findings": [
+  {
+   "problem": "Branch statistics show placeholder digits (+ 0123456789001234567890.0123...). The Google Reviews heading has no reviews and Listed below for our doctors has no list.",
+   "cost": "Placeholder numbers and empty sections look broken and give no proof.",
+   "fix": "Real branch details, a live review wall and a doctor list."
+  },
+  {
+   "problem": "Click here to book an appointment points to test2.dohadentalcenter.com. Our Services and both Read More buttons link to #. The WhatsApp us label has no number.",
+   "cost": "Patients who try to book land on a test site or nowhere, so bookings are lost.",
+   "fix": "One tested booking path and a real WhatsApp button."
+  },
+  {
+   "problem": "The logo loads from a demo theme domain. Copy has errors such as valid only four our newsletter subscribers and Al Kharaitiyat zoon 71.",
+   "cost": "Template leftovers and typos weaken trust in a medical brand.",
+   "fix": "Own logo files and proofread copy."
+  },
+  {
+   "problem": "The patient claim jumps from more than 80,000 to nearly a thousand a year, the name appears three ways, there are no before and after or testimonials, and the footer says 2023.",
+   "cost": "Conflicting numbers and no proof lose careful patients.",
+   "fix": "Consistent facts, results gallery and current copy."
+  }
+ ],
+ "redesign": [
+  "A working booking form and WhatsApp button for each branch.",
+  "A live review wall, doctor profiles and a before and after gallery."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "business": "Hamad Alyafei Law Firm",
+ "owner": "the Alyafei team",
+ "city": "Doha, Qatar",
+ "website": "alyafeilaw.com",
+ "summary": "A Doha boutique law firm with a strong team list appears to lose enquiries to dead links, unproven claims and awkward copy.",
+ "findings": [
+  {
+   "problem": "About 13 links on the page appear to point to #.",
+   "cost": "Dead links stop visitors who want to read a practice area or reach the team.",
+   "fix": "Working links on every menu and section item."
+  },
+  {
+   "problem": "The page title appears to call it Qatar's best law firm, with no rankings, reviews or case results shown.",
+   "cost": "An unproven best claim makes serious clients doubt the rest of the page.",
+   "fix": "Verified proof such as rankings, results and reviews."
+  },
+  {
+   "problem": "Copy such as expert various business knowledge, alongside with, and a sentence starting That strives to appear.",
+   "cost": "Grammar errors on a legal site weaken trust in the firm's attention to detail.",
+   "fix": "Proofread English copy."
+  },
+  {
+   "problem": "The only contact path appears to be a generic Send Us Your Inquiries form and a phone link, with no WhatsApp.",
+   "cost": "Clients who message first go to a firm that answers on WhatsApp.",
+   "fix": "WhatsApp and a form with matter type."
+  }
+ ],
+ "redesign": [
+  "Working links.",
+  "Proof and proofread copy.",
+  "WhatsApp and a clear enquiry form."
+ ]
+}

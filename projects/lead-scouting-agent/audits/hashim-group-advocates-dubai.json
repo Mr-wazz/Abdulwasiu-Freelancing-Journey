@@ -1,0 +1,34 @@
+{
+ "business": "Hashim Group Advocates and Legal Consultants",
+ "owner": "the Hashim Group team",
+ "city": "Dubai, UAE",
+ "website": "lawdubai.wixsite.com/hglc",
+ "summary": "A Dubai advocates group established in 1991 appears to lose corporate clients to a free builder address, a 2015 footer and a free mail address.",
+ "findings": [
+  {
+   "problem": "The site appears to run on a free Wix address, with a banner that says This website was built on Wix.",
+   "cost": "A free builder address makes a long established firm look temporary.",
+   "fix": "Your own domain and a clean branded site."
+  },
+  {
+   "problem": "The footer appears to read 2015.",
+   "cost": "An old year suggests the firm is not active online.",
+   "fix": "A footer that updates by itself."
+  },
+  {
+   "problem": "The contact email appears to be a mail.com address instead of one on the firm's own domain.",
+   "cost": "A free mail address makes a corporate client doubt the firm.",
+   "fix": "An email address on your own domain."
+  },
+  {
+   "problem": "No WhatsApp and no client reviews appear on the pages.",
+   "cost": "Clients choosing a firm look for proof and a quick way to message.",
+   "fix": "Named reviews and WhatsApp."
+  }
+ ],
+ "redesign": [
+  "Own domain.",
+  "Current footer.",
+  "Branded email, proof and WhatsApp."
+ ]
+}

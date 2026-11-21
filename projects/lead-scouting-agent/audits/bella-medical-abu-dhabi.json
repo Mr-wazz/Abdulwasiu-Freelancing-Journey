@@ -1,0 +1,34 @@
+{
+ "business": "Bella Medical Centre",
+ "owner": "the Bella Medical team",
+ "city": "Abu Dhabi",
+ "website": "bellamedicalcentre.com",
+ "summary": "Dental, dermatology and cosmetic services under one roof is a strength, but a menu typo, repeated blocks and no booking form appear to cost you consultations.",
+ "findings": [
+  {
+   "problem": "The Book Consultation button appears about five times but sends people to a contact page, with no form or time slots, and the phone links are written with spaces.",
+   "cost": "Patients ready to book face extra steps and some will leave.",
+   "fix": "A booking form with time slots on the page."
+  },
+  {
+   "problem": "The menu shows About Us three times in one label, and Your Health, Our Priority appears twice.",
+   "cost": "Copy errors and repeated blocks make a medical centre look careless.",
+   "fix": "A clean menu and tidy sections."
+  },
+  {
+   "problem": "A testimonial reads Mity the laser tech and nice is really good, and the doctor list shows only dentists although dermatology is promoted.",
+   "cost": "Weak reviews and a mismatch between services and doctors reduce trust.",
+   "fix": "Edited, named reviews and a full doctor list."
+  },
+  {
+   "problem": "Find Us Easily says use the map but shows no map, address or hours, and 4.8 (300+) Reviews has no source.",
+   "cost": "Patients cannot find you or verify your rating.",
+   "fix": "A map with address and hours, and a linked review source."
+  }
+ ],
+ "redesign": [
+  "A booking form with time slots and WhatsApp.",
+  "A clean menu, a map with hours and tidy sections.",
+  "Named reviews and a complete doctor list."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "business": "International Lawyers Co-operative",
+ "owner": "the ILC team",
+ "city": "Sydney CBD",
+ "website": "ilclaw.com.au",
+ "summary": "Your conveyancing and leasing page has named lawyers and clear contact details, but an outdated message, an unfinished form and little proof hold it back.",
+ "findings": [
+  {
+   "problem": "The Online Enquiry form has fields and a disclaimer but no visible submit button, and the only other action is Contact us.",
+   "cost": "A client who fills the form may not be able to send it.",
+   "fix": "A working form with a clear send button."
+  },
+  {
+   "problem": "The page says From 1 July 2019 documents will need to be lodged electronically and From 1 July 2020 many more to come, as if those dates were ahead.",
+   "cost": "Out of date wording signals a site no one maintains.",
+   "fix": "Current, accurate legal guidance."
+  },
+  {
+   "problem": "Typos and slips include NEWs, New South Wales.From, PEXA and OSR with no explanation, and answer options that run together (YesNo).",
+   "cost": "Errors and jargon confuse clients and lower trust.",
+   "fix": "Proofread, plain language copy."
+  },
+  {
+   "problem": "Testimonials appear only as a menu link, there is no WhatsApp or booking option, and Primary Sidebar and Footer labels show on the page.",
+   "cost": "Clients want proof and an easy way to book.",
+   "fix": "Testimonials on the page, WhatsApp and a booking link."
+  }
+ ],
+ "redesign": [
+  "A working enquiry form, click to call and a booking link.",
+  "Current guidance, testimonials on the page and lawyer profiles."
+ ]
+}

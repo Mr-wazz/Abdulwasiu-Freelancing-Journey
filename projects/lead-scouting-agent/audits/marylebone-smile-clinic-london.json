@@ -1,0 +1,33 @@
+{
+ "business": "Marylebone Smile Clinic",
+ "owner": "Dr Sahil Patel",
+ "city": "Harley Street, London",
+ "website": "marylebonesmileclinic.co.uk",
+ "summary": "You have booking, WhatsApp and a strong guarantee, but dead menus, conflicting claims and typos weaken a premium Harley Street brand.",
+ "findings": [
+  {
+   "problem": "The menu items Smile Gallery, Veneers, Cosmetic Dentistry, Dental Implants and About all point to #.",
+   "cost": "Patients looking for veneers click your main menu and go nowhere.",
+   "fix": "Working menu pages for every treatment."
+  },
+  {
+   "problem": "The guarantee is described two ways, composite lasts six to eight years in one place and 5 years in the FAQ, and whitening and gum lifts are said to last forever.",
+   "cost": "Conflicting and unsupported claims erode trust.",
+   "fix": "One consistent, accurate set of claims."
+  },
+  {
+   "problem": "Page claims 200+ Google reviews but shows about ten, some like Legend mate. The heading says London Smile Clinic and the rest says Marylebone Smile Clinic.",
+   "cost": "Thin reviews and a changing brand name weaken a premium clinic.",
+   "fix": "A full review wall and one brand name."
+  },
+  {
+   "problem": "Typos such as offers veneers are made of and a list of a approved. A form shows the artifact smile Checkboxes Name.",
+   "cost": "Errors on a premium cosmetic site cost credibility.",
+   "fix": "Proofread copy and a clean form."
+  }
+ ],
+ "redesign": [
+  "Clean menus, one clear guarantee and real results for each treatment.",
+  "A full review wall, named dentists and a simple booking form."
+ ]
+}

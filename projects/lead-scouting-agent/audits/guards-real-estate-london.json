@@ -1,0 +1,33 @@
+{
+ "business": "Guards Real Estate",
+ "owner": "the Guards team",
+ "city": "London",
+ "website": "guardsrealestate.com",
+ "summary": "A Berkeley Square office and good listings, but the homepage still shows loading messages, template code and no way to book a valuation inline.",
+ "findings": [
+  {
+   "problem": "'Loading...' shows twice. Template text such as _add_Lettings, _menu_ and _close_ leaks into the page.",
+   "cost": "A vendor choosing an agent in Mayfair judges you on polish in seconds.",
+   "fix": "Clean templates and fast loading content."
+  },
+  {
+   "problem": "The 'Book Viewing' box shows 'Oops! There was an error' with no visible fields. There is no valuation form, only a Book Valuation link.",
+   "cost": "Every extra step loses a vendor who is ready to list.",
+   "fix": "Short valuation form on the page and a tested viewing form."
+  },
+  {
+   "problem": "All six accreditation badges link to the homepage. No reviews or testimonials. WhatsApp is only an icon with no label.",
+   "cost": "Badges that prove nothing and no reviews weaken trust.",
+   "fix": "Real certificates, Google reviews and a labelled WhatsApp button."
+  },
+  {
+   "problem": "Typos 'Thankyou' and 'Invesment'. Brand shows as Guards London and Guards Real Estate. Make An Offer goes to /payments.",
+   "cost": "Small errors on a prime agency page cost credibility.",
+   "fix": "Consistent brand and copy."
+  }
+ ],
+ "redesign": [
+  "A valuation form on every page and a working viewing form.",
+  "Reviews, real accreditation links and clear WhatsApp contact."
+ ]
+}

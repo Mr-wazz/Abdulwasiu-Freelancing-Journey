@@ -1,0 +1,34 @@
+{
+ "business": "Aldersley London",
+ "owner": "the Aldersley team",
+ "city": "Park Lane, Mayfair, London",
+ "website": "aldersleylondon.com",
+ "summary": "A Mayfair address and named agents with client testimonials are strengths, but an empty Residences section, no contact form and an old press section appear to cost you prime enquiries.",
+ "findings": [
+  {
+   "problem": "The Residences heading has only a View All Properties link with no listings, and Development says VIEW PROJECTS but shows no projects.",
+   "cost": "A prime agency page with no properties shown gives buyers nothing to act on.",
+   "fix": "Featured properties and projects on the homepage."
+  },
+  {
+   "problem": "No contact form appears, only an email and a phone number, and the footer phone link is written tel:+44\\(0\\)2076594425.",
+   "cost": "Vendors who want to enquire online have no simple option and the call link may fail.",
+   "fix": "A direct valuation and enquiry form with a tested call link."
+  },
+  {
+   "problem": "Two Thomas Cubitt press items cover the same story, one slug reads 1095mn while the headline says 5 million, and the press items date from 2024.",
+   "cost": "Duplicate and mismatched press items make the proof look stale.",
+   "fix": "Clean, current press and results."
+  },
+  {
+   "problem": "The page shows 'successful out-come', 'straight forward' twice, and testimonials from Mr. S, Mr. S and Mr. R with no dates or transaction details.",
+   "cost": "Typos and anonymous testimonials weaken trust with high value vendors.",
+   "fix": "Proofread copy and verifiable testimonials."
+  }
+ ],
+ "redesign": [
+  "Featured properties and projects on the homepage.",
+  "A valuation and enquiry form with WhatsApp and a tested call link.",
+  "Current press, proofread copy and verifiable testimonials."
+ ]
+}

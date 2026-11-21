@@ -1,0 +1,34 @@
+{
+ "business": "Al Kabban and Associates",
+ "owner": "the Al Kabban team",
+ "city": "Business Bay, Dubai",
+ "website": "alkabban.com",
+ "summary": "Thirty years of practice and a wide range of services are strong, but dead links and placeholder content appear to weaken the first impression.",
+ "findings": [
+  {
+   "problem": "The FAQ questions, the Proven Legacy of Excellence block and the blog categories link to #, and the menu shows the text [IMAGE].",
+   "cost": "Dead links and leftover labels make a long established firm look unfinished.",
+   "fix": "Working links and a clean menu."
+  },
+  {
+   "problem": "The team and client images appear to be empty placeholders, and the statistics render as 10 / k+ instead of 10k+.",
+   "cost": "Broken figures and missing photos reduce the proof clients rely on.",
+   "fix": "Real team photos and clean figures."
+  },
+  {
+   "problem": "Experience is stated as Since 1993, 30+ Years and over 200 years, and the LinkedIn links differ between header and footer.",
+   "cost": "Mixed claims make clients question every number.",
+   "fix": "One verified set of facts."
+  },
+  {
+   "problem": "No enquiry form shows, the contact sections list only phone, email and address, and no WhatsApp number appears.",
+   "cost": "Clients who want to message first have no easy option and some will leave.",
+   "fix": "A short enquiry form and a WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Working links, a clean menu and real team photos.",
+  "One verified set of facts and figures across the site.",
+  "A short enquiry form and WhatsApp on every page."
+ ]
+}

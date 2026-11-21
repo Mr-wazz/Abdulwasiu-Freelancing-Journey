@@ -1,0 +1,34 @@
+{
+ "business": "JB Solicitors",
+ "owner": "John Bui",
+ "city": "Sydney, Australia",
+ "website": "jbsolicitors.com.au",
+ "summary": "A multi office Sydney family and property firm with 100 plus Google reviews is a strength, but placeholder text, mismatched links and no inline form appear to cost you enquiries.",
+ "findings": [
+  {
+   "problem": "A heading appears to read 'Add Your Heading Text Here', Parramatta appears spelled 'Paramatta', and the footer appears to read 'Quick LInks'.",
+   "cost": "Leftover template text and typos make a law firm look careless to a client choosing a lawyer.",
+   "fix": "Proofread copy and finished headings."
+  },
+  {
+   "problem": "The footer link 'Commercial and Litigation' appears to go to an unfair dismissal page, and wills and divorce links appear to use two different addresses.",
+   "cost": "Clients land on the wrong service page and leave.",
+   "fix": "Matching labels and one address per service."
+  },
+  {
+   "problem": "The FAQ section appears to show unfinished answers such as 'I cannot provide a factual answer on whether you can contest a will'.",
+   "cost": "Unfinished answers lower trust and give visitors no help.",
+   "fix": "Real answers written by your lawyers."
+  },
+  {
+   "problem": "The page appears to say both six and seven offices, 102 and 104 reviews, and no inline contact form appears, only links to a contact page.",
+   "cost": "Mixed numbers weaken credibility, and extra clicks lose enquiries.",
+   "fix": "Consistent figures and a short enquiry form on every page."
+  }
+ ],
+ "redesign": [
+  "Proofread, finished copy.",
+  "Matching links and service pages.",
+  "Real FAQs, consistent figures and an inline enquiry form."
+ ]
+}

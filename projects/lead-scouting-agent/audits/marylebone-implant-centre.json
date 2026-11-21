@@ -1,0 +1,33 @@
+{
+ "business": "Marylebone Implant Centre",
+ "owner": "the Marylebone Implant Centre team",
+ "city": "Devonshire Place, London",
+ "website": "maryleboneimplantcentre.co.uk",
+ "summary": "Marylebone has 213 Google reviews at 5 stars, a clear new patient offer and a fees page. Stale notices, empty media slots and small errors reduce the impact of strong proof.",
+ "findings": [
+  {
+   "problem": "A Christmas notice still says the clinic will open on 5th January 2026. The page also shows Last Updated on August 3, 2026.",
+   "cost": "An out of date holiday notice tells a patient that nobody is looking after the site, and they may doubt whether the clinic is currently open.",
+   "fix": "Current notices and a single accurate last updated date."
+  },
+  {
+   "problem": "Three video slots, the quote graphic and the before and after images load as empty placeholders as I saw them, and stray labels such as Top show.",
+   "cost": "Implant patients look for real results and real people. Empty media slots hide the proof you already have.",
+   "fix": "Working videos, captioned before and after cases and a clean page with no stray labels."
+  },
+  {
+   "problem": "Email addresses show as [email protected] when scripts do not run. The BOOK AN APPOINTMENT button goes to a different page than the other booking links.",
+   "cost": "A patient who cannot see an email or is sent to different booking pages hesitates, and a callback request delays the booking.",
+   "fix": "A visible email, one booking path and real time booking with confirmation."
+  },
+  {
+   "problem": "Typos and inconsistency: incredible happy, Dr.Santos, Teeth in a Day and teeth-in-a-day, and Dental Implants London repeated so often it reads as keyword stuffing.",
+   "cost": "Small errors and repeated keywords weaken trust, and patients who prefer messaging have no route.",
+   "fix": "A proofread build with natural copy and WhatsApp as a second route."
+  }
+ ],
+ "redesign": [
+  "A proof first homepage that puts your 213 reviews, fees and real results beside every booking button.",
+  "One clear booking path with WhatsApp, so a patient books in under 30 seconds."
+ ]
+}

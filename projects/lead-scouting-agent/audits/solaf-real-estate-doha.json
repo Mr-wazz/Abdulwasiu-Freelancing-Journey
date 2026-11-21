@@ -1,0 +1,34 @@
+{
+ "business": "Solaf Real Estate",
+ "owner": "the Solaf Real Estate team",
+ "city": "Doha, Qatar",
+ "website": "solafrealestate.wixsite.com/solaf-real-estate",
+ "summary": "A Doha real estate office appears to lose enquiries to stray text on its contact page, no property listings and a free builder address.",
+ "findings": [
+  {
+   "problem": "The contact page appears to show stray text, Telephone: tt, and an old address, solafrealestate.wix.com.",
+   "cost": "An unfinished contact page is where a buyer decides whether to call, and an old address can confuse them.",
+   "fix": "A clean contact page with one correct address."
+  },
+  {
+   "problem": "The menu appears to list Chairman's Message and Director's Message but no property listings.",
+   "cost": "Buyers and tenants come to see properties, and without them they leave for the big portals.",
+   "fix": "Listing pages with filters and photos."
+  },
+  {
+   "problem": "The site appears to run on a free Wix address, with a Wix banner on the page.",
+   "cost": "A free builder address looks temporary for a real estate office.",
+   "fix": "Your own domain."
+  },
+  {
+   "problem": "The contact appears to be a hotmail address, with no enquiry form or WhatsApp, though three mobile numbers are shown.",
+   "cost": "Buyers who want a quick answer message first, and a free email gives less trust.",
+   "fix": "An enquiry form and a one tap WhatsApp button."
+  }
+ ],
+ "redesign": [
+  "Clean contact page.",
+  "Property listings.",
+  "Own domain and WhatsApp."
+ ]
+}

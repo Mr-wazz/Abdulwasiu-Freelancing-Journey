@@ -1,0 +1,34 @@
+{
+ "business": "Oval Dental Clinic",
+ "owner": "the Oval Dental team",
+ "city": "Dubai, UAE",
+ "website": "oval-clinic.com",
+ "summary": "A premium Business Bay clinic appears to lose bookings because every Book Consultation button leads to a contact page and key details conflict.",
+ "findings": [
+  {
+   "problem": "Every Book Consultation button appears to lead to the same contact page, with no visible booking form or scheduler.",
+   "cost": "Patients ready to book face extra steps and drop off.",
+   "fix": "An on page booking form or scheduler."
+  },
+  {
+   "problem": "No opening hours appear, and the address appears as Prime Tower in the header and Prime 28 Ltd Building in the footer.",
+   "cost": "Patients cannot tell when to call or exactly where to go.",
+   "fix": "Visible hours and one consistent address."
+  },
+  {
+   "problem": "The brand appears as Oval Dental Clinic, Oval Dental, Oval Clinic and OVAL DENTAL CLINIC L.L.C., and typos such as a expert team appear.",
+   "cost": "Mixed names and typos undercut a luxury positioning.",
+   "fix": "One brand name and proofread copy."
+  },
+  {
+   "problem": "A 4.82 rating appears without a review source, and reviews name doctors who do not appear on the team list.",
+   "cost": "Unlinked proof does not persuade high value patients.",
+   "fix": "Linked reviews and a complete team page."
+  }
+ ],
+ "redesign": [
+  "On page booking.",
+  "Hours and one address.",
+  "Linked reviews and full team."
+ ]
+}

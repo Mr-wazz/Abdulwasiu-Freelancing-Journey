@@ -90,6 +90,8 @@ Three lines, nothing after the question but these:
 Adam
 ```
 
+Portfolio link: the live portfolio site (source in `/portfolio-site/`). Until Adam sends the live URL, use https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0
+
 Title examples: "WordPress Speed & Core Web Vitals Specialist", "WordPress Security & Malware Removal Specialist", "WooCommerce Developer & Checkout Specialist", "Elementor Redesign Specialist".
 
 ---
@@ -105,7 +107,13 @@ Title examples: "WordPress Speed & Core Web Vitals Specialist", "WordPress Secur
 7. **Expert or fixed-quote posts:** honest hours x real rate, no $500 cap. Over 3x their budget: don't bid, flag it to Adam.
 8. **One free finding** in every letter: the fault from step 1.4, stated plainly. No free mockups or free work.
 9. **Delivery speed:** 24 / 48 / 72 hours for small work, 4, 5 or 7 working days for bigger. Never longer than 7 working days per milestone.
-10. **Malware jobs:** 30-day reinfection warranty, same wording every time: "If the same infection comes back within 30 days, I clean it again at no extra cost."
+10. **Service promise:** add the one line that matches the job, same wording as the portfolio site (Promises section). Never mix or stretch them.
+    - New websites and redesigns: "14 days of free fixes after launch for anything I built."
+    - WooCommerce stores: "Test orders placed before handover, and 14 days of free fixes on cart and checkout."
+    - Speed optimization: "Before and after PageSpeed report. If the mobile score we agreed on is not reached, I keep working on it at no extra cost."
+    - Bug fixes: "If the same bug comes back within 14 days, I fix it again at no extra cost."
+    - Malware cleanup: "If the same infection comes back within 30 days, I clean it again at no extra cost."
+    - Migrations: "Redirects mapped and checked, so your pages and Google rankings move with you."
 11. **Absurd budgets** ($5 to $50 for a full website): don't bid.
 
 Upsell later (Rule 3 in CLAUDE.md): once the first milestone is released, offer the next step as a package of about $300 or more, then a monthly care plan.
@@ -153,7 +161,7 @@ Tick every line before `manage_proposals create`:
 - [ ] 2 or 3 of Adam's own sites woven in, correct verbs
 - [ ] Plan starts with a backup
 - [ ] Every must-have answered in their words
-- [ ] Entry-step price, rules in section 3
+- [ ] Entry-step price and the matching service promise, rules in section 3
 - [ ] One live chat line, no call
 - [ ] Either/or closing question, then the 3-line sign-off
 - [ ] No banned words, no payment words, no dashes

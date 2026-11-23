@@ -45,5 +45,5 @@
 - Proposals at send: 16. Connects: 6 (balance 403). No boost: a new client with no spend fails rule 19, even though 3rd place would have cost only 4 Connects.
 - Bid: $18/hr. The letter offers $745 fixed in 3 milestones ($245 / $280 / $220).
 - Opening line: "A moving quote form with multiple photo uploads usually breaks on phones without anyone noticing..."
-- Reference link: https://www.moishes.com (moving). Proof: keerahbeauty.com, lateefahokunnufoundation.org, itsred.tv. Said plainly: none are moving sites, and a multi-photo form would be new for the portfolio.
+- Reference link: https://www.moishes.com (moving). Edited the same day at Adam's request: proof is now Adam's 5 logistics sites (lazerlogistics.com, nexarislogistics.com, onelineage.com, shipit.com, us.logisteed.com), and the wrong 'none are moving companies' line is removed. Lesson: never use off-niche proof, ask Adam first.
 - Status: Submitted.

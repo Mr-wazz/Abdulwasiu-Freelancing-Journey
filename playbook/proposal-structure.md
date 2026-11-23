@@ -69,8 +69,15 @@ Never write "I built", "my work" or "my client" about a reference site.
 | https://smorza.app/ | Software product site, downloads | "was part of the design team and fixed the site speed and layout on" |
 | https://www.makeaiinfluencer.com/ | SaaS landing page, sign-ups | "was part of the design team and fixed the site speed and layout on" |
 | https://shanmugavel-bookuniverse.vercel.app/ | Digital products, paid access | "was part of the design team and fixed the site speed and layout on" |
+| https://www.lazerlogistics.com/ | Logistics, transportation, moving | "worked on as a web developer" |
+| https://nexarislogistics.com/ | Logistics, freight | "worked on as a web developer" |
+| https://www.onelineage.com/ | Logistics, cold chain, warehousing | "worked on as a web developer" |
+| https://www.shipit.com/ | Shipping, logistics | "worked on as a web developer" |
+| https://us.logisteed.com/ | Logistics, enterprise | "worked on as a web developer" |
 
 Never claim speed numbers, rankings, sales or reviews for these sites unless Adam has given the number.
+
+**Niche match rule (Adam, 2026-11-23):** every proof link must match what the client does. Never drop a link from another industry just to fill a slot, and never tell a client Adam has no work in their industry. If no site in this table matches the client's niche, ASK Adam before sending, because he may have work that is not listed here yet.
 
 ### Core requirements answered
 Every must-have from step 1.5, answered plainly, with the closest real proof.

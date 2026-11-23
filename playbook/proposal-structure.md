@@ -76,8 +76,13 @@ Never write "I built", "my work" or "my client" about a reference site.
 | https://us.logisteed.com/ | Logistics, enterprise | "worked on as a web developer" |
 | https://www.onemedical.com/ | Healthcare, clinics, medical | "worked on as a web developer" |
 | https://patientory.com/ | Healthcare tech, patient data | "worked on as a web developer" |
+| https://purelyelizabeth.com/ | Food brand, e-commerce, Shopify-style stores | "worked on as a web developer" |
+| https://lunchbox.io/ | Restaurant tech, SaaS, ordering | "worked on as a web developer" |
+| https://delassus.com/en/ | Agriculture, fresh produce, corporate | "worked on as a web developer" |
 
 Never claim speed numbers, rankings, sales or reviews for these sites unless Adam has given the number.
+
+**Where proof links come from (Adam, 2026-11-23):** only from (1) links Adam has given in chat (all saved in this table), (2) his Upwork portfolio, (3) his portfolio website https://adam-owolabi.netlify.app. Nothing else.
 
 **Niche match rule (Adam, 2026-11-23):** every proof link must match what the client does. Never drop a link from another industry just to fill a slot, and never tell a client Adam has no work in their industry. If no site in this table matches the client's niche, ASK Adam before sending, because he may have work that is not listed here yet.
 

@@ -132,7 +132,8 @@ Upsell later (Rule 3 in CLAUDE.md): once the first milestone is released, offer 
 ## 5. Attachments
 
 - 1 or 2 of Adam's Upwork portfolio projects, best match to the job.
-- No files, no resume, no boost (Adam's rule).
+- Resume: attach `resume/Adam-Owolabi-WordPress-Developer-Resume.pdf` (Adam asked for it on 2026-11-23).
+- No other files, no boost.
 
 ---
 

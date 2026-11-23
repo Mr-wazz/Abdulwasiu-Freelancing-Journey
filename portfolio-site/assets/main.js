@@ -78,6 +78,18 @@
     paint();
   }
 
+
+  // Project filter
+  var filters = document.querySelectorAll('.filter');
+  var projects = document.querySelectorAll('.project[data-cat]');
+  filters.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var f = btn.getAttribute('data-filter');
+      filters.forEach(function (b) { var on = b === btn; b.classList.toggle('is-on', on); b.setAttribute('aria-pressed', String(on)); });
+      projects.forEach(function (pr) { var show = f === 'all' || pr.getAttribute('data-cat') === f; pr.hidden = !show; if (show) pr.classList.add('in'); });
+    });
+  });
+
   // Hero screenshot rotation
   var shots = document.querySelectorAll('.browser__screen img');
   var url = document.querySelector('.browser__url');

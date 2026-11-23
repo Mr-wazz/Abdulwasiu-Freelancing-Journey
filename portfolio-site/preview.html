@@ -1,9 +1,9 @@
 <title>Adam O. Portfolio</title>
-<meta name="description" content="WordPress developer building fast, mobile-friendly Elementor and WooCommerce websites that turn visitors into calls, bookings and sales. Speed, fixes, security and maintenance.">
+<meta name="description" content="Your website should bring you calls, bookings and sales. I build, fix and speed up WordPress, Elementor and WooCommerce sites so more visitors become customers.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
-<style>
+<style>:root{color-scheme:dark}html,body{background:#07090d}
 :root{
   --bg:#07090d;--surface:#0c0d12;--surface-2:#111117;--surface-3:#16161c;
   --text:#f1f1f1;--text-80:rgba(255,255,255,.8);--text-60:rgba(255,255,255,.6);--text-40:rgba(255,255,255,.4);--text-20:rgba(255,255,255,.18);
@@ -310,8 +310,36 @@ ul,ol{margin:0;padding:0;list-style:none}
 @media (max-width:860px){.mobile-menu{height:calc(100vh - 72px);height:calc(100svh - 72px);overflow-y:auto}}
 body.menu-open{overflow:hidden}
 
+/* v2: client-focused sections */
+.hero__note{margin-top:22px;font-size:13.5px;color:var(--text-40)}
+.mono--blue{color:#8d95ff;margin-bottom:16px}
+.problems{padding:clamp(40px,6vw,80px) 0 clamp(60px,8vw,110px)}
+.problem__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.problem{background:linear-gradient(180deg,var(--surface-2),var(--surface));border:1px solid var(--border);border-radius:var(--radius);padding:28px 26px;display:flex;flex-direction:column;gap:14px}
+.problem__q{font-size:19px;font-weight:400;letter-spacing:-.01em;line-height:1.35;color:#fff}
+.problem__a{font-size:14.5px;line-height:1.7;color:var(--text-60)}
+.problem__a::before{content:"What I do";display:block;font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--green);margin-bottom:8px}
+.section-head--tight{margin-bottom:36px}
+.filters{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-bottom:40px}
+.filter{font:inherit;font-size:13.5px;color:var(--text-80);background:transparent;border:1px solid var(--border-2);border-radius:999px;height:40px;padding:0 18px;cursor:pointer;transition:background .2s,color .2s,border-color .2s}
+.filter:hover{border-color:rgba(255,255,255,.3)}
+.filter.is-on{background:#fff;color:#0b0b10;border-color:#fff}
+.project[hidden]{display:none}
+.project__ind{margin-top:4px!important;font-size:13px!important;color:var(--text-40)!important}
+.project dl{margin:16px 0 0;display:grid;gap:10px}
+.project dl div{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:baseline}
+.project dt{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--text-40)}
+.project dd{margin:0;font-size:14.5px;line-height:1.6;color:var(--text-80)}
+.who{padding:clamp(60px,9vw,120px) 0 0}
+.who__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:clamp(40px,6vw,70px)}
+.who__item{border-top:1px solid var(--border-2);padding-top:22px}
+.who__item h3{font-weight:500;font-size:17px}
+.who__item p{margin-top:10px;color:var(--text-60);font-size:14.5px;line-height:1.7}
+.proof__grid{margin-top:0}
+@media (max-width:1080px){.problem__grid{grid-template-columns:1fr 1fr}.who__grid{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.problem__grid,.who__grid{grid-template-columns:1fr}.project dl div{grid-template-columns:1fr;gap:2px}}
+
 </style>
-<style>:root{color-scheme:dark}html,body{background:#07090d}</style>
 
 <a class="skip" href="#main">Skip to content</a>
 
@@ -319,22 +347,22 @@ body.menu-open{overflow:hidden}
   <div class="nav__inner">
     <a class="logo" href="#top" aria-label="Adam O. home"><span class="logo__mark" aria-hidden="true"></span><span>adam<span class="logo__dot">.</span>o</span></a>
     <nav class="nav__links" aria-label="Main">
+      <a href="#problems">Problems I fix</a>
       <a href="#services">Services</a>
-      <a href="#work">Work</a>
+      <a href="#work">Client work</a>
       <a href="#process">Process</a>
-      <a href="#promises">Promises</a>
       <a href="#faq">FAQ</a>
     </nav>
-    <a class="btn btn--outline nav__cta" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Hire me on Upwork</a>
+    <a class="btn btn--outline nav__cta" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Send me your site</a>
     <button class="nav__toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu"><span></span><span></span></button>
   </div>
   <div class="mobile-menu" id="mobile-menu" hidden>
+    <a href="#problems">Problems I fix</a>
     <a href="#services">Services</a>
-    <a href="#work">Work</a>
+    <a href="#work">Client work</a>
     <a href="#process">Process</a>
-    <a href="#promises">Promises</a>
     <a href="#faq">FAQ</a>
-    <a class="btn btn--light" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Hire me on Upwork <i class="arrow" aria-hidden="true"></i></a>
+    <a class="btn btn--light" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Send me your site <i class="arrow" aria-hidden="true"></i></a>
   </div>
 </header>
 
@@ -346,39 +374,38 @@ body.menu-open{overflow:hidden}
     <div class="hero__grid" aria-hidden="true"></div>
     <div class="wrap hero__inner">
       <div class="hero__copy">
-        <p class="eyebrow reveal"><span class="pulse" aria-hidden="true"></span>Available for new projects</p>
-        <h1 class="hero__title reveal">WordPress websites that load fast and <span class="grad">win you customers.</span></h1>
-        <p class="hero__sub reveal">I build, fix and speed up WordPress, Elementor and WooCommerce sites for businesses that need more calls, bookings and sales. Clear plan, fixed price, backup before every change.</p>
+        <p class="eyebrow reveal"><span class="pulse" aria-hidden="true"></span>WordPress · Elementor · WooCommerce</p>
+        <h1 class="hero__title reveal">More calls, bookings and sales from <span class="grad">your website.</span></h1>
+        <p class="hero__sub reveal">If your site is slow, hard to use on a phone or not bringing in enquiries, you are losing customers every day. I find what is holding it back and fix it, or build you a new site that does the selling for you.</p>
         <div class="hero__actions reveal">
-          <a class="btn btn--light" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Start a project <i class="arrow" aria-hidden="true"></i></a>
-          <a class="btn btn--ghost" href="#work">See my work</a>
+          <a class="btn btn--light" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Send me your website <i class="arrow" aria-hidden="true"></i></a>
+          <a class="btn btn--ghost" href="#work">See client work</a>
         </div>
-        <ul class="hero__chips reveal" aria-label="Core tools">
-          <li>WordPress</li><li>Elementor</li><li>WooCommerce</li><li>Core Web Vitals</li>
-        </ul>
+        <p class="hero__note reveal">Send your link on Upwork. I reply with the first thing I would fix and a fixed price.</p>
       </div>
 
       <div class="hero__visual reveal" aria-hidden="true">
         <div class="browser">
-          <div class="browser__bar"><span></span><span></span><span></span><div class="browser__url" data-url>keerahbeauty.com</div></div>
+          <div class="browser__bar"><span></span><span></span><span></span><div class="browser__url">keerahbeauty.com</div></div>
           <div class="browser__screen">
             <img class="is-on" src="assets/img/keerah-1200.webp" data-url="keerahbeauty.com" alt="" width="1200" height="750">
+            <img src="assets/img/motoro-1200.webp" data-url="motoro-app.com" alt="" width="1200" height="750" loading="lazy">
             <img src="assets/img/norm-1200.webp" data-url="normcph.com" alt="" width="1200" height="750" loading="lazy">
+            <img src="assets/img/smorza-1200.webp" data-url="smorza.app" alt="" width="1200" height="750" loading="lazy">
             <img src="assets/img/redtv-1200.webp" data-url="itsred.tv" alt="" width="1200" height="750" loading="lazy">
-            <img src="assets/img/space-1200.webp" data-url="spacecph.dk" alt="" width="1200" height="750" loading="lazy">
           </div>
         </div>
         <div class="float float--a">
-          <p class="mono">Before handover</p>
+          <p class="mono">Your site, after</p>
           <ul class="checks checks--tight">
-            <li>Full backup taken</li>
-            <li>Phone and desktop tested</li>
-            <li>Forms reach your inbox</li>
+            <li>Loads fast on a phone</li>
+            <li>Clear "Book" or "Call" button</li>
+            <li>Every form reaches you</li>
           </ul>
         </div>
         <div class="float float--b">
           <div class="ring" style="--p:92"><span>92</span></div>
-          <div><p class="mono">Mobile score</p><p class="float__note">Target on every build</p></div>
+          <div><p class="mono">Mobile speed</p><p class="float__note">The score I aim for</p></div>
         </div>
       </div>
     </div>
@@ -387,7 +414,43 @@ body.menu-open{overflow:hidden}
   <!-- STATEMENT -->
   <section class="statement">
     <div class="wrap">
-      <p class="highlight" data-highlight>Your website is your hardest working salesperson. When it is slow, broken on a phone or hard to use, it quietly sends customers to your competitors. I fix that at the root: speed, structure and a clear next step on every page, built as one system.</p>
+      <p class="highlight" data-highlight>Most websites do not lose customers because they look bad. They lose them because they load slowly, break on a phone and never tell the visitor what to do next. Fix those three things and the same traffic brings you more business.</p>
+    </div>
+  </section>
+
+  <!-- PROBLEMS -->
+  <section class="problems" id="problems">
+    <div class="wrap">
+      <header class="section-head reveal">
+        <p class="eyebrow eyebrow--blue">Sound familiar?</p>
+        <h2 class="h-xl">Six problems that cost<br>businesses customers.</h2>
+      </header>
+      <div class="problem__grid">
+        <article class="problem reveal">
+          <p class="problem__q">"Visitors leave before the page even loads."</p>
+          <p class="problem__a">I find what is slowing your site down (heavy images, too many plugins, slow hosting) and fix it at the root, so people stay long enough to buy or book.</p>
+        </article>
+        <article class="problem reveal">
+          <p class="problem__q">"It looks broken on phones."</p>
+          <p class="problem__a">Most of your visitors are on a phone. I rebuild the layout so text, buttons and forms work properly on every screen size.</p>
+        </article>
+        <article class="problem reveal">
+          <p class="problem__q">"People visit, but nobody calls."</p>
+          <p class="problem__a">I add a clear next step to every page: call, book, get a quote or buy. Visitors should never have to wonder how to reach you.</p>
+        </article>
+        <article class="problem reveal">
+          <p class="problem__q">"Shoppers add to cart, then disappear."</p>
+          <p class="problem__a">I clean up your WooCommerce product pages and checkout so buying takes fewer steps and works smoothly on a phone.</p>
+        </article>
+        <article class="problem reveal">
+          <p class="problem__q">"I can't change anything without a developer."</p>
+          <p class="problem__a">I build with Elementor and hand over a short video, so you can update text, photos and prices yourself.</p>
+        </article>
+        <article class="problem reveal">
+          <p class="problem__q">"The site got hacked, went down or shows errors."</p>
+          <p class="problem__a">I clean it up, find how it happened, close the gap and set up backups, so it does not happen again.</p>
+        </article>
+      </div>
     </div>
   </section>
 
@@ -395,25 +458,26 @@ body.menu-open{overflow:hidden}
   <section class="services" id="services">
     <div class="wrap">
       <header class="section-head reveal">
-        <p class="eyebrow eyebrow--blue">What I do</p>
-        <h2 class="h-xl">Build, speed up, fix<br>and look after WordPress.</h2>
+        <p class="eyebrow eyebrow--blue">How I help</p>
+        <h2 class="h-xl">Four ways I help your<br>website earn its keep.</h2>
       </header>
 
       <article class="service">
         <div class="service__copy reveal">
-          <h3 class="h-lg">WordPress &amp; Elementor Websites</h3>
-          <p>New business websites, landing pages and redesigns that look sharp on every screen and make the next step obvious: call, book, or ask for a quote.</p>
-          <p>Figma or mockup to a pixel-perfect Elementor build, with pages your team can edit without a developer.</p>
+          <p class="mono mono--blue">For businesses that need a new site</p>
+          <h3 class="h-lg">A website that turns visitors into enquiries</h3>
+          <p>You get a fast, professional WordPress site built around one goal: getting visitors to call, book or ask for a quote. Every page has a clear next step and works on any phone.</p>
+          <p>Already have a design in Figma? I turn it into a pixel-perfect Elementor site you can edit yourself.</p>
           <ul class="checks checks--grid">
-            <li>Business websites</li><li>Landing pages</li><li>Redesigns</li><li>Figma to Elementor</li>
+            <li>Business websites</li><li>Landing pages for ads</li><li>Redesigns</li><li>Figma to Elementor</li>
           </ul>
         </div>
         <div class="service__visual reveal" aria-hidden="true">
           <div class="mock mock--builder">
-            <div class="mock__top"><span class="mono">Elementor · Homepage</span><span class="tag tag--green">Live</span></div>
+            <div class="mock__top"><span class="mono">Your homepage</span><span class="tag tag--green">Live</span></div>
             <div class="builder">
               <div class="builder__side">
-                <span class="w"><b></b>Heading</span><span class="w"><b></b>Image</span><span class="w"><b></b>Button</span><span class="w"><b></b>Form</span><span class="w"><b></b>Reviews</span>
+                <span class="w"><b></b>Headline</span><span class="w"><b></b>Reviews</span><span class="w"><b></b>Services</span><span class="w"><b></b>Quote form</span><span class="w"><b></b>Call button</span>
               </div>
               <div class="builder__canvas">
                 <div class="bl bl--hero"><i></i><i></i><em>Book now</em></div>
@@ -427,16 +491,17 @@ body.menu-open{overflow:hidden}
 
       <article class="service service--flip">
         <div class="service__copy reveal">
-          <h3 class="h-lg">WooCommerce Stores</h3>
-          <p>Online stores that are easy to browse and quick to buy from. Product pages, categories, cart and checkout set up so shoppers finish the order on their phone.</p>
-          <p>Stripe and PayPal checkout, shipping rules, coupons and order emails, tested with real test orders before launch.</p>
+          <p class="mono mono--blue">For shops selling online</p>
+          <h3 class="h-lg">An online store people actually finish buying from</h3>
+          <p>You get a WooCommerce store that is easy to browse and quick to check out on a phone, with products, categories, shipping and payments set up properly from day one.</p>
+          <p>Every store is tested with real test orders before launch, so your first customer does not find the bugs for you.</p>
           <ul class="checks checks--grid">
-            <li>Product catalogs</li><li>Checkout setup</li><li>Shipping &amp; tax rules</li><li>Mobile checkout fixes</li>
+            <li>New WooCommerce stores</li><li>Faster checkout</li><li>Shipping &amp; tax rules</li><li>Stripe &amp; PayPal setup</li>
           </ul>
         </div>
         <div class="service__visual reveal" aria-hidden="true">
           <div class="mock mock--store">
-            <div class="mock__top"><span class="mono">Store · Checkout</span><span class="tag">WooCommerce</span></div>
+            <div class="mock__top"><span class="mono">Your store · Checkout</span><span class="tag">WooCommerce</span></div>
             <div class="store">
               <div class="product"><div class="product__img"></div><p>Body Oil</p><p class="price">$24.00</p><span class="mini-btn">Add to cart</span></div>
               <div class="product"><div class="product__img product__img--b"></div><p>Face Serum</p><p class="price">$32.00</p><span class="mini-btn">Add to cart</span></div>
@@ -454,11 +519,12 @@ body.menu-open{overflow:hidden}
 
       <article class="service">
         <div class="service__copy reveal">
-          <h3 class="h-lg">Speed &amp; Core Web Vitals</h3>
-          <p>Every extra second of loading loses visitors. I find what is slowing your site down and fix it at the root, not with one more plugin.</p>
-          <p>Caching, image compression, script and CSS cleanup, Cloudflare and hosting checks, with a before and after PageSpeed report.</p>
+          <p class="mono mono--blue">For sites that feel slow</p>
+          <h3 class="h-lg">A faster site that keeps visitors from leaving</h3>
+          <p>A slow site loses visitors and ranks lower on Google. I find exactly what is slowing yours down and fix it, without breaking anything.</p>
+          <p>You get a before and after PageSpeed report, so you can see the difference for yourself.</p>
           <ul class="checks checks--grid">
-            <li>PageSpeed &amp; Core Web Vitals</li><li>Image optimization</li><li>Caching &amp; CDN</li><li>Before / after report</li>
+            <li>Faster loading on phones</li><li>Better Google Core Web Vitals</li><li>Lighter images</li><li>Before / after report</li>
           </ul>
         </div>
         <div class="service__visual reveal" aria-hidden="true">
@@ -470,34 +536,35 @@ body.menu-open{overflow:hidden}
                 <p class="mono">Performance</p>
               </div>
               <div class="speed__metrics">
-                <div class="metric"><span>Largest paint</span><b>1.8s</b><i style="--w:82%"></i></div>
-                <div class="metric"><span>Layout shift</span><b>0.02</b><i style="--w:94%"></i></div>
-                <div class="metric"><span>Blocking time</span><b>90ms</b><i style="--w:88%"></i></div>
-                <div class="metric"><span>Page weight</span><b>1.1MB</b><i style="--w:76%"></i></div>
+                <div class="metric"><span>Main content shows</span><b>1.8s</b><i style="--w:82%"></i></div>
+                <div class="metric"><span>Page jumps around</span><b>0.02</b><i style="--w:94%"></i></div>
+                <div class="metric"><span>Time until clickable</span><b>90ms</b><i style="--w:88%"></i></div>
+                <div class="metric"><span>Page size</span><b>1.1MB</b><i style="--w:76%"></i></div>
               </div>
             </div>
-            <p class="mock__foot">Illustration of the report format you receive.</p>
+            <p class="mock__foot">Sample of the report you receive.</p>
           </div>
         </div>
       </article>
 
       <article class="service service--flip">
         <div class="service__copy reveal">
-          <h3 class="h-lg">Fixes, Security &amp; Care</h3>
-          <p>White screen, broken layout, plugin conflict, hacked site or a form that stopped sending. I find the cause, fix it and make sure it stays fixed.</p>
-          <p>Malware cleanup, security hardening, hosting migrations with redirects, and monthly care plans with updates and backups.</p>
+          <p class="mono mono--blue">For sites that keep breaking</p>
+          <h3 class="h-lg">A site that stays online, safe and up to date</h3>
+          <p>Broken layout, white screen, plugin conflict, hacked site or a contact form that stopped sending. I find the cause, fix it and make sure it stays fixed.</p>
+          <p>Or hand it over completely: a monthly care plan covers updates, backups, security checks and small changes, so you never have to think about it.</p>
           <ul class="checks checks--grid">
-            <li>Bug &amp; error fixes</li><li>Malware cleanup</li><li>Migrations</li><li>Monthly care plans</li>
+            <li>Bug &amp; error fixes</li><li>Malware cleanup</li><li>Moving to new hosting</li><li>Monthly care plans</li>
           </ul>
         </div>
         <div class="service__visual reveal" aria-hidden="true">
           <div class="mock mock--care">
-            <div class="mock__top"><span class="mono">Care log · This month</span><span class="tag tag--green">Healthy</span></div>
+            <div class="mock__top"><span class="mono">Your care report · This month</span><span class="tag tag--green">Healthy</span></div>
             <ul class="log">
               <li><span class="dot dot--green"></span><b>Backup completed</b><em>Files + database</em></li>
               <li><span class="dot dot--green"></span><b>Plugins updated</b><em>Tested on staging first</em></li>
               <li><span class="dot dot--blue"></span><b>Security scan</b><em>No threats found</em></li>
-              <li><span class="dot dot--blue"></span><b>Forms tested</b><em>Contact + quote form</em></li>
+              <li><span class="dot dot--blue"></span><b>Forms tested</b><em>Enquiries arriving</em></li>
               <li><span class="dot dot--lav"></span><b>Uptime check</b><em>Site online</em></li>
             </ul>
           </div>
@@ -509,49 +576,115 @@ body.menu-open{overflow:hidden}
   <!-- WORK -->
   <section class="work" id="work">
     <div class="wrap">
-      <p class="highlight highlight--center" data-highlight>Real websites, live today. Open any one and click around.</p>
+      <header class="section-head section-head--tight reveal">
+        <p class="eyebrow eyebrow--blue">Client work</p>
+        <h2 class="h-xl">What clients needed,<br>and what they got.</h2>
+      </header>
+
+      <div class="filters reveal" role="group" aria-label="Filter projects">
+        <button class="filter is-on" data-filter="all" aria-pressed="true">All projects</button>
+        <button class="filter" data-filter="wp" aria-pressed="false">WordPress &amp; WooCommerce</button>
+        <button class="filter" data-filter="app" aria-pressed="false">Web apps &amp; product sites</button>
+      </div>
 
       <div class="work__grid">
-        <a class="project reveal" href="https://normcph.com/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/norm-640.webp" srcset="assets/img/norm-640.webp 640w, assets/img/norm-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Norm Architects website homepage" width="1200" height="750" loading="lazy"></div>
-          <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag tag--dim">Team project</span></div>
-          <h3>Norm Architects</h3><p>Copenhagen architecture studio. Part of the UP Agency team that built the site.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
-        </a>
-        <a class="project reveal" href="https://spacecph.dk/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/space-640.webp" srcset="assets/img/space-640.webp 640w, assets/img/space-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Space Copenhagen website homepage" width="1200" height="750" loading="lazy"></div>
-          <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag tag--dim">Team project</span></div>
-          <h3>Space Copenhagen</h3><p>Interior design studio. Part of the UP Agency team that built the site.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
-        </a>
-        <a class="project reveal" href="https://keerahbeauty.com/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/keerah-640.webp" srcset="assets/img/keerah-640.webp 640w, assets/img/keerah-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Keerah Beauty online store homepage" width="1200" height="750" loading="lazy"></div>
+        <a class="project reveal" data-cat="wp" href="https://keerahbeauty.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/keerah-640.webp" srcset="assets/img/keerah-640.webp 640w, assets/img/keerah-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Keerah Beauty online store homepage" width="1200" height="750" loading="lazy"></div>
           <div class="project__meta"><div class="tags"><span class="tag">WooCommerce</span><span class="tag">Elementor</span></div>
-          <h3>Keerah Beauty</h3><p>Skincare store with one-click add to cart in the hero, wishlist and secure checkout.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
+          <h3>Keerah Beauty</h3><p class="project__ind">Skincare brand · Online store</p>
+          <dl><div><dt>Needed</dt><dd>A store where shoppers can find a product and buy it in a few taps.</dd></div><div><dt>Got</dt><dd>WooCommerce store with "Add to cart" right on the homepage, wishlist, accounts and secure checkout.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
         </a>
-        <a class="project reveal" href="https://www.itsred.tv/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/redtv-640.webp" srcset="assets/img/redtv-640.webp 640w, assets/img/redtv-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="RED TV website homepage" width="1200" height="750" loading="lazy"></div>
+        <a class="project reveal" data-cat="app" href="https://motoro-app.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/motoro-640.webp" srcset="assets/img/motoro-640.webp 640w, assets/img/motoro-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Motoro car valuation platform homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">Web app</span><span class="tag">Automotive</span></div>
+          <h3>Motoro</h3><p class="project__ind">UK car selling platform</p>
+          <dl><div><dt>Needed</dt><dd>A simple way for car owners to check their car's value and sell it to approved dealers.</dd></div><div><dt>Got</dt><dd>Registration lookup, instant valuation, vehicle history check and a separate path for dealers.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="wp" href="https://normcph.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/norm-640.webp" srcset="assets/img/norm-640.webp 640w, assets/img/norm-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Norm Architects website homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag tag--dim">Team project</span></div>
+          <h3>Norm Architects</h3><p class="project__ind">Architecture studio · Copenhagen</p>
+          <dl><div><dt>Needed</dt><dd>A calm, gallery-led site that lets the studio's work speak for itself.</dd></div><div><dt>Got</dt><dd>Full-width project photography and clear sections for every discipline. Built as part of the UP Agency team.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="app" href="https://smorza.app/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/smorza-640.webp" srcset="assets/img/smorza-640.webp 640w, assets/img/smorza-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Smorza Mac app website homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">Product site</span><span class="tag">Software</span></div>
+          <h3>Smorza</h3><p class="project__ind">Mac app · Software product</p>
+          <dl><div><dt>Needed</dt><dd>A site that explains the app in seconds and gets visitors to download it.</dd></div><div><dt>Got</dt><dd>A product page with a live-looking app demo, one clear "Download free" button, a Pro page and a blog.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="wp" href="https://spacecph.dk/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/space-640.webp" srcset="assets/img/space-640.webp 640w, assets/img/space-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Space Copenhagen website homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag tag--dim">Team project</span></div>
+          <h3>Space Copenhagen</h3><p class="project__ind">Interior design studio · Copenhagen</p>
+          <dl><div><dt>Needed</dt><dd>An editorial site for a studio designing hotels, restaurants and furniture worldwide.</dd></div><div><dt>Got</dt><dd>A clean project grid with search, loading in under 2 seconds on mobile. Built as part of the UP Agency team.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="app" href="https://www.makeaiinfluencer.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/makeai-640.webp" srcset="assets/img/makeai-640.webp 640w, assets/img/makeai-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Make AI Influencer website homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">SaaS</span><span class="tag">AI</span></div>
+          <h3>Make AI Influencer</h3><p class="project__ind">AI content tool · Subscription</p>
+          <dl><div><dt>Needed</dt><dd>A landing site that turns visitors into free-trial sign-ups.</dd></div><div><dt>Got</dt><dd>Clear product story, live examples, pricing and FAQ, with "Create my influencer" repeated at every step.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="wp" href="https://beautymartng.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/beautymart-640.webp" srcset="assets/img/beautymart-640.webp 640w, assets/img/beautymart-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Beautymart online store homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">WooCommerce</span><span class="tag">Elementor</span></div>
+          <h3>Beautymart</h3><p class="project__ind">Beauty retailer · Online store</p>
+          <dl><div><dt>Needed</dt><dd>A large catalog that is still easy to shop on a phone.</dd></div><div><dt>Got</dt><dd>Shop by category (face, eyes, lips, hair, men), product pages, cart and checkout in a clean premium look.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="app" href="https://shanmugavel-bookuniverse.vercel.app/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/bookuniverse-640.webp" srcset="assets/img/bookuniverse-640.webp 640w, assets/img/bookuniverse-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Shanmugavel's Bookstore homepage" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">Web app</span><span class="tag">Digital products</span></div>
+          <h3>Shanmugavel's Bookstore</h3><p class="project__ind">Author · eBooks &amp; audiobooks</p>
+          <dl><div><dt>Needed</dt><dd>A way for an author to sell eBooks and audiobooks directly to readers.</dd></div><div><dt>Got</dt><dd>A bookstore with time-based reading passes (hourly to yearly), card and UPI checkout and instant access.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
+        </a>
+        <a class="project reveal" data-cat="wp" href="https://www.itsred.tv/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/redtv-640.webp" srcset="assets/img/redtv-640.webp 640w, assets/img/redtv-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="RED TV website homepage" width="1200" height="750" loading="lazy"></div>
           <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag">Elementor</span></div>
-          <h3>RED TV</h3><p>Media brand for web series, with a full-screen show slider, trailers and awards.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
+          <h3>RED TV</h3><p class="project__ind">Media brand · Web series</p>
+          <dl><div><dt>Needed</dt><dd>A site where fans land on a show and start watching straight away.</dd></div><div><dt>Got</dt><dd>A full-screen show slider with trailers, show pages, awards and a blog.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
         </a>
-        <a class="project reveal" href="https://beautymartng.com/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/beautymart-640.webp" srcset="assets/img/beautymart-640.webp 640w, assets/img/beautymart-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Beautymart online store homepage" width="1200" height="750" loading="lazy"></div>
-          <div class="project__meta"><div class="tags"><span class="tag">WooCommerce</span><span class="tag">Elementor</span></div>
-          <h3>Beautymart</h3><p>Beauty and cosmetics store with shop by category, product pages and checkout.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
-        </a>
-        <a class="project reveal" href="https://lateefahokunnufoundation.org/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/lateefah-640.webp" srcset="assets/img/lateefah-640.webp 640w, assets/img/lateefah-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Lateefah Okunnu Foundation website homepage" width="1200" height="750" loading="lazy"></div>
+        <a class="project reveal" data-cat="wp" href="https://lateefahokunnufoundation.org/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/lateefah-640.webp" srcset="assets/img/lateefah-640.webp 640w, assets/img/lateefah-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Lateefah Okunnu Foundation website homepage" width="1200" height="750" loading="lazy"></div>
           <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag">Nonprofit</span></div>
-          <h3>Lateefah Okunnu Foundation</h3><p>Nonprofit site with video hero, programs, impact pages and a Donate button in the header.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
+          <h3>Lateefah Okunnu Foundation</h3><p class="project__ind">Nonprofit · Girls' education</p>
+          <dl><div><dt>Needed</dt><dd>A site that tells the foundation's story and makes giving easy.</dd></div><div><dt>Got</dt><dd>Video hero, programs and impact pages, and a "Donate Now" button that stays in the header. The team posts news themselves.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
         </a>
-        <a class="project reveal" href="https://cprsrecycling.com/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/cprs-640.webp" srcset="assets/img/cprs-640.webp 640w, assets/img/cprs-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Copackers Recycling platform screen" width="1200" height="750" loading="lazy"></div>
-          <div class="project__meta"><div class="tags"><span class="tag">Web app</span><span class="tag">Dashboard</span></div>
-          <h3>Copackers Recycling</h3><p>B2B marketplace for recycled materials, with order tracking from quote to logistics.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
+        <a class="project reveal" data-cat="app" href="https://cprsrecycling.com/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/cprs-640.webp" srcset="assets/img/cprs-640.webp 640w, assets/img/cprs-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Copackers Recycling platform screen" width="1200" height="750" loading="lazy"></div>
+          <div class="project__meta"><div class="tags"><span class="tag">Web app</span><span class="tag">B2B</span></div>
+          <h3>Copackers Recycling</h3><p class="project__ind">Recycled materials trading</p>
+          <dl><div><dt>Needed</dt><dd>One place for buyers and sellers to manage every order step.</dd></div><div><dt>Got</dt><dd>A buyer workspace tracking each order from quote to payment, inspection and delivery, with document drafts.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
         </a>
-        <a class="project reveal" href="https://ibo.org.ng/" target="_blank" rel="noopener">
-          <div class="project__img"><img src="assets/img/ibo-640.webp" srcset="assets/img/ibo-640.webp 640w, assets/img/ibo-1200.webp 1200w" sizes="(max-width: 760px) 100vw, 50vw" alt="Ibrahim Babajide Obanikoro personal brand website" width="1200" height="750" loading="lazy"></div>
+        <a class="project reveal" data-cat="wp" href="https://ibo.org.ng/" target="_blank" rel="noopener">
+          <div class="project__img"><img src="assets/img/ibo-640.webp" srcset="assets/img/ibo-640.webp 640w, assets/img/ibo-1200.webp 1200w" sizes="(max-width: 860px) 100vw, 50vw" alt="Ibrahim Babajide Obanikoro personal brand website" width="1200" height="750" loading="lazy"></div>
           <div class="project__meta"><div class="tags"><span class="tag">WordPress</span><span class="tag">Personal brand</span></div>
-          <h3>Ibrahim B. Obanikoro</h3><p>Personal brand site for a public leader, with story, works and impact sections.</p><span class="link">Visit site <i class="arrow" aria-hidden="true"></i></span></div>
+          <h3>Ibrahim B. Obanikoro</h3><p class="project__ind">Public leader · Personal brand</p>
+          <dl><div><dt>Needed</dt><dd>A credible online home that tells his story and shows his work.</dd></div><div><dt>Got</dt><dd>Full-screen hero, About and Works &amp; Impact sections, and a contact page, responsive on every device.</dd></div></dl>
+          <span class="link">Visit live site <i class="arrow" aria-hidden="true"></i></span></div>
         </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHO -->
+  <section class="who">
+    <div class="wrap">
+      <h2 class="h-xl h-xl--dim center reveal">Who I build for.</h2>
+      <div class="who__grid">
+        <div class="who__item reveal"><h3>Local service businesses</h3><p>Roofers, cleaners, clinics, salons. You need the phone to ring and the booking form to fill up.</p></div>
+        <div class="who__item reveal"><h3>Online stores</h3><p>Beauty, fashion, home goods. You need shoppers to find the product and finish checkout.</p></div>
+        <div class="who__item reveal"><h3>Studios &amp; personal brands</h3><p>Architects, designers, creators, leaders. You need a site that looks as good as your work.</p></div>
+        <div class="who__item reveal"><h3>Startups &amp; software</h3><p>Apps and SaaS. You need visitors to understand the product fast and sign up.</p></div>
       </div>
     </div>
   </section>
@@ -559,11 +692,10 @@ body.menu-open{overflow:hidden}
   <!-- PROOF -->
   <section class="proof">
     <div class="wrap">
-      <h2 class="h-xl h-xl--dim center reveal">Built to be seen.<br>Made to work.</h2>
       <div class="proof__grid">
-        <div class="card reveal"><span class="pill">Upwork</span><p class="big">100%</p><p class="mono mono--dim">Job success score</p><h3>Clients I have worked with</h3><p>Every Upwork contract so far closed with a 100% Job Success score.</p></div>
-        <div class="card reveal"><span class="pill">Portfolio</span><p class="big">8</p><p class="mono mono--dim">Live websites</p><h3>Real sites, not mockups</h3><p>Stores, studios, media and nonprofits you can open and click through today.</p></div>
-        <div class="card reveal"><span class="pill">Speed</span><p class="big">24h</p><p class="mono mono--dim">First step delivered</p><h3>Small jobs move fast</h3><p>Small fixes in 24 to 72 hours. Bigger builds in milestones of 7 working days or less.</p></div>
+        <div class="card reveal"><span class="pill">Upwork</span><p class="big">100%</p><p class="mono mono--dim">Job success score</p><h3>Clients leave happy</h3><p>Every Upwork contract so far has ended with a 100% Job Success score.</p></div>
+        <div class="card reveal"><span class="pill">Portfolio</span><p class="big">12</p><p class="mono mono--dim">Live projects</p><h3>Real work you can click</h3><p>Stores, studios, nonprofits, apps and product sites, all live today.</p></div>
+        <div class="card reveal"><span class="pill">Speed</span><p class="big">24h</p><p class="mono mono--dim">First fix delivered</p><h3>You are not left waiting</h3><p>Small fixes in 24 to 72 hours. Bigger builds in steps of 7 working days or less.</p></div>
       </div>
     </div>
   </section>
@@ -572,14 +704,14 @@ body.menu-open{overflow:hidden}
   <section class="process" id="process">
     <div class="wrap">
       <header class="section-head reveal">
-        <p class="eyebrow eyebrow--blue">How I work</p>
-        <h2 class="h-xl">Four steps. No surprises.</h2>
+        <p class="eyebrow eyebrow--blue">What happens next</p>
+        <h2 class="h-xl">From your first message<br>to a site that works.</h2>
       </header>
       <ol class="steps">
-        <li class="step reveal"><span class="step__n mono">01</span><h3>Audit</h3><p>I check your site on a real phone: speed, layout, forms, tracking and calls to action. You get a short list of what is costing you customers.</p></li>
-        <li class="step reveal"><span class="step__n mono">02</span><h3>Plan &amp; price</h3><p>A clear plan, a fixed price and a timeline before any work starts. Big jobs are split into milestones you approve one at a time.</p></li>
-        <li class="step reveal"><span class="step__n mono">03</span><h3>Backup &amp; build</h3><p>Full backup first, staging site when possible. Then I build or fix, with progress updates you never have to chase.</p></li>
-        <li class="step reveal"><span class="step__n mono">04</span><h3>Test &amp; hand over</h3><p>Tested on phone, tablet and desktop. You get a short video walkthrough so your team can update the site without a developer.</p></li>
+        <li class="step reveal"><span class="step__n mono">01</span><h3>You send your link</h3><p>Message me on Upwork with your website or idea. I check it on a real phone and tell you the first thing I would fix.</p></li>
+        <li class="step reveal"><span class="step__n mono">02</span><h3>You get a fixed price</h3><p>A clear plan, price and timeline before anything starts. Big jobs are split into steps, and you approve each one.</p></li>
+        <li class="step reveal"><span class="step__n mono">03</span><h3>I back up, then build</h3><p>A full backup comes first, so nothing can be lost. You get progress updates without having to chase me.</p></li>
+        <li class="step reveal"><span class="step__n mono">04</span><h3>You get it tested and explained</h3><p>Tested on phone, tablet and desktop. A short video shows you how to update the site yourself.</p></li>
       </ol>
     </div>
   </section>
@@ -588,16 +720,16 @@ body.menu-open{overflow:hidden}
   <section class="promises" id="promises">
     <div class="wrap">
       <header class="section-head reveal">
-        <p class="eyebrow eyebrow--blue">My promises</p>
-        <h2 class="h-xl">Every service comes<br>with a promise.</h2>
+        <p class="eyebrow eyebrow--blue">Your guarantees</p>
+        <h2 class="h-xl">Every job comes with<br>a promise you can hold me to.</h2>
       </header>
       <div class="promise__grid">
         <div class="promise reveal"><h3>New websites &amp; redesigns</h3><p>14 days of free fixes after launch for anything I built. If it breaks, I fix it.</p></div>
         <div class="promise reveal"><h3>WooCommerce stores</h3><p>Test orders placed before handover, and 14 days of free fixes on cart and checkout.</p></div>
-        <div class="promise reveal"><h3>Speed optimization</h3><p>Before and after PageSpeed report. If the mobile score we agreed on is not reached, I keep working on it at no extra cost.</p></div>
+        <div class="promise reveal"><h3>Speed improvements</h3><p>A before and after PageSpeed report. If we do not reach the mobile score we agreed on, I keep working at no extra cost.</p></div>
         <div class="promise reveal"><h3>Bug fixes</h3><p>If the same bug comes back within 14 days, I fix it again at no extra cost.</p></div>
         <div class="promise reveal"><h3>Malware cleanup</h3><p>If the same infection comes back within 30 days, I clean it again at no extra cost.</p></div>
-        <div class="promise reveal"><h3>Migrations</h3><p>Redirects mapped and checked, so your pages and Google rankings move with you. Nothing goes live until it is tested.</p></div>
+        <div class="promise reveal"><h3>Moving to new hosting</h3><p>Every old link is redirected and checked, so your pages and Google rankings move with you.</p></div>
       </div>
     </div>
   </section>
@@ -607,15 +739,16 @@ body.menu-open{overflow:hidden}
     <div class="wrap wrap--narrow">
       <header class="section-head reveal">
         <p class="eyebrow eyebrow--blue">FAQ</p>
-        <h2 class="h-xl">Questions clients ask.</h2>
+        <h2 class="h-xl">Before you hire me.</h2>
       </header>
       <div class="faq__list">
-        <details class="reveal"><summary>How do we work together?</summary><p>Everything runs through Upwork, so your funds are protected and every message is in one place. I work over live chat on Upwork, which keeps every decision in writing.</p></details>
-        <details class="reveal"><summary>How much does a project cost?</summary><p>Every job gets a fixed price or a clear hourly estimate before I start. Bigger projects are split into milestones, so you only fund one step at a time.</p></details>
-        <details class="reveal"><summary>Will I be able to edit the site myself?</summary><p>Yes. I build with Elementor and clean WordPress settings, and you get a short video walkthrough at handover.</p></details>
-        <details class="reveal"><summary>Do I keep ownership of everything?</summary><p>Always. Your hosting, domain, Google Analytics, Search Console and Tag Manager stay in your name. I work with access you give and can remove.</p></details>
-        <details class="reveal"><summary>Can you fix a site someone else built?</summary><p>Yes. Most of my fix and speed work is on sites built by other developers. I take a full backup first, then find the cause before changing anything.</p></details>
-        <details class="reveal"><summary>What do you need from me to start?</summary><p>Your website link and a short note on what is wrong or what you want. For builds: your logo, text and photos, or I can suggest a structure from top sites in your industry.</p></details>
+        <details class="reveal"><summary>How much will my project cost?</summary><p>It depends on what your site needs, so I quote after looking at it. You always get a fixed price or a clear hourly estimate before work starts, and bigger projects are split into steps, so you only fund one step at a time.</p></details>
+        <details class="reveal"><summary>How fast can you start?</summary><p>Usually within a day. Small fixes are often done in 24 to 72 hours.</p></details>
+        <details class="reveal"><summary>Will I be able to update the site myself?</summary><p>Yes. I build with Elementor and clean WordPress settings, and you get a short video showing how to change text, photos and prices.</p></details>
+        <details class="reveal"><summary>Do I keep ownership of everything?</summary><p>Always. Your hosting, domain, Google Analytics, Search Console and Tag Manager stay in your name. I only use access you give me, and you can remove it any time.</p></details>
+        <details class="reveal"><summary>Can you fix a site another developer built?</summary><p>Yes, most fix and speed jobs are on sites built by someone else. I take a full backup first and find the real cause before changing anything.</p></details>
+        <details class="reveal"><summary>How do we work together?</summary><p>Everything runs through Upwork, so your funds are protected until you approve the work. We talk over live chat on Upwork, so every decision is in writing and easy to find later.</p></details>
+        <details class="reveal"><summary>What do you need from me to start?</summary><p>Your website link and a short note on what is wrong or what you want. For a new site: your logo, text and photos. If you do not have text yet, I can suggest a page structure based on the best sites in your industry.</p></details>
       </div>
     </div>
   </section>
@@ -625,8 +758,8 @@ body.menu-open{overflow:hidden}
     <div class="cta__glow" aria-hidden="true"></div>
     <div class="wrap center">
       <h2 class="h-xxl"><span class="dim">Your website should</span><br>work as hard as you do.</h2>
-      <a class="btn btn--light btn--lg" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Start a project on Upwork <i class="arrow" aria-hidden="true"></i></a>
-      <p class="cta__note">Send your website link. I reply with a clear plan, a fixed price and a timeline.</p>
+      <a class="btn btn--light btn--lg" href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Send me your website on Upwork <i class="arrow" aria-hidden="true"></i></a>
+      <p class="cta__note">I reply with the first thing I would fix, a fixed price and a timeline.</p>
     </div>
   </section>
 </main>
@@ -635,7 +768,7 @@ body.menu-open{overflow:hidden}
   <div class="wrap center">
     <a class="logo" href="#top"><span class="logo__mark" aria-hidden="true"></span><span>adam<span class="logo__dot">.</span>o</span></a>
     <nav class="footer__links" aria-label="Footer">
-      <a href="#services">Services</a><a href="#work">Work</a><a href="#process">Process</a><a href="#promises">Promises</a><a href="#faq">FAQ</a>
+      <a href="#problems">Problems I fix</a><a href="#services">Services</a><a href="#work">Client work</a><a href="#process">Process</a><a href="#faq">FAQ</a>
       <a href="https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0" target="_blank" rel="noopener">Upwork profile</a>
     </nav>
     <p class="footer__small">Adam O. · WordPress Developer · Elementor, WooCommerce, Speed &amp; SEO · © <span data-year>2026</span></p>
@@ -722,6 +855,18 @@ body.menu-open{overflow:hidden}
     window.addEventListener('resize', paint);
     paint();
   }
+
+
+  // Project filter
+  var filters = document.querySelectorAll('.filter');
+  var projects = document.querySelectorAll('.project[data-cat]');
+  filters.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var f = btn.getAttribute('data-filter');
+      filters.forEach(function (b) { var on = b === btn; b.classList.toggle('is-on', on); b.setAttribute('aria-pressed', String(on)); });
+      projects.forEach(function (pr) { var show = f === 'all' || pr.getAttribute('data-cat') === f; pr.hidden = !show; if (show) pr.classList.add('in'); });
+    });
+  });
 
   // Hero screenshot rotation
   var shots = document.querySelectorAll('.browser__screen img');

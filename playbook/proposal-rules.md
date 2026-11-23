@@ -27,5 +27,12 @@
     - Example: bids 23, 14, 13, 5, 2. 2nd place costs 15, which is under 16, so bid 15.
 18. Learn from the numbers (Adam, 2026-11-23): track every proposal in playbook/proposal-stats.md (viewed, replied, interview, hired, Connects spent, boost bid, proposals at send, hours after posting) and review it before writing new proposals. Change the framework when the numbers show what works.
 
+19. When to boost (Adam, 2026-11-23): NOT every job. Boost only when all of these hold: the project looks very promising, we have a strong chance to win (exact fit for Adam's work, a sharp finding, early in the job), and the client has spent a lot on Upwork or clearly has money to spend (big budget, real business, many past hires). Rule 17 sets how much.
+20. Pricing strategy (Adam, 2026-11-23): land small, expand to $10K+ per client.
+    - Phase 1 is priced low so the client says yes easily (rules in proposal-structure.md section 3).
+    - After Phase 1 shows our value, upsell the client step by step, aiming for $10K+ over time.
+    - Read each client before every upsell. High payers (big spend, big budgets, established business) get larger milestones. Small budgets get smaller milestones, more of them.
+    - Record each client's spending level and the upsell ladder in their 04-upsell.md.
+
 ## Scan schedule
 Every hour (scheduled task). The 1-minute message check and the 15-minute scan were turned off by Adam on 2026-11-23. Each hour: pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

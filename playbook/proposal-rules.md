@@ -35,4 +35,4 @@
     - Record each client's spending level and the upsell ladder in their 04-upsell.md.
 
 ## Scan schedule
-Every hour (scheduled task). The 1-minute message check and the 15-minute scan were turned off by Adam on 2026-11-23. Each hour: pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.
+From 2026-11-23: every 20 minutes from 9am to 5pm US Eastern (hourly scheduled task at :07, plus session scans at :27 and :47). Off outside those hours. The 1-minute message check and the old 15-minute scan are off. Each hour: pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

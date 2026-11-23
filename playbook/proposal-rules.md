@@ -12,7 +12,7 @@
 9. Payment verified clients only. One exception (Adam, 2026-11-23): a client who is brand new to Upwork (no jobs posted before, no hires yet) with an unverified payment method MAY be applied to only when the job post is very detailed and reads like a serious buyer (clear scope, real business, site or examples named, sensible budget). Rule 11 (hire rate 50%+) does not apply to these brand-new clients. Flag every such submission to Adam.
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 11. Never apply when the client's hire rate is below 50% (Adam's rule, 2026-11-21). This also excludes brand-new clients with no hires yet.
-12. Hourly bid: $25/hr (Adam changed his rate from $35 to $25 on 2026-11-21). Fixed-price offers stay priced by value.
+12. Hourly bid: $18/hr (Adam changed his rate to $18 on 2026-11-23, earlier $25). Apply to hourly jobs whose range reaches $18/hr or more (top of range $18+). Fixed-price offers stay priced by value.
 13. No calls (Adam's rule, 2026-11-21). Adam works by live chat on Upwork. Proposals and replies offer live chat, never a call or video meeting. Each proposal has one live chat line, then closes with an either/or question about the result (see proposal-structure.md, updated 2026-11-23).
 14. Price, discount, deadline or contract questions in messages: never commit. Reply "Give me a minute to recheck our messages and get back to you." and alert Adam at once.
 

@@ -103,7 +103,7 @@ Title examples: "WordPress Speed & Core Web Vitals Specialist", "WordPress Secur
 ## 3. Price
 
 1. **Sell one entry step**, not the whole job. The smallest piece with a visible result.
-2. **Hourly:** bid Adam's rate ($25/hr, `proposal-rules.md` rule 12). Say "about X hours for the first step", 10 max, no dollar total. Also offer that first step as a small fixed milestone.
+2. **Hourly:** bid Adam's rate ($18/hr, `proposal-rules.md` rule 12). Say "about X hours for the first step", 10 max, no dollar total. Also offer that first step as a small fixed milestone.
 3. **Fixed:** the lower of the budget and the bid average, minus about 10%. Never over the budget. No budget or average: $300 or less.
 4. **Cap:** no first letter over $500.
 5. **Bigger work:** milestone 1 is the entry step. The rest is priced after milestone 1. No whole-job total.
@@ -195,7 +195,7 @@ How I'd approach yours:
 [Answer to must-have 1, with proof: "On https://keerahbeauty.com/ I built ..."]
 [Answer to must-have 2, with proof.]
 
-First step: [entry step], about [X] hours at $25/hr, or $[price] as a fixed milestone, delivered in [24/48/72 hours].
+First step: [entry step], about [X] hours at $18/hr, or $[price] as a fixed milestone, delivered in [24/48/72 hours].
 
 Happy to walk through this over live chat here on Upwork: 10 minutes on [agenda] and access.
 

@@ -21,3 +21,20 @@
 - Format: first proposal on the new proposal-structure.md framework.
 - Resume: not attached at send (upload links expired); to be added with an edit once uploaded.
 - Status: Submitted.
+
+## 2026-11-23: Convert WooCommerce shop to catalogue (Bklover.com, WordPress.com)
+- Job: https://www.upwork.com/jobs/~022124332892125092395 (proposal id 2124742331495845889)
+- Client: United Kingdom, brand new (1 job, 0 hires), payment NOT verified. Sent under the new-client exception: very detailed, serious brief (8 questions, staged plan).
+- Proposals at send: 14. Connects: 8 (balance 409 after). No boost.
+- Bid: $95 fixed for Stage 1 only (assessment and written plan). Stages 2 and 3 estimated at 6 to 9 hours, quoted after Stage 1.
+- Opening line: "On WordPress.com, plugins only run on the Business plan and above. That is why WooCommerce, your shop and your catalogue pages disappeared when you tried to downgrade..."
+- Answered all 8 questions. Stated plainly that Adam has no WordPress.com-specific project and no past shop-to-catalogue conversion.
+- Free finding: 2 H1 tags on the homepage, about 4 seconds to load.
+- Reference link: https://www.atlanticpatio.com. Proof: keerahbeauty.com, beautymartng.com, motoro-app.com (design team role).
+- Status: Submitted.
+
+## 2026-11-23 deep scan: closest misses
+- WordPress/Elementor speed, Tampa mold company (US, $500): 49 proposals.
+- Bilingual author site book pages (US, $800): 54 proposals.
+- Quick Elementor fix ($10, US, 20 proposals): the same text was posted by two different clients, so it looks like a template post. Skipped.
+- Jewelry WooCommerce performance (Estonia): the client has already hired.

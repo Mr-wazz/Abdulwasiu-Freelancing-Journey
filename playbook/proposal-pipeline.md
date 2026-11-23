@@ -38,3 +38,12 @@
 - Bilingual author site book pages (US, $800): 54 proposals.
 - Quick Elementor fix ($10, US, 20 proposals): the same text was posted by two different clients, so it looks like a template post. Skipped.
 - Jewelry WooCommerce performance (Estonia): the client has already hired.
+
+## 2026-11-23: MBR Transportation & Logistics website (moving company, Brooklyn NY)
+- Job: https://www.upwork.com/jobs/~022124210678908517386 (proposal id 2124748079495118849)
+- Client: United States, brand new (1 job, 0 hires), payment not verified. Sent under the new-client exception: named LLC, 5-page scope, 5 numbered questions, brief PDF attached.
+- Proposals at send: 16. Connects: 6 (balance 403). No boost: a new client with no spend fails rule 19, even though 3rd place would have cost only 4 Connects.
+- Bid: $18/hr. The letter offers $745 fixed in 3 milestones ($245 / $280 / $220).
+- Opening line: "A moving quote form with multiple photo uploads usually breaks on phones without anyone noticing..."
+- Reference link: https://www.moishes.com (moving). Proof: keerahbeauty.com, lateefahokunnufoundation.org, itsred.tv. Said plainly: none are moving sites, and a multi-photo form would be new for the portfolio.
+- Status: Submitted.

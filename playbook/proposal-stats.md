@@ -7,6 +7,7 @@
 | 2026-11-21 | Robbins Foundation (speed, tracking, SEO) | US | $400 | | | | 0 | No | No | No | No |
 | 2026-11-23 | WooCommerce catalog, workwear | US, new | $885 | 8 | 0.1 | 10 | 0 | | | | |
 | 2026-11-23 | Bklover shop to catalogue | UK, new | $95 | 14 | 27 | 8 | 7 (3rd place) | | | | |
+| 2026-11-23 | MBR moving company site | US, new | $18/hr (or $745 fixed) | 16 | 36 | 6 | 0 | | | | |
 
 ## What the numbers say so far
 - The first 3 proposals (old short format, no boost) got 0 views in 2 to 3 days. Likely causes: no boost, and proposals sent after the first wave of applicants.

@@ -12,3 +12,5 @@
 - The first 3 proposals (old short format, no boost) got 0 views in 2 to 3 days. Likely causes: no boost, and proposals sent after the first wave of applicants.
 - To test next: boost to 2nd or 3rd place, and apply within 1 hour of posting.
 - Boost bids rise fast on good jobs: the workwear catalog went from 40/40/10/8 to 60/60/58/57 within an hour. To get a boost slot under 16 Connects, apply in the first 30 to 60 minutes.
+- Bklover competitors (Upwork insights, 2026-11-23 06:03 UTC): 14 proposals, the client has opened 0 so far. The average applicant has 36 completed jobs, $10.8K earned and 99% JSS. Adam has 2 jobs, so we win on the specific finding and the plan, not on history.
+- The workwear catalog went from 8 to 56 proposals within about 40 minutes of posting. Jobs from new clients with a clear budget fill up very fast.

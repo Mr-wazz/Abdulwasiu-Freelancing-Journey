@@ -94,7 +94,7 @@ Three lines, nothing after the question but these:
 Adam
 ```
 
-Portfolio link: the live portfolio site (source in `/portfolio-site/`). Until Adam sends the live URL, use https://www.upwork.com/freelancers/~0154ea4ce5dfd795e0
+Portfolio link: https://adam-owolabi.netlify.app (live since 2026-11-23, source repo Mr-wazz/adam-portfolio).
 
 Title examples: "WordPress Speed & Core Web Vitals Specialist", "WordPress Security & Malware Removal Specialist", "WooCommerce Developer & Checkout Specialist", "Elementor Redesign Specialist".
 

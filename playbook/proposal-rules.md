@@ -9,7 +9,7 @@
 7. Every proposal opens with a real finding from the client's own site (speed, mobile, missing tracking, missing call to action).
 8. Auto-send: Adam gave standing approval on 2026-11-20. Proposals that pass every rule are submitted without waiting, with relevant portfolio projects attached, no boost, no files. Only Adam's own portfolio sites are cited.
 
-9. Payment verified clients only. Never apply to a client whose payment is not verified.
+9. Payment verified clients only. One exception (Adam, 2026-11-23): a client who is brand new to Upwork (no jobs posted before, no hires yet) with an unverified payment method MAY be applied to only when the job post is very detailed and reads like a serious buyer (clear scope, real business, site or examples named, sensible budget). Rule 11 (hire rate 50%+) does not apply to these brand-new clients. Flag every such submission to Adam.
 10. Never apply to clients located in Nigeria, India, Pakistan or Bangladesh (Adam's rule, 2026-11-15).
 11. Never apply when the client's hire rate is below 50% (Adam's rule, 2026-11-21). This also excludes brand-new clients with no hires yet.
 12. Hourly bid: $25/hr (Adam changed his rate from $35 to $25 on 2026-11-21). Fixed-price offers stay priced by value.
@@ -17,6 +17,8 @@
 14. Price, discount, deadline or contract questions in messages: never commit. Reply "Give me a minute to recheck our messages and get back to you." and alert Adam at once.
 
 15. Proposal format: every proposal follows playbook/proposal-structure.md (Adam's framework, adopted 2026-11-23). It replaces the old 120 to 180 word format.
+
+16. Every proposal (Adam, 2026-11-23): follows proposal-structure.md, includes the portfolio link https://adam-owolabi.netlify.app in the sign-off, and has the resume PDF attached (resume/Adam-Owolabi-WordPress-Developer-Resume.pdf).
 
 ## Scan schedule
 Every hour (scheduled task). The 1-minute message check and the 15-minute scan were turned off by Adam on 2026-11-23. Each hour: pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

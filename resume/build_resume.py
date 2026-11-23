@@ -7,7 +7,7 @@ from docx.oxml import OxmlElement
 
 NAME = "Adam Owolabi"
 TITLE = "WordPress Developer | Elementor, WooCommerce, Page Speed & Technical SEO"
-CONTACT = "Maryland, United States  |  Upwork: upwork.com/freelancers/~0154ea4ce5dfd795e0"
+CONTACT = "Maryland, United States  |  Portfolio: adam-owolabi.netlify.app  |  Upwork: upwork.com/freelancers/~0154ea4ce5dfd795e0"
 START = "2024"  # confirmed by Adam 2026-11-23
 
 doc = Document()

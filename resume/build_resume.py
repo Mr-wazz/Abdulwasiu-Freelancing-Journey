@@ -8,7 +8,7 @@ from docx.oxml import OxmlElement
 NAME = "Adam Owolabi"
 TITLE = "WordPress Developer | Elementor, WooCommerce, Page Speed & Technical SEO"
 CONTACT = "Maryland, United States  |  Upwork: upwork.com/freelancers/~0154ea4ce5dfd795e0"
-START = "2024"  # first year of freelance work: confirm with Adam
+START = "2024"  # confirmed by Adam 2026-11-23
 
 doc = Document()
 for s in doc.sections:
@@ -92,7 +92,8 @@ for b in [
  "Part of the development team that built the WordPress website for Space Copenhagen (spacecph.dk), an international interior design studio, with an editorial project grid and site search, loading in under 2 seconds on mobile.",
 ]: bullet(b)
 
-heading("Selected Web App and Product Projects")
+heading("Selected Web App and Product Projects (Design Team Member)")
+para("Worked as part of the web design team on these sites, responsible for fixing site speed and page layout.", after=2)
 for b in [
  "Motoro (motoro-app.com): UK car valuation and selling platform with registration lookup, instant valuation, vehicle history check and a dealer portal.",
  "Smorza (smorza.app): product website for a macOS app with interactive demo, download flow, Pro page and blog.",
@@ -101,7 +102,7 @@ for b in [
 ]: bullet(b)
 
 heading("Education")
-p = para(after=1); r = p.add_run("Bachelor's Degree"); r.bold = True; p.add_run("  |  University of Maryland  |  2023 to 2026")
+p = para(after=1); r = p.add_run("Bachelor's Degree in Computer Science"); r.bold = True; p.add_run("  |  University of Maryland  |  2023 to 2026")
 
 heading("Certifications")
 for b in [

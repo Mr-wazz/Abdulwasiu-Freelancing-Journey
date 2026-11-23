@@ -65,6 +65,10 @@ Never write "I built", "my work" or "my client" about a reference site.
 | https://cprsrecycling.com/ | Web app, dashboards, B2B workflow | "developed" |
 | https://lateefahokunnufoundation.org/ | Nonprofit, donate button, Elementor | "built" |
 | https://ibo.org.ng/ | Personal brand, WPBakery | "developed" |
+| https://motoro-app.com/ | Web app, valuations, UK automotive | "was part of the design team and fixed the site speed and layout on" |
+| https://smorza.app/ | Software product site, downloads | "was part of the design team and fixed the site speed and layout on" |
+| https://www.makeaiinfluencer.com/ | SaaS landing page, sign-ups | "was part of the design team and fixed the site speed and layout on" |
+| https://shanmugavel-bookuniverse.vercel.app/ | Digital products, paid access | "was part of the design team and fixed the site speed and layout on" |
 
 Never claim speed numbers, rankings, sales or reviews for these sites unless Adam has given the number.
 

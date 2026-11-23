@@ -20,5 +20,12 @@
 
 16. Every proposal (Adam, 2026-11-23): follows proposal-structure.md, includes the portfolio link https://adam-owolabi.netlify.app in the sign-off, and has the resume PDF attached (resume/Adam-Owolabi-WordPress-Developer-Resume.pdf).
 
+17. Boosting (Adam, 2026-11-23, replaces "no boost"): never bid more than 16 Connects on a boost. Aim for 2nd or 3rd place in the top 4. Read the current top bids from the proposal preview and bid 1 Connect above the place you want:
+    - 2nd place = (current 2nd bid + 1), if that is 16 or less.
+    - Otherwise 3rd place = (current 3rd bid + 1), if that is 16 or less.
+    - If neither fits under 16, do not boost and tell Adam.
+    - Example: bids 23, 14, 13, 5, 2. 2nd place costs 15, which is under 16, so bid 15.
+18. Learn from the numbers (Adam, 2026-11-23): track every proposal in playbook/proposal-stats.md (viewed, replied, interview, hired, Connects spent, boost bid, proposals at send, hours after posting) and review it before writing new proposals. Change the framework when the numbers show what works.
+
 ## Scan schedule
 Every hour (scheduled task). The 1-minute message check and the 15-minute scan were turned off by Adam on 2026-11-23. Each hour: pull new jobs, filter by these rules, audit each client's website, write and submit tailored proposals, log them, and report to Adam.

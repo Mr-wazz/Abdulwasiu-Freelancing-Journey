@@ -47,3 +47,13 @@
 - Opening line: "A moving quote form with multiple photo uploads usually breaks on phones without anyone noticing..."
 - Reference link: https://www.moishes.com (moving). Edited the same day at Adam's request: proof is now Adam's 5 logistics sites (lazerlogistics.com, nexarislogistics.com, onelineage.com, shipit.com, us.logisteed.com), and the wrong 'none are moving companies' line is removed. Lesson: never use off-niche proof, ask Adam first.
 - Status: Submitted.
+
+## 2026-11-23: Technical SEO audit, Screaming Frog + Search Console (cellularmedicinemd.com, healthcare clinic)
+- Job: https://www.upwork.com/jobs/~022124942020416861167 (proposal id 2124943795770142721)
+- Client: United States healthcare clinic (Del Mar / San Diego). Spent $12,342, hired 101 of 120 jobs (about 84%). Payment verified.
+- Proposals at send: 0. Connects: 11 + 3 boost (top 4 slot; only 2 others boosted, bids 3 and 3). Balance about 400 after.
+- Bid: $135 fixed (client budget $100 to $150). Phase 1 only: the audit. Upsell path: fixing the duplicate pages, redirects, schema, speed, then a monthly SEO and maintenance retainer.
+- Opening line: "Your page sitemap lists the same treatments several times as separate live pages..."
+- Free findings: duplicate live treatment pages (peptide-therapy x4, brain-health x3, cellular-optimization x2), all self-canonical and in the sitemap. The sitemap index is reachable, with 4 child sitemaps holding 33 URLs.
+- Proof: onemedical.com and patientory.com (healthcare). Reference link: skinneymedspa.com. All 6 client questions answered, with no claims of years of experience.
+- Status: Submitted.

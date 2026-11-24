@@ -76,3 +76,13 @@
 - Opening line: "Most website refreshes lose traffic in the same quiet way: a page gets renamed..."
 - Proof: 603mtech.com, hmbautorepair.com, zeusoffroad.com, westsidedetail.com, candgmotors.com.
 - Status: Submitted.
+
+## 2026-11-24: Website Rebuild Designer Needed (UK, new client)
+- Job: https://www.upwork.com/jobs/~022125200446310630067 (proposal id 2125202872025006081)
+- Client: United Kingdom, brand new (0 hires), payment verified. Vague 4-line post, no platform or industry named.
+- Sent on Adam's explicit request (2026-11-24). Proposals at send: about 19. Connects: 10.
+- Boost: Adam capped it at 5 Connects. Top bids were 41 / 40 / 6 / 5, so 2nd place needed 42, 3rd needed 7 and even 4th needed 6. Nothing fit under 5, so no boost.
+- Bid: $18/hr (bid average about $21.50). First step about 8 hours (review plus homepage design).
+- Opening line: "Most rebuilds that look better still lose enquiries, because the new design moves or renames pages..."
+- Proof: themeadowsstirling.com, crimsonlanevenue.com, 603mtech.com, keerahbeauty.com (mixed, since no industry given).
+- Status: Submitted.

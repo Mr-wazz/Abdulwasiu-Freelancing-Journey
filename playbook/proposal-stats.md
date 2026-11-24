@@ -11,6 +11,7 @@
 | 2026-11-23 | Tech SEO audit, healthcare clinic | US, $12.3K spent | $135 | 0 | <1 | 11 | 3 (top 4) | | | | |
 | 2026-11-24 | Venue mobile speed & UX (Live Axe) | Israel/NYC, $67K spent | $18/hr | 19 | 4 | 19 | 0 | | | | |
 | 2026-11-24 | Automotive consulting site refresh | US, $3.8K spent | $18/hr | ~29 | 0.5 | 20 | 0 | | | | |
+| 2026-11-24 | Website rebuild, UK new client | UK, new | $18/hr | ~19 | 1 | 10 | 0 (cap 5, slot needed 6+) | | | | |
 
 ## What the numbers say so far
 - The first 3 proposals (old short format, no boost) got 0 views in 2 to 3 days. Likely causes: no boost, and proposals sent after the first wave of applicants.

@@ -86,3 +86,13 @@
 - Opening line: "Most rebuilds that look better still lose enquiries, because the new design moves or renames pages..."
 - Proof: themeadowsstirling.com, crimsonlanevenue.com, 603mtech.com, keerahbeauty.com (mixed, since no industry given).
 - Status: Submitted.
+
+## 2026-11-24: WooCommerce & Elementor product page template (South Africa, batteries, solar, generators)
+- Job: https://www.upwork.com/jobs/~022125208296348868347 (proposal id 2125211551772229633)
+- Client: South Africa, new on Upwork (2 jobs posted, 0 hires), payment verified. Very detailed brief. Astra theme, Elementor, Payflex and PayJustNow.
+- Sent on Adam's explicit request (2026-11-24). Proposals at send: 1. Connects: 11. No boost (new client fails rule 19; 3 Connects would have taken 1st place, offered to Adam).
+- Bid: $95 fixed (budget $100). Phase 1 = master template on one test product, 3 working days.
+- Opening line: "On Astra with Elementor, the master template only works for every product if it is built in Elementor Pro's Theme Builder..."
+- Proof: keerahbeauty.com, beautymartng.com.
+- Upsell path: catalogue rollout checks, Frequently Bought Together tuning, speed work, monthly WooCommerce care plan.
+- Status: Submitted.

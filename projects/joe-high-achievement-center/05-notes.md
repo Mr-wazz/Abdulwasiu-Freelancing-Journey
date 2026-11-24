@@ -54,3 +54,10 @@
 - Could not play videos from this session, so which ones are AI avatar is NOT confirmed. Some thumbnails look AI generated. Asked Joe to name the avatar videos (question 4).
 - Topics are mixed: leadership, credit, dating, relationships, faith. TikTok plan should keep one clear topic.
 - Clarifying questions (8) saved as Gmail draft in his thread. Due Wed 11 Nov.
+
+## 23 to 24 Nov 2026
+- 16 Nov: Joe asked to push everything to the week of 23 Nov (too busy).
+- 23 Nov: follow-up sent offering Tue or Wed (Thanksgiving Thu). Joe replied: will talk with the co-founder, "Wednesday might be best". Not yet confirmed.
+- 24 Nov: presentation deck built (17 slides, answers all 13 brief questions, speaker notes) and prep guide written (02-work/presentation-prep.md, kept local).
+- Proposed pricing in deck (USD, to confirm with Abdulwasiu): A Playbook 1,500 once. B Sprint 1,200 a month x 3 plus 1,000 bonus. C Growth 2,000 a month x 3 plus 1,500 bonus. Tools 60 to 150 a month. Ads 0 in month one.
+- Key risk: the co-founder can do the work herself. Strategy: she keeps control, gets her hours back, Option A as a fallback.

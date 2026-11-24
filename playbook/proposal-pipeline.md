@@ -96,3 +96,13 @@
 - Proof: keerahbeauty.com, beautymartng.com.
 - Upsell path: catalogue rollout checks, Frequently Bought Together tuning, speed work, monthly WooCommerce care plan.
 - Status: Submitted.
+
+## 2026-11-24: Master Website Design for Brand (Quebec, Canada)
+- Job: https://www.upwork.com/jobs/~022125242436228620501 (proposal id 2125275905210044417)
+- Client: Canada (Quebec), $1,011 spent, 100% hire rate, 5.0 from 4 reviews, payment verified. Past work: sharbrook.com website and supplement labels (Bloom & Quaint).
+- Sent on Adam's explicit request (2026-11-24) even though Connects (14) is over the 10 limit for clients under $10K. Proposals at send: 50+ (it was 3 when first seen at 15:09 UTC).
+- Boost: top bids 172 / 99 / 90 / 85, so even 4th place needed 86. Far over the 16 cap. No boost.
+- Bid: $445 fixed (budget $500, bid average about $497). Scope: style guide, homepage and up to 4 key pages, 7 working days.
+- Opening line: "A \"master\" website only works if it is built as a system, not as a set of pretty pages..."
+- Proof: purelyelizabeth.com (food and wellness brand), keerahbeauty.com (skincare store).
+- Status: Submitted.

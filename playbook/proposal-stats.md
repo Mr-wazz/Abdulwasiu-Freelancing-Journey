@@ -13,6 +13,7 @@
 | 2026-11-24 | Automotive consulting site refresh | US, $3.8K spent | $18/hr | ~29 | 0.5 | 20 | 0 | | | | |
 | 2026-11-24 | Website rebuild, UK new client | UK, new | $18/hr | ~19 | 1 | 10 | 0 (cap 5, slot needed 6+) | | | | |
 | 2026-11-24 | Woo product page template, SA | South Africa, new | $95 | 1 | 0.3 | 11 | 0 | | | | |
+| 2026-11-24 | Master brand website, Quebec | Canada, $1K spent | $445 | 50+ | 2.2 | 14 | 0 (4th place needed 86) | | | | |
 
 ## What the numbers say so far
 - The first 3 proposals (old short format, no boost) got 0 views in 2 to 3 days. Likely causes: no boost, and proposals sent after the first wave of applicants.
@@ -22,3 +23,5 @@
 - The workwear catalog went from 8 to 56 proposals within about 40 minutes of posting. Jobs from new clients with a clear budget fill up very fast.
 
 - 2026-11-24: the automotive job went from 0 to about 29 proposals and boost bids of 51 to 65 Connects within 30 minutes. Fresh jobs from clients with a 100% hire rate attract heavy boosting fast.
+
+- 2026-11-24: "Master Website Design" went from 3 proposals to 50+ and boost bids up to 172 Connects within 2 hours. Jobs we pass on in one scan are usually out of reach by the next one, so decide on the first sighting.

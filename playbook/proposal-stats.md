@@ -14,6 +14,7 @@
 | 2026-11-24 | Website rebuild, UK new client | UK, new | $18/hr | ~19 | 1 | 10 | 0 (cap 5, slot needed 6+) | | | | |
 | 2026-11-24 | Woo product page template, SA | South Africa, new | $95 | 1 | 0.3 | 11 | 0 | | | | |
 | 2026-11-24 | Master brand website, Quebec | Canada, $1K spent | $445 | 50+ | 2.2 | 14 | 0 (4th place needed 86) | | | | |
+| 2026-11-24 | Author bookstore, WooCommerce | UK, new | $18/hr | 5-10 | 0.1 | 9 | 0 | | | | |
 
 ## What the numbers say so far
 - The first 3 proposals (old short format, no boost) got 0 views in 2 to 3 days. Likely causes: no boost, and proposals sent after the first wave of applicants.

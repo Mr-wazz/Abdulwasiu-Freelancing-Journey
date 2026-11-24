@@ -106,3 +106,14 @@
 - Opening line: "A \"master\" website only works if it is built as a system, not as a set of pretty pages..."
 - Proof: purelyelizabeth.com (food and wellness brand), keerahbeauty.com (skincare store).
 - Status: Submitted.
+
+## 2026-11-24: Urgent: Author E-commerce Bookstore Website, Launch in 1 Month (UK)
+- Job: https://www.upwork.com/jobs/~022125318953481065214 (proposal id 2125320922357116929)
+- Client: United Kingdom, brand new (0 jobs with hires), payment verification not shown. Sent under the new-client exception: very detailed 3-phase brief, 6 clear asks, milestone contract, long-term intent. FLAGGED TO ADAM.
+- Proposals at send: 5 to 10. Connects: 9. No boost (new client fails rule 19; top bids 145 / 51 / 50 / 31).
+- Bid: $18/hr (bid average $27.70). Phase 1 estimated at 25 to 30 hours in two milestones; Phases 2 and 3 priced after Phase 1.
+- Opening line: "The custom cover option in Phase 2 should decide your platform today, not later..."
+- Recommended WooCommerce (ownership, SEO and Book schema, add-on fields for custom covers, no stacked app fees).
+- Proof: shanmugavel-bookuniverse.vercel.app (digital bookstore), keerahbeauty.com, beautymartng.com.
+- Upsell path: Phase 2 custom covers, Phase 3 growth features, monthly care plan.
+- Status: Submitted.

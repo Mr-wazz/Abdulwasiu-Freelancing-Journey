@@ -57,3 +57,22 @@
 - Free findings: duplicate live treatment pages (peptide-therapy x4, brain-health x3, cellular-optimization x2), all self-canonical and in the sitemap. The sitemap index is reachable, with 4 child sitemaps holding 33 URLs.
 - Proof: onemedical.com and patientory.com (healthcare). Reference link: skinneymedspa.com. All 6 client questions answered, with no claims of years of experience.
 - Status: Submitted.
+
+## 2026-11-24: WordPress mobile speed and UX, entertainment venue (Live Axe / Live Rage, NYC)
+- Job: https://www.upwork.com/jobs/~022124994816855995375 (proposal id 2125050815856742401)
+- Client: Israel-based account, venue in New York. Spent $67,250, 48% hire rate (41 of 85), rating 3.78. Payment verified.
+- Sent with Adam's explicit approval (2026-11-24) even though hire rate is under 50%. Codeword AXE used. 19 Connects, no boost (boost unavailable: client prefers $10K+ earnings).
+- Proposals at send: 19. Bid $18/hr (client range $25 to $45, bid average $34). First step about 8 to 10 hours.
+- Opening line: "Your homepage loads 23 images and not one of them carries loading=\"lazy\"..."
+- Free finding: 23 homepage images, 0 lazy loaded (checked on liveaxe.com). Theme Tabula (BoldThemes).
+- Proof: greenhouseontherivernh.com, crimsonlanevenue.com, barnhousevillage.com, suitecsetx.com. All 5 screening questions answered; no invented Core Web Vitals numbers.
+- Status: Submitted.
+
+## 2026-11-24: Update automotive consulting website (US, Georgia)
+- Job: https://www.upwork.com/jobs/~022125044902260601839 (proposal id 2125050909888794625)
+- Client: US, 3 jobs posted, 3 hired (100%), $3,787 spent, payment verified. Has used GoHighLevel (upsell path).
+- Sent with Adam's explicit approval (2026-11-24) even though 20 Connects is over the 10 Connect limit for clients under $10K spend. No boost (top bids 65/61/60/51, over the 16 cap).
+- Proposals at send: about 29 (0 when found 30 minutes earlier). Bid $18/hr (range $15 to $20.30). First step about 6 hours.
+- Opening line: "Most website refreshes lose traffic in the same quiet way: a page gets renamed..."
+- Proof: 603mtech.com, hmbautorepair.com, zeusoffroad.com, westsidedetail.com, candgmotors.com.
+- Status: Submitted.

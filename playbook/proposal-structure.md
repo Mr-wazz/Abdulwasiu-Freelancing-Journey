@@ -79,6 +79,19 @@ Never write "I built", "my work" or "my client" about a reference site.
 | https://purelyelizabeth.com/ | Food brand, e-commerce, Shopify-style stores | "worked on as a web developer" |
 | https://lunchbox.io/ | Restaurant tech, SaaS, ordering | "worked on as a web developer" |
 | https://delassus.com/en/ | Agriculture, fresh produce, corporate | "worked on as a web developer" |
+| https://www.603mtech.com/ | Automotive, Mercedes service shop, booking | "worked on as the website developer" |
+| https://www.hmbautorepair.com/ | Automotive, auto repair | "worked on as the website developer" |
+| https://www.westsidedetail.com/ | Automotive, car detailing | "worked on as the website developer" |
+| https://www.zeusoffroad.com/ | Automotive, 4x4 and off road shop | "worked on as the website developer" |
+| https://www.candgmotors.com/ | Automotive, UK garage | "worked on as the website developer" |
+| https://www.suitecsetx.com/ | Event lounge, venue, booking | "did the page speed optimization and UX and UI improvements on" |
+| https://www.barnhousevillage.com/ | Wedding and event venue | "did the page speed optimization and UX and UI improvements on" |
+| https://www.cormistonfarm.com/ | Wedding venue and stays, farm | "did the page speed optimization and UX and UI improvements on" |
+| https://www.crimsonlanevenue.com/ | Wedding venue | "did the page speed optimization and UX and UI improvements on" |
+| https://www.greenhouseontherivernh.com/ | Wedding and event venue, florist | "did the page speed optimization and UX and UI improvements on" |
+| https://www.themeadowsstirling.com/ | All-inclusive wedding venue | "did the page speed optimization and UX and UI improvements on" |
+
+All 11 automotive and venue sites above run on Wix (Adam gave them 2026-11-24). Useful for clients who also have Wix or other builder sites.
 
 Never claim speed numbers, rankings, sales or reviews for these sites unless Adam has given the number.
 
